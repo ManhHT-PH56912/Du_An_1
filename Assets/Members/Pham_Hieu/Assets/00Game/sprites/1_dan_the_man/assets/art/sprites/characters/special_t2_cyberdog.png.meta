@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: 2be50d29d61265e42a16cf827ad44927
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7392152221417238383
+    second: special_t2_cyberdog_0
+  - first:
+      213: 9075372263523180492
+    second: special_t2_cyberdog_1
+  - first:
+      213: -5560195264325219434
+    second: special_t2_cyberdog_2
+  - first:
+      213: -7285068339194200789
+    second: special_t2_cyberdog_3
+  - first:
+      213: 7201272352510405775
+    second: special_t2_cyberdog_4
+  - first:
+      213: 4432434960073215341
+    second: special_t2_cyberdog_5
+  - first:
+      213: 6052600493728219146
+    second: special_t2_cyberdog_6
+  - first:
+      213: -457720498768916698
+    second: special_t2_cyberdog_7
+  - first:
+      213: -2700728584827314204
+    second: special_t2_cyberdog_8
+  - first:
+      213: 8585700695155019819
+    second: special_t2_cyberdog_9
+  - first:
+      213: 2904821022446296550
+    second: special_t2_cyberdog_10
+  - first:
+      213: -7785543305884212521
+    second: special_t2_cyberdog_11
+  - first:
+      213: 2027239485677564609
+    second: special_t2_cyberdog_12
+  - first:
+      213: 8476074598246256291
+    second: special_t2_cyberdog_13
+  - first:
+      213: 4772298097862396417
+    second: special_t2_cyberdog_14
+  - first:
+      213: 6257292459235165080
+    second: special_t2_cyberdog_15
+  - first:
+      213: 5876099727479901649
+    second: special_t2_cyberdog_16
+  - first:
+      213: -5750866681781403389
+    second: special_t2_cyberdog_17
+  - first:
+      213: -7256408181771468388
+    second: special_t2_cyberdog_18
+  - first:
+      213: -2596410521865314010
+    second: special_t2_cyberdog_19
+  - first:
+      213: -2978418653831145617
+    second: special_t2_cyberdog_20
+  - first:
+      213: 4455965186447289547
+    second: special_t2_cyberdog_21
+  - first:
+      213: -7950868791023570685
+    second: special_t2_cyberdog_22
+  - first:
+      213: 6924777001956178376
+    second: special_t2_cyberdog_23
+  - first:
+      213: 1203703557773976702
+    second: special_t2_cyberdog_24
+  - first:
+      213: 4573663334038148720
+    second: special_t2_cyberdog_25
+  - first:
+      213: 8883019140980840271
+    second: special_t2_cyberdog_26
+  - first:
+      213: 312271121424904705
+    second: special_t2_cyberdog_27
+  - first:
+      213: 7332918038196180098
+    second: special_t2_cyberdog_28
+  - first:
+      213: -2136622422900905104
+    second: special_t2_cyberdog_29
+  - first:
+      213: 6695814726468960110
+    second: special_t2_cyberdog_30
+  - first:
+      213: -4916038906900385405
+    second: special_t2_cyberdog_31
+  - first:
+      213: 2658199967933681162
+    second: special_t2_cyberdog_32
+  - first:
+      213: -8657139347154013813
+    second: special_t2_cyberdog_33
+  - first:
+      213: 6987698001461153186
+    second: special_t2_cyberdog_34
+  - first:
+      213: 481861928417953228
+    second: special_t2_cyberdog_35
+  - first:
+      213: -6051280642921644387
+    second: special_t2_cyberdog_36
+  - first:
+      213: -8278058714105784494
+    second: special_t2_cyberdog_37
+  - first:
+      213: 5728307278709431369
+    second: special_t2_cyberdog_38
+  - first:
+      213: -5371161312330299857
+    second: special_t2_cyberdog_39
+  - first:
+      213: -6119621357355787340
+    second: special_t2_cyberdog_40
+  - first:
+      213: -953827283232421533
+    second: special_t2_cyberdog_41
+  - first:
+      213: 1673548716648245197
+    second: special_t2_cyberdog_42
+  - first:
+      213: 3867168072831665584
+    second: special_t2_cyberdog_43
+  - first:
+      213: 8773152465711969520
+    second: special_t2_cyberdog_44
+  - first:
+      213: -572469875289761310
+    second: special_t2_cyberdog_45
+  - first:
+      213: 3543450806044655771
+    second: special_t2_cyberdog_46
+  - first:
+      213: 1810282175651024607
+    second: special_t2_cyberdog_47
+  - first:
+      213: -3135727762133361535
+    second: special_t2_cyberdog_48
+  - first:
+      213: -5959919030572453292
+    second: special_t2_cyberdog_49
+  - first:
+      213: 73040725635022673
+    second: special_t2_cyberdog_50
+  - first:
+      213: -6748241683859367602
+    second: special_t2_cyberdog_51
+  - first:
+      213: 3496338386183556166
+    second: special_t2_cyberdog_52
+  - first:
+      213: 8284842708029308562
+    second: special_t2_cyberdog_53
+  - first:
+      213: -3682497431026085997
+    second: special_t2_cyberdog_54
+  - first:
+      213: -2220811877070469287
+    second: special_t2_cyberdog_55
+  - first:
+      213: -4661167012678695136
+    second: special_t2_cyberdog_56
+  - first:
+      213: -9116054507020671866
+    second: special_t2_cyberdog_57
+  - first:
+      213: -2286325461386519853
+    second: special_t2_cyberdog_58
+  - first:
+      213: 6900387733447470159
+    second: special_t2_cyberdog_59
+  - first:
+      213: 5803709754250971886
+    second: special_t2_cyberdog_60
+  - first:
+      213: -7180864734222578326
+    second: special_t2_cyberdog_61
+  - first:
+      213: 5036045550263380956
+    second: special_t2_cyberdog_62
+  - first:
+      213: 6575658169797591932
+    second: special_t2_cyberdog_63
+  - first:
+      213: -430413306838464070
+    second: special_t2_cyberdog_64
+  - first:
+      213: 8467266925547325861
+    second: special_t2_cyberdog_65
+  - first:
+      213: -888864382270603653
+    second: special_t2_cyberdog_66
+  - first:
+      213: 7576629574848699745
+    second: special_t2_cyberdog_67
+  - first:
+      213: 3137981169399020619
+    second: special_t2_cyberdog_68
+  - first:
+      213: -2531731051968002344
+    second: special_t2_cyberdog_69
+  - first:
+      213: -6530901732132010559
+    second: special_t2_cyberdog_70
+  - first:
+      213: -2059582533699853586
+    second: special_t2_cyberdog_71
+  - first:
+      213: 2466104414117780067
+    second: special_t2_cyberdog_72
+  - first:
+      213: 1517453880287610099
+    second: special_t2_cyberdog_73
+  - first:
+      213: 5265112292380325395
+    second: special_t2_cyberdog_74
+  - first:
+      213: 7145935932057735794
+    second: special_t2_cyberdog_75
+  - first:
+      213: -3786112154376656437
+    second: special_t2_cyberdog_76
+  - first:
+      213: 2655172309686365707
+    second: special_t2_cyberdog_77
+  - first:
+      213: -1322701866197948249
+    second: special_t2_cyberdog_78
+  - first:
+      213: 1113311134523955083
+    second: special_t2_cyberdog_79
+  - first:
+      213: 3572259812393693228
+    second: special_t2_cyberdog_80
+  - first:
+      213: -6207391236554238099
+    second: special_t2_cyberdog_81
+  - first:
+      213: -2823077897158060195
+    second: special_t2_cyberdog_82
+  - first:
+      213: 6959686131080497669
+    second: special_t2_cyberdog_83
+  - first:
+      213: 5841405765886593956
+    second: special_t2_cyberdog_84
+  - first:
+      213: 1253513309629683399
+    second: special_t2_cyberdog_85
+  - first:
+      213: -2217279764559404291
+    second: special_t2_cyberdog_86
+  - first:
+      213: 3742345277815791378
+    second: special_t2_cyberdog_87
+  - first:
+      213: -5769942431010204403
+    second: special_t2_cyberdog_88
+  - first:
+      213: 1413045528301990256
+    second: special_t2_cyberdog_89
+  - first:
+      213: -467693110413964829
+    second: special_t2_cyberdog_90
+  - first:
+      213: -7687799699165135198
+    second: special_t2_cyberdog_91
+  - first:
+      213: 4126092658279589048
+    second: special_t2_cyberdog_92
+  - first:
+      213: 2520850978285360999
+    second: special_t2_cyberdog_93
+  - first:
+      213: -7459677100315394723
+    second: special_t2_cyberdog_94
+  - first:
+      213: -2063175330389989435
+    second: special_t2_cyberdog_95
+  - first:
+      213: -6254246162031370575
+    second: special_t2_cyberdog_96
+  - first:
+      213: -6428679364951975316
+    second: special_t2_cyberdog_97
+  - first:
+      213: 2976816523877995404
+    second: special_t2_cyberdog_98
+  - first:
+      213: -1908640460116133772
+    second: special_t2_cyberdog_99
+  - first:
+      213: -1332763684649121083
+    second: special_t2_cyberdog_100
+  - first:
+      213: 4589314724040088242
+    second: special_t2_cyberdog_101
+  - first:
+      213: -2570682477909845718
+    second: special_t2_cyberdog_102
+  - first:
+      213: 8705721810188792990
+    second: special_t2_cyberdog_103
+  - first:
+      213: 491669662969426140
+    second: special_t2_cyberdog_104
+  - first:
+      213: 4004107347506641544
+    second: special_t2_cyberdog_105
+  - first:
+      213: 9111669863649621744
+    second: special_t2_cyberdog_106
+  - first:
+      213: 4054729271401559011
+    second: special_t2_cyberdog_107
+  - first:
+      213: 2260459278635920828
+    second: special_t2_cyberdog_108
+  - first:
+      213: 9218222417767720079
+    second: special_t2_cyberdog_109
+  - first:
+      213: -6786948295285981874
+    second: special_t2_cyberdog_110
+  - first:
+      213: -589305868940417069
+    second: special_t2_cyberdog_111
+  - first:
+      213: 5554955731901382206
+    second: special_t2_cyberdog_112
+  - first:
+      213: 2179064268420371190
+    second: special_t2_cyberdog_113
+  - first:
+      213: 8643472512099690340
+    second: special_t2_cyberdog_114
+  - first:
+      213: -6411922243584129872
+    second: special_t2_cyberdog_115
+  - first:
+      213: -4246051300999395573
+    second: special_t2_cyberdog_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: special_t2_cyberdog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f6033b743369660800000000000000
+      internalID: 7392152221417238383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 477
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf5bb38df232fd70800000000000000
+      internalID: 9075372263523180492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 437
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0614cdd736d2b0800000000000000
+      internalID: -5560195264325219434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 477
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d72e581fc36ea90800000000000000
+      internalID: -7285068339194200789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 478
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6936fc0f00f360800000000000000
+      internalID: 7201272352510405775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 473
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dcf25bc1c238d30800000000000000
+      internalID: 4432434960073215341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 477
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00460cb4182ff350800000000000000
+      internalID: 6052600493728219146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 477
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc678a1a9d5a9f0800000000000000
+      internalID: -457720498768916698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efdf9249a5158ad0800000000000000
+      internalID: -2700728584827314204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 407
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b201a821b49862770800000000000000
+      internalID: 8585700695155019819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 441
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed9ffa545fff4820800000000000000
+      internalID: 2904821022446296550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 405
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2e955ec9134f390800000000000000
+      internalID: -7785543305884212521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 438
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2f47a4293322c10800000000000000
+      internalID: 2027239485677564609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 437
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae0e2e50f011a570800000000000000
+      internalID: 8476074598246256291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 436
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a4c55d5db9a3240800000000000000
+      internalID: 4772298097862396417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 431
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8934170d65e56d650800000000000000
+      internalID: 6257292459235165080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 433
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd8539b1991c8150800000000000000
+      internalID: 5876099727479901649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_17
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 433
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3014ac9e831d030b0800000000000000
+      internalID: -5750866681781403389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91064c643f0c4b90800000000000000
+      internalID: -7256408181771468388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 404
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621a1210362b7fbd0800000000000000
+      internalID: -2596410521865314010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 400
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675ff1c3088aa6d0800000000000000
+      internalID: -2978418653831145617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 399
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca2b57ab4c6dd30800000000000000
+      internalID: 4455965186447289547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 399
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301fc47c5f6d8a190800000000000000
+      internalID: -7950868791023570685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 398
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c974668effb91060800000000000000
+      internalID: 6924777001956178376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_24
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 397
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74edff120a64b010800000000000000
+      internalID: 1203703557773976702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076929be19ae87f30800000000000000
+      internalID: 4573663334038148720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 325
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47982f28d2d64b70800000000000000
+      internalID: 8883019140980840271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 369
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102f4223ee8655400800000000000000
+      internalID: 312271121424904705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 368
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284dcb1ba12c3c560800000000000000
+      internalID: 7332918038196180098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 364
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b6bd70a313952e0800000000000000
+      internalID: -2136622422900905104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 360
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff20d84005cec50800000000000000
+      internalID: 6695814726468960110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 359
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f33419a8b6cbb0800000000000000
+      internalID: -4916038906900385405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 360
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e44ae79c2d3e420800000000000000
+      internalID: 2658199967933681162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_33
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 359
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f3d991a9abd780800000000000000
+      internalID: -8657139347154013813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8cc65f4a49f060800000000000000
+      internalID: 6987698001461153186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 326
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc50322fedaefa600800000000000000
+      internalID: 481861928417953228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 327
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e357af058850ca0800000000000000
+      internalID: -6051280642921644387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 329
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d5e3657d6e1d80800000000000000
+      internalID: -8278058714105784494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 326
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c92cfbe190f7f40800000000000000
+      internalID: 5728307278709431369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 325
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f264b3b7e3dc575b0800000000000000
+      internalID: -5371161312330299857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 326
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb1ae27cccb21ba0800000000000000
+      internalID: -6119621357355787340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_41
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 326
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690bd5b32353c2f0800000000000000
+      internalID: -953827283232421533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 283
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc72122e0b3a93710800000000000000
+      internalID: 1673548716648245197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 282
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b50dd38fd0faa530800000000000000
+      internalID: 3867168072831665584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 282
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ba177faf70c970800000000000000
+      internalID: 8773152465711969520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 282
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9ddb67ead2e08f0800000000000000
+      internalID: -572469875289761310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_46
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 284
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b900d5debbddc2130800000000000000
+      internalID: 3543450806044655771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 285
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde86e62c0a6f1910800000000000000
+      internalID: 1810282175651024607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_48
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 283
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cd5b1d638ab74d0800000000000000
+      internalID: -3135727762133361535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 283
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45273acf73d1a4da0800000000000000
+      internalID: -5959919030572453292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_50
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 287
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fbc99272e730100800000000000000
+      internalID: 73040725635022673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 248
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49141731fd6952a0800000000000000
+      internalID: -6748241683859367602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 238
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c8803ec3d758030800000000000000
+      internalID: 3496338386183556166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 246
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e72184c8ca9f270800000000000000
+      internalID: 8284842708029308562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 261
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fc661e81425ecc0800000000000000
+      internalID: -3682497431026085997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 247
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9570f3a3d571e21e0800000000000000
+      internalID: -2220811877070469287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 247
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02784824c45305fb0800000000000000
+      internalID: -4661167012678695136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 247
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6842feb89b44d7180800000000000000
+      internalID: -9116054507020671866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 248
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da10293b175540e0800000000000000
+      internalID: -2286325461386519853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_59
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 243
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c6990751a13cf50800000000000000
+      internalID: 6900387733447470159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_60
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 272
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea4999a54bea8050800000000000000
+      internalID: 5803709754250971886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_61
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 259
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d8880f191785c90800000000000000
+      internalID: -7180864734222578326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_62
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 272
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdba220feb0a3e540800000000000000
+      internalID: 5036045550263380956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_63
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 259
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c734e2f144e614b50800000000000000
+      internalID: 6575658169797591932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_64
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 266
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ca4bb06dd60af0800000000000000
+      internalID: -430413306838464070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_65
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 261
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a989a34866c18570800000000000000
+      internalID: 8467266925547325861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7341cd8e1aa3f0800000000000000
+      internalID: -888864382270603653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_67
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 232
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d5393a478952960800000000000000
+      internalID: 7576629574848699745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 247
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cb4e17f395c8b20800000000000000
+      internalID: 3137981169399020619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_69
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 247
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d60f9c950c7ddcd0800000000000000
+      internalID: -2531731051968002344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_70
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 243
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5c9411a739d55a0800000000000000
+      internalID: -6530901732132010559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_71
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 231
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a8350994ea63e0800000000000000
+      internalID: -2059582533699853586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 205
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a538e06ec593220800000000000000
+      internalID: 2466104414117780067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 202
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c499a3441f0510800000000000000
+      internalID: 1517453880287610099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 208
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3163fd1fbbf611940800000000000000
+      internalID: 5265112292380325395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_75
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 209
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27250029ed67b2360800000000000000
+      internalID: 7145935932057735794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 238
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc927962e07057bc0800000000000000
+      internalID: -3786112154376656437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_77
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 238
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e2f40e52119d420800000000000000
+      internalID: 2655172309686365707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8668129a1d4ade0800000000000000
+      internalID: -1322701866197948249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8799c90496437f00800000000000000
+      internalID: 1113311134523955083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_80
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 192
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20312b6f57339130800000000000000
+      internalID: 3572259812393693228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_81
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 203
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67df4bfe8aead9a0800000000000000
+      internalID: -6207391236554238099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_82
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 204
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5713ae1c9962d8d0800000000000000
+      internalID: -2823077897158060195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_83
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 167
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a044789a5c59060800000000000000
+      internalID: 6959686131080497669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 166
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abc6905897d01150800000000000000
+      internalID: 5841405765886593956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_85
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 160
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c693b5b6bf556110800000000000000
+      internalID: 1253513309629683399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_86
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 163
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df266c14dc3aa31e0800000000000000
+      internalID: -2217279764559404291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_87
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 165
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f121fc33b7fe330800000000000000
+      internalID: 3742345277815791378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_88
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 168
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05de21fdeb0defa0800000000000000
+      internalID: -5769942431010204403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_89
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 168
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071f4eddb652c9310800000000000000
+      internalID: 1413045528301990256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 125
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c0e1189b6289f0800000000000000
+      internalID: -467693110413964829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_91
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 127
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae38e2c7e27f4590800000000000000
+      internalID: -7687799699165135198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 118
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b42a176963d24930800000000000000
+      internalID: 4126092658279589048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_93
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7671564db9cdbf220800000000000000
+      internalID: 2520850978285360999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_94
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 137
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db5984337e97890800000000000000
+      internalID: -7459677100315394723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_95
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 139
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c761cad7f02e53e0800000000000000
+      internalID: -2063175330389989435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_96
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 140
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be154680447439a0800000000000000
+      internalID: -6254246162031370575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_97
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a572d9d2eb8c6a0800000000000000
+      internalID: -6428679364951975316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_98
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 132
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d24b4bd6cf4920800000000000000
+      internalID: 2976816523877995404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_99
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 133
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478f6da2d952385e0800000000000000
+      internalID: -1908640460116133772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 78
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac2f67d72118de0800000000000000
+      internalID: -1332763684649121083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_101
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 114
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba11e02d6580bf30800000000000000
+      internalID: 4589314724040088242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_102
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29dcd908e9135cd0800000000000000
+      internalID: -2570682477909845718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_103
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 114
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e947ca98cdfe0d870800000000000000
+      internalID: 8705721810188792990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_104
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 121
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f02814f2c2d600800000000000000
+      internalID: 491669662969426140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_105
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a3aaafa62719730800000000000000
+      internalID: 4004107347506641544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_106
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b77d1777237e70800000000000000
+      internalID: 9111669863649621744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_107
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 106
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3b44a1aca454830800000000000000
+      internalID: 4054729271401559011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd645cccb3ce5f10800000000000000
+      internalID: 2260459278635920828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_109
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 67
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84669fd274bdef70800000000000000
+      internalID: 9218222417767720079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_110
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 68
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d3986fb7aefc1a0800000000000000
+      internalID: -6786948295285981874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_111
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 72
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e0c93f6d52d7f0800000000000000
+      internalID: -589305868940417069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_112
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 72
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e70078eca271d40800000000000000
+      internalID: 5554955731901382206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_113
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 72
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f251fd28679d3e10800000000000000
+      internalID: 2179064268420371190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 29
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4672e856478c3f770800000000000000
+      internalID: 8643472512099690340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 28
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b40eb7f0b64407a0800000000000000
+      internalID: -6411922243584129872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_t2_cyberdog_116
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0788d996def215c0800000000000000
+      internalID: -4246051300999395573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      special_t2_cyberdog_0: 7392152221417238383
+      special_t2_cyberdog_1: 9075372263523180492
+      special_t2_cyberdog_10: 2904821022446296550
+      special_t2_cyberdog_100: -1332763684649121083
+      special_t2_cyberdog_101: 4589314724040088242
+      special_t2_cyberdog_102: -2570682477909845718
+      special_t2_cyberdog_103: 8705721810188792990
+      special_t2_cyberdog_104: 491669662969426140
+      special_t2_cyberdog_105: 4004107347506641544
+      special_t2_cyberdog_106: 9111669863649621744
+      special_t2_cyberdog_107: 4054729271401559011
+      special_t2_cyberdog_108: 2260459278635920828
+      special_t2_cyberdog_109: 9218222417767720079
+      special_t2_cyberdog_11: -7785543305884212521
+      special_t2_cyberdog_110: -6786948295285981874
+      special_t2_cyberdog_111: -589305868940417069
+      special_t2_cyberdog_112: 5554955731901382206
+      special_t2_cyberdog_113: 2179064268420371190
+      special_t2_cyberdog_114: 8643472512099690340
+      special_t2_cyberdog_115: -6411922243584129872
+      special_t2_cyberdog_116: -4246051300999395573
+      special_t2_cyberdog_12: 2027239485677564609
+      special_t2_cyberdog_13: 8476074598246256291
+      special_t2_cyberdog_14: 4772298097862396417
+      special_t2_cyberdog_15: 6257292459235165080
+      special_t2_cyberdog_16: 5876099727479901649
+      special_t2_cyberdog_17: -5750866681781403389
+      special_t2_cyberdog_18: -7256408181771468388
+      special_t2_cyberdog_19: -2596410521865314010
+      special_t2_cyberdog_2: -5560195264325219434
+      special_t2_cyberdog_20: -2978418653831145617
+      special_t2_cyberdog_21: 4455965186447289547
+      special_t2_cyberdog_22: -7950868791023570685
+      special_t2_cyberdog_23: 6924777001956178376
+      special_t2_cyberdog_24: 1203703557773976702
+      special_t2_cyberdog_25: 4573663334038148720
+      special_t2_cyberdog_26: 8883019140980840271
+      special_t2_cyberdog_27: 312271121424904705
+      special_t2_cyberdog_28: 7332918038196180098
+      special_t2_cyberdog_29: -2136622422900905104
+      special_t2_cyberdog_3: -7285068339194200789
+      special_t2_cyberdog_30: 6695814726468960110
+      special_t2_cyberdog_31: -4916038906900385405
+      special_t2_cyberdog_32: 2658199967933681162
+      special_t2_cyberdog_33: -8657139347154013813
+      special_t2_cyberdog_34: 6987698001461153186
+      special_t2_cyberdog_35: 481861928417953228
+      special_t2_cyberdog_36: -6051280642921644387
+      special_t2_cyberdog_37: -8278058714105784494
+      special_t2_cyberdog_38: 5728307278709431369
+      special_t2_cyberdog_39: -5371161312330299857
+      special_t2_cyberdog_4: 7201272352510405775
+      special_t2_cyberdog_40: -6119621357355787340
+      special_t2_cyberdog_41: -953827283232421533
+      special_t2_cyberdog_42: 1673548716648245197
+      special_t2_cyberdog_43: 3867168072831665584
+      special_t2_cyberdog_44: 8773152465711969520
+      special_t2_cyberdog_45: -572469875289761310
+      special_t2_cyberdog_46: 3543450806044655771
+      special_t2_cyberdog_47: 1810282175651024607
+      special_t2_cyberdog_48: -3135727762133361535
+      special_t2_cyberdog_49: -5959919030572453292
+      special_t2_cyberdog_5: 4432434960073215341
+      special_t2_cyberdog_50: 73040725635022673
+      special_t2_cyberdog_51: -6748241683859367602
+      special_t2_cyberdog_52: 3496338386183556166
+      special_t2_cyberdog_53: 8284842708029308562
+      special_t2_cyberdog_54: -3682497431026085997
+      special_t2_cyberdog_55: -2220811877070469287
+      special_t2_cyberdog_56: -4661167012678695136
+      special_t2_cyberdog_57: -9116054507020671866
+      special_t2_cyberdog_58: -2286325461386519853
+      special_t2_cyberdog_59: 6900387733447470159
+      special_t2_cyberdog_6: 6052600493728219146
+      special_t2_cyberdog_60: 5803709754250971886
+      special_t2_cyberdog_61: -7180864734222578326
+      special_t2_cyberdog_62: 5036045550263380956
+      special_t2_cyberdog_63: 6575658169797591932
+      special_t2_cyberdog_64: -430413306838464070
+      special_t2_cyberdog_65: 8467266925547325861
+      special_t2_cyberdog_66: -888864382270603653
+      special_t2_cyberdog_67: 7576629574848699745
+      special_t2_cyberdog_68: 3137981169399020619
+      special_t2_cyberdog_69: -2531731051968002344
+      special_t2_cyberdog_7: -457720498768916698
+      special_t2_cyberdog_70: -6530901732132010559
+      special_t2_cyberdog_71: -2059582533699853586
+      special_t2_cyberdog_72: 2466104414117780067
+      special_t2_cyberdog_73: 1517453880287610099
+      special_t2_cyberdog_74: 5265112292380325395
+      special_t2_cyberdog_75: 7145935932057735794
+      special_t2_cyberdog_76: -3786112154376656437
+      special_t2_cyberdog_77: 2655172309686365707
+      special_t2_cyberdog_78: -1322701866197948249
+      special_t2_cyberdog_79: 1113311134523955083
+      special_t2_cyberdog_8: -2700728584827314204
+      special_t2_cyberdog_80: 3572259812393693228
+      special_t2_cyberdog_81: -6207391236554238099
+      special_t2_cyberdog_82: -2823077897158060195
+      special_t2_cyberdog_83: 6959686131080497669
+      special_t2_cyberdog_84: 5841405765886593956
+      special_t2_cyberdog_85: 1253513309629683399
+      special_t2_cyberdog_86: -2217279764559404291
+      special_t2_cyberdog_87: 3742345277815791378
+      special_t2_cyberdog_88: -5769942431010204403
+      special_t2_cyberdog_89: 1413045528301990256
+      special_t2_cyberdog_9: 8585700695155019819
+      special_t2_cyberdog_90: -467693110413964829
+      special_t2_cyberdog_91: -7687799699165135198
+      special_t2_cyberdog_92: 4126092658279589048
+      special_t2_cyberdog_93: 2520850978285360999
+      special_t2_cyberdog_94: -7459677100315394723
+      special_t2_cyberdog_95: -2063175330389989435
+      special_t2_cyberdog_96: -6254246162031370575
+      special_t2_cyberdog_97: -6428679364951975316
+      special_t2_cyberdog_98: 2976816523877995404
+      special_t2_cyberdog_99: -1908640460116133772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

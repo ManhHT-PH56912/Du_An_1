@@ -1,0 +1,3835 @@
+fileFormatVersion: 2
+guid: b8171abad0a32fe4c9b8f30221db60cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5126398491399782373
+    second: GuardMachineGun_0
+  - first:
+      213: -2889619445968572333
+    second: GuardMachineGun_1
+  - first:
+      213: 1312053392874806943
+    second: GuardMachineGun_2
+  - first:
+      213: 887672845506318995
+    second: GuardMachineGun_3
+  - first:
+      213: -8391934815096335404
+    second: GuardMachineGun_4
+  - first:
+      213: 6822184689239677138
+    second: GuardMachineGun_5
+  - first:
+      213: 6938397412943885914
+    second: GuardMachineGun_6
+  - first:
+      213: 3128637099496195353
+    second: GuardMachineGun_7
+  - first:
+      213: 2920709443942053407
+    second: GuardMachineGun_8
+  - first:
+      213: -7862606795978407393
+    second: GuardMachineGun_9
+  - first:
+      213: -8276181212910339988
+    second: GuardMachineGun_10
+  - first:
+      213: -1859136477942046261
+    second: GuardMachineGun_11
+  - first:
+      213: -7284135351170707884
+    second: GuardMachineGun_12
+  - first:
+      213: 3330262228391194969
+    second: GuardMachineGun_13
+  - first:
+      213: -531576601661473991
+    second: GuardMachineGun_14
+  - first:
+      213: -2392352203935440018
+    second: GuardMachineGun_15
+  - first:
+      213: -8000014416182191148
+    second: GuardMachineGun_16
+  - first:
+      213: -5355851153946587443
+    second: GuardMachineGun_17
+  - first:
+      213: 3547649521552488468
+    second: GuardMachineGun_18
+  - first:
+      213: -9206117071192543940
+    second: GuardMachineGun_19
+  - first:
+      213: 1850620194883698866
+    second: GuardMachineGun_20
+  - first:
+      213: 1107060036260264232
+    second: GuardMachineGun_21
+  - first:
+      213: -3623767193917073822
+    second: GuardMachineGun_22
+  - first:
+      213: -4087710683211639460
+    second: GuardMachineGun_23
+  - first:
+      213: 222712263433254654
+    second: GuardMachineGun_24
+  - first:
+      213: 5238374704810223579
+    second: GuardMachineGun_25
+  - first:
+      213: -2191592655004758920
+    second: GuardMachineGun_26
+  - first:
+      213: 3634783092950511505
+    second: GuardMachineGun_27
+  - first:
+      213: 4898846192444117971
+    second: GuardMachineGun_28
+  - first:
+      213: -6993081810995672417
+    second: GuardMachineGun_29
+  - first:
+      213: -3255193220336990913
+    second: GuardMachineGun_30
+  - first:
+      213: -7336737909211272723
+    second: GuardMachineGun_31
+  - first:
+      213: -4879833835859530104
+    second: GuardMachineGun_32
+  - first:
+      213: 6705327234214574777
+    second: GuardMachineGun_33
+  - first:
+      213: -7526719465256500470
+    second: GuardMachineGun_34
+  - first:
+      213: 6145977000195036258
+    second: GuardMachineGun_35
+  - first:
+      213: -1266389764502122916
+    second: GuardMachineGun_36
+  - first:
+      213: 6353922329306297211
+    second: GuardMachineGun_37
+  - first:
+      213: 5813786277919146865
+    second: GuardMachineGun_38
+  - first:
+      213: 7795046548172434560
+    second: GuardMachineGun_39
+  - first:
+      213: -3506548081564642354
+    second: GuardMachineGun_40
+  - first:
+      213: -7249770310213479700
+    second: GuardMachineGun_41
+  - first:
+      213: 3557210223617435609
+    second: GuardMachineGun_42
+  - first:
+      213: -2687229085128721177
+    second: GuardMachineGun_43
+  - first:
+      213: -7256880633829590609
+    second: GuardMachineGun_44
+  - first:
+      213: -2795854528174649537
+    second: GuardMachineGun_45
+  - first:
+      213: 8695907259857577738
+    second: GuardMachineGun_46
+  - first:
+      213: 503841013066647714
+    second: GuardMachineGun_47
+  - first:
+      213: -2322106230717371498
+    second: GuardMachineGun_48
+  - first:
+      213: 5995815252349183026
+    second: GuardMachineGun_49
+  - first:
+      213: 1656615380624682401
+    second: GuardMachineGun_50
+  - first:
+      213: 5249491056938125364
+    second: GuardMachineGun_51
+  - first:
+      213: -8909277483816013740
+    second: GuardMachineGun_52
+  - first:
+      213: -8060161102146312017
+    second: GuardMachineGun_53
+  - first:
+      213: 3446307916717447068
+    second: GuardMachineGun_54
+  - first:
+      213: -8484542189864532699
+    second: GuardMachineGun_55
+  - first:
+      213: -7154563354856948335
+    second: GuardMachineGun_56
+  - first:
+      213: 2926788383494547992
+    second: GuardMachineGun_57
+  - first:
+      213: -4891289955435847064
+    second: GuardMachineGun_58
+  - first:
+      213: -4714372375204226457
+    second: GuardMachineGun_59
+  - first:
+      213: -1139367732642556857
+    second: GuardMachineGun_60
+  - first:
+      213: 6322231177988717097
+    second: GuardMachineGun_61
+  - first:
+      213: -3870808758145010694
+    second: GuardMachineGun_62
+  - first:
+      213: 5757186878205629828
+    second: GuardMachineGun_63
+  - first:
+      213: -4252516447617337492
+    second: GuardMachineGun_64
+  - first:
+      213: -4392708152059207875
+    second: GuardMachineGun_65
+  - first:
+      213: 2233350814858366601
+    second: GuardMachineGun_66
+  - first:
+      213: 6744096377710423807
+    second: GuardMachineGun_67
+  - first:
+      213: -3896218476347788036
+    second: GuardMachineGun_68
+  - first:
+      213: 5944351705648197537
+    second: GuardMachineGun_69
+  - first:
+      213: -7083321902595790145
+    second: GuardMachineGun_70
+  - first:
+      213: -9148329144901934643
+    second: GuardMachineGun_71
+  - first:
+      213: -3825701988025807650
+    second: GuardMachineGun_72
+  - first:
+      213: -2352184213091873017
+    second: GuardMachineGun_73
+  - first:
+      213: 4134171849095370295
+    second: GuardMachineGun_74
+  - first:
+      213: 3543932785974500898
+    second: GuardMachineGun_75
+  - first:
+      213: 4142018916134235713
+    second: GuardMachineGun_76
+  - first:
+      213: -6678764963812253771
+    second: GuardMachineGun_77
+  - first:
+      213: 8109315881274518564
+    second: GuardMachineGun_78
+  - first:
+      213: -2492940328001120855
+    second: GuardMachineGun_79
+  - first:
+      213: 8580460955496610478
+    second: GuardMachineGun_80
+  - first:
+      213: -7025640048087051196
+    second: GuardMachineGun_81
+  - first:
+      213: -5751867687769195175
+    second: GuardMachineGun_82
+  - first:
+      213: -2719889383811517064
+    second: GuardMachineGun_83
+  - first:
+      213: 6709914079370565299
+    second: GuardMachineGun_84
+  - first:
+      213: -6949244377451321665
+    second: GuardMachineGun_85
+  - first:
+      213: -7369584576038113286
+    second: GuardMachineGun_86
+  - first:
+      213: 3096747517816354230
+    second: GuardMachineGun_87
+  - first:
+      213: -8204902494768245392
+    second: GuardMachineGun_88
+  - first:
+      213: 9015833533987473705
+    second: GuardMachineGun_89
+  - first:
+      213: 8694710011791886360
+    second: GuardMachineGun_90
+  - first:
+      213: -6435519230585033403
+    second: GuardMachineGun_91
+  - first:
+      213: -3438781814308503318
+    second: GuardMachineGun_92
+  - first:
+      213: 9020853017435947735
+    second: GuardMachineGun_93
+  - first:
+      213: 512208848195114456
+    second: GuardMachineGun_94
+  - first:
+      213: 1954167312135779250
+    second: GuardMachineGun_95
+  - first:
+      213: 2091103995159419354
+    second: GuardMachineGun_96
+  - first:
+      213: -112197605129577857
+    second: GuardMachineGun_97
+  - first:
+      213: -2172253649771602892
+    second: GuardMachineGun_98
+  - first:
+      213: -1262069259527141837
+    second: GuardMachineGun_99
+  - first:
+      213: 8862616501122259966
+    second: GuardMachineGun_100
+  - first:
+      213: 6594920987518499427
+    second: GuardMachineGun_101
+  - first:
+      213: -4063956964060403440
+    second: GuardMachineGun_102
+  - first:
+      213: 2159875616530657582
+    second: GuardMachineGun_103
+  - first:
+      213: -7768336940469760927
+    second: GuardMachineGun_104
+  - first:
+      213: -6954467911472454797
+    second: GuardMachineGun_105
+  - first:
+      213: 8308994964294676596
+    second: GuardMachineGun_106
+  - first:
+      213: 1973569052585684459
+    second: GuardMachineGun_107
+  - first:
+      213: -9073994625164224400
+    second: GuardMachineGun_108
+  - first:
+      213: 6357728780923084391
+    second: GuardMachineGun_109
+  - first:
+      213: -3031105910941385977
+    second: GuardMachineGun_110
+  - first:
+      213: -4969715261005418360
+    second: GuardMachineGun_111
+  - first:
+      213: -6860220693119252803
+    second: GuardMachineGun_112
+  - first:
+      213: 3147845226046630527
+    second: GuardMachineGun_113
+  - first:
+      213: -3014442987234102168
+    second: GuardMachineGun_114
+  - first:
+      213: -4477317880299512085
+    second: GuardMachineGun_115
+  - first:
+      213: -8121147394873559159
+    second: GuardMachineGun_116
+  - first:
+      213: 4456105144282864681
+    second: GuardMachineGun_117
+  - first:
+      213: 5650523131051883694
+    second: GuardMachineGun_118
+  - first:
+      213: -702751996193390520
+    second: GuardMachineGun_119
+  - first:
+      213: 7429196943892927130
+    second: GuardMachineGun_120
+  - first:
+      213: 1390033751829771468
+    second: GuardMachineGun_121
+  - first:
+      213: 5334727869604751993
+    second: GuardMachineGun_122
+  - first:
+      213: -1684176892822886438
+    second: GuardMachineGun_123
+  - first:
+      213: 4720580974916500385
+    second: GuardMachineGun_124
+  - first:
+      213: -1935498463586664255
+    second: GuardMachineGun_125
+  - first:
+      213: -8210432975207571250
+    second: GuardMachineGun_126
+  - first:
+      213: 137909181573717765
+    second: GuardMachineGun_127
+  - first:
+      213: 1979317744016399817
+    second: GuardMachineGun_128
+  - first:
+      213: -7036676789192679414
+    second: GuardMachineGun_129
+  - first:
+      213: 5020107310937784862
+    second: GuardMachineGun_130
+  - first:
+      213: 2716383797838642939
+    second: GuardMachineGun_131
+  - first:
+      213: -6127194323652152521
+    second: GuardMachineGun_132
+  - first:
+      213: -3168733725641513733
+    second: GuardMachineGun_133
+  - first:
+      213: -4160872367131461805
+    second: GuardMachineGun_134
+  - first:
+      213: -9121847350963414703
+    second: GuardMachineGun_135
+  - first:
+      213: 8932602652888850847
+    second: GuardMachineGun_136
+  - first:
+      213: -7166515643526460842
+    second: GuardMachineGun_137
+  - first:
+      213: 5954823196843859889
+    second: GuardMachineGun_138
+  - first:
+      213: -8143552080536067428
+    second: GuardMachineGun_139
+  - first:
+      213: -4605144454647197238
+    second: GuardMachineGun_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuardMachineGun_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 444
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7bf06440a42740800000000000000
+      internalID: 5126398491399782373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 444
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507bfa7c6206e7d0800000000000000
+      internalID: -2889619445968572333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 444
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e16a8fb99553210800000000000000
+      internalID: 1312053392874806943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 446
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3921a29ffb5a15c00800000000000000
+      internalID: 887672845506318995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 446
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d313ff7fbbd98b80800000000000000
+      internalID: -8391934815096335404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 460
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d85d3254d44dae50800000000000000
+      internalID: 6822184689239677138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 447
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5672059fa32a4060800000000000000
+      internalID: 6938397412943885914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 447
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9154492add62b6b20800000000000000
+      internalID: 3128637099496195353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 447
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f167b42c3c1788820800000000000000
+      internalID: 2920709443942053407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 447
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f128225e6c862e290800000000000000
+      internalID: -7862606795978407393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 447
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68b7b33909152d80800000000000000
+      internalID: -8276181212910339988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc12b4339350336e0800000000000000
+      internalID: -1859136477942046261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_12
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eca99bd7d89ea90800000000000000
+      internalID: -7284135351170707884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951782c2ad7773e20800000000000000
+      internalID: 3330262228391194969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bfe0fa5e57f98f0800000000000000
+      internalID: -531576601661473991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 447
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e632ec28858acced0800000000000000
+      internalID: -2392352203935440018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 448
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd47d364d3af090800000000000000
+      internalID: -8000014416182191148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_17
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 448
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcec52380c13ca5b0800000000000000
+      internalID: -5355851153946587443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41878bf8178cb3130800000000000000
+      internalID: 3547649521552488468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 425
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3da8e2cc4d4d3080800000000000000
+      internalID: -9206117071192543940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 428
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b005322349bea910800000000000000
+      internalID: 1850620194883698866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 350
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829f25ecc311d5f00800000000000000
+      internalID: 1107060036260264232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 380
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266dbd9cfeac5bdc0800000000000000
+      internalID: -3623767193917073822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 380
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d99e8ac88547c0800000000000000
+      internalID: -4087710683211639460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 382
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6ff05af9b371300800000000000000
+      internalID: 222712263433254654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 382
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7ea983a0272b840800000000000000
+      internalID: 5238374704810223579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_26
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 383
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c06128716e591e0800000000000000
+      internalID: -2191592655004758920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_27
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 384
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f29e217f7517230800000000000000
+      internalID: 3634783092950511505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 384
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d318e528a23cf340800000000000000
+      internalID: 4898846192444117971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 384
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8b52d42593fe90800000000000000
+      internalID: -6993081810995672417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_30
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 386
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35cd8a430b33d2d0800000000000000
+      internalID: -3255193220336990913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_31
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 386
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9e1574ebbae2a90800000000000000
+      internalID: -7336737909211272723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_32
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 386
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e29a21bf8574cb0800000000000000
+      internalID: -4879833835859530104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 387
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9babc1ad79b1e0d50800000000000000
+      internalID: 6705327234214574777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 355
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a034e5d4688bb8790800000000000000
+      internalID: -7526719465256500470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 357
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2649856d485ea4550800000000000000
+      internalID: 6145977000195036258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_36
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 395
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e09a30831ec6ee0800000000000000
+      internalID: -1266389764502122916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7379b8a1baad2850800000000000000
+      internalID: 6353922329306297211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 342
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173496721d7bea050800000000000000
+      internalID: 5813786277919146865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 262
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce37f19819d2c60800000000000000
+      internalID: 7795046548172434560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_40
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 282
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3138a291d365fc0800000000000000
+      internalID: -3506548081564642354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 314
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25d845054a36b90800000000000000
+      internalID: -7249770310213479700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 314
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7ea1af9dfbd5130800000000000000
+      internalID: 3557210223617435609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 317
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecfdc6726b05bad0800000000000000
+      internalID: -2687229085128721177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_44
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 317
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9fc2b13816a4b90800000000000000
+      internalID: -7256880633829590609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_45
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 319
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f8b74ae112339d0800000000000000
+      internalID: -2795854528174649537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_46
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 325
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072d8774911ea870800000000000000
+      internalID: 8695907259857577738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_47
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 327
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a84c1f5bb00ef600800000000000000
+      internalID: 503841013066647714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_48
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 327
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bae5bafa836cfd0800000000000000
+      internalID: -2322106230717371498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_49
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 334
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234642f643a653350800000000000000
+      internalID: 5995815252349183026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_50
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 328
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad259b59ea7df610800000000000000
+      internalID: 1656615380624682401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_51
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 328
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4380364ad40f9d840800000000000000
+      internalID: 5249491056938125364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_52
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 328
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450b2c3f453eb5480800000000000000
+      internalID: -8909277483816013740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_53
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 266
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e522ae2e842090800000000000000
+      internalID: -8060161102146312017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 214
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c975f8a7aceb3df20800000000000000
+      internalID: 3446307916717447068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 216
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5254f43d4d9d04a80800000000000000
+      internalID: -8484542189864532699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 248
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d79b60982e5bc90800000000000000
+      internalID: -7154563354856948335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_57
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 248
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aaeea278a0e9820800000000000000
+      internalID: 2926788383494547992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 252
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8626fc063b5ae1cb0800000000000000
+      internalID: -4891289955435847064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_59
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 252
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a99057d4f239eb0800000000000000
+      internalID: -4714372375204226457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_60
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 255
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7445c4375172030f0800000000000000
+      internalID: -1139367732642556857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_61
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 272
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92abaef72c31db750800000000000000
+      internalID: 6322231177988717097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_62
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 271
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3bb4161ff184ac0800000000000000
+      internalID: -3870808758145010694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_63
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 273
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4859cfc76f2a5ef40800000000000000
+      internalID: 5757186878205629828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_64
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 273
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67334a52d60cf4c0800000000000000
+      internalID: -4252516447617337492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_65
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 274
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f5c829537f903c0800000000000000
+      internalID: -4392708152059207875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 277
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e467abbb47efe10800000000000000
+      internalID: 2233350814858366601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_67
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 279
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffead6c7ce7d79d50800000000000000
+      internalID: 6744096377710423807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4f9f550f9dde9c0800000000000000
+      internalID: -3896218476347788036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 177
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe52bb1649e7250800000000000000
+      internalID: 5944351705648197537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 185
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaa806324cf2bd90800000000000000
+      internalID: -7083321902595790145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc164c5dc1b9a0180800000000000000
+      internalID: -9148329144901934643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 182
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc4733bf4068eac0800000000000000
+      internalID: -3825701988025807650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_73
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 187
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f806cabec5b5fd0800000000000000
+      internalID: -2352184213091873017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_74
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 187
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736dfb994678f5930800000000000000
+      internalID: 4134171849095370295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 191
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ededf97149e2130800000000000000
+      internalID: 3543932785974500898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_76
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 219
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e212542486b7930800000000000000
+      internalID: 4142018916134235713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_77
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 224
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf55a9a6a24053a0800000000000000
+      internalID: -6678764963812253771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_78
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 226
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c2dca34d31a8070800000000000000
+      internalID: 8109315881274518564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_79
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 233
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55f37dafb476dd0800000000000000
+      internalID: -2492940328001120855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 233
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaafb7d17cbe31770800000000000000
+      internalID: 8580460955496610478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_81
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 235
+        width: 88
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44453068999ef7e90800000000000000
+      internalID: -7025640048087051196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_82
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 147
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d387b00d24d20b0800000000000000
+      internalID: -5751867687769195175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_83
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 148
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875fe891403014ad0800000000000000
+      internalID: -2719889383811517064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_84
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 167
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b65646fd476e1d50800000000000000
+      internalID: 6709914079370565299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_85
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 181
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb622a0be035f8f90800000000000000
+      internalID: -6949244377451321665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_86
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 181
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affec03bfd9f9b990800000000000000
+      internalID: -7369584576038113286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_87
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 195
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5348ec57bd9fa20800000000000000
+      internalID: 3096747517816354230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_88
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 197
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755f9607a4522e80800000000000000
+      internalID: -8204902494768245392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_89
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 198
+        width: 75
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c06bc4dcae1d70800000000000000
+      internalID: 9015833533987473705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81843ed60b0d9a870800000000000000
+      internalID: 8694710011791886360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da8cb4b5170b6a0800000000000000
+      internalID: -6435519230585033403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 116
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0811ac82ef640d0800000000000000
+      internalID: -3438781814308503318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 116
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c74b5602803d70800000000000000
+      internalID: 9020853017435947735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_94
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 122
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55b7fcb3bbb1700800000000000000
+      internalID: 512208848195114456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_95
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3788711d89e1b10800000000000000
+      internalID: 1954167312135779250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_96
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 129
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad990e32108150d10800000000000000
+      internalID: 2091103995159419354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_97
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 117
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a1a916fd4617ef0800000000000000
+      internalID: -112197605129577857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_98
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 145
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c515b80da9ad1e0800000000000000
+      internalID: -2172253649771602892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_99
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 138
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c1f7f1ba3c7ee0800000000000000
+      internalID: -1262069259527141837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_100
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 161
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb58e960c65efa70800000000000000
+      internalID: 8862616501122259966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_101
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 164
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36afece52bdd58b50800000000000000
+      internalID: 6594920987518499427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_102
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 164
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01964b64cace997c0800000000000000
+      internalID: -4063956964060403440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_103
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 89
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2176520e6b69fd10800000000000000
+      internalID: 2159875616530657582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_104
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 81
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c41c706b2513490800000000000000
+      internalID: -7768336940469760927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_105
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 67
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e4d6e744cc7f90800000000000000
+      internalID: -6954467911472454797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_106
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 108
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4703b47a5ea7f4370800000000000000
+      internalID: 8308994964294676596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_107
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 101
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bede21fc896836b10800000000000000
+      internalID: 1973569052585684459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_108
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 127
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0785849e6f1b21280800000000000000
+      internalID: -9073994625164224400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_109
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 97
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e923d34a03b3850800000000000000
+      internalID: 6357728780923084391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_110
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 70
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b70c5cb395fe5d0800000000000000
+      internalID: -3031105910941385977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_111
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 70
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8803fe00d46080bb0800000000000000
+      internalID: -4969715261005418360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_112
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 74
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c7d960a99bc0a0800000000000000
+      internalID: -6860220693119252803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_113
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 40
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a2b6a1e846fab20800000000000000
+      internalID: 3147845226046630527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_114
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 95
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647e36031c8a26d0800000000000000
+      internalID: -3014442987234102168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 50
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1e361c1f5dd1c0800000000000000
+      internalID: -4477317880299512085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_116
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 50
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987f8f7d873eb4f80800000000000000
+      internalID: -8121147394873559159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_117
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 57
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c55cee40447dd30800000000000000
+      internalID: 4456105144282864681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_118
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 57
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacb97599d0ba6e40800000000000000
+      internalID: 5650523131051883694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_119
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 69
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84042b568c25f36f0800000000000000
+      internalID: -702751996193390520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_120
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 77
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d727424fc91760800000000000000
+      internalID: 7429196943892927130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_121
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 64
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4fd9325546a4310800000000000000
+      internalID: 1390033751829771468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aea299bb2c80a40800000000000000
+      internalID: 5334727869604751993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ee540a0a90a8e0800000000000000
+      internalID: -1684176892822886438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_124
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 34
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab7d5fc26fd28140800000000000000
+      internalID: 4720580974916500385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_125
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c04a9ee66ab325e0800000000000000
+      internalID: -1935498463586664255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_126
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 15
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06994b5beae0e80800000000000000
+      internalID: -8210432975207571250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_127
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 29
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f57f28ba3f9e100800000000000000
+      internalID: 137909181573717765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_128
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd99b55003f77b10800000000000000
+      internalID: 1979317744016399817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_129
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 5
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a002fecfdb3b85e90800000000000000
+      internalID: -7036676789192679414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_130
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 5
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12c9ca60010ba540800000000000000
+      internalID: 5020107310937784862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_131
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 8
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7ccf0ca882b520800000000000000
+      internalID: 2716383797838642939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_132
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337ce4d935d7faa0800000000000000
+      internalID: -6127194323652152521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_133
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4665717756604d0800000000000000
+      internalID: -3168733725641513733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_134
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 29
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f36990ac9146c0800000000000000
+      internalID: -4160872367131461805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_135
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159dc76f920b86180800000000000000
+      internalID: -9121847350963414703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_136
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91e62d29caf6fb70800000000000000
+      internalID: 8932602652888850847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_137
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a4356fdfb6b8c90800000000000000
+      internalID: -7166515643526460842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_138
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5224c528c3a250800000000000000
+      internalID: 5954823196843859889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_139
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9221c5778a4cfe80800000000000000
+      internalID: -8143552080536067428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardMachineGun_140
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 28
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1d461848d3710c0800000000000000
+      internalID: -4605144454647197238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GuardMachineGun_0: 5126398491399782373
+      GuardMachineGun_1: -2889619445968572333
+      GuardMachineGun_10: -8276181212910339988
+      GuardMachineGun_100: 8862616501122259966
+      GuardMachineGun_101: 6594920987518499427
+      GuardMachineGun_102: -4063956964060403440
+      GuardMachineGun_103: 2159875616530657582
+      GuardMachineGun_104: -7768336940469760927
+      GuardMachineGun_105: -6954467911472454797
+      GuardMachineGun_106: 8308994964294676596
+      GuardMachineGun_107: 1973569052585684459
+      GuardMachineGun_108: -9073994625164224400
+      GuardMachineGun_109: 6357728780923084391
+      GuardMachineGun_11: -1859136477942046261
+      GuardMachineGun_110: -3031105910941385977
+      GuardMachineGun_111: -4969715261005418360
+      GuardMachineGun_112: -6860220693119252803
+      GuardMachineGun_113: 3147845226046630527
+      GuardMachineGun_114: -3014442987234102168
+      GuardMachineGun_115: -4477317880299512085
+      GuardMachineGun_116: -8121147394873559159
+      GuardMachineGun_117: 4456105144282864681
+      GuardMachineGun_118: 5650523131051883694
+      GuardMachineGun_119: -702751996193390520
+      GuardMachineGun_12: -7284135351170707884
+      GuardMachineGun_120: 7429196943892927130
+      GuardMachineGun_121: 1390033751829771468
+      GuardMachineGun_122: 5334727869604751993
+      GuardMachineGun_123: -1684176892822886438
+      GuardMachineGun_124: 4720580974916500385
+      GuardMachineGun_125: -1935498463586664255
+      GuardMachineGun_126: -8210432975207571250
+      GuardMachineGun_127: 137909181573717765
+      GuardMachineGun_128: 1979317744016399817
+      GuardMachineGun_129: -7036676789192679414
+      GuardMachineGun_13: 3330262228391194969
+      GuardMachineGun_130: 5020107310937784862
+      GuardMachineGun_131: 2716383797838642939
+      GuardMachineGun_132: -6127194323652152521
+      GuardMachineGun_133: -3168733725641513733
+      GuardMachineGun_134: -4160872367131461805
+      GuardMachineGun_135: -9121847350963414703
+      GuardMachineGun_136: 8932602652888850847
+      GuardMachineGun_137: -7166515643526460842
+      GuardMachineGun_138: 5954823196843859889
+      GuardMachineGun_139: -8143552080536067428
+      GuardMachineGun_14: -531576601661473991
+      GuardMachineGun_140: -4605144454647197238
+      GuardMachineGun_15: -2392352203935440018
+      GuardMachineGun_16: -8000014416182191148
+      GuardMachineGun_17: -5355851153946587443
+      GuardMachineGun_18: 3547649521552488468
+      GuardMachineGun_19: -9206117071192543940
+      GuardMachineGun_2: 1312053392874806943
+      GuardMachineGun_20: 1850620194883698866
+      GuardMachineGun_21: 1107060036260264232
+      GuardMachineGun_22: -3623767193917073822
+      GuardMachineGun_23: -4087710683211639460
+      GuardMachineGun_24: 222712263433254654
+      GuardMachineGun_25: 5238374704810223579
+      GuardMachineGun_26: -2191592655004758920
+      GuardMachineGun_27: 3634783092950511505
+      GuardMachineGun_28: 4898846192444117971
+      GuardMachineGun_29: -6993081810995672417
+      GuardMachineGun_3: 887672845506318995
+      GuardMachineGun_30: -3255193220336990913
+      GuardMachineGun_31: -7336737909211272723
+      GuardMachineGun_32: -4879833835859530104
+      GuardMachineGun_33: 6705327234214574777
+      GuardMachineGun_34: -7526719465256500470
+      GuardMachineGun_35: 6145977000195036258
+      GuardMachineGun_36: -1266389764502122916
+      GuardMachineGun_37: 6353922329306297211
+      GuardMachineGun_38: 5813786277919146865
+      GuardMachineGun_39: 7795046548172434560
+      GuardMachineGun_4: -8391934815096335404
+      GuardMachineGun_40: -3506548081564642354
+      GuardMachineGun_41: -7249770310213479700
+      GuardMachineGun_42: 3557210223617435609
+      GuardMachineGun_43: -2687229085128721177
+      GuardMachineGun_44: -7256880633829590609
+      GuardMachineGun_45: -2795854528174649537
+      GuardMachineGun_46: 8695907259857577738
+      GuardMachineGun_47: 503841013066647714
+      GuardMachineGun_48: -2322106230717371498
+      GuardMachineGun_49: 5995815252349183026
+      GuardMachineGun_5: 6822184689239677138
+      GuardMachineGun_50: 1656615380624682401
+      GuardMachineGun_51: 5249491056938125364
+      GuardMachineGun_52: -8909277483816013740
+      GuardMachineGun_53: -8060161102146312017
+      GuardMachineGun_54: 3446307916717447068
+      GuardMachineGun_55: -8484542189864532699
+      GuardMachineGun_56: -7154563354856948335
+      GuardMachineGun_57: 2926788383494547992
+      GuardMachineGun_58: -4891289955435847064
+      GuardMachineGun_59: -4714372375204226457
+      GuardMachineGun_6: 6938397412943885914
+      GuardMachineGun_60: -1139367732642556857
+      GuardMachineGun_61: 6322231177988717097
+      GuardMachineGun_62: -3870808758145010694
+      GuardMachineGun_63: 5757186878205629828
+      GuardMachineGun_64: -4252516447617337492
+      GuardMachineGun_65: -4392708152059207875
+      GuardMachineGun_66: 2233350814858366601
+      GuardMachineGun_67: 6744096377710423807
+      GuardMachineGun_68: -3896218476347788036
+      GuardMachineGun_69: 5944351705648197537
+      GuardMachineGun_7: 3128637099496195353
+      GuardMachineGun_70: -7083321902595790145
+      GuardMachineGun_71: -9148329144901934643
+      GuardMachineGun_72: -3825701988025807650
+      GuardMachineGun_73: -2352184213091873017
+      GuardMachineGun_74: 4134171849095370295
+      GuardMachineGun_75: 3543932785974500898
+      GuardMachineGun_76: 4142018916134235713
+      GuardMachineGun_77: -6678764963812253771
+      GuardMachineGun_78: 8109315881274518564
+      GuardMachineGun_79: -2492940328001120855
+      GuardMachineGun_8: 2920709443942053407
+      GuardMachineGun_80: 8580460955496610478
+      GuardMachineGun_81: -7025640048087051196
+      GuardMachineGun_82: -5751867687769195175
+      GuardMachineGun_83: -2719889383811517064
+      GuardMachineGun_84: 6709914079370565299
+      GuardMachineGun_85: -6949244377451321665
+      GuardMachineGun_86: -7369584576038113286
+      GuardMachineGun_87: 3096747517816354230
+      GuardMachineGun_88: -8204902494768245392
+      GuardMachineGun_89: 9015833533987473705
+      GuardMachineGun_9: -7862606795978407393
+      GuardMachineGun_90: 8694710011791886360
+      GuardMachineGun_91: -6435519230585033403
+      GuardMachineGun_92: -3438781814308503318
+      GuardMachineGun_93: 9020853017435947735
+      GuardMachineGun_94: 512208848195114456
+      GuardMachineGun_95: 1954167312135779250
+      GuardMachineGun_96: 2091103995159419354
+      GuardMachineGun_97: -112197605129577857
+      GuardMachineGun_98: -2172253649771602892
+      GuardMachineGun_99: -1262069259527141837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

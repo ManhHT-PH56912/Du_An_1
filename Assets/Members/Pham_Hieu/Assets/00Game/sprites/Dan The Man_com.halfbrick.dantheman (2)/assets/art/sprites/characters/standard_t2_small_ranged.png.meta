@@ -1,0 +1,5135 @@
+fileFormatVersion: 2
+guid: 69516e582d0d4a748ae0f14ed4e939e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7244765576271707233
+    second: standard_t2_small_ranged_0
+  - first:
+      213: -8786619865836600280
+    second: standard_t2_small_ranged_1
+  - first:
+      213: 2628445430888089694
+    second: standard_t2_small_ranged_2
+  - first:
+      213: 480731456376449132
+    second: standard_t2_small_ranged_3
+  - first:
+      213: -3844374115577788247
+    second: standard_t2_small_ranged_4
+  - first:
+      213: -1611961356878152790
+    second: standard_t2_small_ranged_5
+  - first:
+      213: -8286571233142285055
+    second: standard_t2_small_ranged_6
+  - first:
+      213: 4745244846499729055
+    second: standard_t2_small_ranged_7
+  - first:
+      213: -4004755543326076128
+    second: standard_t2_small_ranged_8
+  - first:
+      213: 115718660502809803
+    second: standard_t2_small_ranged_9
+  - first:
+      213: 276198310483398152
+    second: standard_t2_small_ranged_10
+  - first:
+      213: 8957191152985653163
+    second: standard_t2_small_ranged_11
+  - first:
+      213: -7303678973524249301
+    second: standard_t2_small_ranged_12
+  - first:
+      213: -5832178373076969255
+    second: standard_t2_small_ranged_13
+  - first:
+      213: -2190937684865103663
+    second: standard_t2_small_ranged_14
+  - first:
+      213: -4301494984691365844
+    second: standard_t2_small_ranged_15
+  - first:
+      213: -8904401548084574303
+    second: standard_t2_small_ranged_16
+  - first:
+      213: 419933841711222591
+    second: standard_t2_small_ranged_17
+  - first:
+      213: 4014124468254914109
+    second: standard_t2_small_ranged_18
+  - first:
+      213: 6369306547555406270
+    second: standard_t2_small_ranged_19
+  - first:
+      213: -3031881994641416217
+    second: standard_t2_small_ranged_20
+  - first:
+      213: -3164463562469974424
+    second: standard_t2_small_ranged_21
+  - first:
+      213: 1164808903172324537
+    second: standard_t2_small_ranged_22
+  - first:
+      213: 5472915101919150247
+    second: standard_t2_small_ranged_23
+  - first:
+      213: 934222296121725133
+    second: standard_t2_small_ranged_24
+  - first:
+      213: -1166500331221368
+    second: standard_t2_small_ranged_25
+  - first:
+      213: -4282630809511557438
+    second: standard_t2_small_ranged_26
+  - first:
+      213: -8587466732655087692
+    second: standard_t2_small_ranged_27
+  - first:
+      213: -3530779011296125320
+    second: standard_t2_small_ranged_28
+  - first:
+      213: 8245512758352168353
+    second: standard_t2_small_ranged_29
+  - first:
+      213: 5286918137809124808
+    second: standard_t2_small_ranged_30
+  - first:
+      213: -4600009101665544131
+    second: standard_t2_small_ranged_31
+  - first:
+      213: -5437478691826221456
+    second: standard_t2_small_ranged_32
+  - first:
+      213: -1983186661744208935
+    second: standard_t2_small_ranged_33
+  - first:
+      213: 6818355941715249692
+    second: standard_t2_small_ranged_34
+  - first:
+      213: 4809696049487917500
+    second: standard_t2_small_ranged_35
+  - first:
+      213: 8942691642974619546
+    second: standard_t2_small_ranged_36
+  - first:
+      213: 6555309615555615560
+    second: standard_t2_small_ranged_37
+  - first:
+      213: 7472174338131512712
+    second: standard_t2_small_ranged_38
+  - first:
+      213: 1885953741038289848
+    second: standard_t2_small_ranged_39
+  - first:
+      213: -4851786461725019532
+    second: standard_t2_small_ranged_40
+  - first:
+      213: -6458945256305313848
+    second: standard_t2_small_ranged_41
+  - first:
+      213: 8561223971585883105
+    second: standard_t2_small_ranged_42
+  - first:
+      213: 5651030141053061068
+    second: standard_t2_small_ranged_43
+  - first:
+      213: 3452711978886578174
+    second: standard_t2_small_ranged_44
+  - first:
+      213: 5495516200190092016
+    second: standard_t2_small_ranged_45
+  - first:
+      213: -6890981460683762308
+    second: standard_t2_small_ranged_46
+  - first:
+      213: 6385567100468836227
+    second: standard_t2_small_ranged_47
+  - first:
+      213: -1766786441799337455
+    second: standard_t2_small_ranged_48
+  - first:
+      213: 965251300522437907
+    second: standard_t2_small_ranged_49
+  - first:
+      213: -4540681883743036121
+    second: standard_t2_small_ranged_50
+  - first:
+      213: 1310037203387768278
+    second: standard_t2_small_ranged_51
+  - first:
+      213: -152015211987364535
+    second: standard_t2_small_ranged_52
+  - first:
+      213: 3198191193273086501
+    second: standard_t2_small_ranged_53
+  - first:
+      213: 5818388318414157594
+    second: standard_t2_small_ranged_54
+  - first:
+      213: -3861142603484792365
+    second: standard_t2_small_ranged_55
+  - first:
+      213: -9218475620354899361
+    second: standard_t2_small_ranged_56
+  - first:
+      213: -494636519392789955
+    second: standard_t2_small_ranged_57
+  - first:
+      213: -5472651392720827637
+    second: standard_t2_small_ranged_58
+  - first:
+      213: -2719917403396854483
+    second: standard_t2_small_ranged_59
+  - first:
+      213: -2711721029547427290
+    second: standard_t2_small_ranged_60
+  - first:
+      213: 2624503492183452235
+    second: standard_t2_small_ranged_61
+  - first:
+      213: -240182692855594707
+    second: standard_t2_small_ranged_62
+  - first:
+      213: 1510903930469562105
+    second: standard_t2_small_ranged_63
+  - first:
+      213: -2868386335407994172
+    second: standard_t2_small_ranged_64
+  - first:
+      213: 1541259237627207380
+    second: standard_t2_small_ranged_65
+  - first:
+      213: -3087314726336373452
+    second: standard_t2_small_ranged_66
+  - first:
+      213: 8741494986000757205
+    second: standard_t2_small_ranged_67
+  - first:
+      213: 5147565619349622211
+    second: standard_t2_small_ranged_68
+  - first:
+      213: 3186915029530535246
+    second: standard_t2_small_ranged_69
+  - first:
+      213: -8664319306775210651
+    second: standard_t2_small_ranged_70
+  - first:
+      213: -6369832993098151450
+    second: standard_t2_small_ranged_71
+  - first:
+      213: 3285630459615236106
+    second: standard_t2_small_ranged_72
+  - first:
+      213: 366354630221989450
+    second: standard_t2_small_ranged_73
+  - first:
+      213: -2765982441854874654
+    second: standard_t2_small_ranged_74
+  - first:
+      213: -1944356867752378354
+    second: standard_t2_small_ranged_75
+  - first:
+      213: -3855292022572556161
+    second: standard_t2_small_ranged_76
+  - first:
+      213: -5407345465404259885
+    second: standard_t2_small_ranged_77
+  - first:
+      213: 5432363511264695280
+    second: standard_t2_small_ranged_78
+  - first:
+      213: 2649447729997719355
+    second: standard_t2_small_ranged_79
+  - first:
+      213: 3792776266182412054
+    second: standard_t2_small_ranged_80
+  - first:
+      213: -8792982455208694751
+    second: standard_t2_small_ranged_81
+  - first:
+      213: -7363816635755442437
+    second: standard_t2_small_ranged_82
+  - first:
+      213: -8496910011738186989
+    second: standard_t2_small_ranged_83
+  - first:
+      213: 7543316848669842009
+    second: standard_t2_small_ranged_84
+  - first:
+      213: -7645321193029126347
+    second: standard_t2_small_ranged_85
+  - first:
+      213: 337030612876202177
+    second: standard_t2_small_ranged_86
+  - first:
+      213: 1361533348035480382
+    second: standard_t2_small_ranged_87
+  - first:
+      213: 4749120091542975380
+    second: standard_t2_small_ranged_88
+  - first:
+      213: 3952803607334214051
+    second: standard_t2_small_ranged_89
+  - first:
+      213: 6660704521418700183
+    second: standard_t2_small_ranged_90
+  - first:
+      213: 1538649937474638720
+    second: standard_t2_small_ranged_91
+  - first:
+      213: -6897310531054079298
+    second: standard_t2_small_ranged_92
+  - first:
+      213: -5070457978373838434
+    second: standard_t2_small_ranged_93
+  - first:
+      213: 8031757126565012598
+    second: standard_t2_small_ranged_94
+  - first:
+      213: 3289570686218636819
+    second: standard_t2_small_ranged_95
+  - first:
+      213: 2048522735450459518
+    second: standard_t2_small_ranged_96
+  - first:
+      213: 5259827456050959757
+    second: standard_t2_small_ranged_97
+  - first:
+      213: 3609400104404008929
+    second: standard_t2_small_ranged_98
+  - first:
+      213: -5658213948821795667
+    second: standard_t2_small_ranged_99
+  - first:
+      213: -5331250354218684522
+    second: standard_t2_small_ranged_100
+  - first:
+      213: 1334423032318650769
+    second: standard_t2_small_ranged_101
+  - first:
+      213: -1527970708022922808
+    second: standard_t2_small_ranged_102
+  - first:
+      213: 4353620029812598019
+    second: standard_t2_small_ranged_103
+  - first:
+      213: 1937447710530077936
+    second: standard_t2_small_ranged_104
+  - first:
+      213: 1952521761659528794
+    second: standard_t2_small_ranged_105
+  - first:
+      213: -1569132129850276404
+    second: standard_t2_small_ranged_106
+  - first:
+      213: 2098640915078916119
+    second: standard_t2_small_ranged_107
+  - first:
+      213: -5248984583699910662
+    second: standard_t2_small_ranged_108
+  - first:
+      213: 6583267515448563922
+    second: standard_t2_small_ranged_109
+  - first:
+      213: 92240852985303208
+    second: standard_t2_small_ranged_110
+  - first:
+      213: 8504652504094199270
+    second: standard_t2_small_ranged_111
+  - first:
+      213: 762383221075944659
+    second: standard_t2_small_ranged_112
+  - first:
+      213: 3726861759866772529
+    second: standard_t2_small_ranged_113
+  - first:
+      213: -3754305102172511663
+    second: standard_t2_small_ranged_114
+  - first:
+      213: 8940326049330027888
+    second: standard_t2_small_ranged_115
+  - first:
+      213: -4645815423722984753
+    second: standard_t2_small_ranged_116
+  - first:
+      213: -6519888374041758275
+    second: standard_t2_small_ranged_117
+  - first:
+      213: -1329165926582255450
+    second: standard_t2_small_ranged_118
+  - first:
+      213: -766258438374663061
+    second: standard_t2_small_ranged_119
+  - first:
+      213: -3670007111022133891
+    second: standard_t2_small_ranged_120
+  - first:
+      213: 4212143604144819425
+    second: standard_t2_small_ranged_121
+  - first:
+      213: -4274975212509053507
+    second: standard_t2_small_ranged_122
+  - first:
+      213: 904726312032073812
+    second: standard_t2_small_ranged_123
+  - first:
+      213: -2709107593858354635
+    second: standard_t2_small_ranged_124
+  - first:
+      213: 5077027144139045232
+    second: standard_t2_small_ranged_125
+  - first:
+      213: 1462147458326623634
+    second: standard_t2_small_ranged_126
+  - first:
+      213: 8015767650644911652
+    second: standard_t2_small_ranged_127
+  - first:
+      213: -3929481545713941985
+    second: standard_t2_small_ranged_128
+  - first:
+      213: 8565754295534959289
+    second: standard_t2_small_ranged_129
+  - first:
+      213: -3454001102370951686
+    second: standard_t2_small_ranged_130
+  - first:
+      213: 8510495445557169331
+    second: standard_t2_small_ranged_131
+  - first:
+      213: 7606297989792392380
+    second: standard_t2_small_ranged_132
+  - first:
+      213: 4054837512752941012
+    second: standard_t2_small_ranged_133
+  - first:
+      213: 1371944492200506658
+    second: standard_t2_small_ranged_134
+  - first:
+      213: -2793086425043770091
+    second: standard_t2_small_ranged_135
+  - first:
+      213: 1008928225657985774
+    second: standard_t2_small_ranged_136
+  - first:
+      213: -275234734790665390
+    second: standard_t2_small_ranged_137
+  - first:
+      213: -7051893667567602566
+    second: standard_t2_small_ranged_138
+  - first:
+      213: -3441026610316975174
+    second: standard_t2_small_ranged_139
+  - first:
+      213: -5193045664183449986
+    second: standard_t2_small_ranged_140
+  - first:
+      213: 2151761910351686942
+    second: standard_t2_small_ranged_141
+  - first:
+      213: 5775750062880857438
+    second: standard_t2_small_ranged_142
+  - first:
+      213: 4354145597664433652
+    second: standard_t2_small_ranged_143
+  - first:
+      213: -5489631111052304742
+    second: standard_t2_small_ranged_144
+  - first:
+      213: -846576242038249672
+    second: standard_t2_small_ranged_145
+  - first:
+      213: 5727580644594661392
+    second: standard_t2_small_ranged_146
+  - first:
+      213: -6376537127884656385
+    second: standard_t2_small_ranged_147
+  - first:
+      213: -7652680118776330535
+    second: standard_t2_small_ranged_148
+  - first:
+      213: -14104650925666566
+    second: standard_t2_small_ranged_149
+  - first:
+      213: 6393511512926194882
+    second: standard_t2_small_ranged_150
+  - first:
+      213: -3875835460894926793
+    second: standard_t2_small_ranged_151
+  - first:
+      213: 1285171128576073322
+    second: standard_t2_small_ranged_152
+  - first:
+      213: -4536383307044848102
+    second: standard_t2_small_ranged_153
+  - first:
+      213: -452458282361571764
+    second: standard_t2_small_ranged_154
+  - first:
+      213: 2090985933599580261
+    second: standard_t2_small_ranged_155
+  - first:
+      213: 8721658457125823689
+    second: standard_t2_small_ranged_156
+  - first:
+      213: -9082126375370066338
+    second: standard_t2_small_ranged_157
+  - first:
+      213: -3105607279771825583
+    second: standard_t2_small_ranged_158
+  - first:
+      213: -3002335400680595848
+    second: standard_t2_small_ranged_159
+  - first:
+      213: 1302244621700743636
+    second: standard_t2_small_ranged_160
+  - first:
+      213: -7132671520550679962
+    second: standard_t2_small_ranged_161
+  - first:
+      213: -8459248839958252290
+    second: standard_t2_small_ranged_162
+  - first:
+      213: 2441786806139965827
+    second: standard_t2_small_ranged_163
+  - first:
+      213: 488074899743010138
+    second: standard_t2_small_ranged_164
+  - first:
+      213: 3378941414685771421
+    second: standard_t2_small_ranged_165
+  - first:
+      213: 3180721013615821513
+    second: standard_t2_small_ranged_166
+  - first:
+      213: 7371783124507627056
+    second: standard_t2_small_ranged_167
+  - first:
+      213: -2702896631323201523
+    second: standard_t2_small_ranged_168
+  - first:
+      213: -784536051284995101
+    second: standard_t2_small_ranged_169
+  - first:
+      213: -1279861730046047352
+    second: standard_t2_small_ranged_170
+  - first:
+      213: 2438270638597404296
+    second: standard_t2_small_ranged_171
+  - first:
+      213: -3242667103218421194
+    second: standard_t2_small_ranged_172
+  - first:
+      213: 9066566546348656927
+    second: standard_t2_small_ranged_173
+  - first:
+      213: -2437239662959360992
+    second: standard_t2_small_ranged_174
+  - first:
+      213: 100983681318165637
+    second: standard_t2_small_ranged_175
+  - first:
+      213: 3898169401787483413
+    second: standard_t2_small_ranged_176
+  - first:
+      213: 9114601556178334558
+    second: standard_t2_small_ranged_177
+  - first:
+      213: 981561012887594041
+    second: standard_t2_small_ranged_178
+  - first:
+      213: -2054279126674845852
+    second: standard_t2_small_ranged_179
+  - first:
+      213: 9070428940838014222
+    second: standard_t2_small_ranged_180
+  - first:
+      213: -5358267048962728889
+    second: standard_t2_small_ranged_181
+  - first:
+      213: 5775101721121894082
+    second: standard_t2_small_ranged_182
+  - first:
+      213: 7676184183349683047
+    second: standard_t2_small_ranged_183
+  - first:
+      213: 4992543475510536929
+    second: standard_t2_small_ranged_184
+  - first:
+      213: 2435108985687274856
+    second: standard_t2_small_ranged_185
+  - first:
+      213: 4532675092552273214
+    second: standard_t2_small_ranged_186
+  - first:
+      213: 4086207048470313671
+    second: standard_t2_small_ranged_187
+  - first:
+      213: 5381302622249793512
+    second: standard_t2_small_ranged_188
+  - first:
+      213: -2495664401150740154
+    second: standard_t2_small_ranged_189
+  - first:
+      213: 79012942348771686
+    second: standard_t2_small_ranged_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c37ae38e39a8460800000000000000
+      internalID: 7244765576271707233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 462
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244b6819c7af0680800000000000000
+      internalID: -8786619865836600280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 462
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58459b713d1a7420800000000000000
+      internalID: 2628445430888089694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 462
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68aca966b6eba600800000000000000
+      internalID: 480731456376449132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 464
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a887493c1a06aac0800000000000000
+      internalID: -3844374115577788247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 458
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabfe9bbfa921a9e0800000000000000
+      internalID: -1611961356878152790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 458
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d559a1e5f200d80800000000000000
+      internalID: -8286571233142285055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 460
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e8ed7eb0f7ad140800000000000000
+      internalID: 4745244846499729055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 459
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d5cb2d004c68c0800000000000000
+      internalID: -4004755543326076128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 457
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc6725328d1b9100800000000000000
+      internalID: 115718660502809803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 457
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e0de766e045d300800000000000000
+      internalID: 276198310483398152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 458
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3bfa75e55e4c70800000000000000
+      internalID: 8957191152985653163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 457
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25f89d8bae14aa90800000000000000
+      internalID: -7303678973524249301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_13
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 458
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8180e7ba0ff0fa0800000000000000
+      internalID: -5832178373076969255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_14
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 457
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d84990a8c93891e0800000000000000
+      internalID: -2190937684865103663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 497
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c85a0a150e44c0800000000000000
+      internalID: -4301494984691365844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_16
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 471
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a70bf438f53d6480800000000000000
+      internalID: -8904401548084574303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_17
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 497
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fcc58aa97e3d500800000000000000
+      internalID: 419933841711222591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_18
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 460
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36b986afe805b730800000000000000
+      internalID: 4014124468254914109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 479
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb11c981f82546850800000000000000
+      internalID: 6369306547555406270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efde74b3679ce5d0800000000000000
+      internalID: -3031881994641416217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 412
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e5f4ee7219514d0800000000000000
+      internalID: -3164463562469974424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 412
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7cc8a68b3a2010800000000000000
+      internalID: 1164808903172324537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 411
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a003c7d943b3fb40800000000000000
+      internalID: 5472915101919150247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 400
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0d5958a3607fc00800000000000000
+      internalID: 934222296121725133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 401
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e802af21bdbfff0800000000000000
+      internalID: -1166500331221368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 404
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c68be618f90194c0800000000000000
+      internalID: -4282630809511557438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 403
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfeb97418033d880800000000000000
+      internalID: -8587466732655087692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 404
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e1a433237200fc0800000000000000
+      internalID: -3530779011296125320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_29
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 407
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54888ca22fd6270800000000000000
+      internalID: 8245512758352168353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 406
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdbea8f808ee5940800000000000000
+      internalID: 5286918137809124808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_31
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 407
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3859ab081c7920c0800000000000000
+      internalID: -4600009101665544131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_32
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 404
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e31f350f13a84b0800000000000000
+      internalID: -5437478691826221456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_33
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 404
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3917f0d3e4a74e0800000000000000
+      internalID: -1983186661744208935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_34
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 453
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8c129a9aaf9e50800000000000000
+      internalID: 6818355941715249692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1b35bf2197fb240800000000000000
+      internalID: 4809696049487917500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 360
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a974b5b3ba2da1c70800000000000000
+      internalID: 8942691642974619546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 362
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b15e32d5329fa50800000000000000
+      internalID: 6555309615555615560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 364
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d4e14a8fe72b760800000000000000
+      internalID: 7472174338131512712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 364
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3086d6fe04c2a10800000000000000
+      internalID: 1885953741038289848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_40
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 405
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472b4de3bedfaacb0800000000000000
+      internalID: -4851786461725019532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 402
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73a36a2873d56a0800000000000000
+      internalID: -6458945256305313848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_42
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 403
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb7fe4c7d39fc670800000000000000
+      internalID: 8561223971585883105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_43
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 404
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74e7c09fd7c6e40800000000000000
+      internalID: 5651030141053061068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_44
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 407
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff3545604f7aef20800000000000000
+      internalID: 3452711978886578174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 361
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22cb91edef34c40800000000000000
+      internalID: 5495516200190092016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_46
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 362
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75542a1fd05e50a0800000000000000
+      internalID: -6890981460683762308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 365
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387bdd812771e9850800000000000000
+      internalID: 6385567100468836227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_48
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 356
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11af29e871d1b77e0800000000000000
+      internalID: -1766786441799337455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_49
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 355
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31daf9691f2456d00800000000000000
+      internalID: 965251300522437907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_50
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 354
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dd17162e14cf0c0800000000000000
+      internalID: -4540681883743036121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_51
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 351
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd597645ef2e2210800000000000000
+      internalID: 1310037203387768278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_52
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 355
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945990958fee3edf0800000000000000
+      internalID: -152015211987364535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_53
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 354
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52233de02f1426c20800000000000000
+      internalID: 3198191193273086501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_54
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 354
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17bb5439511fb050800000000000000
+      internalID: 5818388318414157594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_55
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 354
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9792462477a6ac0800000000000000
+      internalID: -3861142603484792365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_56
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 355
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c52ec345611080800000000000000
+      internalID: -9218475620354899361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_57
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 376
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a38a0d4b2b229f0800000000000000
+      internalID: -494636519392789955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 321
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b045dbd8c3d04b0800000000000000
+      internalID: -5472651392720827637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_59
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 362
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da0284889e04ad0800000000000000
+      internalID: -2719917403396854483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_60
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 362
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a7ed747180e5ad0800000000000000
+      internalID: -2711721029547427290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_61
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 362
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aed5b550c1c6420800000000000000
+      internalID: 2624503492183452235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_62
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 362
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2145270d13baacf0800000000000000
+      internalID: -240182692855594707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_63
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 362
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f63161ae1fc7f410800000000000000
+      internalID: 1510903930469562105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0c6743d17138d0800000000000000
+      internalID: -2868386335407994172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 313
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de1f855c17a36510800000000000000
+      internalID: 1541259237627207380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 312
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d53ea1d97a725d0800000000000000
+      internalID: -3087314726336373452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 314
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1fe661067005970800000000000000
+      internalID: 8741494986000757205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 316
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd095768a3df6740800000000000000
+      internalID: 5147565619349622211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 315
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45658895523a3c20800000000000000
+      internalID: 3186915029530535246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 319
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565da1bfe7722c780800000000000000
+      internalID: -8664319306775210651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 319
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e942df34aec997a0800000000000000
+      internalID: -6369832993098151450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_72
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 310
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d198be77e89d20800000000000000
+      internalID: 3285630459615236106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_73
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 303
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46833c589d851500800000000000000
+      internalID: 366354630221989450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_74
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 303
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc54abf914d99d0800000000000000
+      internalID: -2765982441854874654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_75
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 301
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00470dfab14405e0800000000000000
+      internalID: -1944356867752378354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_76
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 303
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f706a29e4504f7ac0800000000000000
+      internalID: -3855292022572556161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_77
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 303
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d182c4d2ff35f4b0800000000000000
+      internalID: -5407345465404259885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_78
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 303
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3d9b3e4d1a36b40800000000000000
+      internalID: 5432363511264695280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_79
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 303
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37aa7d4caab4c420800000000000000
+      internalID: 2649447729997719355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_80
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 305
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c55a4be5a2a430800000000000000
+      internalID: 3792776266182412054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2b015b0d09f580800000000000000
+      internalID: -8792982455208694751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 270
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe4fa2f8c77ec990800000000000000
+      internalID: -7363816635755442437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_83
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 271
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b92e5ec59e41a80800000000000000
+      internalID: -8496910011738186989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_84
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 274
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a5f2925be3fa860800000000000000
+      internalID: 7543316848669842009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_85
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 219
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537bbbfa1ec56e590800000000000000
+      internalID: -7645321193029126347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_86
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 274
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c01be68e8f5da400800000000000000
+      internalID: 337030612876202177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_87
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 274
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc087cd5325e210800000000000000
+      internalID: 1361533348035480382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_88
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 274
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493f614bf8348e140800000000000000
+      internalID: 4749120091542975380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 219
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d90220fd2bd630800000000000000
+      internalID: 3952803607334214051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_90
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 265
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795fff8e8739f6c50800000000000000
+      internalID: 6660704521418700183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_91
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 267
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0835adc47f16a5510800000000000000
+      internalID: 1538649937474638720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_92
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 261
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f5f29d94d740a0800000000000000
+      internalID: -6897310531054079298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_93
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 253
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e996b76455d12a9b0800000000000000
+      internalID: -5070457978373838434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_94
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 252
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674ae137d88867f60800000000000000
+      internalID: 8031757126565012598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_95
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 252
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e89973c17e6ad20800000000000000
+      internalID: 3289570686218636819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_96
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 253
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d06d80390dd6c10800000000000000
+      internalID: 2048522735450459518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_97
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 253
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8593c91439aef840800000000000000
+      internalID: 5259827456050959757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_98
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 254
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3243854a271230800000000000000
+      internalID: 3609400104404008929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_99
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 255
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac015d546cf971b0800000000000000
+      internalID: -5658213948821795667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_100
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 255
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fae1c8c089306b0800000000000000
+      internalID: -5331250354218684522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199e3758da2d48210800000000000000
+      internalID: 1334423032318650769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 216
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c177119cbe8bcae0800000000000000
+      internalID: -1527970708022922808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 221
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056104c95a2b6c30800000000000000
+      internalID: 4353620029812598019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_104
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 250
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f40a0d7d6233ea10800000000000000
+      internalID: 1937447710530077936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 219
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56afe38230c81b10800000000000000
+      internalID: 1952521761659528794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_106
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc54f9a34a2593ae0800000000000000
+      internalID: -1569132129850276404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_107
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 215
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718216e0bcedf1d10800000000000000
+      internalID: 2098640915078916119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_108
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 209
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa019d45cd727b0800000000000000
+      internalID: -5248984583699910662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_109
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 203
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81ea7fce67c5b50800000000000000
+      internalID: 6583267515448563922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_110
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 202
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0d7fb2194b74100800000000000000
+      internalID: 92240852985303208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_111
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 202
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edcba49468960670800000000000000
+      internalID: 8504652504094199270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_112
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d423f21087849a00800000000000000
+      internalID: 762383221075944659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_113
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 203
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c98db560978b330800000000000000
+      internalID: 3726861759866772529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_114
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 203
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1522296966706ebc0800000000000000
+      internalID: -3754305102172511663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_115
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 203
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ddc7a8c2b621c70800000000000000
+      internalID: 8940326049330027888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_116
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 203
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae5f89c7fb68fb0800000000000000
+      internalID: -4645815423722984753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ba025114b485a0800000000000000
+      internalID: -6519888374041758275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_118
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 166
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0038ac1aadd8de0800000000000000
+      internalID: -1329165926582255450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c58869204bd55f0800000000000000
+      internalID: -766258438374663061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_120
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 163
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d3e502af3811dc0800000000000000
+      internalID: -3670007111022133891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_121
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 163
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec4cf38a4a847a30800000000000000
+      internalID: 4212143604144819425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 164
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd3ccaa1bc3ca4c0800000000000000
+      internalID: -4274975212509053507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_123
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 166
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458fe9f89cb3e8c00800000000000000
+      internalID: 904726312032073812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_124
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 212
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53272c13ff0576ad0800000000000000
+      internalID: -2709107593858354635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0797c61d949357640800000000000000
+      internalID: 5077027144139045232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_126
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2957cc6dd579a4410800000000000000
+      internalID: 1462147458326623634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 113
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426e1ca753abd3f60800000000000000
+      internalID: 8015767650644911652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_128
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 113
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12844c7a5da779c0800000000000000
+      internalID: -3929481545713941985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_129
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 113
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba33a2062cafd670800000000000000
+      internalID: 8565754295534959289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_130
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 114
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd2f572c4ce010d0800000000000000
+      internalID: -3454001102370951686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_131
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 109
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcc307648a5b1670800000000000000
+      internalID: 8510495445557169331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_132
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 159
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4e759c8bffe8960800000000000000
+      internalID: 7606297989792392380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_133
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 109
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d741910c3da54830800000000000000
+      internalID: 4054837512752941012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_134
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 159
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2253a2d2f302a0310800000000000000
+      internalID: 1371944492200506658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_135
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 154
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ec40e1b6fc39d0800000000000000
+      internalID: -2793086425043770091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_136
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 152
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea953e20ee600e00800000000000000
+      internalID: 1008928225657985774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_137
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 152
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b14fa877b2e2cf0800000000000000
+      internalID: -275234734790665390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_138
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 154
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747ec66214a22e90800000000000000
+      internalID: -7051893667567602566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_139
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 151
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e36d77840f30d0800000000000000
+      internalID: -3441026610316975174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_140
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 158
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7686fb7b789ee7b0800000000000000
+      internalID: -5193045664183449986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_141
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 154
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d6ab39e089cdd10800000000000000
+      internalID: 2151761910351686942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_142
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 153
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d1479b416972050800000000000000
+      internalID: 5775750062880857438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59e111a580d6c30800000000000000
+      internalID: 4354145597664433652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_144
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 61
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e5bcdf699e0d3b0800000000000000
+      internalID: -5489631111052304742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_145
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 61
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837660aa46b5044f0800000000000000
+      internalID: -846576242038249672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_146
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 61
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b77f00447c7f40800000000000000
+      internalID: 5727580644594661392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_147
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 62
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0785b344df187a0800000000000000
+      internalID: -6376537127884656385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_148
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 59
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d684a44af73cc590800000000000000
+      internalID: -7652680118776330535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_149
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 60
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe05eb05e3edcff0800000000000000
+      internalID: -14104650925666566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_150
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 55
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc0653c8d05ab850800000000000000
+      internalID: 6393511512926194882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_151
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 104
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738de71fe24463ac0800000000000000
+      internalID: -3875835460894926793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_152
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 54
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e5d521558d5d110800000000000000
+      internalID: 1285171128576073322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_153
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 103
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7492ca678b01c0800000000000000
+      internalID: -4536383307044848102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_154
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 104
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b724e69b88b9f0800000000000000
+      internalID: -452458282361571764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_155
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 101
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560aa8ac0aca40d10800000000000000
+      internalID: 2090985933599580261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_156
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 101
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4244d482e890970800000000000000
+      internalID: 8721658457125823689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_157
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 101
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567cd64e2ec5f180800000000000000
+      internalID: -9082126375370066338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_158
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 101
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a455d12aaa6e4d0800000000000000
+      internalID: -3105607279771825583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_159
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 101
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5ad13cdf8556d0800000000000000
+      internalID: -3002335400680595848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_160
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 102
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c2277590821210800000000000000
+      internalID: 1302244621700743636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_161
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 54
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a0806ea09a30d90800000000000000
+      internalID: -7132671520550679962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_162
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 103
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef437a3cff5ba9a80800000000000000
+      internalID: -8459248839958252290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381553db928f2e120800000000000000
+      internalID: 2441786806139965827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_164
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 10
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d67fe098df5c600800000000000000
+      internalID: 488074899743010138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_165
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968333705964ee20800000000000000
+      internalID: 3378941414685771421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_166
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 29
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c20132e8e0342c20800000000000000
+      internalID: 3180721013615821513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_167
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 30
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e0f71c1b5dd4660800000000000000
+      internalID: 7371783124507627056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_168
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00716995d16d7ad0800000000000000
+      internalID: -2702896631323201523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_169
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e39ba53e94cc15f0800000000000000
+      internalID: -784536051284995101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_170
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0dfa99840d3ee0800000000000000
+      internalID: -1279861730046047352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_171
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886fcdf2a3a76d120800000000000000
+      internalID: 2438270638597404296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_172
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 53
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63232d3337bbff2d0800000000000000
+      internalID: -3242667103218421194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_173
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f194d87bc3ae2dd70800000000000000
+      internalID: 9066566546348656927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_174
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 52
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02480d8807f2d2ed0800000000000000
+      internalID: -2437239662959360992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_175
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c94158f14c66100800000000000000
+      internalID: 100983681318165637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_176
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 53
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51507d3ea64191630800000000000000
+      internalID: 3898169401787483413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_177
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e537b39f2d19d7e70800000000000000
+      internalID: 9114601556178334558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_178
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 53
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934a98a6a843f9d00800000000000000
+      internalID: 981561012887594041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_179
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 53
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fcb01b40cbd73e0800000000000000
+      internalID: -2054279126674845852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_180
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 53
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d82138013a0ed70800000000000000
+      internalID: 9070428940838014222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_181
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 53
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c55ee128c93a5b0800000000000000
+      internalID: -5358267048962728889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_182
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea735ea68452050800000000000000
+      internalID: 5775101721121894082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_183
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a70738d8478a60800000000000000
+      internalID: 7676184183349683047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_184
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 4
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaef7fd6d3194540800000000000000
+      internalID: 4992543475510536929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_185
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865704188be3bc120800000000000000
+      internalID: 2435108985687274856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_186
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc6d54bfb47ee30800000000000000
+      internalID: 4532675092552273214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_187
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca35c239af15b830800000000000000
+      internalID: 4086207048470313671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_188
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 4
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b31c393a3eaa40800000000000000
+      internalID: 5381302622249793512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_189
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64972d2237e9d5dd0800000000000000
+      internalID: -2495664401150740154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_small_ranged_190
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616b593ad5b81100800000000000000
+      internalID: 79012942348771686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      standard_t2_small_ranged_0: 7244765576271707233
+      standard_t2_small_ranged_1: -8786619865836600280
+      standard_t2_small_ranged_10: 276198310483398152
+      standard_t2_small_ranged_100: -5331250354218684522
+      standard_t2_small_ranged_101: 1334423032318650769
+      standard_t2_small_ranged_102: -1527970708022922808
+      standard_t2_small_ranged_103: 4353620029812598019
+      standard_t2_small_ranged_104: 1937447710530077936
+      standard_t2_small_ranged_105: 1952521761659528794
+      standard_t2_small_ranged_106: -1569132129850276404
+      standard_t2_small_ranged_107: 2098640915078916119
+      standard_t2_small_ranged_108: -5248984583699910662
+      standard_t2_small_ranged_109: 6583267515448563922
+      standard_t2_small_ranged_11: 8957191152985653163
+      standard_t2_small_ranged_110: 92240852985303208
+      standard_t2_small_ranged_111: 8504652504094199270
+      standard_t2_small_ranged_112: 762383221075944659
+      standard_t2_small_ranged_113: 3726861759866772529
+      standard_t2_small_ranged_114: -3754305102172511663
+      standard_t2_small_ranged_115: 8940326049330027888
+      standard_t2_small_ranged_116: -4645815423722984753
+      standard_t2_small_ranged_117: -6519888374041758275
+      standard_t2_small_ranged_118: -1329165926582255450
+      standard_t2_small_ranged_119: -766258438374663061
+      standard_t2_small_ranged_12: -7303678973524249301
+      standard_t2_small_ranged_120: -3670007111022133891
+      standard_t2_small_ranged_121: 4212143604144819425
+      standard_t2_small_ranged_122: -4274975212509053507
+      standard_t2_small_ranged_123: 904726312032073812
+      standard_t2_small_ranged_124: -2709107593858354635
+      standard_t2_small_ranged_125: 5077027144139045232
+      standard_t2_small_ranged_126: 1462147458326623634
+      standard_t2_small_ranged_127: 8015767650644911652
+      standard_t2_small_ranged_128: -3929481545713941985
+      standard_t2_small_ranged_129: 8565754295534959289
+      standard_t2_small_ranged_13: -5832178373076969255
+      standard_t2_small_ranged_130: -3454001102370951686
+      standard_t2_small_ranged_131: 8510495445557169331
+      standard_t2_small_ranged_132: 7606297989792392380
+      standard_t2_small_ranged_133: 4054837512752941012
+      standard_t2_small_ranged_134: 1371944492200506658
+      standard_t2_small_ranged_135: -2793086425043770091
+      standard_t2_small_ranged_136: 1008928225657985774
+      standard_t2_small_ranged_137: -275234734790665390
+      standard_t2_small_ranged_138: -7051893667567602566
+      standard_t2_small_ranged_139: -3441026610316975174
+      standard_t2_small_ranged_14: -2190937684865103663
+      standard_t2_small_ranged_140: -5193045664183449986
+      standard_t2_small_ranged_141: 2151761910351686942
+      standard_t2_small_ranged_142: 5775750062880857438
+      standard_t2_small_ranged_143: 4354145597664433652
+      standard_t2_small_ranged_144: -5489631111052304742
+      standard_t2_small_ranged_145: -846576242038249672
+      standard_t2_small_ranged_146: 5727580644594661392
+      standard_t2_small_ranged_147: -6376537127884656385
+      standard_t2_small_ranged_148: -7652680118776330535
+      standard_t2_small_ranged_149: -14104650925666566
+      standard_t2_small_ranged_15: -4301494984691365844
+      standard_t2_small_ranged_150: 6393511512926194882
+      standard_t2_small_ranged_151: -3875835460894926793
+      standard_t2_small_ranged_152: 1285171128576073322
+      standard_t2_small_ranged_153: -4536383307044848102
+      standard_t2_small_ranged_154: -452458282361571764
+      standard_t2_small_ranged_155: 2090985933599580261
+      standard_t2_small_ranged_156: 8721658457125823689
+      standard_t2_small_ranged_157: -9082126375370066338
+      standard_t2_small_ranged_158: -3105607279771825583
+      standard_t2_small_ranged_159: -3002335400680595848
+      standard_t2_small_ranged_16: -8904401548084574303
+      standard_t2_small_ranged_160: 1302244621700743636
+      standard_t2_small_ranged_161: -7132671520550679962
+      standard_t2_small_ranged_162: -8459248839958252290
+      standard_t2_small_ranged_163: 2441786806139965827
+      standard_t2_small_ranged_164: 488074899743010138
+      standard_t2_small_ranged_165: 3378941414685771421
+      standard_t2_small_ranged_166: 3180721013615821513
+      standard_t2_small_ranged_167: 7371783124507627056
+      standard_t2_small_ranged_168: -2702896631323201523
+      standard_t2_small_ranged_169: -784536051284995101
+      standard_t2_small_ranged_17: 419933841711222591
+      standard_t2_small_ranged_170: -1279861730046047352
+      standard_t2_small_ranged_171: 2438270638597404296
+      standard_t2_small_ranged_172: -3242667103218421194
+      standard_t2_small_ranged_173: 9066566546348656927
+      standard_t2_small_ranged_174: -2437239662959360992
+      standard_t2_small_ranged_175: 100983681318165637
+      standard_t2_small_ranged_176: 3898169401787483413
+      standard_t2_small_ranged_177: 9114601556178334558
+      standard_t2_small_ranged_178: 981561012887594041
+      standard_t2_small_ranged_179: -2054279126674845852
+      standard_t2_small_ranged_18: 4014124468254914109
+      standard_t2_small_ranged_180: 9070428940838014222
+      standard_t2_small_ranged_181: -5358267048962728889
+      standard_t2_small_ranged_182: 5775101721121894082
+      standard_t2_small_ranged_183: 7676184183349683047
+      standard_t2_small_ranged_184: 4992543475510536929
+      standard_t2_small_ranged_185: 2435108985687274856
+      standard_t2_small_ranged_186: 4532675092552273214
+      standard_t2_small_ranged_187: 4086207048470313671
+      standard_t2_small_ranged_188: 5381302622249793512
+      standard_t2_small_ranged_189: -2495664401150740154
+      standard_t2_small_ranged_19: 6369306547555406270
+      standard_t2_small_ranged_190: 79012942348771686
+      standard_t2_small_ranged_2: 2628445430888089694
+      standard_t2_small_ranged_20: -3031881994641416217
+      standard_t2_small_ranged_21: -3164463562469974424
+      standard_t2_small_ranged_22: 1164808903172324537
+      standard_t2_small_ranged_23: 5472915101919150247
+      standard_t2_small_ranged_24: 934222296121725133
+      standard_t2_small_ranged_25: -1166500331221368
+      standard_t2_small_ranged_26: -4282630809511557438
+      standard_t2_small_ranged_27: -8587466732655087692
+      standard_t2_small_ranged_28: -3530779011296125320
+      standard_t2_small_ranged_29: 8245512758352168353
+      standard_t2_small_ranged_3: 480731456376449132
+      standard_t2_small_ranged_30: 5286918137809124808
+      standard_t2_small_ranged_31: -4600009101665544131
+      standard_t2_small_ranged_32: -5437478691826221456
+      standard_t2_small_ranged_33: -1983186661744208935
+      standard_t2_small_ranged_34: 6818355941715249692
+      standard_t2_small_ranged_35: 4809696049487917500
+      standard_t2_small_ranged_36: 8942691642974619546
+      standard_t2_small_ranged_37: 6555309615555615560
+      standard_t2_small_ranged_38: 7472174338131512712
+      standard_t2_small_ranged_39: 1885953741038289848
+      standard_t2_small_ranged_4: -3844374115577788247
+      standard_t2_small_ranged_40: -4851786461725019532
+      standard_t2_small_ranged_41: -6458945256305313848
+      standard_t2_small_ranged_42: 8561223971585883105
+      standard_t2_small_ranged_43: 5651030141053061068
+      standard_t2_small_ranged_44: 3452711978886578174
+      standard_t2_small_ranged_45: 5495516200190092016
+      standard_t2_small_ranged_46: -6890981460683762308
+      standard_t2_small_ranged_47: 6385567100468836227
+      standard_t2_small_ranged_48: -1766786441799337455
+      standard_t2_small_ranged_49: 965251300522437907
+      standard_t2_small_ranged_5: -1611961356878152790
+      standard_t2_small_ranged_50: -4540681883743036121
+      standard_t2_small_ranged_51: 1310037203387768278
+      standard_t2_small_ranged_52: -152015211987364535
+      standard_t2_small_ranged_53: 3198191193273086501
+      standard_t2_small_ranged_54: 5818388318414157594
+      standard_t2_small_ranged_55: -3861142603484792365
+      standard_t2_small_ranged_56: -9218475620354899361
+      standard_t2_small_ranged_57: -494636519392789955
+      standard_t2_small_ranged_58: -5472651392720827637
+      standard_t2_small_ranged_59: -2719917403396854483
+      standard_t2_small_ranged_6: -8286571233142285055
+      standard_t2_small_ranged_60: -2711721029547427290
+      standard_t2_small_ranged_61: 2624503492183452235
+      standard_t2_small_ranged_62: -240182692855594707
+      standard_t2_small_ranged_63: 1510903930469562105
+      standard_t2_small_ranged_64: -2868386335407994172
+      standard_t2_small_ranged_65: 1541259237627207380
+      standard_t2_small_ranged_66: -3087314726336373452
+      standard_t2_small_ranged_67: 8741494986000757205
+      standard_t2_small_ranged_68: 5147565619349622211
+      standard_t2_small_ranged_69: 3186915029530535246
+      standard_t2_small_ranged_7: 4745244846499729055
+      standard_t2_small_ranged_70: -8664319306775210651
+      standard_t2_small_ranged_71: -6369832993098151450
+      standard_t2_small_ranged_72: 3285630459615236106
+      standard_t2_small_ranged_73: 366354630221989450
+      standard_t2_small_ranged_74: -2765982441854874654
+      standard_t2_small_ranged_75: -1944356867752378354
+      standard_t2_small_ranged_76: -3855292022572556161
+      standard_t2_small_ranged_77: -5407345465404259885
+      standard_t2_small_ranged_78: 5432363511264695280
+      standard_t2_small_ranged_79: 2649447729997719355
+      standard_t2_small_ranged_8: -4004755543326076128
+      standard_t2_small_ranged_80: 3792776266182412054
+      standard_t2_small_ranged_81: -8792982455208694751
+      standard_t2_small_ranged_82: -7363816635755442437
+      standard_t2_small_ranged_83: -8496910011738186989
+      standard_t2_small_ranged_84: 7543316848669842009
+      standard_t2_small_ranged_85: -7645321193029126347
+      standard_t2_small_ranged_86: 337030612876202177
+      standard_t2_small_ranged_87: 1361533348035480382
+      standard_t2_small_ranged_88: 4749120091542975380
+      standard_t2_small_ranged_89: 3952803607334214051
+      standard_t2_small_ranged_9: 115718660502809803
+      standard_t2_small_ranged_90: 6660704521418700183
+      standard_t2_small_ranged_91: 1538649937474638720
+      standard_t2_small_ranged_92: -6897310531054079298
+      standard_t2_small_ranged_93: -5070457978373838434
+      standard_t2_small_ranged_94: 8031757126565012598
+      standard_t2_small_ranged_95: 3289570686218636819
+      standard_t2_small_ranged_96: 2048522735450459518
+      standard_t2_small_ranged_97: 5259827456050959757
+      standard_t2_small_ranged_98: 3609400104404008929
+      standard_t2_small_ranged_99: -5658213948821795667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

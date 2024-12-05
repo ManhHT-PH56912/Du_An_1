@@ -1,0 +1,3627 @@
+fileFormatVersion: 2
+guid: 710933d4483c1b0488f10193056ecfb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7383742396058066089
+    second: standard_t1_large_shield_0
+  - first:
+      213: -916200248643533059
+    second: standard_t1_large_shield_1
+  - first:
+      213: 4662649579048752058
+    second: standard_t1_large_shield_2
+  - first:
+      213: 5391810471896415921
+    second: standard_t1_large_shield_3
+  - first:
+      213: -6420566282722109873
+    second: standard_t1_large_shield_4
+  - first:
+      213: 2844596455079838553
+    second: standard_t1_large_shield_5
+  - first:
+      213: 7322739580580263150
+    second: standard_t1_large_shield_6
+  - first:
+      213: -3737131241903896715
+    second: standard_t1_large_shield_7
+  - first:
+      213: 7542467566907477432
+    second: standard_t1_large_shield_8
+  - first:
+      213: 4593361114690596503
+    second: standard_t1_large_shield_9
+  - first:
+      213: 2233196395338598070
+    second: standard_t1_large_shield_10
+  - first:
+      213: -7222600734788191191
+    second: standard_t1_large_shield_11
+  - first:
+      213: -6152313902003016203
+    second: standard_t1_large_shield_12
+  - first:
+      213: -9012131964253157127
+    second: standard_t1_large_shield_13
+  - first:
+      213: 3067818276845137338
+    second: standard_t1_large_shield_14
+  - first:
+      213: 1343810762097530722
+    second: standard_t1_large_shield_15
+  - first:
+      213: 1165738145040411680
+    second: standard_t1_large_shield_16
+  - first:
+      213: 3080540405689909782
+    second: standard_t1_large_shield_17
+  - first:
+      213: 4697379808166634045
+    second: standard_t1_large_shield_18
+  - first:
+      213: -2541051543164274498
+    second: standard_t1_large_shield_19
+  - first:
+      213: -1368056383145650453
+    second: standard_t1_large_shield_20
+  - first:
+      213: 8515052572548499015
+    second: standard_t1_large_shield_21
+  - first:
+      213: -5813806058836740147
+    second: standard_t1_large_shield_22
+  - first:
+      213: -3640207112954446481
+    second: standard_t1_large_shield_23
+  - first:
+      213: -7700813647795911584
+    second: standard_t1_large_shield_24
+  - first:
+      213: -2697133273775363587
+    second: standard_t1_large_shield_25
+  - first:
+      213: -6406182486102960035
+    second: standard_t1_large_shield_26
+  - first:
+      213: -2567153535004887792
+    second: standard_t1_large_shield_27
+  - first:
+      213: -8015678395760326290
+    second: standard_t1_large_shield_28
+  - first:
+      213: -3485352014456716240
+    second: standard_t1_large_shield_29
+  - first:
+      213: 6098817019749067189
+    second: standard_t1_large_shield_30
+  - first:
+      213: 26310169437624296
+    second: standard_t1_large_shield_31
+  - first:
+      213: -7788687323344603677
+    second: standard_t1_large_shield_32
+  - first:
+      213: -3753241210522645869
+    second: standard_t1_large_shield_33
+  - first:
+      213: 8122385636223400561
+    second: standard_t1_large_shield_34
+  - first:
+      213: -3575416729800532538
+    second: standard_t1_large_shield_35
+  - first:
+      213: -2926565126682961465
+    second: standard_t1_large_shield_36
+  - first:
+      213: 7780166971861462589
+    second: standard_t1_large_shield_37
+  - first:
+      213: -3055903615457096106
+    second: standard_t1_large_shield_38
+  - first:
+      213: -1387103611611537208
+    second: standard_t1_large_shield_39
+  - first:
+      213: 3096314982327197360
+    second: standard_t1_large_shield_40
+  - first:
+      213: -7692326290296780120
+    second: standard_t1_large_shield_41
+  - first:
+      213: 5158612539296885336
+    second: standard_t1_large_shield_42
+  - first:
+      213: 8228086854720273546
+    second: standard_t1_large_shield_43
+  - first:
+      213: -4766436860028646019
+    second: standard_t1_large_shield_44
+  - first:
+      213: 1364637729235049222
+    second: standard_t1_large_shield_45
+  - first:
+      213: 8160901871764491565
+    second: standard_t1_large_shield_46
+  - first:
+      213: 8204036541348881277
+    second: standard_t1_large_shield_47
+  - first:
+      213: 5806629723038075089
+    second: standard_t1_large_shield_48
+  - first:
+      213: -6716045430793310761
+    second: standard_t1_large_shield_49
+  - first:
+      213: 7224361620093695472
+    second: standard_t1_large_shield_50
+  - first:
+      213: 6339032834400923244
+    second: standard_t1_large_shield_51
+  - first:
+      213: -7357861586662630233
+    second: standard_t1_large_shield_52
+  - first:
+      213: 1186177204388750538
+    second: standard_t1_large_shield_53
+  - first:
+      213: 2462498618994263984
+    second: standard_t1_large_shield_54
+  - first:
+      213: 3998416535465815061
+    second: standard_t1_large_shield_55
+  - first:
+      213: -7033610147032516920
+    second: standard_t1_large_shield_56
+  - first:
+      213: 792484883126120471
+    second: standard_t1_large_shield_57
+  - first:
+      213: 6145652539023494484
+    second: standard_t1_large_shield_58
+  - first:
+      213: -8454531744927474072
+    second: standard_t1_large_shield_59
+  - first:
+      213: -7694088036506245668
+    second: standard_t1_large_shield_60
+  - first:
+      213: -1324560713612284579
+    second: standard_t1_large_shield_61
+  - first:
+      213: 6531392714855219715
+    second: standard_t1_large_shield_62
+  - first:
+      213: 4851812988948984842
+    second: standard_t1_large_shield_63
+  - first:
+      213: -3676769984920244552
+    second: standard_t1_large_shield_64
+  - first:
+      213: -5429473330869099120
+    second: standard_t1_large_shield_65
+  - first:
+      213: 5903374792450189789
+    second: standard_t1_large_shield_66
+  - first:
+      213: -4253578107713896735
+    second: standard_t1_large_shield_67
+  - first:
+      213: 6282870627040098170
+    second: standard_t1_large_shield_68
+  - first:
+      213: 5597922128654761321
+    second: standard_t1_large_shield_69
+  - first:
+      213: 3353484443037948032
+    second: standard_t1_large_shield_70
+  - first:
+      213: 4208305509317381134
+    second: standard_t1_large_shield_71
+  - first:
+      213: 9017300252026986654
+    second: standard_t1_large_shield_72
+  - first:
+      213: -6515201263432149241
+    second: standard_t1_large_shield_73
+  - first:
+      213: 7880989477895093009
+    second: standard_t1_large_shield_74
+  - first:
+      213: 5716613905646919761
+    second: standard_t1_large_shield_75
+  - first:
+      213: 3835303740152427469
+    second: standard_t1_large_shield_76
+  - first:
+      213: 269093279335298935
+    second: standard_t1_large_shield_77
+  - first:
+      213: 6189322936490491854
+    second: standard_t1_large_shield_78
+  - first:
+      213: -181712252839824603
+    second: standard_t1_large_shield_79
+  - first:
+      213: 2160542128583779214
+    second: standard_t1_large_shield_80
+  - first:
+      213: 8414040564957832570
+    second: standard_t1_large_shield_81
+  - first:
+      213: 8352563726946737799
+    second: standard_t1_large_shield_82
+  - first:
+      213: -3112288899039999127
+    second: standard_t1_large_shield_83
+  - first:
+      213: 74948171371839396
+    second: standard_t1_large_shield_84
+  - first:
+      213: 599319798297447811
+    second: standard_t1_large_shield_85
+  - first:
+      213: -4199968441406661389
+    second: standard_t1_large_shield_86
+  - first:
+      213: -3313942423960132364
+    second: standard_t1_large_shield_87
+  - first:
+      213: -7024231403685671373
+    second: standard_t1_large_shield_88
+  - first:
+      213: 5405346519046961383
+    second: standard_t1_large_shield_89
+  - first:
+      213: -17870191240546870
+    second: standard_t1_large_shield_90
+  - first:
+      213: -8947836365502465787
+    second: standard_t1_large_shield_91
+  - first:
+      213: 4196970360155635004
+    second: standard_t1_large_shield_92
+  - first:
+      213: 5956126018314233291
+    second: standard_t1_large_shield_93
+  - first:
+      213: -1842222604306766837
+    second: standard_t1_large_shield_94
+  - first:
+      213: 6062928937667089205
+    second: standard_t1_large_shield_95
+  - first:
+      213: -709786862024614408
+    second: standard_t1_large_shield_96
+  - first:
+      213: -3789416354938775605
+    second: standard_t1_large_shield_97
+  - first:
+      213: -7310499646818533671
+    second: standard_t1_large_shield_98
+  - first:
+      213: 2763243849692983850
+    second: standard_t1_large_shield_99
+  - first:
+      213: 7489305362506932655
+    second: standard_t1_large_shield_100
+  - first:
+      213: -2814420306322365962
+    second: standard_t1_large_shield_101
+  - first:
+      213: 8975599101636891677
+    second: standard_t1_large_shield_102
+  - first:
+      213: 5352669824018880557
+    second: standard_t1_large_shield_103
+  - first:
+      213: 5599706149105145999
+    second: standard_t1_large_shield_104
+  - first:
+      213: 1217019407773330050
+    second: standard_t1_large_shield_105
+  - first:
+      213: 7367607867503609472
+    second: standard_t1_large_shield_106
+  - first:
+      213: -275645245200442141
+    second: standard_t1_large_shield_107
+  - first:
+      213: -4238187450222074290
+    second: standard_t1_large_shield_108
+  - first:
+      213: -5684030396720479731
+    second: standard_t1_large_shield_109
+  - first:
+      213: -3419341481328209661
+    second: standard_t1_large_shield_110
+  - first:
+      213: -8913623644204292261
+    second: standard_t1_large_shield_111
+  - first:
+      213: -5239240349767799259
+    second: standard_t1_large_shield_112
+  - first:
+      213: 4126762353274005996
+    second: standard_t1_large_shield_113
+  - first:
+      213: -52406768393926280
+    second: standard_t1_large_shield_114
+  - first:
+      213: -5769370787641645663
+    second: standard_t1_large_shield_115
+  - first:
+      213: 1130636977953367512
+    second: standard_t1_large_shield_116
+  - first:
+      213: -2317999241480163796
+    second: standard_t1_large_shield_117
+  - first:
+      213: -6948770614270392349
+    second: standard_t1_large_shield_118
+  - first:
+      213: 3246921982665532154
+    second: standard_t1_large_shield_119
+  - first:
+      213: 4638485237503060748
+    second: standard_t1_large_shield_120
+  - first:
+      213: -7165112082215344685
+    second: standard_t1_large_shield_121
+  - first:
+      213: 7838834746854559484
+    second: standard_t1_large_shield_122
+  - first:
+      213: -6421113995624110450
+    second: standard_t1_large_shield_123
+  - first:
+      213: 8085777994082971552
+    second: standard_t1_large_shield_124
+  - first:
+      213: 5476409799949165525
+    second: standard_t1_large_shield_125
+  - first:
+      213: 7395969522416992871
+    second: standard_t1_large_shield_126
+  - first:
+      213: -5353940258793386755
+    second: standard_t1_large_shield_127
+  - first:
+      213: 3544507758684695680
+    second: standard_t1_large_shield_128
+  - first:
+      213: 1489591484284239512
+    second: standard_t1_large_shield_129
+  - first:
+      213: 4937781847224770482
+    second: standard_t1_large_shield_130
+  - first:
+      213: 7817627387228244714
+    second: standard_t1_large_shield_131
+  - first:
+      213: 9171121128269407823
+    second: standard_t1_large_shield_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: standard_t1_large_shield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac5806a692587660800000000000000
+      internalID: 7383742396058066089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 449
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df64a746ab00943f0800000000000000
+      internalID: -916200248643533059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 448
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3535f961f05b040800000000000000
+      internalID: 4662649579048752058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 449
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1befd91ae0f83da40800000000000000
+      internalID: 5391810471896415921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 450
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f469f75cbf095e6a0800000000000000
+      internalID: -6420566282722109873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 403
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9538e5297690a7720800000000000000
+      internalID: 2844596455079838553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 450
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4fd2bd9d89f9560800000000000000
+      internalID: 7322739580580263150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 448
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577cd478fea032cc0800000000000000
+      internalID: -3737131241903896715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 448
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdcc675a4a3ca860800000000000000
+      internalID: 7542467566907477432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 447
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea93ed895eebf30800000000000000
+      internalID: 4593361114690596503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 447
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b607d12a48edfe10800000000000000
+      internalID: 2233196395338598070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 451
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c797016ea24cb90800000000000000
+      internalID: -7222600734788191191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 451
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda96c3a179e9aa0800000000000000
+      internalID: -6152313902003016203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 451
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f84fb11ab97ee280800000000000000
+      internalID: -9012131964253157127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 451
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd2ec20874139a20800000000000000
+      internalID: 3067818276845137338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 447
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2679b20b4cc26a210800000000000000
+      internalID: 1343810762097530722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_16
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 447
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ca144aaa88d2010800000000000000
+      internalID: 1165738145040411680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 447
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61282657d2740ca20800000000000000
+      internalID: 3080540405689909782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 446
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d326dd83c02703140800000000000000
+      internalID: 4697379808166634045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_19
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 447
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb83cb5a51f5cbcd0800000000000000
+      internalID: -2541051543164274498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_20
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6d5e1c7ffa30de0800000000000000
+      internalID: -1368056383145650453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7468786333b8b2670800000000000000
+      internalID: 8515052572548499015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 385
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b50e3136315fa0800000000000000
+      internalID: -5813806058836740147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 383
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dff7bdae26b7dc0800000000000000
+      internalID: -3640207112954446481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405a9b9c6312590800000000000000
+      internalID: -7700813647795911584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 402
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9abb8d39bd19ad0800000000000000
+      internalID: -2697133273775363587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 400
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58118568faa817a0800000000000000
+      internalID: -6406182486102960035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 403
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01535261673af5cd0800000000000000
+      internalID: -2567153535004887792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 399
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69ceeac7f692c090800000000000000
+      internalID: -8015678395760326290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 407
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0348d1d1fca81afc0800000000000000
+      internalID: -3485352014456716240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 378
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ef3c34c953a450800000000000000
+      internalID: 6098817019749067189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 378
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e75f4fa5f87d5000800000000000000
+      internalID: 26310169437624296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 378
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f479452609e390800000000000000
+      internalID: -7788687323344603677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_33
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 378
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac07a210fc9ebc0800000000000000
+      internalID: -3753241210522645869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_34
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 378
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ab4dfa3b288b070800000000000000
+      internalID: 8122385636223400561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_35
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 379
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd10487d61916ec0800000000000000
+      internalID: -3575416729800532538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9140cd580c267d0800000000000000
+      internalID: -2926565126682961465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 316
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e670bc3a4b8fb60800000000000000
+      internalID: 7780166971861462589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 319
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e09d44adf3795d0800000000000000
+      internalID: -3055903615457096106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 318
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0ab3b4d9400cce0800000000000000
+      internalID: -1387103611611537208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 317
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be155a421258fa20800000000000000
+      internalID: 3096314982327197360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 346
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa4672aefd5f3590800000000000000
+      internalID: -7692326290296780120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 341
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aaaa2e5c2179740800000000000000
+      internalID: 5158612539296885336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 339
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cb9ac6669003270800000000000000
+      internalID: 8228086854720273546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 337
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d0aa1fde63addb0800000000000000
+      internalID: -4766436860028646019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_45
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 340
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b962ad8ca20f210800000000000000
+      internalID: 1364637729235049222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 331
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dc7599309514170800000000000000
+      internalID: 8160901871764491565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_47
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 328
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ac6b74c79ad170800000000000000
+      internalID: 8204036541348881277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_48
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 311
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c8efd7fa459050800000000000000
+      internalID: 5806629723038075089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_49
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 311
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dded2a8340dbc2a0800000000000000
+      internalID: -6716045430793310761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_50
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 311
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f576aefd96124460800000000000000
+      internalID: 7224361620093695472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_51
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 311
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e210af6c4c8f750800000000000000
+      internalID: 6339032834400923244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 116
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac5b7cdedf93e990800000000000000
+      internalID: -7357861586662630233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 253
+        width: 142
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e14cf1e5267010800000000000000
+      internalID: 1186177204388750538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 253
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b70b05727d8c2220800000000000000
+      internalID: 2462498618994263984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 253
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cec7c87aa3d7730800000000000000
+      internalID: 3998416535465815061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_56
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 254
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c63b8146d8936e90800000000000000
+      internalID: -7033610147032516920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 274
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710799c6dc87ffa00800000000000000
+      internalID: 792484883126120471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 272
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d09755c6eb94550800000000000000
+      internalID: 6145652539023494484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 272
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e95590c287baa80800000000000000
+      internalID: -8454531744927474072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_60
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 266
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5667122bb193590800000000000000
+      internalID: -7694088036506245668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_61
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 264
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da3bd7c073e9de0800000000000000
+      internalID: -1324560713612284579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_62
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 245
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020581c11b24aa50800000000000000
+      internalID: 6531392714855219715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_63
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 245
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a043eea153a155340800000000000000
+      internalID: 4851812988948984842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_64
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 245
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bea208dd2d79fcc0800000000000000
+      internalID: -3676769984920244552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_65
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 244
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095271ca5c2a6a4b0800000000000000
+      internalID: -5429473330869099120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_66
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 244
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd92df7a8100de150800000000000000
+      internalID: 5903374792450189789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_67
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 244
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeb5595f3148f4c0800000000000000
+      internalID: -4253578107713896735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_68
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 244
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f5761c8d313750800000000000000
+      internalID: 6282870627040098170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 239
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96df3c65480dfad40800000000000000
+      internalID: 5597922128654761321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_70
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 238
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088531b5558f98e20800000000000000
+      internalID: 3353484443037948032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 238
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c8e2d6097e66a30800000000000000
+      internalID: 4208305509317381134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 242
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90eb13bdc2e32d70800000000000000
+      internalID: 9017300252026986654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 207
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70753fc48fa5595a0800000000000000
+      internalID: -6515201263432149241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_74
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 206
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b3784cc26ee5d60800000000000000
+      internalID: 7880989477895093009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_75
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 201
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150a42c2f0e755f40800000000000000
+      internalID: 5716613905646919761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_76
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 200
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3338d6e6cb93530800000000000000
+      internalID: 3835303740152427469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_77
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 179
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777b93e69e20cb300800000000000000
+      internalID: 269093279335298935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_78
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 177
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf71b51b64e4e550800000000000000
+      internalID: 6189322936490491854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_79
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 178
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52375263bad6a7df0800000000000000
+      internalID: -181712252839824603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_80
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 179
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83a0807e99cbfd10800000000000000
+      internalID: 2160542128583779214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_81
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 179
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75e908705da4c470800000000000000
+      internalID: 8414040564957832570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_82
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 181
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e1974b4744ae370800000000000000
+      internalID: 8352563726946737799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b44566cbdeec4d0800000000000000
+      internalID: -3112288899039999127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4affe2bf6f44a0100800000000000000
+      internalID: 74948171371839396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 175
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc0646e26315800800000000000000
+      internalID: 599319798297447811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 174
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcda1674f6b6b5c0800000000000000
+      internalID: -4199968441406661389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_87
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 112
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f462c56ce28202d0800000000000000
+      internalID: -3313942423960132364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_88
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 174
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0c2b11cae48e90800000000000000
+      internalID: -7024231403685671373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 113
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e830b33506a30b40800000000000000
+      internalID: 5405346519046961383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 174
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5f90fd72380cff0800000000000000
+      internalID: -17870191240546870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_91
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 174
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50937e5bb36e2d380800000000000000
+      internalID: -8947836365502465787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_92
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 112
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d7be95e42ae3a30800000000000000
+      internalID: 4196970360155635004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_93
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 174
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e4178e0968a250800000000000000
+      internalID: 5956126018314233291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_94
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04a9194d4c1f66e0800000000000000
+      internalID: -1842222604306766837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_95
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 174
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533551cfeb9d32450800000000000000
+      internalID: 6062928937667089205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_96
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 142
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd98ce0c945626f0800000000000000
+      internalID: -709786862024614408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_97
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 141
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc791d107e9496bc0800000000000000
+      internalID: -3789416354938775605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_98
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 136
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de33cccd43eb8a90800000000000000
+      internalID: -7310499646818533671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_99
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 134
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22bbb814a3095620800000000000000
+      internalID: 2763243849692983850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_100
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 135
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa167a21c8b5fe760800000000000000
+      internalID: 7489305362506932655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_101
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 113
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1620194ab21f8d0800000000000000
+      internalID: -2814420306322365962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_102
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 112
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d16304dbbf8c70800000000000000
+      internalID: 8975599101636891677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_103
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 112
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28199468d0884a40800000000000000
+      internalID: 5352669824018880557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_104
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 112
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f889bf7f21726bd40800000000000000
+      internalID: 5599706149105145999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_105
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 111
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae51d04b8b3e010800000000000000
+      internalID: 1217019407773330050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_106
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 112
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0860deaf1500f3660800000000000000
+      internalID: 7367607867503609472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec5dc32c16bc2cf0800000000000000
+      internalID: -275645245200442141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_108
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46aef908feee25c0800000000000000
+      internalID: -4238187450222074290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_109
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 44
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0204fe28744e11b0800000000000000
+      internalID: -5684030396720479731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_110
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 112
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019ca70a0f0c80d0800000000000000
+      internalID: -3419341481328209661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_111
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572ea1a5827c4480800000000000000
+      internalID: -8913623644204292261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_112
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 113
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e623b19aa7a47b0800000000000000
+      internalID: -5239240349767799259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce92a5bee74354930800000000000000
+      internalID: 4126762353274005996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879cd026250d54ff0800000000000000
+      internalID: -52406768393926280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_115
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 113
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5aa1906d31fefa0800000000000000
+      internalID: -5769370787641645663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_116
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5e4d05754d0bf00800000000000000
+      internalID: 1130636977953367512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_117
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 77
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e23fd98ffc4dfd0800000000000000
+      internalID: -2317999241480163796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_118
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 60
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e78db641f1019f90800000000000000
+      internalID: -6948770614270392349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_119
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 67
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2af2e17526f0d20800000000000000
+      internalID: 3246921982665532154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_120
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 64
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b634d6fb53f5040800000000000000
+      internalID: 4638485237503060748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e1bb0688609c90800000000000000
+      internalID: -7165112082215344685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_122
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe414b9ba229cc60800000000000000
+      internalID: 7838834746854559484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_123
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 42
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86298c67de93e6a0800000000000000
+      internalID: -6421113995624110450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_124
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 42
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af6cfdce34763070800000000000000
+      internalID: 8085777994082971552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_125
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 42
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d32072a2bd100c40800000000000000
+      internalID: 5476409799949165525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c7495813c3a660800000000000000
+      internalID: 7395969522416992871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_127
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 104
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc05f573bbf2b5b0800000000000000
+      internalID: -5353940258793386755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_128
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c6404e60f903130800000000000000
+      internalID: 3544507758684695680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e753110971ca410800000000000000
+      internalID: 1489591484284239512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_130
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 139
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5436bd66868440800000000000000
+      internalID: 4937781847224770482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_131
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaca1a60bacd7c60800000000000000
+      internalID: 7817627387228244714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_large_shield_132
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e392531e564f70800000000000000
+      internalID: 9171121128269407823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      standard_t1_large_shield_0: 7383742396058066089
+      standard_t1_large_shield_1: -916200248643533059
+      standard_t1_large_shield_10: 2233196395338598070
+      standard_t1_large_shield_100: 7489305362506932655
+      standard_t1_large_shield_101: -2814420306322365962
+      standard_t1_large_shield_102: 8975599101636891677
+      standard_t1_large_shield_103: 5352669824018880557
+      standard_t1_large_shield_104: 5599706149105145999
+      standard_t1_large_shield_105: 1217019407773330050
+      standard_t1_large_shield_106: 7367607867503609472
+      standard_t1_large_shield_107: -275645245200442141
+      standard_t1_large_shield_108: -4238187450222074290
+      standard_t1_large_shield_109: -5684030396720479731
+      standard_t1_large_shield_11: -7222600734788191191
+      standard_t1_large_shield_110: -3419341481328209661
+      standard_t1_large_shield_111: -8913623644204292261
+      standard_t1_large_shield_112: -5239240349767799259
+      standard_t1_large_shield_113: 4126762353274005996
+      standard_t1_large_shield_114: -52406768393926280
+      standard_t1_large_shield_115: -5769370787641645663
+      standard_t1_large_shield_116: 1130636977953367512
+      standard_t1_large_shield_117: -2317999241480163796
+      standard_t1_large_shield_118: -6948770614270392349
+      standard_t1_large_shield_119: 3246921982665532154
+      standard_t1_large_shield_12: -6152313902003016203
+      standard_t1_large_shield_120: 4638485237503060748
+      standard_t1_large_shield_121: -7165112082215344685
+      standard_t1_large_shield_122: 7838834746854559484
+      standard_t1_large_shield_123: -6421113995624110450
+      standard_t1_large_shield_124: 8085777994082971552
+      standard_t1_large_shield_125: 5476409799949165525
+      standard_t1_large_shield_126: 7395969522416992871
+      standard_t1_large_shield_127: -5353940258793386755
+      standard_t1_large_shield_128: 3544507758684695680
+      standard_t1_large_shield_129: 1489591484284239512
+      standard_t1_large_shield_13: -9012131964253157127
+      standard_t1_large_shield_130: 4937781847224770482
+      standard_t1_large_shield_131: 7817627387228244714
+      standard_t1_large_shield_132: 9171121128269407823
+      standard_t1_large_shield_14: 3067818276845137338
+      standard_t1_large_shield_15: 1343810762097530722
+      standard_t1_large_shield_16: 1165738145040411680
+      standard_t1_large_shield_17: 3080540405689909782
+      standard_t1_large_shield_18: 4697379808166634045
+      standard_t1_large_shield_19: -2541051543164274498
+      standard_t1_large_shield_2: 4662649579048752058
+      standard_t1_large_shield_20: -1368056383145650453
+      standard_t1_large_shield_21: 8515052572548499015
+      standard_t1_large_shield_22: -5813806058836740147
+      standard_t1_large_shield_23: -3640207112954446481
+      standard_t1_large_shield_24: -7700813647795911584
+      standard_t1_large_shield_25: -2697133273775363587
+      standard_t1_large_shield_26: -6406182486102960035
+      standard_t1_large_shield_27: -2567153535004887792
+      standard_t1_large_shield_28: -8015678395760326290
+      standard_t1_large_shield_29: -3485352014456716240
+      standard_t1_large_shield_3: 5391810471896415921
+      standard_t1_large_shield_30: 6098817019749067189
+      standard_t1_large_shield_31: 26310169437624296
+      standard_t1_large_shield_32: -7788687323344603677
+      standard_t1_large_shield_33: -3753241210522645869
+      standard_t1_large_shield_34: 8122385636223400561
+      standard_t1_large_shield_35: -3575416729800532538
+      standard_t1_large_shield_36: -2926565126682961465
+      standard_t1_large_shield_37: 7780166971861462589
+      standard_t1_large_shield_38: -3055903615457096106
+      standard_t1_large_shield_39: -1387103611611537208
+      standard_t1_large_shield_4: -6420566282722109873
+      standard_t1_large_shield_40: 3096314982327197360
+      standard_t1_large_shield_41: -7692326290296780120
+      standard_t1_large_shield_42: 5158612539296885336
+      standard_t1_large_shield_43: 8228086854720273546
+      standard_t1_large_shield_44: -4766436860028646019
+      standard_t1_large_shield_45: 1364637729235049222
+      standard_t1_large_shield_46: 8160901871764491565
+      standard_t1_large_shield_47: 8204036541348881277
+      standard_t1_large_shield_48: 5806629723038075089
+      standard_t1_large_shield_49: -6716045430793310761
+      standard_t1_large_shield_5: 2844596455079838553
+      standard_t1_large_shield_50: 7224361620093695472
+      standard_t1_large_shield_51: 6339032834400923244
+      standard_t1_large_shield_52: -7357861586662630233
+      standard_t1_large_shield_53: 1186177204388750538
+      standard_t1_large_shield_54: 2462498618994263984
+      standard_t1_large_shield_55: 3998416535465815061
+      standard_t1_large_shield_56: -7033610147032516920
+      standard_t1_large_shield_57: 792484883126120471
+      standard_t1_large_shield_58: 6145652539023494484
+      standard_t1_large_shield_59: -8454531744927474072
+      standard_t1_large_shield_6: 7322739580580263150
+      standard_t1_large_shield_60: -7694088036506245668
+      standard_t1_large_shield_61: -1324560713612284579
+      standard_t1_large_shield_62: 6531392714855219715
+      standard_t1_large_shield_63: 4851812988948984842
+      standard_t1_large_shield_64: -3676769984920244552
+      standard_t1_large_shield_65: -5429473330869099120
+      standard_t1_large_shield_66: 5903374792450189789
+      standard_t1_large_shield_67: -4253578107713896735
+      standard_t1_large_shield_68: 6282870627040098170
+      standard_t1_large_shield_69: 5597922128654761321
+      standard_t1_large_shield_7: -3737131241903896715
+      standard_t1_large_shield_70: 3353484443037948032
+      standard_t1_large_shield_71: 4208305509317381134
+      standard_t1_large_shield_72: 9017300252026986654
+      standard_t1_large_shield_73: -6515201263432149241
+      standard_t1_large_shield_74: 7880989477895093009
+      standard_t1_large_shield_75: 5716613905646919761
+      standard_t1_large_shield_76: 3835303740152427469
+      standard_t1_large_shield_77: 269093279335298935
+      standard_t1_large_shield_78: 6189322936490491854
+      standard_t1_large_shield_79: -181712252839824603
+      standard_t1_large_shield_8: 7542467566907477432
+      standard_t1_large_shield_80: 2160542128583779214
+      standard_t1_large_shield_81: 8414040564957832570
+      standard_t1_large_shield_82: 8352563726946737799
+      standard_t1_large_shield_83: -3112288899039999127
+      standard_t1_large_shield_84: 74948171371839396
+      standard_t1_large_shield_85: 599319798297447811
+      standard_t1_large_shield_86: -4199968441406661389
+      standard_t1_large_shield_87: -3313942423960132364
+      standard_t1_large_shield_88: -7024231403685671373
+      standard_t1_large_shield_89: 5405346519046961383
+      standard_t1_large_shield_9: 4593361114690596503
+      standard_t1_large_shield_90: -17870191240546870
+      standard_t1_large_shield_91: -8947836365502465787
+      standard_t1_large_shield_92: 4196970360155635004
+      standard_t1_large_shield_93: 5956126018314233291
+      standard_t1_large_shield_94: -1842222604306766837
+      standard_t1_large_shield_95: 6062928937667089205
+      standard_t1_large_shield_96: -709786862024614408
+      standard_t1_large_shield_97: -3789416354938775605
+      standard_t1_large_shield_98: -7310499646818533671
+      standard_t1_large_shield_99: 2763243849692983850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

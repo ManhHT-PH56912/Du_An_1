@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: e7dcb26b3b3861a4c866cff0134d681e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9109394427618578677
+    second: flying_t1_jetpack_ranged_0
+  - first:
+      213: 405925648009312552
+    second: flying_t1_jetpack_ranged_1
+  - first:
+      213: 7328376666118660349
+    second: flying_t1_jetpack_ranged_2
+  - first:
+      213: 3012034909012924415
+    second: flying_t1_jetpack_ranged_3
+  - first:
+      213: -4721309532984070829
+    second: flying_t1_jetpack_ranged_4
+  - first:
+      213: -8002534075790095413
+    second: flying_t1_jetpack_ranged_5
+  - first:
+      213: 360969946423578424
+    second: flying_t1_jetpack_ranged_6
+  - first:
+      213: -8316473953123521413
+    second: flying_t1_jetpack_ranged_7
+  - first:
+      213: -6349972090979048360
+    second: flying_t1_jetpack_ranged_8
+  - first:
+      213: -8038558605480341673
+    second: flying_t1_jetpack_ranged_9
+  - first:
+      213: -7075648863731015899
+    second: flying_t1_jetpack_ranged_10
+  - first:
+      213: 9115352541327521806
+    second: flying_t1_jetpack_ranged_11
+  - first:
+      213: 561718789637610944
+    second: flying_t1_jetpack_ranged_12
+  - first:
+      213: 9047223270627134619
+    second: flying_t1_jetpack_ranged_13
+  - first:
+      213: -7131577566675344352
+    second: flying_t1_jetpack_ranged_14
+  - first:
+      213: 5486125706831195186
+    second: flying_t1_jetpack_ranged_15
+  - first:
+      213: -438332134029075075
+    second: flying_t1_jetpack_ranged_16
+  - first:
+      213: 8788027627280071475
+    second: flying_t1_jetpack_ranged_17
+  - first:
+      213: -6535654246797120721
+    second: flying_t1_jetpack_ranged_18
+  - first:
+      213: 8432177188220947088
+    second: flying_t1_jetpack_ranged_19
+  - first:
+      213: -8136658867852147857
+    second: flying_t1_jetpack_ranged_20
+  - first:
+      213: 1675162966941512818
+    second: flying_t1_jetpack_ranged_21
+  - first:
+      213: -5996667382886012070
+    second: flying_t1_jetpack_ranged_22
+  - first:
+      213: -2626192304293852210
+    second: flying_t1_jetpack_ranged_23
+  - first:
+      213: -1198735718429335329
+    second: flying_t1_jetpack_ranged_24
+  - first:
+      213: 3716530673516480973
+    second: flying_t1_jetpack_ranged_25
+  - first:
+      213: 7095982621423010515
+    second: flying_t1_jetpack_ranged_26
+  - first:
+      213: 4972944041967902509
+    second: flying_t1_jetpack_ranged_27
+  - first:
+      213: 4463747341140623881
+    second: flying_t1_jetpack_ranged_28
+  - first:
+      213: 8234407682640009298
+    second: flying_t1_jetpack_ranged_29
+  - first:
+      213: -120538612062658132
+    second: flying_t1_jetpack_ranged_30
+  - first:
+      213: 710339361869414280
+    second: flying_t1_jetpack_ranged_31
+  - first:
+      213: -6163487167771572147
+    second: flying_t1_jetpack_ranged_32
+  - first:
+      213: 5801767117975861981
+    second: flying_t1_jetpack_ranged_33
+  - first:
+      213: 3876531093049049621
+    second: flying_t1_jetpack_ranged_34
+  - first:
+      213: -1438260947469061789
+    second: flying_t1_jetpack_ranged_35
+  - first:
+      213: -3078157087650437605
+    second: flying_t1_jetpack_ranged_36
+  - first:
+      213: -1698301323145945207
+    second: flying_t1_jetpack_ranged_37
+  - first:
+      213: 4504242534140469933
+    second: flying_t1_jetpack_ranged_38
+  - first:
+      213: -283055199290396020
+    second: flying_t1_jetpack_ranged_39
+  - first:
+      213: 1417945366419093419
+    second: flying_t1_jetpack_ranged_40
+  - first:
+      213: -2824788455385800918
+    second: flying_t1_jetpack_ranged_41
+  - first:
+      213: 7380196497908132733
+    second: flying_t1_jetpack_ranged_42
+  - first:
+      213: -6512379065691315215
+    second: flying_t1_jetpack_ranged_43
+  - first:
+      213: 6394436938904121986
+    second: flying_t1_jetpack_ranged_44
+  - first:
+      213: 104818466985405760
+    second: flying_t1_jetpack_ranged_45
+  - first:
+      213: -1067533176072052835
+    second: flying_t1_jetpack_ranged_46
+  - first:
+      213: -8620541917498184259
+    second: flying_t1_jetpack_ranged_47
+  - first:
+      213: -6893929603315515328
+    second: flying_t1_jetpack_ranged_48
+  - first:
+      213: -1924818014797560819
+    second: flying_t1_jetpack_ranged_49
+  - first:
+      213: -3607569703386659439
+    second: flying_t1_jetpack_ranged_50
+  - first:
+      213: -1797385812209354555
+    second: flying_t1_jetpack_ranged_51
+  - first:
+      213: 3892953910821131352
+    second: flying_t1_jetpack_ranged_52
+  - first:
+      213: 3444143722258828620
+    second: flying_t1_jetpack_ranged_53
+  - first:
+      213: 1998790526756018765
+    second: flying_t1_jetpack_ranged_54
+  - first:
+      213: -1375147653786726854
+    second: flying_t1_jetpack_ranged_55
+  - first:
+      213: -810497096151132179
+    second: flying_t1_jetpack_ranged_56
+  - first:
+      213: 1484790279768127477
+    second: flying_t1_jetpack_ranged_57
+  - first:
+      213: 5755591007227759483
+    second: flying_t1_jetpack_ranged_58
+  - first:
+      213: 1736599845564196703
+    second: flying_t1_jetpack_ranged_59
+  - first:
+      213: 5762461334386983811
+    second: flying_t1_jetpack_ranged_60
+  - first:
+      213: -8099715180154968462
+    second: flying_t1_jetpack_ranged_61
+  - first:
+      213: -2207046427460498172
+    second: flying_t1_jetpack_ranged_62
+  - first:
+      213: 6074423064602003571
+    second: flying_t1_jetpack_ranged_63
+  - first:
+      213: 1507455954711704628
+    second: flying_t1_jetpack_ranged_64
+  - first:
+      213: -4391872298283731828
+    second: flying_t1_jetpack_ranged_65
+  - first:
+      213: -2014908083367535145
+    second: flying_t1_jetpack_ranged_66
+  - first:
+      213: 337294111757381595
+    second: flying_t1_jetpack_ranged_67
+  - first:
+      213: 4359833439962630821
+    second: flying_t1_jetpack_ranged_68
+  - first:
+      213: 8525087506483575612
+    second: flying_t1_jetpack_ranged_69
+  - first:
+      213: -2991820176633586935
+    second: flying_t1_jetpack_ranged_70
+  - first:
+      213: -3723755599128723785
+    second: flying_t1_jetpack_ranged_71
+  - first:
+      213: 2480286226899512134
+    second: flying_t1_jetpack_ranged_72
+  - first:
+      213: 5375108824134734006
+    second: flying_t1_jetpack_ranged_73
+  - first:
+      213: -8826850241522782413
+    second: flying_t1_jetpack_ranged_74
+  - first:
+      213: 378391673035604769
+    second: flying_t1_jetpack_ranged_75
+  - first:
+      213: -8537410367425799574
+    second: flying_t1_jetpack_ranged_76
+  - first:
+      213: -5491654965382566719
+    second: flying_t1_jetpack_ranged_77
+  - first:
+      213: -7957239168672507979
+    second: flying_t1_jetpack_ranged_78
+  - first:
+      213: -4190663251508609353
+    second: flying_t1_jetpack_ranged_79
+  - first:
+      213: 5128711910118583476
+    second: flying_t1_jetpack_ranged_80
+  - first:
+      213: -7445849441180146230
+    second: flying_t1_jetpack_ranged_81
+  - first:
+      213: -4545819600067605961
+    second: flying_t1_jetpack_ranged_82
+  - first:
+      213: 5863232249557216899
+    second: flying_t1_jetpack_ranged_83
+  - first:
+      213: 9128381728488744479
+    second: flying_t1_jetpack_ranged_84
+  - first:
+      213: 5270568113166951253
+    second: flying_t1_jetpack_ranged_85
+  - first:
+      213: 1360886476738788795
+    second: flying_t1_jetpack_ranged_86
+  - first:
+      213: -2311832779596553097
+    second: flying_t1_jetpack_ranged_87
+  - first:
+      213: 2238602442236738522
+    second: flying_t1_jetpack_ranged_88
+  - first:
+      213: 7698158455775247182
+    second: flying_t1_jetpack_ranged_89
+  - first:
+      213: 4440808392812122774
+    second: flying_t1_jetpack_ranged_90
+  - first:
+      213: -3579094559927409796
+    second: flying_t1_jetpack_ranged_91
+  - first:
+      213: -3871587678071265701
+    second: flying_t1_jetpack_ranged_92
+  - first:
+      213: -8538464087867672176
+    second: flying_t1_jetpack_ranged_93
+  - first:
+      213: 3762742591755995564
+    second: flying_t1_jetpack_ranged_94
+  - first:
+      213: 842645532017042602
+    second: flying_t1_jetpack_ranged_95
+  - first:
+      213: 3419541364366346298
+    second: flying_t1_jetpack_ranged_96
+  - first:
+      213: -665643458443465347
+    second: flying_t1_jetpack_ranged_97
+  - first:
+      213: -9013396666439224699
+    second: flying_t1_jetpack_ranged_98
+  - first:
+      213: 4354241718203183734
+    second: flying_t1_jetpack_ranged_99
+  - first:
+      213: 8108884826699562324
+    second: flying_t1_jetpack_ranged_100
+  - first:
+      213: -5499589079766536007
+    second: flying_t1_jetpack_ranged_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 459
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f2fde180ee49180800000000000000
+      internalID: -9109394427618578677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 459
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829b0d6e93322a500800000000000000
+      internalID: 405925648009312552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a34c10cf93b560800000000000000
+      internalID: 7328376666118660349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 484
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff79ac29ac5ecc920800000000000000
+      internalID: 3012034909012924415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 459
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35da1db8ef98a7eb0800000000000000
+      internalID: -4721309532984070829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 456
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb829548a941f090800000000000000
+      internalID: -8002534075790095413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 458
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f4b27f04c620500800000000000000
+      internalID: 360969946423578424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 500
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca8409003f59c80800000000000000
+      internalID: -8316473953123521413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 489
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854ac8fd60e50e7a0800000000000000
+      internalID: -6349972090979048360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 499
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f4f26d98d417090800000000000000
+      internalID: -8038558605480341673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 489
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f9ae9c8de3ecd90800000000000000
+      internalID: -7075648863731015899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 497
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08f74457dc308e70800000000000000
+      internalID: 9115352541327521806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 473
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd13085340abc700800000000000000
+      internalID: 561718789637610944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_13
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 483
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cc06161a13e8d70800000000000000
+      internalID: 9047223270627134619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 478
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024eb22ecfb870d90800000000000000
+      internalID: -7131577566675344352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_15
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 478
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cefcc7342a22c40800000000000000
+      internalID: 5486125706831195186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 458
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dde891f3bbae9f0800000000000000
+      internalID: -438332134029075075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_17
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 458
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf858e09855f970800000000000000
+      internalID: 8788027627280071475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 458
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b62e40711bc45a0800000000000000
+      internalID: -6535654246797120721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 458
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09acf032a7c150570800000000000000
+      internalID: 8432177188220947088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_20
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 481
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63042b9ed7c41f80800000000000000
+      internalID: -8136658867852147857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 482
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2743071d7df5f3710800000000000000
+      internalID: 1675162966941512818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 490
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b68e679ce87cca0800000000000000
+      internalID: -5996667382886012070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 474
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb43be6304ed8bd0800000000000000
+      internalID: -2626192304293852210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 482
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0627b173c3d5fe0800000000000000
+      internalID: -1198735718429335329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 469
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc90bcfd4f4c39330800000000000000
+      internalID: 3716530673516480973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 402
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2834a199ef97260800000000000000
+      internalID: 7095982621423010515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 401
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f54652242730540800000000000000
+      internalID: 4972944041967902509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 467
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90208cb8e8a62fd30800000000000000
+      internalID: 4463747341140623881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258518bd82e764270800000000000000
+      internalID: 8234407682640009298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 398
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1694e55c2c35ef0800000000000000
+      internalID: -120538612062658132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 406
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f3436d2e1abd900800000000000000
+      internalID: 710339361869414280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 403
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d480c439315e67aa0800000000000000
+      internalID: -6163487167771572147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 406
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3e786474048050800000000000000
+      internalID: 5801767117975861981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 410
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51202f98d743cc530800000000000000
+      internalID: 3876531093049049621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 403
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613acbd9454a0ce0800000000000000
+      internalID: -1438260947469061789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_36
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 401
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16aeb300703845d0800000000000000
+      internalID: -3078157087650437605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_37
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 403
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5f40d1fb6e68e0800000000000000
+      internalID: -1698301323145945207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 403
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2e5a568b8428e30800000000000000
+      internalID: 4504242534140469933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_39
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 404
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82f772cbc2621cf0800000000000000
+      internalID: -283055199290396020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_40
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 406
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba732545ccd8da310800000000000000
+      internalID: 1417945366419093419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_41
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 406
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fda1fbdd55cc8d0800000000000000
+      internalID: -2824788455385800918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b6566ec99bb6660800000000000000
+      internalID: 7380196497908132733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f367ca6eb16f95a0800000000000000
+      internalID: -6512379065691315215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 345
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282340a448a9db850800000000000000
+      internalID: 6394436938904121986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 345
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de09227d3647100800000000000000
+      internalID: 104818466985405760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 345
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd74e7b3c5f21f0800000000000000
+      internalID: -1067533176072052835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 346
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde724bccead5880800000000000000
+      internalID: -8620541917498184259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 344
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04044d72d87d350a0800000000000000
+      internalID: -6893929603315515328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 345
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0408b2b63ca945e0800000000000000
+      internalID: -1924818014797560819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_50
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 345
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1954d2fe7765fedc0800000000000000
+      internalID: -3607569703386659439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_51
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 345
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83fe270276e07e0800000000000000
+      internalID: -1797385812209354555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_52
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 347
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8541675c4fc860630800000000000000
+      internalID: 3892953910821131352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_53
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 347
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d01a0b77e0ccf20800000000000000
+      internalID: 3444143722258828620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_54
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 349
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a55bfd4612dbb10800000000000000
+      internalID: 1998790526756018765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_55
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 349
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8456ae7e7aece0800000000000000
+      internalID: -1375147653786726854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_56
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 347
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de71d6c6f2980c4f0800000000000000
+      internalID: -810497096151132179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 284
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7388784e80b9410800000000000000
+      internalID: 1484790279768127477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 287
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b4e32d687ffdf40800000000000000
+      internalID: 5755591007227759483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 287
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572adfcb54a91810800000000000000
+      internalID: 1736599845564196703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 289
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3834f048d0068ff40800000000000000
+      internalID: 5762461334386983811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 289
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276260135f7089f80800000000000000
+      internalID: -8099715180154968462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_62
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 289
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d0c68b7fefe51e0800000000000000
+      internalID: -2207046427460498172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 290
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378ca05f79fac4450800000000000000
+      internalID: 6074423064602003571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_64
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 289
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4347327343f8be410800000000000000
+      internalID: 1507455954711704628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_65
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 288
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c847be1f96fec03c0800000000000000
+      internalID: -4391872298283731828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_66
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 288
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd90db06cb9904e0800000000000000
+      internalID: -2014908083367535145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_67
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 289
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf2124253f4ea400800000000000000
+      internalID: 337294111757381595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_68
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 292
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa87dc0a6d318c30800000000000000
+      internalID: 4359833439962630821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_69
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 292
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf2175be13f4670800000000000000
+      internalID: 8525087506483575612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_70
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 291
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b98e3966bea76d0800000000000000
+      internalID: -2991820176633586935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be7f8b0300925cc0800000000000000
+      internalID: -3723755599128723785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 227
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ba3a7ae2fbb6220800000000000000
+      internalID: 2480286226899512134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_73
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05e9b3ff8389a40800000000000000
+      internalID: 5375108824134734006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 228
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fa674d87ab08580800000000000000
+      internalID: -8826850241522782413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 229
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123c049c831504500800000000000000
+      internalID: 378391673035604769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 230
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a19d30186058980800000000000000
+      internalID: -8537410367425799574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_77
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 232
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccac5fa7e8b9c3b0800000000000000
+      internalID: -5491654965382566719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_78
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 232
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b75376a225329190800000000000000
+      internalID: -7957239168672507979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_79
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 231
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bebb80d9f5c7d5c0800000000000000
+      internalID: -4190663251508609353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_80
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 234
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bceee52f48dc2740800000000000000
+      internalID: 5128711910118583476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_81
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 234
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5aa6f02670ba890800000000000000
+      internalID: -7445849441180146230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 233
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a46f498210ae0c0800000000000000
+      internalID: -4545819600067605961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_83
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 232
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ee87e8aa26e5150800000000000000
+      internalID: 5863232249557216899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_84
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 238
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16ecbc51d68eae70800000000000000
+      internalID: 9128381728488744479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_85
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 239
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55321d536c1d42940800000000000000
+      internalID: 5270568113166951253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf5a15a07d2e210800000000000000
+      internalID: 1360886476738788795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_87
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 166
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7742b08e558baefd0800000000000000
+      internalID: -2311832779596553097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 174
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb7d28f0d111f10800000000000000
+      internalID: 2238602442236738522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 173
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b3725345a55da60800000000000000
+      internalID: 7698158455775247182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 170
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d32174bbe0ad30800000000000000
+      internalID: 4440808392812122774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 170
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c736ef9e570845ec0800000000000000
+      internalID: -3579094559927409796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_92
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 172
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5668c3f48b554ac0800000000000000
+      internalID: -3871587678071265701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_93
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 179
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099b73b9628418980800000000000000
+      internalID: -8538464087867672176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_94
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 180
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca949da8372f73430800000000000000
+      internalID: 3762742591755995564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_95
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 179
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4227795ada1bb00800000000000000
+      internalID: 842645532017042602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_96
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 187
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a388fcdd0c6a47f20800000000000000
+      internalID: 3419541364366346298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_97
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 189
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d2a602dc823c6f0800000000000000
+      internalID: -665643458443465347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_98
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 192
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823335ac7bf9e280800000000000000
+      internalID: -9013396666439224699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_99
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 192
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ffafd5cf5d6c30800000000000000
+      internalID: 4354241718203183734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_100
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 192
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d7bf389cb888070800000000000000
+      internalID: 8108884826699562324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_t1_jetpack_ranged_101
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0f5e9bed88da3b0800000000000000
+      internalID: -5499589079766536007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flying_t1_jetpack_ranged_0: -9109394427618578677
+      flying_t1_jetpack_ranged_1: 405925648009312552
+      flying_t1_jetpack_ranged_10: -7075648863731015899
+      flying_t1_jetpack_ranged_100: 8108884826699562324
+      flying_t1_jetpack_ranged_101: -5499589079766536007
+      flying_t1_jetpack_ranged_11: 9115352541327521806
+      flying_t1_jetpack_ranged_12: 561718789637610944
+      flying_t1_jetpack_ranged_13: 9047223270627134619
+      flying_t1_jetpack_ranged_14: -7131577566675344352
+      flying_t1_jetpack_ranged_15: 5486125706831195186
+      flying_t1_jetpack_ranged_16: -438332134029075075
+      flying_t1_jetpack_ranged_17: 8788027627280071475
+      flying_t1_jetpack_ranged_18: -6535654246797120721
+      flying_t1_jetpack_ranged_19: 8432177188220947088
+      flying_t1_jetpack_ranged_2: 7328376666118660349
+      flying_t1_jetpack_ranged_20: -8136658867852147857
+      flying_t1_jetpack_ranged_21: 1675162966941512818
+      flying_t1_jetpack_ranged_22: -5996667382886012070
+      flying_t1_jetpack_ranged_23: -2626192304293852210
+      flying_t1_jetpack_ranged_24: -1198735718429335329
+      flying_t1_jetpack_ranged_25: 3716530673516480973
+      flying_t1_jetpack_ranged_26: 7095982621423010515
+      flying_t1_jetpack_ranged_27: 4972944041967902509
+      flying_t1_jetpack_ranged_28: 4463747341140623881
+      flying_t1_jetpack_ranged_29: 8234407682640009298
+      flying_t1_jetpack_ranged_3: 3012034909012924415
+      flying_t1_jetpack_ranged_30: -120538612062658132
+      flying_t1_jetpack_ranged_31: 710339361869414280
+      flying_t1_jetpack_ranged_32: -6163487167771572147
+      flying_t1_jetpack_ranged_33: 5801767117975861981
+      flying_t1_jetpack_ranged_34: 3876531093049049621
+      flying_t1_jetpack_ranged_35: -1438260947469061789
+      flying_t1_jetpack_ranged_36: -3078157087650437605
+      flying_t1_jetpack_ranged_37: -1698301323145945207
+      flying_t1_jetpack_ranged_38: 4504242534140469933
+      flying_t1_jetpack_ranged_39: -283055199290396020
+      flying_t1_jetpack_ranged_4: -4721309532984070829
+      flying_t1_jetpack_ranged_40: 1417945366419093419
+      flying_t1_jetpack_ranged_41: -2824788455385800918
+      flying_t1_jetpack_ranged_42: 7380196497908132733
+      flying_t1_jetpack_ranged_43: -6512379065691315215
+      flying_t1_jetpack_ranged_44: 6394436938904121986
+      flying_t1_jetpack_ranged_45: 104818466985405760
+      flying_t1_jetpack_ranged_46: -1067533176072052835
+      flying_t1_jetpack_ranged_47: -8620541917498184259
+      flying_t1_jetpack_ranged_48: -6893929603315515328
+      flying_t1_jetpack_ranged_49: -1924818014797560819
+      flying_t1_jetpack_ranged_5: -8002534075790095413
+      flying_t1_jetpack_ranged_50: -3607569703386659439
+      flying_t1_jetpack_ranged_51: -1797385812209354555
+      flying_t1_jetpack_ranged_52: 3892953910821131352
+      flying_t1_jetpack_ranged_53: 3444143722258828620
+      flying_t1_jetpack_ranged_54: 1998790526756018765
+      flying_t1_jetpack_ranged_55: -1375147653786726854
+      flying_t1_jetpack_ranged_56: -810497096151132179
+      flying_t1_jetpack_ranged_57: 1484790279768127477
+      flying_t1_jetpack_ranged_58: 5755591007227759483
+      flying_t1_jetpack_ranged_59: 1736599845564196703
+      flying_t1_jetpack_ranged_6: 360969946423578424
+      flying_t1_jetpack_ranged_60: 5762461334386983811
+      flying_t1_jetpack_ranged_61: -8099715180154968462
+      flying_t1_jetpack_ranged_62: -2207046427460498172
+      flying_t1_jetpack_ranged_63: 6074423064602003571
+      flying_t1_jetpack_ranged_64: 1507455954711704628
+      flying_t1_jetpack_ranged_65: -4391872298283731828
+      flying_t1_jetpack_ranged_66: -2014908083367535145
+      flying_t1_jetpack_ranged_67: 337294111757381595
+      flying_t1_jetpack_ranged_68: 4359833439962630821
+      flying_t1_jetpack_ranged_69: 8525087506483575612
+      flying_t1_jetpack_ranged_7: -8316473953123521413
+      flying_t1_jetpack_ranged_70: -2991820176633586935
+      flying_t1_jetpack_ranged_71: -3723755599128723785
+      flying_t1_jetpack_ranged_72: 2480286226899512134
+      flying_t1_jetpack_ranged_73: 5375108824134734006
+      flying_t1_jetpack_ranged_74: -8826850241522782413
+      flying_t1_jetpack_ranged_75: 378391673035604769
+      flying_t1_jetpack_ranged_76: -8537410367425799574
+      flying_t1_jetpack_ranged_77: -5491654965382566719
+      flying_t1_jetpack_ranged_78: -7957239168672507979
+      flying_t1_jetpack_ranged_79: -4190663251508609353
+      flying_t1_jetpack_ranged_8: -6349972090979048360
+      flying_t1_jetpack_ranged_80: 5128711910118583476
+      flying_t1_jetpack_ranged_81: -7445849441180146230
+      flying_t1_jetpack_ranged_82: -4545819600067605961
+      flying_t1_jetpack_ranged_83: 5863232249557216899
+      flying_t1_jetpack_ranged_84: 9128381728488744479
+      flying_t1_jetpack_ranged_85: 5270568113166951253
+      flying_t1_jetpack_ranged_86: 1360886476738788795
+      flying_t1_jetpack_ranged_87: -2311832779596553097
+      flying_t1_jetpack_ranged_88: 2238602442236738522
+      flying_t1_jetpack_ranged_89: 7698158455775247182
+      flying_t1_jetpack_ranged_9: -8038558605480341673
+      flying_t1_jetpack_ranged_90: 4440808392812122774
+      flying_t1_jetpack_ranged_91: -3579094559927409796
+      flying_t1_jetpack_ranged_92: -3871587678071265701
+      flying_t1_jetpack_ranged_93: -8538464087867672176
+      flying_t1_jetpack_ranged_94: 3762742591755995564
+      flying_t1_jetpack_ranged_95: 842645532017042602
+      flying_t1_jetpack_ranged_96: 3419541364366346298
+      flying_t1_jetpack_ranged_97: -665643458443465347
+      flying_t1_jetpack_ranged_98: -9013396666439224699
+      flying_t1_jetpack_ranged_99: 4354241718203183734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

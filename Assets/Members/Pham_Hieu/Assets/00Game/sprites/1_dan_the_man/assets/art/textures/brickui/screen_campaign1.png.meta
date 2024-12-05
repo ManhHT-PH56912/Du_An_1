@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 2f6c56ba8121b2448845604c4eea5ce7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7320679928113240512
+    second: screen_campaign1_0
+  - first:
+      213: -6444036162874304494
+    second: screen_campaign1_1
+  - first:
+      213: -2836106834196276196
+    second: screen_campaign1_2
+  - first:
+      213: 1099314751384302307
+    second: screen_campaign1_3
+  - first:
+      213: 5109270753069413058
+    second: screen_campaign1_4
+  - first:
+      213: 1365433334842083451
+    second: screen_campaign1_5
+  - first:
+      213: -6789101342847896089
+    second: screen_campaign1_6
+  - first:
+      213: 7466433335803370354
+    second: screen_campaign1_7
+  - first:
+      213: 8440547197811722619
+    second: screen_campaign1_8
+  - first:
+      213: -2197455643296896144
+    second: screen_campaign1_9
+  - first:
+      213: -5210729761809564286
+    second: screen_campaign1_10
+  - first:
+      213: 5118758917580852612
+    second: screen_campaign1_11
+  - first:
+      213: -7129663611000620327
+    second: screen_campaign1_12
+  - first:
+      213: 34425809895577598
+    second: screen_campaign1_13
+  - first:
+      213: -2274964092441652801
+    second: screen_campaign1_14
+  - first:
+      213: 3581700019742855278
+    second: screen_campaign1_15
+  - first:
+      213: 7004257370365066668
+    second: screen_campaign1_16
+  - first:
+      213: 5294329440982634834
+    second: screen_campaign1_17
+  - first:
+      213: -6882551905885020867
+    second: screen_campaign1_18
+  - first:
+      213: -4952782161084122718
+    second: screen_campaign1_19
+  - first:
+      213: -6218290518384100027
+    second: screen_campaign1_20
+  - first:
+      213: 85265696329336226
+    second: screen_campaign1_21
+  - first:
+      213: 7779656893993800808
+    second: screen_campaign1_22
+  - first:
+      213: -1100426939204092449
+    second: screen_campaign1_23
+  - first:
+      213: -6282306928604471838
+    second: screen_campaign1_24
+  - first:
+      213: 8555492454826901747
+    second: screen_campaign1_25
+  - first:
+      213: -3100060847745791552
+    second: screen_campaign1_26
+  - first:
+      213: -4576777746695292203
+    second: screen_campaign1_27
+  - first:
+      213: -2431123346046874518
+    second: screen_campaign1_28
+  - first:
+      213: 9088815207983448821
+    second: screen_campaign1_29
+  - first:
+      213: 2046511017091817432
+    second: screen_campaign1_30
+  - first:
+      213: 6348105931929615638
+    second: screen_campaign1_31
+  - first:
+      213: 8367270713186039493
+    second: screen_campaign1_32
+  - first:
+      213: 7772331746975685062
+    second: screen_campaign1_33
+  - first:
+      213: -4667802962060513544
+    second: screen_campaign1_34
+  - first:
+      213: 1661835660274167546
+    second: screen_campaign1_35
+  - first:
+      213: -6949515379771489047
+    second: screen_campaign1_36
+  - first:
+      213: -1843566345834638041
+    second: screen_campaign1_37
+  - first:
+      213: -8725861118948908672
+    second: screen_campaign1_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: screen_campaign1_0
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 996
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0466a7a5468b76a90800000000000000
+      internalID: -7320679928113240512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1000
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2181b18704f2296a0800000000000000
+      internalID: -6444036162874304494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1002
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5ca25cdf14a8d0800000000000000
+      internalID: -2836106834196276196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1008
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2bb9421fc814f00800000000000000
+      internalID: 1099314751384302307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2bef90ea6c7e640800000000000000
+      internalID: 5109270753069413058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 951
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b784db7326ef2f210800000000000000
+      internalID: 1365433334842083451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_6
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 956
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e57c638c4448c1a0800000000000000
+      internalID: -6789101342847896089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 951
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bd1bf5f891e9760800000000000000
+      internalID: 7466433335803370354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 950
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b798c7bd4f8d22570800000000000000
+      internalID: 8440547197811722619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 948
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b6c9b2cb11181e0800000000000000
+      internalID: -2197455643296896144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 946
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df8c6a3e4cfa7b0800000000000000
+      internalID: -5210729761809564286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 942
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d054d7d1c790740800000000000000
+      internalID: 5118758917580852612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 946
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da774a68b85e0d90800000000000000
+      internalID: -7129663611000620327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 992
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75ee9771e4a7000800000000000000
+      internalID: 34425809895577598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 974
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb11f311634bd60e0800000000000000
+      internalID: -2274964092441652801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 976
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6058c8f031c4b130800000000000000
+      internalID: 3581700019742855278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 978
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad750cd7fe143160800000000000000
+      internalID: 7004257370365066668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 984
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25199a5739c397940800000000000000
+      internalID: 5294329440982634834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 982
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d1985c1834c70a0800000000000000
+      internalID: -6882551905885020867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a970be8dde244bb0800000000000000
+      internalID: -4952782161084122718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 952
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d398d28b134b9a0800000000000000
+      internalID: -6218290518384100027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_21
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 972
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a58c35f2bcee2100800000000000000
+      internalID: 85265696329336226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 956
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8645be80ab4e6fb60800000000000000
+      internalID: 7779656893993800808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd3873778f7ab0f0800000000000000
+      internalID: -1100426939204092449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 966
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed1e8e2223c0d8a0800000000000000
+      internalID: -6282306928604471838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 962
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00e780f073bb670800000000000000
+      internalID: 8555492454826901747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 954
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c90404751f5af4d0800000000000000
+      internalID: -3100060847745791552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da705063e40c70c0800000000000000
+      internalID: -4576777746695292203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_28
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 946
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c87b9823ae24ed0800000000000000
+      internalID: -2431123346046874518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 940
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2850de645f12e70800000000000000
+      internalID: 9088815207983448821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_30
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 942
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5eaa5deaa66c10800000000000000
+      internalID: 2046511017091817432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 820
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df63d16b0091850800000000000000
+      internalID: 6348105931929615638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6bbf6c1648e1470800000000000000
+      internalID: 8367270713186039493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 619
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c91af65b8edcdb60800000000000000
+      internalID: 7772331746975685062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 599
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feedd4efe1a83fb0800000000000000
+      internalID: -4667802962060513544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 599
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee7bd6ab6001710800000000000000
+      internalID: 1661835660274167546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e44b9b059c5e8f90800000000000000
+      internalID: -6949515379771489047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72559a41d265a66e0800000000000000
+      internalID: -1843566345834638041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_campaign1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08168ad3b8387e680800000000000000
+      internalID: -8725861118948908672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      screen_campaign1_0: -7320679928113240512
+      screen_campaign1_1: -6444036162874304494
+      screen_campaign1_10: -5210729761809564286
+      screen_campaign1_11: 5118758917580852612
+      screen_campaign1_12: -7129663611000620327
+      screen_campaign1_13: 34425809895577598
+      screen_campaign1_14: -2274964092441652801
+      screen_campaign1_15: 3581700019742855278
+      screen_campaign1_16: 7004257370365066668
+      screen_campaign1_17: 5294329440982634834
+      screen_campaign1_18: -6882551905885020867
+      screen_campaign1_19: -4952782161084122718
+      screen_campaign1_2: -2836106834196276196
+      screen_campaign1_20: -6218290518384100027
+      screen_campaign1_21: 85265696329336226
+      screen_campaign1_22: 7779656893993800808
+      screen_campaign1_23: -1100426939204092449
+      screen_campaign1_24: -6282306928604471838
+      screen_campaign1_25: 8555492454826901747
+      screen_campaign1_26: -3100060847745791552
+      screen_campaign1_27: -4576777746695292203
+      screen_campaign1_28: -2431123346046874518
+      screen_campaign1_29: 9088815207983448821
+      screen_campaign1_3: 1099314751384302307
+      screen_campaign1_30: 2046511017091817432
+      screen_campaign1_31: 6348105931929615638
+      screen_campaign1_32: 8367270713186039493
+      screen_campaign1_33: 7772331746975685062
+      screen_campaign1_34: -4667802962060513544
+      screen_campaign1_35: 1661835660274167546
+      screen_campaign1_36: -6949515379771489047
+      screen_campaign1_37: -1843566345834638041
+      screen_campaign1_38: -8725861118948908672
+      screen_campaign1_4: 5109270753069413058
+      screen_campaign1_5: 1365433334842083451
+      screen_campaign1_6: -6789101342847896089
+      screen_campaign1_7: 7466433335803370354
+      screen_campaign1_8: 8440547197811722619
+      screen_campaign1_9: -2197455643296896144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

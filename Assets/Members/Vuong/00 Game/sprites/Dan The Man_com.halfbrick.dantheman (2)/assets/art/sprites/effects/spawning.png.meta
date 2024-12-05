@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: adb3f6bf76cda984aa4fe9c4fbd25e12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5251267170860133170
+    second: spawning_0
+  - first:
+      213: 7342640358187905296
+    second: spawning_1
+  - first:
+      213: -5687863270680639111
+    second: spawning_2
+  - first:
+      213: 8566265737035874764
+    second: spawning_3
+  - first:
+      213: 2237181898900183431
+    second: spawning_4
+  - first:
+      213: -1516572593524421776
+    second: spawning_5
+  - first:
+      213: -8114823756078652486
+    second: spawning_6
+  - first:
+      213: -4728187297397970910
+    second: spawning_7
+  - first:
+      213: 8766212745916688887
+    second: spawning_8
+  - first:
+      213: 6712746257041934744
+    second: spawning_9
+  - first:
+      213: -4381253844801109950
+    second: spawning_10
+  - first:
+      213: 530934398089917773
+    second: spawning_11
+  - first:
+      213: -3935192583652160736
+    second: spawning_12
+  - first:
+      213: 4367377281257272095
+    second: spawning_13
+  - first:
+      213: -4222500535406316355
+    second: spawning_14
+  - first:
+      213: -1744775532793162009
+    second: spawning_15
+  - first:
+      213: 7469765699118647110
+    second: spawning_16
+  - first:
+      213: 6728926758007487449
+    second: spawning_17
+  - first:
+      213: 1752343294345850129
+    second: spawning_18
+  - first:
+      213: -3856240496849458476
+    second: spawning_19
+  - first:
+      213: -125692613125880193
+    second: spawning_20
+  - first:
+      213: 1492756951856630223
+    second: spawning_21
+  - first:
+      213: -6925457522290840419
+    second: spawning_22
+  - first:
+      213: 2129249095851587940
+    second: spawning_23
+  - first:
+      213: 4150185742419595435
+    second: spawning_24
+  - first:
+      213: 4475257792531893150
+    second: spawning_25
+  - first:
+      213: -6204517858046251011
+    second: spawning_26
+  - first:
+      213: -2137180816677650115
+    second: spawning_27
+  - first:
+      213: 2115967603325108981
+    second: spawning_28
+  - first:
+      213: 8643249527329271001
+    second: spawning_29
+  - first:
+      213: -2165163779228749283
+    second: spawning_30
+  - first:
+      213: 9057412852029430453
+    second: spawning_31
+  - first:
+      213: 8665400432807723293
+    second: spawning_32
+  - first:
+      213: -6514394753042401140
+    second: spawning_33
+  - first:
+      213: -7301499053730504820
+    second: spawning_34
+  - first:
+      213: 6321465463289057714
+    second: spawning_35
+  - first:
+      213: 8458649485993302527
+    second: spawning_36
+  - first:
+      213: 2056642721270649880
+    second: spawning_37
+  - first:
+      213: 5437759222723647915
+    second: spawning_38
+  - first:
+      213: 8409802948579332875
+    second: spawning_39
+  - first:
+      213: 9144852394430323386
+    second: spawning_40
+  - first:
+      213: 3458392181586730269
+    second: spawning_41
+  - first:
+      213: -2148397322628288175
+    second: spawning_42
+  - first:
+      213: 6448685599591520242
+    second: spawning_43
+  - first:
+      213: 2107236037535543181
+    second: spawning_44
+  - first:
+      213: -4955888623070143813
+    second: spawning_45
+  - first:
+      213: -278585249329494384
+    second: spawning_46
+  - first:
+      213: -8614608793399439414
+    second: spawning_47
+  - first:
+      213: -6062222430474729936
+    second: spawning_48
+  - first:
+      213: 1108833364031874924
+    second: spawning_49
+  - first:
+      213: 1105709095704707973
+    second: spawning_50
+  - first:
+      213: -8506922767008623490
+    second: spawning_51
+  - first:
+      213: 3953250805685622555
+    second: spawning_52
+  - first:
+      213: -2905749698426141691
+    second: spawning_53
+  - first:
+      213: 976439910248902853
+    second: spawning_54
+  - first:
+      213: 7195721537737111175
+    second: spawning_55
+  - first:
+      213: -7576890106459354833
+    second: spawning_56
+  - first:
+      213: -8335745820861718635
+    second: spawning_57
+  - first:
+      213: 2844226889395541309
+    second: spawning_58
+  - first:
+      213: -8521417746612639516
+    second: spawning_59
+  - first:
+      213: -6264008909630510254
+    second: spawning_60
+  - first:
+      213: -3010365578792219815
+    second: spawning_61
+  - first:
+      213: 2868071064910613746
+    second: spawning_62
+  - first:
+      213: 8434490550780336578
+    second: spawning_63
+  - first:
+      213: -8797760776987080344
+    second: spawning_64
+  - first:
+      213: 1728797848079277566
+    second: spawning_65
+  - first:
+      213: -3563763090096183627
+    second: spawning_66
+  - first:
+      213: 185151947638288954
+    second: spawning_67
+  - first:
+      213: -7836175680099028207
+    second: spawning_68
+  - first:
+      213: -6038867799640753026
+    second: spawning_69
+  - first:
+      213: 3212987381231341846
+    second: spawning_70
+  - first:
+      213: 8982903360975532279
+    second: spawning_71
+  - first:
+      213: 7589136965567503600
+    second: spawning_72
+  - first:
+      213: -7978027780636652171
+    second: spawning_73
+  - first:
+      213: 8151127876910290675
+    second: spawning_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spawning_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 455
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4163c9450cf17b0800000000000000
+      internalID: -5251267170860133170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 453
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011bc37b08c46e560800000000000000
+      internalID: 7342640358187905296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 455
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979c61cad76a011b0800000000000000
+      internalID: -5687863270680639111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 456
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc18f934d4d71e670800000000000000
+      internalID: 8566265737035874764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 394
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78911ed75111c0f10800000000000000
+      internalID: 2237181898900183431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 397
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b42e6e24d04fae0800000000000000
+      internalID: -1516572593524421776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 398
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e70cb9ca526f80800000000000000
+      internalID: -8114823756078652486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 421
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228641b34ba126eb0800000000000000
+      internalID: -4728187297397970910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 412
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9add90c08d7a970800000000000000
+      internalID: 8766212745916688887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 400
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8994156b727782d50800000000000000
+      internalID: 6712746257041934744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 407
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240c0dd47d8a233c0800000000000000
+      internalID: -4381253844801109950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 256
+        width: 80
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457f25a5024e5700800000000000000
+      internalID: 530934398089917773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 367
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b49a8d1336369c0800000000000000
+      internalID: -3935192583652160736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 346
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1373797f7a0c9c30800000000000000
+      internalID: 4367377281257272095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 371
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4b533822aa665c0800000000000000
+      internalID: -4222500535406316355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 340
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6121ba5ef49c7e0800000000000000
+      internalID: -1744775532793162009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6474d5ba350f9a760800000000000000
+      internalID: 7469765699118647110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db38aa2c33f16d50800000000000000
+      internalID: 6728926758007487449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 349
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da50021f2915810800000000000000
+      internalID: 1752343294345850129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daefc803b1eb7ac0800000000000000
+      internalID: -3856240496849458476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 273
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76cdbbfb33714ef0800000000000000
+      internalID: -125692613125880193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 313
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9c86be98657b410800000000000000
+      internalID: 1492756951856630223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 317
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c2ccc7315d3ef90800000000000000
+      internalID: -6925457522290840419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_23
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 321
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693e8c75cc9c8d10800000000000000
+      internalID: 2129249095851587940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 276
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba09fc0b1fb689930800000000000000
+      internalID: 4150185742419595435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 296
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b892a504f4b1e30800000000000000
+      internalID: 4475257792531893150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 307
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe59c81ef15e9a0800000000000000
+      internalID: -6204517858046251011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 301
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d314629de553752e0800000000000000
+      internalID: -2137180816677650115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 297
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f28d68035d6d5d10800000000000000
+      internalID: 2115967603325108981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 303
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc2685b6adf2f770800000000000000
+      internalID: 8643249527329271001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 296
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12378aa30bc3f1e0800000000000000
+      internalID: -2165163779228749283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 300
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba954d200562bd70800000000000000
+      internalID: 9057412852029430453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 297
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11450a48cfa14870800000000000000
+      internalID: 8665400432807723293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 301
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c883d32ac783895a0800000000000000
+      internalID: -6514394753042401140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fda8eab4ddbaa90800000000000000
+      internalID: -7301499053730504820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 285
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b19e37a85b5ab750800000000000000
+      internalID: 6321465463289057714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 275
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9db2444e8236570800000000000000
+      internalID: 8458649485993302527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 269
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814da3f88a9aa8c10800000000000000
+      internalID: 2056642721270649880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_38
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 287
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba91c8cd33dc67b40800000000000000
+      internalID: 5437759222723647915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 283
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b039a15893f95b470800000000000000
+      internalID: 8409802948579332875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 284
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba566d1dca09ee70800000000000000
+      internalID: 9144852394430323386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_41
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 280
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1775ad5daeff20800000000000000
+      internalID: 3458392181586730269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 280
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151375c840c5f22e0800000000000000
+      internalID: -2148397322628288175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 280
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f754dfd2655e7950800000000000000
+      internalID: 6448685599591520242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 278
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f2533f2086e3d10800000000000000
+      internalID: 2107236037535543181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_45
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 271
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba11830e85293bb0800000000000000
+      internalID: -4955888623070143813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 265
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0964d061134422cf0800000000000000
+      internalID: -278585249329494384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 265
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf487ec1f2c27880800000000000000
+      internalID: -8614608793399439414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 259
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036062a81d8aedba0800000000000000
+      internalID: -6062222430474729936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_49
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 264
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67a83ad11e536f00800000000000000
+      internalID: 1108833364031874924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 258
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c5627094485f00800000000000000
+      internalID: 1105709095704707973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 270
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7494c4a0d651f980800000000000000
+      internalID: -8506922767008623490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171bec99a4ccd630800000000000000
+      internalID: 3953250805685622555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5048c1b6b04bca7d0800000000000000
+      internalID: -2905749698426141691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_54
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 163
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c076eacce20d8d00800000000000000
+      internalID: 976439910248902853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 164
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786b27f2d965cd360800000000000000
+      internalID: 7195721537737111175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 143
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29815e979a79d690800000000000000
+      internalID: -7576890106459354833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 80
+        width: 151
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f1791375b715c80800000000000000
+      internalID: -8335745820861718635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 73
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35190b5949b87720800000000000000
+      internalID: 2844226889395541309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_59
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 110
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8a17635b7ddb980800000000000000
+      internalID: -8521417746612639516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_60
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 96
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b6797b515c119a0800000000000000
+      internalID: -6264008909630510254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_61
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 83
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc608a4780936d0800000000000000
+      internalID: -3010365578792219815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 87
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcc296107f6dc720800000000000000
+      internalID: 2868071064910613746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c996a4d7745d0570800000000000000
+      internalID: 8434490550780336578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86902d49f2318e580800000000000000
+      internalID: -8797760776987080344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 50
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd9937bb7cedf710800000000000000
+      internalID: 1728797848079277566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 54
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b62b27e958fa8ec0800000000000000
+      internalID: -3563763090096183627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 23
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b37427bac19200800000000000000
+      internalID: 185151947638288954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 9
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113742e9cbf404390800000000000000
+      internalID: -7836175680099028207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c3ed44bb1a13ca0800000000000000
+      internalID: -6038867799640753026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115b160003d69c20800000000000000
+      internalID: 3212987381231341846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_71
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 36
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0fb9a630fa9ac70800000000000000
+      internalID: 8982903360975532279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcdf687cd7025960800000000000000
+      internalID: 7589136965567503600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_73
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 12
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d44feb00a584190800000000000000
+      internalID: -7978027780636652171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawning_74
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f695061e9f9e1170800000000000000
+      internalID: 8151127876910290675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spawning_0: -5251267170860133170
+      spawning_1: 7342640358187905296
+      spawning_10: -4381253844801109950
+      spawning_11: 530934398089917773
+      spawning_12: -3935192583652160736
+      spawning_13: 4367377281257272095
+      spawning_14: -4222500535406316355
+      spawning_15: -1744775532793162009
+      spawning_16: 7469765699118647110
+      spawning_17: 6728926758007487449
+      spawning_18: 1752343294345850129
+      spawning_19: -3856240496849458476
+      spawning_2: -5687863270680639111
+      spawning_20: -125692613125880193
+      spawning_21: 1492756951856630223
+      spawning_22: -6925457522290840419
+      spawning_23: 2129249095851587940
+      spawning_24: 4150185742419595435
+      spawning_25: 4475257792531893150
+      spawning_26: -6204517858046251011
+      spawning_27: -2137180816677650115
+      spawning_28: 2115967603325108981
+      spawning_29: 8643249527329271001
+      spawning_3: 8566265737035874764
+      spawning_30: -2165163779228749283
+      spawning_31: 9057412852029430453
+      spawning_32: 8665400432807723293
+      spawning_33: -6514394753042401140
+      spawning_34: -7301499053730504820
+      spawning_35: 6321465463289057714
+      spawning_36: 8458649485993302527
+      spawning_37: 2056642721270649880
+      spawning_38: 5437759222723647915
+      spawning_39: 8409802948579332875
+      spawning_4: 2237181898900183431
+      spawning_40: 9144852394430323386
+      spawning_41: 3458392181586730269
+      spawning_42: -2148397322628288175
+      spawning_43: 6448685599591520242
+      spawning_44: 2107236037535543181
+      spawning_45: -4955888623070143813
+      spawning_46: -278585249329494384
+      spawning_47: -8614608793399439414
+      spawning_48: -6062222430474729936
+      spawning_49: 1108833364031874924
+      spawning_5: -1516572593524421776
+      spawning_50: 1105709095704707973
+      spawning_51: -8506922767008623490
+      spawning_52: 3953250805685622555
+      spawning_53: -2905749698426141691
+      spawning_54: 976439910248902853
+      spawning_55: 7195721537737111175
+      spawning_56: -7576890106459354833
+      spawning_57: -8335745820861718635
+      spawning_58: 2844226889395541309
+      spawning_59: -8521417746612639516
+      spawning_6: -8114823756078652486
+      spawning_60: -6264008909630510254
+      spawning_61: -3010365578792219815
+      spawning_62: 2868071064910613746
+      spawning_63: 8434490550780336578
+      spawning_64: -8797760776987080344
+      spawning_65: 1728797848079277566
+      spawning_66: -3563763090096183627
+      spawning_67: 185151947638288954
+      spawning_68: -7836175680099028207
+      spawning_69: -6038867799640753026
+      spawning_7: -4728187297397970910
+      spawning_70: 3212987381231341846
+      spawning_71: 8982903360975532279
+      spawning_72: 7589136965567503600
+      spawning_73: -7978027780636652171
+      spawning_74: 8151127876910290675
+      spawning_8: 8766212745916688887
+      spawning_9: 6712746257041934744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

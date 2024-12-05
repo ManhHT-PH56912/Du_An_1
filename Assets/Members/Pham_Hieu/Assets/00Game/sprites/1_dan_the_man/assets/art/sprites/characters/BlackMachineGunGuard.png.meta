@@ -1,0 +1,3003 @@
+fileFormatVersion: 2
+guid: 1e4b7f610b815844689932d079569ce8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3085493716404618057
+    second: BlackMachineGunGuard_0
+  - first:
+      213: -8840940927398571977
+    second: BlackMachineGunGuard_1
+  - first:
+      213: -4492189892158769324
+    second: BlackMachineGunGuard_2
+  - first:
+      213: 2282379768035181664
+    second: BlackMachineGunGuard_3
+  - first:
+      213: 7905781163120021683
+    second: BlackMachineGunGuard_4
+  - first:
+      213: 2910103524278474222
+    second: BlackMachineGunGuard_5
+  - first:
+      213: 2054438487273399704
+    second: BlackMachineGunGuard_6
+  - first:
+      213: -5711743170187156105
+    second: BlackMachineGunGuard_7
+  - first:
+      213: -2316362928380159138
+    second: BlackMachineGunGuard_8
+  - first:
+      213: -2198604042261686879
+    second: BlackMachineGunGuard_9
+  - first:
+      213: 5961449569394156655
+    second: BlackMachineGunGuard_10
+  - first:
+      213: 6556375419414961750
+    second: BlackMachineGunGuard_11
+  - first:
+      213: 7351579788469632012
+    second: BlackMachineGunGuard_12
+  - first:
+      213: 37211980713330303
+    second: BlackMachineGunGuard_13
+  - first:
+      213: 3088173280447896175
+    second: BlackMachineGunGuard_14
+  - first:
+      213: 5661600902007708426
+    second: BlackMachineGunGuard_15
+  - first:
+      213: 4311732362326736233
+    second: BlackMachineGunGuard_16
+  - first:
+      213: -251190135878986245
+    second: BlackMachineGunGuard_17
+  - first:
+      213: -537040061608381388
+    second: BlackMachineGunGuard_18
+  - first:
+      213: 2519269841985132065
+    second: BlackMachineGunGuard_19
+  - first:
+      213: 6330637172295924881
+    second: BlackMachineGunGuard_20
+  - first:
+      213: 1263626600851351567
+    second: BlackMachineGunGuard_21
+  - first:
+      213: -2210368372863419389
+    second: BlackMachineGunGuard_22
+  - first:
+      213: -299576703824312678
+    second: BlackMachineGunGuard_23
+  - first:
+      213: -7651579477769850307
+    second: BlackMachineGunGuard_24
+  - first:
+      213: -7033291628280888566
+    second: BlackMachineGunGuard_25
+  - first:
+      213: 5626007067266360825
+    second: BlackMachineGunGuard_26
+  - first:
+      213: -975777735350980366
+    second: BlackMachineGunGuard_27
+  - first:
+      213: -4298532114498552310
+    second: BlackMachineGunGuard_28
+  - first:
+      213: -1399709018453407839
+    second: BlackMachineGunGuard_29
+  - first:
+      213: -8606420833369086561
+    second: BlackMachineGunGuard_30
+  - first:
+      213: -4897616251062752425
+    second: BlackMachineGunGuard_31
+  - first:
+      213: -1830866390506956085
+    second: BlackMachineGunGuard_32
+  - first:
+      213: -7185220464761164919
+    second: BlackMachineGunGuard_33
+  - first:
+      213: 8578299653541054029
+    second: BlackMachineGunGuard_34
+  - first:
+      213: -1132954035714976499
+    second: BlackMachineGunGuard_35
+  - first:
+      213: 5800752945906791921
+    second: BlackMachineGunGuard_36
+  - first:
+      213: 3893160012199761203
+    second: BlackMachineGunGuard_37
+  - first:
+      213: 2233447931441667211
+    second: BlackMachineGunGuard_38
+  - first:
+      213: 6159016612759994212
+    second: BlackMachineGunGuard_39
+  - first:
+      213: -2512150395873032020
+    second: BlackMachineGunGuard_40
+  - first:
+      213: 2228461737077201913
+    second: BlackMachineGunGuard_41
+  - first:
+      213: 6588480646291003769
+    second: BlackMachineGunGuard_42
+  - first:
+      213: 8041896980490370703
+    second: BlackMachineGunGuard_43
+  - first:
+      213: 2572344992293347051
+    second: BlackMachineGunGuard_44
+  - first:
+      213: -4469686342389786084
+    second: BlackMachineGunGuard_45
+  - first:
+      213: 6366560260576552044
+    second: BlackMachineGunGuard_46
+  - first:
+      213: -680586492792331481
+    second: BlackMachineGunGuard_47
+  - first:
+      213: -3376875344574317779
+    second: BlackMachineGunGuard_48
+  - first:
+      213: 1867912461700166578
+    second: BlackMachineGunGuard_49
+  - first:
+      213: -5895461130634363712
+    second: BlackMachineGunGuard_50
+  - first:
+      213: 733234905958419419
+    second: BlackMachineGunGuard_51
+  - first:
+      213: -3460902155241880955
+    second: BlackMachineGunGuard_52
+  - first:
+      213: 5717571864302495547
+    second: BlackMachineGunGuard_53
+  - first:
+      213: 48014433922587863
+    second: BlackMachineGunGuard_54
+  - first:
+      213: 5124698263489491685
+    second: BlackMachineGunGuard_55
+  - first:
+      213: 5932906623886994485
+    second: BlackMachineGunGuard_56
+  - first:
+      213: -2389970622767315339
+    second: BlackMachineGunGuard_57
+  - first:
+      213: 5785483941365014186
+    second: BlackMachineGunGuard_58
+  - first:
+      213: 5898695721985929230
+    second: BlackMachineGunGuard_59
+  - first:
+      213: -2640907220507815683
+    second: BlackMachineGunGuard_60
+  - first:
+      213: 102900145596470241
+    second: BlackMachineGunGuard_61
+  - first:
+      213: -8347451219651273636
+    second: BlackMachineGunGuard_62
+  - first:
+      213: -8510304009849554616
+    second: BlackMachineGunGuard_63
+  - first:
+      213: -1387577325664762390
+    second: BlackMachineGunGuard_64
+  - first:
+      213: -8307817728189958149
+    second: BlackMachineGunGuard_65
+  - first:
+      213: 152743016931769399
+    second: BlackMachineGunGuard_66
+  - first:
+      213: 1364783569238267960
+    second: BlackMachineGunGuard_67
+  - first:
+      213: 899171380533688461
+    second: BlackMachineGunGuard_68
+  - first:
+      213: -6235457044814227368
+    second: BlackMachineGunGuard_69
+  - first:
+      213: -8406289795391491909
+    second: BlackMachineGunGuard_70
+  - first:
+      213: -4997133987208829998
+    second: BlackMachineGunGuard_71
+  - first:
+      213: 5723189427791783736
+    second: BlackMachineGunGuard_72
+  - first:
+      213: -452472352402449601
+    second: BlackMachineGunGuard_73
+  - first:
+      213: -5767085895911387965
+    second: BlackMachineGunGuard_74
+  - first:
+      213: 4136416240016957914
+    second: BlackMachineGunGuard_75
+  - first:
+      213: -2286610327120425932
+    second: BlackMachineGunGuard_76
+  - first:
+      213: -125335285227035220
+    second: BlackMachineGunGuard_77
+  - first:
+      213: 5320346522508921448
+    second: BlackMachineGunGuard_78
+  - first:
+      213: -1179473437859130753
+    second: BlackMachineGunGuard_79
+  - first:
+      213: 5115042741894278748
+    second: BlackMachineGunGuard_80
+  - first:
+      213: 2007507095976710819
+    second: BlackMachineGunGuard_81
+  - first:
+      213: 6809094512124466995
+    second: BlackMachineGunGuard_82
+  - first:
+      213: 1805535048371653239
+    second: BlackMachineGunGuard_83
+  - first:
+      213: -3835646149469680350
+    second: BlackMachineGunGuard_84
+  - first:
+      213: -6452294760994998436
+    second: BlackMachineGunGuard_85
+  - first:
+      213: 3623887791479682153
+    second: BlackMachineGunGuard_86
+  - first:
+      213: -922921924282562364
+    second: BlackMachineGunGuard_87
+  - first:
+      213: 5434830133778148365
+    second: BlackMachineGunGuard_88
+  - first:
+      213: -493758040723393883
+    second: BlackMachineGunGuard_89
+  - first:
+      213: 1745513496526916877
+    second: BlackMachineGunGuard_90
+  - first:
+      213: -3993253942715807578
+    second: BlackMachineGunGuard_91
+  - first:
+      213: -5069057898195055386
+    second: BlackMachineGunGuard_92
+  - first:
+      213: 6194154553424837664
+    second: BlackMachineGunGuard_93
+  - first:
+      213: -8135297521931632073
+    second: BlackMachineGunGuard_94
+  - first:
+      213: -7319715441331253486
+    second: BlackMachineGunGuard_95
+  - first:
+      213: 4768740258892192271
+    second: BlackMachineGunGuard_96
+  - first:
+      213: 1987739066844923700
+    second: BlackMachineGunGuard_97
+  - first:
+      213: 1221919162059371753
+    second: BlackMachineGunGuard_98
+  - first:
+      213: -203257623496875684
+    second: BlackMachineGunGuard_99
+  - first:
+      213: 8465046661931897854
+    second: BlackMachineGunGuard_100
+  - first:
+      213: -3342550304250428411
+    second: BlackMachineGunGuard_101
+  - first:
+      213: -1525426859106231423
+    second: BlackMachineGunGuard_102
+  - first:
+      213: 5587375985746665811
+    second: BlackMachineGunGuard_103
+  - first:
+      213: -2469097336983255388
+    second: BlackMachineGunGuard_104
+  - first:
+      213: 1495768944975449756
+    second: BlackMachineGunGuard_105
+  - first:
+      213: 8804224919113850293
+    second: BlackMachineGunGuard_106
+  - first:
+      213: -1332409655013716333
+    second: BlackMachineGunGuard_107
+  - first:
+      213: -5671634224585437220
+    second: BlackMachineGunGuard_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 462
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9434ffaff20e1da20800000000000000
+      internalID: 3085493716404618057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 462
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730123e511bae4580800000000000000
+      internalID: -8840940927398571977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 460
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b64ef71988a1c0800000000000000
+      internalID: -4492189892158769324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 461
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06486447e44acaf10800000000000000
+      internalID: 2282379768035181664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 463
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b05ebbc41af6bd60800000000000000
+      internalID: 7905781163120021683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 478
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee51b38acb3c26820800000000000000
+      internalID: 2910103524278474222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 464
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89562d65be4d28c10800000000000000
+      internalID: 2054438487273399704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 467
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7752bbc49dfcbb0b0800000000000000
+      internalID: -5711743170187156105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 469
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b54037030aadfd0800000000000000
+      internalID: -2316362928380159138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 478
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a51143b54dfc71e0800000000000000
+      internalID: -2198604042261686879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 472
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e42a5cc25bb250800000000000000
+      internalID: 5961449569394156655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 472
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed450f4bcecfa50800000000000000
+      internalID: 6556375419414961750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 475
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c7ca50ede060660800000000000000
+      internalID: 7351579788469632012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 475
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f768ecb6914348000800000000000000
+      internalID: 37211980713330303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 476
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a13f99c356bda20800000000000000
+      internalID: 3088173280447896175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 476
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b5330260c029e40800000000000000
+      internalID: 5661600902007708426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_16
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 477
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d7a0f2db956db30800000000000000
+      internalID: 4311732362326736233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_17
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 477
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d9dbf6e7938cf0800000000000000
+      internalID: -251190135878986245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 477
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434bda9c8ec0c88f0800000000000000
+      internalID: -537040061608381388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_19
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 477
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126d0e8d29e36f220800000000000000
+      internalID: 2519269841985132065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 478
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cf49097f0fad750800000000000000
+      internalID: 6330637172295924881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_21
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 25
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08aa70d2bd498110800000000000000
+      internalID: 1263626600851351567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb7b80da13351e0800000000000000
+      internalID: -2210368372863419389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 446
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c1993390b7dbf0800000000000000
+      internalID: -299576703824312678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 381
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32fbd8310120d590800000000000000
+      internalID: -7651579477769850307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 411
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03c69e278ab46e90800000000000000
+      internalID: -7033291628280888566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 410
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5af3cae97931e40800000000000000
+      internalID: 5626007067266360825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 414
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f07ba0d1575572f0800000000000000
+      internalID: -975777735350980366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 417
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e74b301db8854c0800000000000000
+      internalID: -4298532114498552310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 422
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a78c2e401c339ce0800000000000000
+      internalID: -1399709018453407839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 428
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95a38fc9d9df8880800000000000000
+      internalID: -8606420833369086561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_31
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 438
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b6935e7fb280cb0800000000000000
+      internalID: -4897616251062752425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 439
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca91aad7b47796e0800000000000000
+      internalID: -1830866390506956085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 440
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b2b056e08f84c90800000000000000
+      internalID: -7185220464761164919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_34
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 440
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46cb2ac51e3c0770800000000000000
+      internalID: 8578299653541054029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_35
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 440
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d051d52ae40f640f0800000000000000
+      internalID: -1132954035714976499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_36
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 440
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f53392121a608050800000000000000
+      internalID: 5800752945906791921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_37
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 441
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3351cec7768470630800000000000000
+      internalID: 3893160012199761203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_38
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 441
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c59e17f0dcefe10800000000000000
+      internalID: 2233447931441667211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_39
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 446
+        width: 88
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ff9493af8397550800000000000000
+      internalID: 6159016612759994212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 391
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca881af568c032dd0800000000000000
+      internalID: -2512150395873032020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 366
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb590a94261dee10800000000000000
+      internalID: 2228461737077201913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 370
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97916b39d3cfe6b50800000000000000
+      internalID: 6588480646291003769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 377
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3a6a22be8a9f60800000000000000
+      internalID: 8041896980490370703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_44
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 387
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee5661442ec2b320800000000000000
+      internalID: 2572344992293347051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_45
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 413
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a1178f3fb78f1c0800000000000000
+      internalID: -4469686342389786084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_46
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 387
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64a8c453d09a5850800000000000000
+      internalID: 6366560260576552044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7232f22d0321e86f0800000000000000
+      internalID: -680586492792331481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 320
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b7fdbf3cde221d0800000000000000
+      internalID: -3376875344574317779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 319
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3f92fbc782ce910800000000000000
+      internalID: 1867912461700166578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc7a61565d1f2ea0800000000000000
+      internalID: -5895461130634363712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 360
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb819a1349fc2a00800000000000000
+      internalID: 733234905958419419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 324
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5828c6293d768ffc0800000000000000
+      internalID: -3460902155241880955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 332
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37a48d4155e85f40800000000000000
+      internalID: 5717571864302495547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_54
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 347
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc1c0e8fd49aa000800000000000000
+      internalID: 48014433922587863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23a583be59e1740800000000000000
+      internalID: 5124698263489491685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 259
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca85af32be55250800000000000000
+      internalID: 5932906623886994485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 310
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c556916e15ded0800000000000000
+      internalID: -2389970622767315339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 318
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed9caedfa2a4050800000000000000
+      internalID: 5785483941365014186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 270
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00761ba1806cd150800000000000000
+      internalID: 5898695721985929230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_60
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 278
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df01ed400ec995bd0800000000000000
+      internalID: -2640907220507815683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_61
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 288
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e31d9123239d6100800000000000000
+      internalID: 102900145596470241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_62
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 307
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cd8c8a755e72c80800000000000000
+      internalID: -8347451219651273636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 249
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b552b79355e980800000000000000
+      internalID: -8510304009849554616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 260
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae58d5526c55ebce0800000000000000
+      internalID: -1387577325664762390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 222
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77b8cfac3b4bc80800000000000000
+      internalID: -8307817728189958149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 232
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb322f6f6ae1200800000000000000
+      internalID: 152743016931769399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_67
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 244
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389cbfdc6fa0f210800000000000000
+      internalID: 1364783569238267960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_68
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 267
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8878e84b9f7a7c00800000000000000
+      internalID: 899171380533688461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_69
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 227
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85814a7cad43779a0800000000000000
+      internalID: -6235457044814227368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f2b238fbd65b80800000000000000
+      internalID: -8406289795391491909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 178
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e2655d1d96aab0800000000000000
+      internalID: -4997133987208829998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 200
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837ecc9367adc6f40800000000000000
+      internalID: 5723189427791783736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_73
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 211
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bdd54face78b9f0800000000000000
+      internalID: -452472352402449601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_74
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 186
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc4909dee137ffa0800000000000000
+      internalID: -5767085895911387965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 200
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad12e5597a0876930800000000000000
+      internalID: 4136416240016957914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_76
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 188
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c4f30c5045440e0800000000000000
+      internalID: -2286610327120425932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5683ed838b24ef0800000000000000
+      internalID: -125335285227035220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 141
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a012c49faa5d940800000000000000
+      internalID: 5320346522508921448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 163
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d56a482ba1afe0800000000000000
+      internalID: -1179473437859130753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_80
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e6c89e5484cf640800000000000000
+      internalID: 5115042741894278748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 126
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a294cb41191cdb10800000000000000
+      internalID: 2007507095976710819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 140
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3379d35f163ce7e50800000000000000
+      internalID: 6809094512124466995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_83
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 157
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac5b37f8c8e0910800000000000000
+      internalID: 1805535048371653239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_84
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 149
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc3c0362c05cac0800000000000000
+      internalID: -3835646149469680350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 108
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5777c0c918d476a0800000000000000
+      internalID: -6452294760994998436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 88
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96475050fb2aa4230800000000000000
+      internalID: 3623887791479682153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_87
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 116
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c7b3566f1133f0800000000000000
+      internalID: -922921924282562364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 69
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c6f6236356c6b40800000000000000
+      internalID: 5434830133778148365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 78
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a270b19da1d529f0800000000000000
+      internalID: -493758040723393883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_90
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 94
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d0327e64f493810800000000000000
+      internalID: 1745513496526916877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_91
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 114
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a80f7e32bc1598c0800000000000000
+      internalID: -3993253942715807578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_92
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 110
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec0238d2b617a9b0800000000000000
+      internalID: -5069057898195055386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c71c09fbe06f550800000000000000
+      internalID: 6194154553424837664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_94
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7324627a10e991f80800000000000000
+      internalID: -8135297521931632073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 35
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f428e66952b6a90800000000000000
+      internalID: -7319715441331253486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_96
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 49
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9f55eff7fd2240800000000000000
+      internalID: 4768740258892192271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_97
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 72
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4374579562ed59b10800000000000000
+      internalID: 1987739066844923700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_98
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 71
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4bacef00125f010800000000000000
+      internalID: 1221919162059371753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c512491b442ed2df0800000000000000
+      internalID: -203257623496875684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_100
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef39e8bd613e97570800000000000000
+      internalID: 8465046661931897854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_101
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 22
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50487473530ec91d0800000000000000
+      internalID: -3342550304250428411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_102
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 30
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b122c8a5894dae0800000000000000
+      internalID: -1525426859106231423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_103
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516af81bd85a8d40800000000000000
+      internalID: 5587375985746665811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_104
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 30
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a60049cd010cbdd0800000000000000
+      internalID: -2469097336983255388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_105
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 33
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e82573ee902c410800000000000000
+      internalID: 1495768944975449756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_106
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5c6acae3ee2a70800000000000000
+      internalID: 8804224919113850293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_107
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e4b996a74528de0800000000000000
+      internalID: -1332409655013716333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackMachineGunGuard_108
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf03abe8be4a41b0800000000000000
+      internalID: -5671634224585437220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlackMachineGunGuard_0: 3085493716404618057
+      BlackMachineGunGuard_1: -8840940927398571977
+      BlackMachineGunGuard_10: 5961449569394156655
+      BlackMachineGunGuard_100: 8465046661931897854
+      BlackMachineGunGuard_101: -3342550304250428411
+      BlackMachineGunGuard_102: -1525426859106231423
+      BlackMachineGunGuard_103: 5587375985746665811
+      BlackMachineGunGuard_104: -2469097336983255388
+      BlackMachineGunGuard_105: 1495768944975449756
+      BlackMachineGunGuard_106: 8804224919113850293
+      BlackMachineGunGuard_107: -1332409655013716333
+      BlackMachineGunGuard_108: -5671634224585437220
+      BlackMachineGunGuard_11: 6556375419414961750
+      BlackMachineGunGuard_12: 7351579788469632012
+      BlackMachineGunGuard_13: 37211980713330303
+      BlackMachineGunGuard_14: 3088173280447896175
+      BlackMachineGunGuard_15: 5661600902007708426
+      BlackMachineGunGuard_16: 4311732362326736233
+      BlackMachineGunGuard_17: -251190135878986245
+      BlackMachineGunGuard_18: -537040061608381388
+      BlackMachineGunGuard_19: 2519269841985132065
+      BlackMachineGunGuard_2: -4492189892158769324
+      BlackMachineGunGuard_20: 6330637172295924881
+      BlackMachineGunGuard_21: 1263626600851351567
+      BlackMachineGunGuard_22: -2210368372863419389
+      BlackMachineGunGuard_23: -299576703824312678
+      BlackMachineGunGuard_24: -7651579477769850307
+      BlackMachineGunGuard_25: -7033291628280888566
+      BlackMachineGunGuard_26: 5626007067266360825
+      BlackMachineGunGuard_27: -975777735350980366
+      BlackMachineGunGuard_28: -4298532114498552310
+      BlackMachineGunGuard_29: -1399709018453407839
+      BlackMachineGunGuard_3: 2282379768035181664
+      BlackMachineGunGuard_30: -8606420833369086561
+      BlackMachineGunGuard_31: -4897616251062752425
+      BlackMachineGunGuard_32: -1830866390506956085
+      BlackMachineGunGuard_33: -7185220464761164919
+      BlackMachineGunGuard_34: 8578299653541054029
+      BlackMachineGunGuard_35: -1132954035714976499
+      BlackMachineGunGuard_36: 5800752945906791921
+      BlackMachineGunGuard_37: 3893160012199761203
+      BlackMachineGunGuard_38: 2233447931441667211
+      BlackMachineGunGuard_39: 6159016612759994212
+      BlackMachineGunGuard_4: 7905781163120021683
+      BlackMachineGunGuard_40: -2512150395873032020
+      BlackMachineGunGuard_41: 2228461737077201913
+      BlackMachineGunGuard_42: 6588480646291003769
+      BlackMachineGunGuard_43: 8041896980490370703
+      BlackMachineGunGuard_44: 2572344992293347051
+      BlackMachineGunGuard_45: -4469686342389786084
+      BlackMachineGunGuard_46: 6366560260576552044
+      BlackMachineGunGuard_47: -680586492792331481
+      BlackMachineGunGuard_48: -3376875344574317779
+      BlackMachineGunGuard_49: 1867912461700166578
+      BlackMachineGunGuard_5: 2910103524278474222
+      BlackMachineGunGuard_50: -5895461130634363712
+      BlackMachineGunGuard_51: 733234905958419419
+      BlackMachineGunGuard_52: -3460902155241880955
+      BlackMachineGunGuard_53: 5717571864302495547
+      BlackMachineGunGuard_54: 48014433922587863
+      BlackMachineGunGuard_55: 5124698263489491685
+      BlackMachineGunGuard_56: 5932906623886994485
+      BlackMachineGunGuard_57: -2389970622767315339
+      BlackMachineGunGuard_58: 5785483941365014186
+      BlackMachineGunGuard_59: 5898695721985929230
+      BlackMachineGunGuard_6: 2054438487273399704
+      BlackMachineGunGuard_60: -2640907220507815683
+      BlackMachineGunGuard_61: 102900145596470241
+      BlackMachineGunGuard_62: -8347451219651273636
+      BlackMachineGunGuard_63: -8510304009849554616
+      BlackMachineGunGuard_64: -1387577325664762390
+      BlackMachineGunGuard_65: -8307817728189958149
+      BlackMachineGunGuard_66: 152743016931769399
+      BlackMachineGunGuard_67: 1364783569238267960
+      BlackMachineGunGuard_68: 899171380533688461
+      BlackMachineGunGuard_69: -6235457044814227368
+      BlackMachineGunGuard_7: -5711743170187156105
+      BlackMachineGunGuard_70: -8406289795391491909
+      BlackMachineGunGuard_71: -4997133987208829998
+      BlackMachineGunGuard_72: 5723189427791783736
+      BlackMachineGunGuard_73: -452472352402449601
+      BlackMachineGunGuard_74: -5767085895911387965
+      BlackMachineGunGuard_75: 4136416240016957914
+      BlackMachineGunGuard_76: -2286610327120425932
+      BlackMachineGunGuard_77: -125335285227035220
+      BlackMachineGunGuard_78: 5320346522508921448
+      BlackMachineGunGuard_79: -1179473437859130753
+      BlackMachineGunGuard_8: -2316362928380159138
+      BlackMachineGunGuard_80: 5115042741894278748
+      BlackMachineGunGuard_81: 2007507095976710819
+      BlackMachineGunGuard_82: 6809094512124466995
+      BlackMachineGunGuard_83: 1805535048371653239
+      BlackMachineGunGuard_84: -3835646149469680350
+      BlackMachineGunGuard_85: -6452294760994998436
+      BlackMachineGunGuard_86: 3623887791479682153
+      BlackMachineGunGuard_87: -922921924282562364
+      BlackMachineGunGuard_88: 5434830133778148365
+      BlackMachineGunGuard_89: -493758040723393883
+      BlackMachineGunGuard_9: -2198604042261686879
+      BlackMachineGunGuard_90: 1745513496526916877
+      BlackMachineGunGuard_91: -3993253942715807578
+      BlackMachineGunGuard_92: -5069057898195055386
+      BlackMachineGunGuard_93: 6194154553424837664
+      BlackMachineGunGuard_94: -8135297521931632073
+      BlackMachineGunGuard_95: -7319715441331253486
+      BlackMachineGunGuard_96: 4768740258892192271
+      BlackMachineGunGuard_97: 1987739066844923700
+      BlackMachineGunGuard_98: 1221919162059371753
+      BlackMachineGunGuard_99: -203257623496875684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

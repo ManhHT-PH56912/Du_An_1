@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 37896590d2dcd1a4496d310fcd0c3d76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6543967712946862738
+    second: visual_template_ice_cave_2_0
+  - first:
+      213: -3514040969669705093
+    second: visual_template_ice_cave_2_1
+  - first:
+      213: 8300215690007068472
+    second: visual_template_ice_cave_2_2
+  - first:
+      213: -7146268385043648801
+    second: visual_template_ice_cave_2_3
+  - first:
+      213: 6103465145889019116
+    second: visual_template_ice_cave_2_4
+  - first:
+      213: -2245076091806086763
+    second: visual_template_ice_cave_2_5
+  - first:
+      213: -1718846942477448006
+    second: visual_template_ice_cave_2_6
+  - first:
+      213: -7219867910830892229
+    second: visual_template_ice_cave_2_7
+  - first:
+      213: 9081961855644561939
+    second: visual_template_ice_cave_2_8
+  - first:
+      213: -6461130776557245918
+    second: visual_template_ice_cave_2_9
+  - first:
+      213: -2779143118851384362
+    second: visual_template_ice_cave_2_10
+  - first:
+      213: -2389316784953389531
+    second: visual_template_ice_cave_2_11
+  - first:
+      213: -5499382990071327543
+    second: visual_template_ice_cave_2_12
+  - first:
+      213: 1054968896121237088
+    second: visual_template_ice_cave_2_13
+  - first:
+      213: 7210548767587575921
+    second: visual_template_ice_cave_2_14
+  - first:
+      213: 3346187087426575019
+    second: visual_template_ice_cave_2_15
+  - first:
+      213: -8950940835181847973
+    second: visual_template_ice_cave_2_16
+  - first:
+      213: -3865731113707237504
+    second: visual_template_ice_cave_2_17
+  - first:
+      213: 6286596934360049748
+    second: visual_template_ice_cave_2_18
+  - first:
+      213: -2555966517642529957
+    second: visual_template_ice_cave_2_19
+  - first:
+      213: -2332877458673413676
+    second: visual_template_ice_cave_2_20
+  - first:
+      213: 7921438988487008583
+    second: visual_template_ice_cave_2_21
+  - first:
+      213: 362396151756332096
+    second: visual_template_ice_cave_2_22
+  - first:
+      213: -2499163710996521679
+    second: visual_template_ice_cave_2_23
+  - first:
+      213: 6909229923599113979
+    second: visual_template_ice_cave_2_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654d2859082f25a0800000000000000
+      internalID: -6543967712946862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 954
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b720ba43b5e9b3fc0800000000000000
+      internalID: -3514040969669705093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 938
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fbef1913a403370800000000000000
+      internalID: 8300215690007068472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 964
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde6edf24ca53dc90800000000000000
+      internalID: -7146268385043648801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 962
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce451bf663dd3b450800000000000000
+      internalID: 6103465145889019116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 962
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990d2e7033e7d0e0800000000000000
+      internalID: -2245076091806086763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 639
+        width: 69
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc8d5a00dd6528e0800000000000000
+      internalID: -1718846942477448006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 783
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bdea93360edcb90800000000000000
+      internalID: -7219867910830892229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 783
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312775d703c990e70800000000000000
+      internalID: 9081961855644561939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 783
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a26ff8ac37556a0800000000000000
+      internalID: -6461130776557245918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 783
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db54e4de008e69d0800000000000000
+      internalID: -2779143118851384362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 783
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e89f01b0177ded0800000000000000
+      internalID: -2389316784953389531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 639
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c419f8be444ea3b0800000000000000
+      internalID: -5499382990071327543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 639
+        width: 57
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e646e1f9004ae00800000000000000
+      internalID: 1054968896121237088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 639
+        width: 31
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17820b7a6e3011460800000000000000
+      internalID: 7210548767587575921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 639
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa5f0a5d6b007e20800000000000000
+      internalID: 3346187087426575019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 639
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a92790cbed7c380800000000000000
+      internalID: -8950940835181847973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 663
+        width: 194
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f0e4a980a2a5ac0800000000000000
+      internalID: -3865731113707237504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458279e9a9a7e3750800000000000000
+      internalID: 6286596934360049748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 495
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53ff1a8ef1678cd0800000000000000
+      internalID: -2555966517642529957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 591
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1514bbf44ff9fd0800000000000000
+      internalID: -2332877458673413676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 495
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741a2ba5aca9eed60800000000000000
+      internalID: 7921438988487008583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 495
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9765416d770500800000000000000
+      internalID: 362396151756332096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 217
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d518298df215dd0800000000000000
+      internalID: -2499163710996521679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_ice_cave_2_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 183
+        width: 770
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfedf93420482ef50800000000000000
+      internalID: 6909229923599113979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      visual_template_ice_cave_2_0: -6543967712946862738
+      visual_template_ice_cave_2_1: -3514040969669705093
+      visual_template_ice_cave_2_10: -2779143118851384362
+      visual_template_ice_cave_2_11: -2389316784953389531
+      visual_template_ice_cave_2_12: -5499382990071327543
+      visual_template_ice_cave_2_13: 1054968896121237088
+      visual_template_ice_cave_2_14: 7210548767587575921
+      visual_template_ice_cave_2_15: 3346187087426575019
+      visual_template_ice_cave_2_16: -8950940835181847973
+      visual_template_ice_cave_2_17: -3865731113707237504
+      visual_template_ice_cave_2_18: 6286596934360049748
+      visual_template_ice_cave_2_19: -2555966517642529957
+      visual_template_ice_cave_2_2: 8300215690007068472
+      visual_template_ice_cave_2_20: -2332877458673413676
+      visual_template_ice_cave_2_21: 7921438988487008583
+      visual_template_ice_cave_2_22: 362396151756332096
+      visual_template_ice_cave_2_23: -2499163710996521679
+      visual_template_ice_cave_2_24: 6909229923599113979
+      visual_template_ice_cave_2_3: -7146268385043648801
+      visual_template_ice_cave_2_4: 6103465145889019116
+      visual_template_ice_cave_2_5: -2245076091806086763
+      visual_template_ice_cave_2_6: -1718846942477448006
+      visual_template_ice_cave_2_7: -7219867910830892229
+      visual_template_ice_cave_2_8: 9081961855644561939
+      visual_template_ice_cave_2_9: -6461130776557245918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

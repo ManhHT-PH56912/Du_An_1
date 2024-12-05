@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 16fde14f32eedfd43967055bbcb7ffe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1539320617736762766
+    second: moving_dz_fog_0
+  - first:
+      213: 4970138681994074735
+    second: moving_dz_fog_1
+  - first:
+      213: 2845266509149159343
+    second: moving_dz_fog_2
+  - first:
+      213: -903608981995727820
+    second: moving_dz_fog_3
+  - first:
+      213: 5899805485989862773
+    second: moving_dz_fog_4
+  - first:
+      213: -8091212406803592753
+    second: moving_dz_fog_5
+  - first:
+      213: 3418258267863058856
+    second: moving_dz_fog_6
+  - first:
+      213: 6052237810544957054
+    second: moving_dz_fog_7
+  - first:
+      213: -3980386782904095435
+    second: moving_dz_fog_8
+  - first:
+      213: 8286233900937048227
+    second: moving_dz_fog_9
+  - first:
+      213: 4875214434100553042
+    second: moving_dz_fog_10
+  - first:
+      213: -2219021676934017666
+    second: moving_dz_fog_11
+  - first:
+      213: 6496199938724582510
+    second: moving_dz_fog_12
+  - first:
+      213: 7378948420276086093
+    second: moving_dz_fog_13
+  - first:
+      213: -5286171386582572506
+    second: moving_dz_fog_14
+  - first:
+      213: 6970190512991968649
+    second: moving_dz_fog_15
+  - first:
+      213: 6513880841523020472
+    second: moving_dz_fog_16
+  - first:
+      213: 680087745937050712
+    second: moving_dz_fog_17
+  - first:
+      213: 6335258597619641325
+    second: moving_dz_fog_18
+  - first:
+      213: 5864749977689748106
+    second: moving_dz_fog_19
+  - first:
+      213: 4982853744463253550
+    second: moving_dz_fog_20
+  - first:
+      213: -7499880610273431294
+    second: moving_dz_fog_21
+  - first:
+      213: 6447683963265632474
+    second: moving_dz_fog_22
+  - first:
+      213: 5664752720161140601
+    second: moving_dz_fog_23
+  - first:
+      213: 3477096323472644441
+    second: moving_dz_fog_24
+  - first:
+      213: -5598604084725385047
+    second: moving_dz_fog_25
+  - first:
+      213: -9158969243523557414
+    second: moving_dz_fog_26
+  - first:
+      213: -680679281080339085
+    second: moving_dz_fog_27
+  - first:
+      213: -2316383261643712976
+    second: moving_dz_fog_28
+  - first:
+      213: -8033326564612943647
+    second: moving_dz_fog_29
+  - first:
+      213: 6050810907381388853
+    second: moving_dz_fog_30
+  - first:
+      213: -1094492235929022507
+    second: moving_dz_fog_31
+  - first:
+      213: 2094330639219600958
+    second: moving_dz_fog_32
+  - first:
+      213: 6016636118620657183
+    second: moving_dz_fog_33
+  - first:
+      213: -8701708518018946648
+    second: moving_dz_fog_34
+  - first:
+      213: -4771672382143023425
+    second: moving_dz_fog_35
+  - first:
+      213: 1950378511254525220
+    second: moving_dz_fog_36
+  - first:
+      213: -8702953491936080675
+    second: moving_dz_fog_37
+  - first:
+      213: -1854933382650080826
+    second: moving_dz_fog_38
+  - first:
+      213: -5760181805021851015
+    second: moving_dz_fog_39
+  - first:
+      213: 2577345736472783961
+    second: moving_dz_fog_40
+  - first:
+      213: 6393960796329490661
+    second: moving_dz_fog_41
+  - first:
+      213: 4749705967212019886
+    second: moving_dz_fog_42
+  - first:
+      213: -3516025006219177897
+    second: moving_dz_fog_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moving_dz_fog_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 372
+        width: 15
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8572a732f3cc5510800000000000000
+      internalID: 1539320617736762766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 372
+        width: 16
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a5fa06cca79f440800000000000000
+      internalID: 4970138681994074735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 372
+        width: 25
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafb621b0da6c7720800000000000000
+      internalID: 2845266509149159343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 372
+        width: 31
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434da4c1b6cb573f0800000000000000
+      internalID: -903608981995727820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 372
+        width: 37
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d935cb4d150e150800000000000000
+      internalID: 5899805485989862773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 372
+        width: 51
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc90d326f2d36bf80800000000000000
+      internalID: -8091212406803592753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 372
+        width: 66
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9058ea8c7107f20800000000000000
+      internalID: 3418258267863058856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 372
+        width: 73
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7658b9f83eddf350800000000000000
+      internalID: 6052237810544957054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 372
+        width: 45
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d67585f43d2c8c0800000000000000
+      internalID: -3980386782904095435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 372
+        width: 43
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f62f94dd9ef270800000000000000
+      internalID: 8286233900937048227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 372
+        width: 37
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ab64a2bd38a340800000000000000
+      internalID: 4875214434100553042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 372
+        width: 50
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc47daa837431e0800000000000000
+      internalID: -2219021676934017666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 109
+        width: 82
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64d7990d63272a50800000000000000
+      internalID: 6496199938724582510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 227
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456c7e2e7a476660800000000000000
+      internalID: 7378948420276086093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 228
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62269e8912fb3a6b0800000000000000
+      internalID: -5286171386582572506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 228
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1fa787571bb060800000000000000
+      internalID: 6970190512991968649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 229
+        width: 53
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c3340d14f56a50800000000000000
+      internalID: 6513880841523020472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 229
+        width: 39
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c8ca0a338207900800000000000000
+      internalID: 680087745937050712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 83
+        width: 18
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debab5ff02c5be750800000000000000
+      internalID: 6335258597619641325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 89
+        width: 20
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827dac2807c36150800000000000000
+      internalID: 5864749977689748106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 89
+        width: 14
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20157e8417a62540800000000000000
+      internalID: 4982853744463253550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 89
+        width: 14
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201ffce22521be790800000000000000
+      internalID: -7499880610273431294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 89
+        width: 12
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84e6e3766ca7950800000000000000
+      internalID: 6447683963265632474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 89
+        width: 12
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fe1a9f59e3d9e40800000000000000
+      internalID: 5664752720161140601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 195
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959576a0fa0214030800000000000000
+      internalID: 3477096323472644441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 87
+        width: 45
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a874e36f33cd42b0800000000000000
+      internalID: -5598604084725385047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 91
+        width: 45
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7dc03dffdc4e080800000000000000
+      internalID: -9158969243523557414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 162
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375fc3ddccdbd86f0800000000000000
+      internalID: -680679281080339085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 132
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d01e32bd8adfd0800000000000000
+      internalID: -2316383261643712976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 103
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e059874d04e38090800000000000000
+      internalID: -8033326564612943647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536d681367cc8f350800000000000000
+      internalID: 6050810907381388853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 45
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df070c3c159fc0f0800000000000000
+      internalID: -1094492235929022507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea6e0ce9e801d10800000000000000
+      internalID: 2094330639219600958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 48
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165b212ca26f7350800000000000000
+      internalID: 6016636118620657183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 49
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96d7cd4325d3780800000000000000
+      internalID: -8701708518018946648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 44
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6b2d5ff3d97cdb0800000000000000
+      internalID: -4771672382143023425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 28
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42591e42ce2211b10800000000000000
+      internalID: 1950378511254525220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc8768c8e5e83780800000000000000
+      internalID: -8702953491936080675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1d0259ae3f146e0800000000000000
+      internalID: -1854933382650080826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 12
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9721106ca29bf00b0800000000000000
+      internalID: -5760181805021851015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 84
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ce3ddba4294c320800000000000000
+      internalID: 2577345736472783961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 17
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e83ef4b779ebb850800000000000000
+      internalID: 6393960796329490661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 10
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0c93389685ae140800000000000000
+      internalID: 4749705967212019886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving_dz_fog_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 11
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7505ae2b2e1943fc0800000000000000
+      internalID: -3516025006219177897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      moving_dz_fog_0: 1539320617736762766
+      moving_dz_fog_1: 4970138681994074735
+      moving_dz_fog_10: 4875214434100553042
+      moving_dz_fog_11: -2219021676934017666
+      moving_dz_fog_12: 6496199938724582510
+      moving_dz_fog_13: 7378948420276086093
+      moving_dz_fog_14: -5286171386582572506
+      moving_dz_fog_15: 6970190512991968649
+      moving_dz_fog_16: 6513880841523020472
+      moving_dz_fog_17: 680087745937050712
+      moving_dz_fog_18: 6335258597619641325
+      moving_dz_fog_19: 5864749977689748106
+      moving_dz_fog_2: 2845266509149159343
+      moving_dz_fog_20: 4982853744463253550
+      moving_dz_fog_21: -7499880610273431294
+      moving_dz_fog_22: 6447683963265632474
+      moving_dz_fog_23: 5664752720161140601
+      moving_dz_fog_24: 3477096323472644441
+      moving_dz_fog_25: -5598604084725385047
+      moving_dz_fog_26: -9158969243523557414
+      moving_dz_fog_27: -680679281080339085
+      moving_dz_fog_28: -2316383261643712976
+      moving_dz_fog_29: -8033326564612943647
+      moving_dz_fog_3: -903608981995727820
+      moving_dz_fog_30: 6050810907381388853
+      moving_dz_fog_31: -1094492235929022507
+      moving_dz_fog_32: 2094330639219600958
+      moving_dz_fog_33: 6016636118620657183
+      moving_dz_fog_34: -8701708518018946648
+      moving_dz_fog_35: -4771672382143023425
+      moving_dz_fog_36: 1950378511254525220
+      moving_dz_fog_37: -8702953491936080675
+      moving_dz_fog_38: -1854933382650080826
+      moving_dz_fog_39: -5760181805021851015
+      moving_dz_fog_4: 5899805485989862773
+      moving_dz_fog_40: 2577345736472783961
+      moving_dz_fog_41: 6393960796329490661
+      moving_dz_fog_42: 4749705967212019886
+      moving_dz_fog_43: -3516025006219177897
+      moving_dz_fog_5: -8091212406803592753
+      moving_dz_fog_6: 3418258267863058856
+      moving_dz_fog_7: 6052237810544957054
+      moving_dz_fog_8: -3980386782904095435
+      moving_dz_fog_9: 8286233900937048227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

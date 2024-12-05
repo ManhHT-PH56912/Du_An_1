@@ -1,0 +1,6019 @@
+fileFormatVersion: 2
+guid: 2ceb4cdd6028c90429ba76be656bd1fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6420881833260375474
+    second: DarkMaster_0
+  - first:
+      213: 5926049808332104745
+    second: DarkMaster_1
+  - first:
+      213: 786747217216658240
+    second: DarkMaster_2
+  - first:
+      213: 8002470845438549157
+    second: DarkMaster_3
+  - first:
+      213: -818719372919402884
+    second: DarkMaster_4
+  - first:
+      213: 2697009347734426378
+    second: DarkMaster_5
+  - first:
+      213: -1841757306414978061
+    second: DarkMaster_6
+  - first:
+      213: -1464604857500285585
+    second: DarkMaster_7
+  - first:
+      213: 331036262155087096
+    second: DarkMaster_8
+  - first:
+      213: 1761333456659875857
+    second: DarkMaster_9
+  - first:
+      213: -731248983765015414
+    second: DarkMaster_10
+  - first:
+      213: -7538558466210307574
+    second: DarkMaster_11
+  - first:
+      213: -1264011983707024881
+    second: DarkMaster_12
+  - first:
+      213: 4093445271611852259
+    second: DarkMaster_13
+  - first:
+      213: 6886204965846956667
+    second: DarkMaster_14
+  - first:
+      213: -3500981717172786741
+    second: DarkMaster_15
+  - first:
+      213: 2914527104775631822
+    second: DarkMaster_16
+  - first:
+      213: -3267628609431758365
+    second: DarkMaster_17
+  - first:
+      213: 7951443174196140758
+    second: DarkMaster_18
+  - first:
+      213: -456538718262746292
+    second: DarkMaster_19
+  - first:
+      213: 3327211087660754381
+    second: DarkMaster_20
+  - first:
+      213: -6735670059976833589
+    second: DarkMaster_21
+  - first:
+      213: 210174627385791276
+    second: DarkMaster_22
+  - first:
+      213: 8062616259578287157
+    second: DarkMaster_23
+  - first:
+      213: 7891090721567508877
+    second: DarkMaster_24
+  - first:
+      213: 6125533679473167839
+    second: DarkMaster_25
+  - first:
+      213: -8560744252277602172
+    second: DarkMaster_26
+  - first:
+      213: -7462038609776819644
+    second: DarkMaster_27
+  - first:
+      213: 1568195197986211259
+    second: DarkMaster_28
+  - first:
+      213: 8872375027144443127
+    second: DarkMaster_29
+  - first:
+      213: -1795237347904281347
+    second: DarkMaster_30
+  - first:
+      213: -9068746312331625371
+    second: DarkMaster_31
+  - first:
+      213: -6827654396779595169
+    second: DarkMaster_32
+  - first:
+      213: -3154828680880407718
+    second: DarkMaster_33
+  - first:
+      213: -8851343785305222402
+    second: DarkMaster_34
+  - first:
+      213: -4606530477810613045
+    second: DarkMaster_35
+  - first:
+      213: -7329312704439057277
+    second: DarkMaster_36
+  - first:
+      213: -5378041825040666868
+    second: DarkMaster_37
+  - first:
+      213: 8817765771993881952
+    second: DarkMaster_38
+  - first:
+      213: 6270161808838646823
+    second: DarkMaster_39
+  - first:
+      213: 7558298973913354964
+    second: DarkMaster_40
+  - first:
+      213: 7804901348474807561
+    second: DarkMaster_41
+  - first:
+      213: 5693224849218441543
+    second: DarkMaster_42
+  - first:
+      213: -7175959865450582603
+    second: DarkMaster_43
+  - first:
+      213: 2141261371458980156
+    second: DarkMaster_44
+  - first:
+      213: 4805468265420405733
+    second: DarkMaster_45
+  - first:
+      213: 6589046278621473108
+    second: DarkMaster_46
+  - first:
+      213: -7680326406001589508
+    second: DarkMaster_47
+  - first:
+      213: -1258387553885822384
+    second: DarkMaster_48
+  - first:
+      213: 453484875748949808
+    second: DarkMaster_49
+  - first:
+      213: 7136626528661600185
+    second: DarkMaster_50
+  - first:
+      213: 3200577326338185611
+    second: DarkMaster_51
+  - first:
+      213: -9157594178717377080
+    second: DarkMaster_52
+  - first:
+      213: -689291289612956595
+    second: DarkMaster_53
+  - first:
+      213: -5171295647271189851
+    second: DarkMaster_54
+  - first:
+      213: 6431261481446578053
+    second: DarkMaster_55
+  - first:
+      213: -88934020710923881
+    second: DarkMaster_56
+  - first:
+      213: 34212895836339606
+    second: DarkMaster_57
+  - first:
+      213: 7630787940179558086
+    second: DarkMaster_58
+  - first:
+      213: 6231595724147169515
+    second: DarkMaster_59
+  - first:
+      213: -6397626759278401373
+    second: DarkMaster_60
+  - first:
+      213: 3947227345900791934
+    second: DarkMaster_61
+  - first:
+      213: 8249282723356385524
+    second: DarkMaster_62
+  - first:
+      213: -561587637021150360
+    second: DarkMaster_63
+  - first:
+      213: 3111502113862274085
+    second: DarkMaster_64
+  - first:
+      213: 2164494783765062925
+    second: DarkMaster_65
+  - first:
+      213: -4557243081981806030
+    second: DarkMaster_66
+  - first:
+      213: -5698592425106622741
+    second: DarkMaster_67
+  - first:
+      213: -6687563901172992671
+    second: DarkMaster_68
+  - first:
+      213: 6434618128315717231
+    second: DarkMaster_69
+  - first:
+      213: -214458426439418390
+    second: DarkMaster_70
+  - first:
+      213: -6691392775387574442
+    second: DarkMaster_71
+  - first:
+      213: 2975851027784302854
+    second: DarkMaster_72
+  - first:
+      213: 4406571322223995181
+    second: DarkMaster_73
+  - first:
+      213: -8406393842905556664
+    second: DarkMaster_74
+  - first:
+      213: 2445376357299908707
+    second: DarkMaster_75
+  - first:
+      213: 1884496900572209789
+    second: DarkMaster_76
+  - first:
+      213: 6823188418831103607
+    second: DarkMaster_77
+  - first:
+      213: -3558994217919850255
+    second: DarkMaster_78
+  - first:
+      213: 7965322303739818287
+    second: DarkMaster_79
+  - first:
+      213: 5510246828678976547
+    second: DarkMaster_80
+  - first:
+      213: -2433890639460152339
+    second: DarkMaster_81
+  - first:
+      213: 2922310778067044585
+    second: DarkMaster_82
+  - first:
+      213: -118663643948811108
+    second: DarkMaster_83
+  - first:
+      213: -1725410742077466437
+    second: DarkMaster_84
+  - first:
+      213: -5618512715404270040
+    second: DarkMaster_85
+  - first:
+      213: 3717915406515139756
+    second: DarkMaster_86
+  - first:
+      213: 8009209762844684116
+    second: DarkMaster_87
+  - first:
+      213: 4286969216704465152
+    second: DarkMaster_88
+  - first:
+      213: -40446823557031338
+    second: DarkMaster_89
+  - first:
+      213: 33828163545809854
+    second: DarkMaster_90
+  - first:
+      213: 3333468154126778606
+    second: DarkMaster_91
+  - first:
+      213: 9134516746287533358
+    second: DarkMaster_92
+  - first:
+      213: -198878917907691265
+    second: DarkMaster_93
+  - first:
+      213: 5959416072777751710
+    second: DarkMaster_94
+  - first:
+      213: 2800261483831947074
+    second: DarkMaster_95
+  - first:
+      213: 2400752788139640542
+    second: DarkMaster_96
+  - first:
+      213: -8493435420690786734
+    second: DarkMaster_97
+  - first:
+      213: -1165681577460274717
+    second: DarkMaster_98
+  - first:
+      213: 2824237849128688858
+    second: DarkMaster_99
+  - first:
+      213: -202857646868170111
+    second: DarkMaster_100
+  - first:
+      213: 7402092564205392910
+    second: DarkMaster_101
+  - first:
+      213: -6097059862405704430
+    second: DarkMaster_102
+  - first:
+      213: 1910156278649822738
+    second: DarkMaster_103
+  - first:
+      213: -3218951007347614549
+    second: DarkMaster_104
+  - first:
+      213: -2758048965136472840
+    second: DarkMaster_105
+  - first:
+      213: -6566108662917455748
+    second: DarkMaster_106
+  - first:
+      213: -6847187092322371631
+    second: DarkMaster_107
+  - first:
+      213: -7198104731589010760
+    second: DarkMaster_108
+  - first:
+      213: -7107251094727837802
+    second: DarkMaster_109
+  - first:
+      213: -3255899198911123249
+    second: DarkMaster_110
+  - first:
+      213: 5387709798371204686
+    second: DarkMaster_111
+  - first:
+      213: 3101251052638295619
+    second: DarkMaster_112
+  - first:
+      213: 9060186325082738743
+    second: DarkMaster_113
+  - first:
+      213: 4369462061575806979
+    second: DarkMaster_114
+  - first:
+      213: -8328886371023128110
+    second: DarkMaster_115
+  - first:
+      213: 3002413253263230781
+    second: DarkMaster_116
+  - first:
+      213: 5098972134589327695
+    second: DarkMaster_117
+  - first:
+      213: 8630594410206690920
+    second: DarkMaster_118
+  - first:
+      213: -9042034187767555589
+    second: DarkMaster_119
+  - first:
+      213: 5689133291906827844
+    second: DarkMaster_120
+  - first:
+      213: -2618280896320125339
+    second: DarkMaster_121
+  - first:
+      213: 1304498109010163608
+    second: DarkMaster_122
+  - first:
+      213: 6616729037993522458
+    second: DarkMaster_123
+  - first:
+      213: 8275494448016145318
+    second: DarkMaster_124
+  - first:
+      213: -4146937101912075194
+    second: DarkMaster_125
+  - first:
+      213: 6156296324784705000
+    second: DarkMaster_126
+  - first:
+      213: 690344228472486215
+    second: DarkMaster_127
+  - first:
+      213: 778917668666506770
+    second: DarkMaster_128
+  - first:
+      213: 7510110945469016211
+    second: DarkMaster_129
+  - first:
+      213: 6530425422043272323
+    second: DarkMaster_130
+  - first:
+      213: 3817247160795256677
+    second: DarkMaster_131
+  - first:
+      213: 2098227473009355100
+    second: DarkMaster_132
+  - first:
+      213: -4312469444620589877
+    second: DarkMaster_133
+  - first:
+      213: 6227199296348446783
+    second: DarkMaster_134
+  - first:
+      213: 3367893244873340152
+    second: DarkMaster_135
+  - first:
+      213: 1847804156069129102
+    second: DarkMaster_136
+  - first:
+      213: 6216127428899985760
+    second: DarkMaster_137
+  - first:
+      213: 5457939717690400524
+    second: DarkMaster_138
+  - first:
+      213: 32366069342432106
+    second: DarkMaster_139
+  - first:
+      213: 6750600608150761198
+    second: DarkMaster_140
+  - first:
+      213: 6954980677407012402
+    second: DarkMaster_141
+  - first:
+      213: -8720419027381653082
+    second: DarkMaster_142
+  - first:
+      213: -2626950862163183297
+    second: DarkMaster_143
+  - first:
+      213: -2129571372793982754
+    second: DarkMaster_144
+  - first:
+      213: 3370876392947402951
+    second: DarkMaster_145
+  - first:
+      213: -264414646855815430
+    second: DarkMaster_146
+  - first:
+      213: -7085981516708361197
+    second: DarkMaster_147
+  - first:
+      213: -2274188958846468517
+    second: DarkMaster_148
+  - first:
+      213: 7137482047285795479
+    second: DarkMaster_149
+  - first:
+      213: -7993766390590682142
+    second: DarkMaster_150
+  - first:
+      213: 7024393910780976259
+    second: DarkMaster_151
+  - first:
+      213: -4262679280303990370
+    second: DarkMaster_152
+  - first:
+      213: 6519612390830557432
+    second: DarkMaster_153
+  - first:
+      213: -3475867455407011027
+    second: DarkMaster_154
+  - first:
+      213: 937143167634115494
+    second: DarkMaster_155
+  - first:
+      213: 4629889820864018825
+    second: DarkMaster_156
+  - first:
+      213: 1709383558636364447
+    second: DarkMaster_157
+  - first:
+      213: -5474823992675856283
+    second: DarkMaster_158
+  - first:
+      213: -7474398674438261266
+    second: DarkMaster_159
+  - first:
+      213: 5866591867783918357
+    second: DarkMaster_160
+  - first:
+      213: -3260094144779091038
+    second: DarkMaster_161
+  - first:
+      213: -3405126056238813052
+    second: DarkMaster_162
+  - first:
+      213: 5379158226778149825
+    second: DarkMaster_163
+  - first:
+      213: -4919151894991674230
+    second: DarkMaster_164
+  - first:
+      213: -5438125348821694376
+    second: DarkMaster_165
+  - first:
+      213: -1102824021647231206
+    second: DarkMaster_166
+  - first:
+      213: 6222896087606506518
+    second: DarkMaster_167
+  - first:
+      213: -5676805031080267623
+    second: DarkMaster_168
+  - first:
+      213: 6052322750851591667
+    second: DarkMaster_169
+  - first:
+      213: -1893063750766997095
+    second: DarkMaster_170
+  - first:
+      213: 7126878820467701584
+    second: DarkMaster_171
+  - first:
+      213: 4559355884937672144
+    second: DarkMaster_172
+  - first:
+      213: 1068730023316073256
+    second: DarkMaster_173
+  - first:
+      213: 7873892378856181743
+    second: DarkMaster_174
+  - first:
+      213: 1533705098574797121
+    second: DarkMaster_175
+  - first:
+      213: -4631618445330201014
+    second: DarkMaster_176
+  - first:
+      213: -7478089585991948993
+    second: DarkMaster_177
+  - first:
+      213: -2541213201917339083
+    second: DarkMaster_178
+  - first:
+      213: 5531844838798458900
+    second: DarkMaster_179
+  - first:
+      213: 3932768162051293451
+    second: DarkMaster_180
+  - first:
+      213: -7152647903626014495
+    second: DarkMaster_181
+  - first:
+      213: -5594481257525356780
+    second: DarkMaster_182
+  - first:
+      213: -6316403618036881925
+    second: DarkMaster_183
+  - first:
+      213: 2593137131727976199
+    second: DarkMaster_184
+  - first:
+      213: -6853530646820852257
+    second: DarkMaster_185
+  - first:
+      213: -1618281175172976047
+    second: DarkMaster_186
+  - first:
+      213: -441779231011261055
+    second: DarkMaster_187
+  - first:
+      213: -4039059762984763178
+    second: DarkMaster_188
+  - first:
+      213: -5937381079265412881
+    second: DarkMaster_189
+  - first:
+      213: 8489603033911558502
+    second: DarkMaster_190
+  - first:
+      213: 3169726307316518467
+    second: DarkMaster_191
+  - first:
+      213: -6977050256330022474
+    second: DarkMaster_192
+  - first:
+      213: -7320620071332243820
+    second: DarkMaster_193
+  - first:
+      213: 6895720155393820104
+    second: DarkMaster_194
+  - first:
+      213: -404516087694791147
+    second: DarkMaster_195
+  - first:
+      213: -6663701431371690885
+    second: DarkMaster_196
+  - first:
+      213: -2156816864628100558
+    second: DarkMaster_197
+  - first:
+      213: 4929070209925751719
+    second: DarkMaster_198
+  - first:
+      213: 8838691232013384362
+    second: DarkMaster_199
+  - first:
+      213: -6730449481368192723
+    second: DarkMaster_200
+  - first:
+      213: 4318961224040571871
+    second: DarkMaster_201
+  - first:
+      213: -4203633506212602309
+    second: DarkMaster_202
+  - first:
+      213: 6390565332620079227
+    second: DarkMaster_203
+  - first:
+      213: -8583906728937655009
+    second: DarkMaster_204
+  - first:
+      213: 924097220606306916
+    second: DarkMaster_205
+  - first:
+      213: -5133953387164138985
+    second: DarkMaster_206
+  - first:
+      213: -9167364134620267216
+    second: DarkMaster_207
+  - first:
+      213: -7091651018496035655
+    second: DarkMaster_208
+  - first:
+      213: 4920891560417928445
+    second: DarkMaster_209
+  - first:
+      213: -1745060868146854851
+    second: DarkMaster_210
+  - first:
+      213: -4559935076601981164
+    second: DarkMaster_211
+  - first:
+      213: -6599998492007413658
+    second: DarkMaster_212
+  - first:
+      213: 3581905442671330862
+    second: DarkMaster_213
+  - first:
+      213: -5472581744803091709
+    second: DarkMaster_214
+  - first:
+      213: 4558278683207078933
+    second: DarkMaster_215
+  - first:
+      213: 8909636767427696387
+    second: DarkMaster_216
+  - first:
+      213: -6309699130422234877
+    second: DarkMaster_217
+  - first:
+      213: -3869380530262462854
+    second: DarkMaster_218
+  - first:
+      213: 8776153282713849910
+    second: DarkMaster_219
+  - first:
+      213: -7613058958788357868
+    second: DarkMaster_220
+  - first:
+      213: -6085049447255830435
+    second: DarkMaster_221
+  - first:
+      213: -2346038107133705532
+    second: DarkMaster_222
+  - first:
+      213: -2490809142374583609
+    second: DarkMaster_223
+  - first:
+      213: -449632600576509919
+    second: DarkMaster_224
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkMaster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd5e30120e8b1950800000000000000
+      internalID: 6420881833260375474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 903
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92428e237ee8d3250800000000000000
+      internalID: 5926049808332104745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 908
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd93afc661bea00800000000000000
+      internalID: 786747217216658240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 915
+        width: 132
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd8c3c5dc7e0f60800000000000000
+      internalID: 8002470845438549157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 916
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e886e611353a4f0800000000000000
+      internalID: -818719372919402884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 918
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a035e9f56b3bd6520800000000000000
+      internalID: 2697009347734426378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 920
+        width: 135
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba7a4ec73c076e0800000000000000
+      internalID: -1841757306414978061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 924
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65426454adacabe0800000000000000
+      internalID: -1464604857500285585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_8
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 936
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fce68df9b3189400800000000000000
+      internalID: 331036262155087096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 909
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11809376273817810800000000000000
+      internalID: 1761333456659875857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_10
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 0
+        width: 23
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8422507ce41ad5f0800000000000000
+      internalID: -731248983765015414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 811
+        width: 132
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0265071409a16790800000000000000
+      internalID: -7538558466210307574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 815
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025e4f3cc3557ee0800000000000000
+      internalID: -1264011983707024881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 815
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e54de959c6dec830800000000000000
+      internalID: 4093445271611852259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 815
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ab6d78ee6b09f50800000000000000
+      internalID: 6886204965846956667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 815
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc967ce5da30a6fc0800000000000000
+      internalID: -3500981717172786741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 816
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec33660c5fa727820800000000000000
+      internalID: 2914527104775631822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 816
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e99ae4a71d07a2d0800000000000000
+      internalID: -3267628609431758365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_18
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 816
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5aa93073395e60800000000000000
+      internalID: 7951443174196140758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 817
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43acbf547c0aa9f0800000000000000
+      internalID: -456538718262746292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_20
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 818
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5a2cc1bd0ac2e20800000000000000
+      internalID: 3327211087660754381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 818
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c8de74c71682a0800000000000000
+      internalID: -6735670059976833589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_22
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 819
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c235126c5b0bae200800000000000000
+      internalID: 210174627385791276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_23
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 820
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d37045ca24ef60800000000000000
+      internalID: 8062616259578287157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_24
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 821
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d898965d339c28d60800000000000000
+      internalID: 7891090721567508877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_25
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 903
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd80b05d64420550800000000000000
+      internalID: 6125533679473167839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_26
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 822
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c6069570223980800000000000000
+      internalID: -8560744252277602172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_27
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 822
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442c0048b63817890800000000000000
+      internalID: -7462038609776819644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb50172593953c510800000000000000
+      internalID: 1568195197986211259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 730
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4cdfe4412012b70800000000000000
+      internalID: 8872375027144443127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 731
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a6a6c4290617e0800000000000000
+      internalID: -1795237347904281347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 734
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cf657f647552280800000000000000
+      internalID: -9068746312331625371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 734
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a71d6208c4f31a0800000000000000
+      internalID: -6827654396779595169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 734
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb8ec970cc734d0800000000000000
+      internalID: -3154828680880407718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_34
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 734
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2550449b5b92580800000000000000
+      internalID: -8851343785305222402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 734
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc48617dfe05210c0800000000000000
+      internalID: -4606530477810613045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_36
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 735
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384072c7dec094a90800000000000000
+      internalID: -7329312704439057277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_37
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 736
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fe147447b5d55b0800000000000000
+      internalID: -5378041825040666868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_38
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 738
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d1b48404ffe5a70800000000000000
+      internalID: 8817765771993881952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_39
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 801
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c5c04c1f6140750800000000000000
+      internalID: 6270161808838646823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_40
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 738
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d21e460fd874e860800000000000000
+      internalID: 7558298973913354964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905eece9c64905c60800000000000000
+      internalID: 7804901348474807561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_42
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 738
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741971c16d5620f40800000000000000
+      internalID: 5693224849218441543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 649
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdab51b58ed96c90800000000000000
+      internalID: -7175959865450582603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 652
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3904195fd947bd10800000000000000
+      internalID: 2141261371458980156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 662
+        width: 125
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebbbcb4de370b240800000000000000
+      internalID: 4805468265420405733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 667
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459a7dd1eaef07b50800000000000000
+      internalID: 6589046278621473108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 600
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2093b63dff96590800000000000000
+      internalID: -7680326406001589508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_48
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 601
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052ecdcdf2f498ee0800000000000000
+      internalID: -1258387553885822384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 667
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f3702871a1b4600800000000000000
+      internalID: 453484875748949808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 601
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f08f24046a0360800000000000000
+      internalID: 7136626528661600185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 601
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b899e84fe1cba6c20800000000000000
+      internalID: 3200577326338185611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 667
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd9d5c0d90b9e080800000000000000
+      internalID: -9157594178717377080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 602
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c49df59352f66f0800000000000000
+      internalID: -689291289612956595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_54
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 667
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a280ebe10edb38b0800000000000000
+      internalID: -5171295647271189851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_55
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 602
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587964b3e3e604950800000000000000
+      internalID: 6431261481446578053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_56
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 662
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7910417bafa04cef0800000000000000
+      internalID: -88934020710923881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_57
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 667
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dff0f827c897000800000000000000
+      internalID: 34212895836339606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_58
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 602
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cebcb2b33106e960800000000000000
+      internalID: 7630787940179558086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_59
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 667
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be892a17b431b7650800000000000000
+      internalID: 6231595724147169515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_60
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 602
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a86da7cb501737a0800000000000000
+      internalID: -6397626759278401373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_61
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 603
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78ef189b5e57c630800000000000000
+      internalID: 3947227345900791934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_62
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 667
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0ac692ee65b7270800000000000000
+      internalID: 8249282723356385524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_63
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 667
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8637a110507d438f0800000000000000
+      internalID: -561587637021150360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_64
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 603
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c43a6efa64e2b20800000000000000
+      internalID: 3111502113862274085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_65
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 667
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a080b984d90e10800000000000000
+      internalID: 2164494783765062925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_66
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 603
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a3e5fef8b61c0c0800000000000000
+      internalID: -4557243081981806030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_67
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 667
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6b9cdb1688ae0b0800000000000000
+      internalID: -5698592425106622741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_68
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 603
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165bbd960100133a0800000000000000
+      internalID: -6687563901172992671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_69
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 667
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f661c8b781b5c4950800000000000000
+      internalID: 6434618128315717231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 603
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed3df88237160df0800000000000000
+      internalID: -214458426439418390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_71
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 667
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f886a29b56323a0800000000000000
+      internalID: -6691392775387574442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 590
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60180973eb85c4920800000000000000
+      internalID: 2975851027784302854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 590
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29a5924549472d30800000000000000
+      internalID: 4406571322223995181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_74
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849559fb65d765b80800000000000000
+      internalID: -8406393842905556664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 602
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360fffe37d8bfe120800000000000000
+      internalID: 2445376357299908707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_76
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 650
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d726ee252f3172a10800000000000000
+      internalID: 1884496900572209789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_77
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 650
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776bcf357b5d0be50800000000000000
+      internalID: 6823188418831103607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8d73b7d99eb9ec0800000000000000
+      internalID: -3558994217919850255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_79
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 585
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2178e3ee628a8e60800000000000000
+      internalID: 7965322303739818287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 553
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3241220db44587c40800000000000000
+      internalID: 5510246828678976547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_81
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 569
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb44d4db55193ed0800000000000000
+      internalID: -2433890639460152339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 573
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84bf96b222e8820800000000000000
+      internalID: 2922310778067044585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 532
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c7da66b0c6a5ef0800000000000000
+      internalID: -118663643948811108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 519
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb854da521c1e08e0800000000000000
+      internalID: -1725410742077466437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_85
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 552
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826205814780702b0800000000000000
+      internalID: -5618512715404270040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_86
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 537
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca479462d50b89330800000000000000
+      internalID: 3717915406515139756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_87
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 538
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa2fd38dd662f60800000000000000
+      internalID: 8009209762844684116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_88
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 538
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00944bc0acf5e7b30800000000000000
+      internalID: 4286969216704465152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_89
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 538
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a179904dd407ff0800000000000000
+      internalID: -40446823557031338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_90
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 538
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb34d87198e287000800000000000000
+      internalID: 33828163545809854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_91
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 538
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0cdccef9bd24e20800000000000000
+      internalID: 3333468154126778606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_92
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 538
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4351859254ce70800000000000000
+      internalID: 9134516746287533358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_93
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 539
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff84cc88da07d3df0800000000000000
+      internalID: -198878917907691265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_94
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 539
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cdba6085914b250800000000000000
+      internalID: 5959416072777751710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_95
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 539
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fe20eabf68cd620800000000000000
+      internalID: 2800261483831947074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_96
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 540
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6879ae0ff215120800000000000000
+      internalID: 2400752788139640542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256510b2c71412a80800000000000000
+      internalID: -8493435420690786734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_98
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 489
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9634608caa2dfe0800000000000000
+      internalID: -1165681577460274717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 494
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc578e3c55b13720800000000000000
+      internalID: 2824237849128688858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 449
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a73728b0e4f2df0800000000000000
+      internalID: -202857646868170111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_101
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 449
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d50c18f389b660800000000000000
+      internalID: 7402092564205392910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_102
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 473
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151407db54e26ba0800000000000000
+      internalID: -6097059862405704430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_103
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 477
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e9766d30d328a10800000000000000
+      internalID: 1910156278649822738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_104
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 479
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd8a11d1df353d0800000000000000
+      internalID: -3218951007347614549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_105
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 479
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f428e7341179b9d0800000000000000
+      internalID: -2758048965136472840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_106
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 498
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70a036b5fe70e4a0800000000000000
+      internalID: -6566108662917455748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_107
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 480
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d73c731e97e9f0a0800000000000000
+      internalID: -6847187092322371631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_108
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 480
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba149142e13b1c90800000000000000
+      internalID: -7198104731589010760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_109
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 480
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697bd3109c8fd5d90800000000000000
+      internalID: -7107251094727837802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_110
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 480
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc07c68dde8b0d2d0800000000000000
+      internalID: -3255899198911123249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_111
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 480
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e9ecc248df4ca40800000000000000
+      internalID: 5387709798371204686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_112
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 480
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346dfc7b66bd90b20800000000000000
+      internalID: 3101251052638295619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_113
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 481
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309861b57f3cbd70800000000000000
+      internalID: 9060186325082738743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_114
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 481
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300a5c7389273ac30800000000000000
+      internalID: 4369462061575806979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9f29059f9d96c80800000000000000
+      internalID: -8328886371023128110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_116
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 421
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d370ea542f6baa920800000000000000
+      internalID: 3002413253263230781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_117
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 414
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49efc1142033c640800000000000000
+      internalID: 5098972134589327695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_118
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 416
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e77d4a3e706c770800000000000000
+      internalID: 8630594410206690920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_119
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 379
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95d2f10dd348280800000000000000
+      internalID: -9042034187767555589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_120
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 379
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44684ff269cd3fe40800000000000000
+      internalID: 5689133291906827844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_121
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 409
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566c5a4a56ff9abd0800000000000000
+      internalID: -2618280896320125339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_122
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 417
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89738bd5e128a1210800000000000000
+      internalID: 1304498109010163608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_123
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 422
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15bd9cc00853db50800000000000000
+      internalID: 6616729037993522458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_124
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 423
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab38b2ea5678d270800000000000000
+      internalID: 8275494448016145318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_125
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 424
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64494ae5dae1376c0800000000000000
+      internalID: -4146937101912075194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_126
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 370
+        width: 99
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edc5d2d3ee8f6550800000000000000
+      internalID: 6156296324784705000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_127
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 425
+        width: 140
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749f7de0b68949900800000000000000
+      internalID: 690344228472486215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_128
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 370
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e74262e754fca00800000000000000
+      internalID: 778917668666506770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_129
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 370
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39824785d16493860800000000000000
+      internalID: 7510110945469016211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_130
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 425
+        width: 107
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d119525bb0aa50800000000000000
+      internalID: 6530425422043272323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_131
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 370
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d11f611699f430800000000000000
+      internalID: 3817247160795256677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_132
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 425
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5920b215c66e1d10800000000000000
+      internalID: 2098227473009355100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_133
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 370
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4e9a873e70724c0800000000000000
+      internalID: -4312469444620589877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_134
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 339
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30696454c47b6650800000000000000
+      internalID: 6227199296348446783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_135
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 338
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4fc16ff092dbe20800000000000000
+      internalID: 3367893244873340152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_136
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 309
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8badf00718b4a910800000000000000
+      internalID: 1847804156069129102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 309
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069552e46fe144650800000000000000
+      internalID: 6216127428899985760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_138
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 346
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9e6e714f7ebb40800000000000000
+      internalID: 5457939717690400524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_139
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 357
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b6ee1c4ccf27000800000000000000
+      internalID: 32366069342432106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_140
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 366
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeac55ac73fead50800000000000000
+      internalID: 6750600608150761198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_141
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 310
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236fc88b31e058060800000000000000
+      internalID: 6954980677407012402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_142
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 367
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1fb5ce819daf680800000000000000
+      internalID: -8720419027381653082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_143
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 311
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f397b5aeb123b8bd0800000000000000
+      internalID: -2626950862163183297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_144
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 316
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed016c09e1e3272e0800000000000000
+      internalID: -2129571372793982754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_145
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 316
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8416f3832c7ce20800000000000000
+      internalID: 3370876392947402951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_146
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 317
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeafb4974c945cf0800000000000000
+      internalID: -264414646855815430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_147
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 318
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c4d9b8a5989ad90800000000000000
+      internalID: -7085981516708361197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_148
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 318
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e37dbe0357070e0800000000000000
+      internalID: -2274188958846468517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_149
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 318
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a92332b1e6d0360800000000000000
+      internalID: 7137482047285795479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_150
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 321
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc26f02df601190800000000000000
+      internalID: -7993766390590682142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c54868b09ab7160800000000000000
+      internalID: 7024393910780976259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_152
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 268
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99101a77cbe7d4c0800000000000000
+      internalID: -4262679280303990370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_153
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 261
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8c0b45de05a7a50800000000000000
+      internalID: 6519612390830557432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_154
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 239
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bcf1a17fc33cfc0800000000000000
+      internalID: -3475867455407011027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_155
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 240
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab048aeeb6610d00800000000000000
+      internalID: 937143167634115494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_156
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 287
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989fbc9034ca04040800000000000000
+      internalID: 4629889820864018825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_157
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 297
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e9653a43f8b710800000000000000
+      internalID: 1709383558636364447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_158
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 237
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56015c4e5948504b0800000000000000
+      internalID: -5474823992675856283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_159
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 255
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f474b10a954890800000000000000
+      internalID: -7474398674438261266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_160
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 255
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513b471a8325a6150800000000000000
+      internalID: 5866591867783918357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_161
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 262
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a38c16e5a1d1c2d0800000000000000
+      internalID: -3260094144779091038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_162
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 262
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480757a94ef8eb0d0800000000000000
+      internalID: -3405126056238813052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_163
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 267
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35bb148eb96aa40800000000000000
+      internalID: 5379158226778149825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_164
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 267
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84e4de0a69abbbb0800000000000000
+      internalID: -4919151894991674230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_165
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 267
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588f63cec5e784b0800000000000000
+      internalID: -5438125348821694376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_166
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 267
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17f2f3356bf1b0f0800000000000000
+      internalID: -1102824021647231206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_167
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61434f7750b2c5650800000000000000
+      internalID: 6222896087606506518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_168
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 228
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9907f47b6efe731b0800000000000000
+      internalID: -5676805031080267623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_169
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd268ea97b2ef350800000000000000
+      internalID: 6052322750851591667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9915d5e6c8c7ab5e0800000000000000
+      internalID: -1893063750766997095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_171
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 197
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577b330782c7e260800000000000000
+      internalID: 7126878820467701584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_172
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 185
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5fb465506164f30800000000000000
+      internalID: 4559355884937672144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_173
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 170
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bac883b44e4de00800000000000000
+      internalID: 1068730023316073256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_174
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 169
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc061a66fa54d60800000000000000
+      internalID: 7873892378856181743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_175
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14991c649a0d84510800000000000000
+      internalID: 1533705098574797121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_176
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 177
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4642f6309f29bfb0800000000000000
+      internalID: -4631618445330201014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_177
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 205
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35e664642d783890800000000000000
+      internalID: -7478089585991948993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_178
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 199
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a1f298e0ccbbcd0800000000000000
+      internalID: -2541213201917339083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_179
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 208
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4100929629f05cc40800000000000000
+      internalID: 5531844838798458900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_180
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 211
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0188038ecff39630800000000000000
+      internalID: 3932768162051293451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 218
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0dde4c0a0bcbc90800000000000000
+      internalID: -7152647903626014495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_182
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 226
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417de96efe86c52b0800000000000000
+      internalID: -5594481257525356780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_183
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 226
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf56be80060a758a0800000000000000
+      internalID: -6316403618036881925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_184
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 154
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70775867b7cacf320800000000000000
+      internalID: 2593137131727976199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_185
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 161
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd6df2303e53e0a0800000000000000
+      internalID: -6853530646820852257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_186
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 169
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152fc1f58d5ba89e0800000000000000
+      internalID: -1618281175172976047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_187
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 201
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185bd6a412c7ed9f0800000000000000
+      internalID: -441779231011261055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_188
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 192
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d048b0ab8062f7c0800000000000000
+      internalID: -4039059762984763178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87242bd5f2a9da0800000000000000
+      internalID: -5937381079265412881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_190
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6618060caf021d570800000000000000
+      internalID: 8489603033911558502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_191
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ecfc658412dfb20800000000000000
+      internalID: 3169726307316518467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_192
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a66302c98c2f90800000000000000
+      internalID: -6977050256330022474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_193
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49695a8d4dee76a90800000000000000
+      internalID: -7320620071332243820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_194
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 101
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c500cc32f482bf50800000000000000
+      internalID: 6895720155393820104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_195
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 106
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e650fe2ced26af0800000000000000
+      internalID: -404516087694791147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_196
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 118
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c04dd9ad6c583a0800000000000000
+      internalID: -6663701431371690885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_197
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 143
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232354a2d727112e0800000000000000
+      internalID: -2156816864628100558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_198
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 121
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a5979d33976440800000000000000
+      internalID: 4929070209925751719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_199
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 120
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa748b98d659aa70800000000000000
+      internalID: 8838691232013384362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_200
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 126
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29365c2bd3a892a0800000000000000
+      internalID: -6730449481368192723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_201
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 158
+        width: 130
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3ef95b95800fb30800000000000000
+      internalID: 4318961224040571871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_202
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 57
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e94401991b9a5c0800000000000000
+      internalID: -4203633506212602309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_203
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 35
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70feb4bf49dfa850800000000000000
+      internalID: 6390565332620079227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_204
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 33
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f59c3f46dfd880800000000000000
+      internalID: -8583906728937655009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_205
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 33
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a2a2ca68d03dc00800000000000000
+      internalID: 924097220606306916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_206
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7120ba0689880c8b0800000000000000
+      internalID: -5133953387164138985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_207
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 53
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d7d4de3eaf6c080800000000000000
+      internalID: -9167364134620267216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_208
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 59
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4b18bc8f4659d90800000000000000
+      internalID: -7091651018496035655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_209
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 88
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4adec5dc48a4440800000000000000
+      internalID: 4920891560417928445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_210
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 100
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d340caad26c48c7e0800000000000000
+      internalID: -1745060868146854851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_211
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 46
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4179b48153bd7b0c0800000000000000
+      internalID: -4559935076601981164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_212
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 72
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668c8cdf6581864a0800000000000000
+      internalID: -6599998492007413658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_213
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268679b50c75b130800000000000000
+      internalID: 3581905442671330862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_214
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b69b8e5eb7d04b0800000000000000
+      internalID: -5472581744803091709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_215
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 33
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141bc3cf42424f30800000000000000
+      internalID: 4558278683207078933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30799484f6365ab70800000000000000
+      internalID: 8909636767427696387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_217
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301779332127f68a0800000000000000
+      internalID: -6309699130422234877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_218
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ea4e898e23d4ac0800000000000000
+      internalID: -3869380530262462854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_219
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 6
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630998e99e82bc970800000000000000
+      internalID: 8776153282713849910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_220
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4119053763bf85690800000000000000
+      internalID: -7613058958788357868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_221
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5011a784cf8d8ba0800000000000000
+      internalID: -6085049447255830435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_222
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 29
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c204ca75c2317fd0800000000000000
+      internalID: -2346038107133705532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_223
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 13
+        width: 222
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b779284ede6dd0800000000000000
+      internalID: -2490809142374583609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkMaster_224
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b333388592c9f0800000000000000
+      internalID: -449632600576509919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkMaster_0: 6420881833260375474
+      DarkMaster_1: 5926049808332104745
+      DarkMaster_10: -731248983765015414
+      DarkMaster_100: -202857646868170111
+      DarkMaster_101: 7402092564205392910
+      DarkMaster_102: -6097059862405704430
+      DarkMaster_103: 1910156278649822738
+      DarkMaster_104: -3218951007347614549
+      DarkMaster_105: -2758048965136472840
+      DarkMaster_106: -6566108662917455748
+      DarkMaster_107: -6847187092322371631
+      DarkMaster_108: -7198104731589010760
+      DarkMaster_109: -7107251094727837802
+      DarkMaster_11: -7538558466210307574
+      DarkMaster_110: -3255899198911123249
+      DarkMaster_111: 5387709798371204686
+      DarkMaster_112: 3101251052638295619
+      DarkMaster_113: 9060186325082738743
+      DarkMaster_114: 4369462061575806979
+      DarkMaster_115: -8328886371023128110
+      DarkMaster_116: 3002413253263230781
+      DarkMaster_117: 5098972134589327695
+      DarkMaster_118: 8630594410206690920
+      DarkMaster_119: -9042034187767555589
+      DarkMaster_12: -1264011983707024881
+      DarkMaster_120: 5689133291906827844
+      DarkMaster_121: -2618280896320125339
+      DarkMaster_122: 1304498109010163608
+      DarkMaster_123: 6616729037993522458
+      DarkMaster_124: 8275494448016145318
+      DarkMaster_125: -4146937101912075194
+      DarkMaster_126: 6156296324784705000
+      DarkMaster_127: 690344228472486215
+      DarkMaster_128: 778917668666506770
+      DarkMaster_129: 7510110945469016211
+      DarkMaster_13: 4093445271611852259
+      DarkMaster_130: 6530425422043272323
+      DarkMaster_131: 3817247160795256677
+      DarkMaster_132: 2098227473009355100
+      DarkMaster_133: -4312469444620589877
+      DarkMaster_134: 6227199296348446783
+      DarkMaster_135: 3367893244873340152
+      DarkMaster_136: 1847804156069129102
+      DarkMaster_137: 6216127428899985760
+      DarkMaster_138: 5457939717690400524
+      DarkMaster_139: 32366069342432106
+      DarkMaster_14: 6886204965846956667
+      DarkMaster_140: 6750600608150761198
+      DarkMaster_141: 6954980677407012402
+      DarkMaster_142: -8720419027381653082
+      DarkMaster_143: -2626950862163183297
+      DarkMaster_144: -2129571372793982754
+      DarkMaster_145: 3370876392947402951
+      DarkMaster_146: -264414646855815430
+      DarkMaster_147: -7085981516708361197
+      DarkMaster_148: -2274188958846468517
+      DarkMaster_149: 7137482047285795479
+      DarkMaster_15: -3500981717172786741
+      DarkMaster_150: -7993766390590682142
+      DarkMaster_151: 7024393910780976259
+      DarkMaster_152: -4262679280303990370
+      DarkMaster_153: 6519612390830557432
+      DarkMaster_154: -3475867455407011027
+      DarkMaster_155: 937143167634115494
+      DarkMaster_156: 4629889820864018825
+      DarkMaster_157: 1709383558636364447
+      DarkMaster_158: -5474823992675856283
+      DarkMaster_159: -7474398674438261266
+      DarkMaster_16: 2914527104775631822
+      DarkMaster_160: 5866591867783918357
+      DarkMaster_161: -3260094144779091038
+      DarkMaster_162: -3405126056238813052
+      DarkMaster_163: 5379158226778149825
+      DarkMaster_164: -4919151894991674230
+      DarkMaster_165: -5438125348821694376
+      DarkMaster_166: -1102824021647231206
+      DarkMaster_167: 6222896087606506518
+      DarkMaster_168: -5676805031080267623
+      DarkMaster_169: 6052322750851591667
+      DarkMaster_17: -3267628609431758365
+      DarkMaster_170: -1893063750766997095
+      DarkMaster_171: 7126878820467701584
+      DarkMaster_172: 4559355884937672144
+      DarkMaster_173: 1068730023316073256
+      DarkMaster_174: 7873892378856181743
+      DarkMaster_175: 1533705098574797121
+      DarkMaster_176: -4631618445330201014
+      DarkMaster_177: -7478089585991948993
+      DarkMaster_178: -2541213201917339083
+      DarkMaster_179: 5531844838798458900
+      DarkMaster_18: 7951443174196140758
+      DarkMaster_180: 3932768162051293451
+      DarkMaster_181: -7152647903626014495
+      DarkMaster_182: -5594481257525356780
+      DarkMaster_183: -6316403618036881925
+      DarkMaster_184: 2593137131727976199
+      DarkMaster_185: -6853530646820852257
+      DarkMaster_186: -1618281175172976047
+      DarkMaster_187: -441779231011261055
+      DarkMaster_188: -4039059762984763178
+      DarkMaster_189: -5937381079265412881
+      DarkMaster_19: -456538718262746292
+      DarkMaster_190: 8489603033911558502
+      DarkMaster_191: 3169726307316518467
+      DarkMaster_192: -6977050256330022474
+      DarkMaster_193: -7320620071332243820
+      DarkMaster_194: 6895720155393820104
+      DarkMaster_195: -404516087694791147
+      DarkMaster_196: -6663701431371690885
+      DarkMaster_197: -2156816864628100558
+      DarkMaster_198: 4929070209925751719
+      DarkMaster_199: 8838691232013384362
+      DarkMaster_2: 786747217216658240
+      DarkMaster_20: 3327211087660754381
+      DarkMaster_200: -6730449481368192723
+      DarkMaster_201: 4318961224040571871
+      DarkMaster_202: -4203633506212602309
+      DarkMaster_203: 6390565332620079227
+      DarkMaster_204: -8583906728937655009
+      DarkMaster_205: 924097220606306916
+      DarkMaster_206: -5133953387164138985
+      DarkMaster_207: -9167364134620267216
+      DarkMaster_208: -7091651018496035655
+      DarkMaster_209: 4920891560417928445
+      DarkMaster_21: -6735670059976833589
+      DarkMaster_210: -1745060868146854851
+      DarkMaster_211: -4559935076601981164
+      DarkMaster_212: -6599998492007413658
+      DarkMaster_213: 3581905442671330862
+      DarkMaster_214: -5472581744803091709
+      DarkMaster_215: 4558278683207078933
+      DarkMaster_216: 8909636767427696387
+      DarkMaster_217: -6309699130422234877
+      DarkMaster_218: -3869380530262462854
+      DarkMaster_219: 8776153282713849910
+      DarkMaster_22: 210174627385791276
+      DarkMaster_220: -7613058958788357868
+      DarkMaster_221: -6085049447255830435
+      DarkMaster_222: -2346038107133705532
+      DarkMaster_223: -2490809142374583609
+      DarkMaster_224: -449632600576509919
+      DarkMaster_23: 8062616259578287157
+      DarkMaster_24: 7891090721567508877
+      DarkMaster_25: 6125533679473167839
+      DarkMaster_26: -8560744252277602172
+      DarkMaster_27: -7462038609776819644
+      DarkMaster_28: 1568195197986211259
+      DarkMaster_29: 8872375027144443127
+      DarkMaster_3: 8002470845438549157
+      DarkMaster_30: -1795237347904281347
+      DarkMaster_31: -9068746312331625371
+      DarkMaster_32: -6827654396779595169
+      DarkMaster_33: -3154828680880407718
+      DarkMaster_34: -8851343785305222402
+      DarkMaster_35: -4606530477810613045
+      DarkMaster_36: -7329312704439057277
+      DarkMaster_37: -5378041825040666868
+      DarkMaster_38: 8817765771993881952
+      DarkMaster_39: 6270161808838646823
+      DarkMaster_4: -818719372919402884
+      DarkMaster_40: 7558298973913354964
+      DarkMaster_41: 7804901348474807561
+      DarkMaster_42: 5693224849218441543
+      DarkMaster_43: -7175959865450582603
+      DarkMaster_44: 2141261371458980156
+      DarkMaster_45: 4805468265420405733
+      DarkMaster_46: 6589046278621473108
+      DarkMaster_47: -7680326406001589508
+      DarkMaster_48: -1258387553885822384
+      DarkMaster_49: 453484875748949808
+      DarkMaster_5: 2697009347734426378
+      DarkMaster_50: 7136626528661600185
+      DarkMaster_51: 3200577326338185611
+      DarkMaster_52: -9157594178717377080
+      DarkMaster_53: -689291289612956595
+      DarkMaster_54: -5171295647271189851
+      DarkMaster_55: 6431261481446578053
+      DarkMaster_56: -88934020710923881
+      DarkMaster_57: 34212895836339606
+      DarkMaster_58: 7630787940179558086
+      DarkMaster_59: 6231595724147169515
+      DarkMaster_6: -1841757306414978061
+      DarkMaster_60: -6397626759278401373
+      DarkMaster_61: 3947227345900791934
+      DarkMaster_62: 8249282723356385524
+      DarkMaster_63: -561587637021150360
+      DarkMaster_64: 3111502113862274085
+      DarkMaster_65: 2164494783765062925
+      DarkMaster_66: -4557243081981806030
+      DarkMaster_67: -5698592425106622741
+      DarkMaster_68: -6687563901172992671
+      DarkMaster_69: 6434618128315717231
+      DarkMaster_7: -1464604857500285585
+      DarkMaster_70: -214458426439418390
+      DarkMaster_71: -6691392775387574442
+      DarkMaster_72: 2975851027784302854
+      DarkMaster_73: 4406571322223995181
+      DarkMaster_74: -8406393842905556664
+      DarkMaster_75: 2445376357299908707
+      DarkMaster_76: 1884496900572209789
+      DarkMaster_77: 6823188418831103607
+      DarkMaster_78: -3558994217919850255
+      DarkMaster_79: 7965322303739818287
+      DarkMaster_8: 331036262155087096
+      DarkMaster_80: 5510246828678976547
+      DarkMaster_81: -2433890639460152339
+      DarkMaster_82: 2922310778067044585
+      DarkMaster_83: -118663643948811108
+      DarkMaster_84: -1725410742077466437
+      DarkMaster_85: -5618512715404270040
+      DarkMaster_86: 3717915406515139756
+      DarkMaster_87: 8009209762844684116
+      DarkMaster_88: 4286969216704465152
+      DarkMaster_89: -40446823557031338
+      DarkMaster_9: 1761333456659875857
+      DarkMaster_90: 33828163545809854
+      DarkMaster_91: 3333468154126778606
+      DarkMaster_92: 9134516746287533358
+      DarkMaster_93: -198878917907691265
+      DarkMaster_94: 5959416072777751710
+      DarkMaster_95: 2800261483831947074
+      DarkMaster_96: 2400752788139640542
+      DarkMaster_97: -8493435420690786734
+      DarkMaster_98: -1165681577460274717
+      DarkMaster_99: 2824237849128688858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

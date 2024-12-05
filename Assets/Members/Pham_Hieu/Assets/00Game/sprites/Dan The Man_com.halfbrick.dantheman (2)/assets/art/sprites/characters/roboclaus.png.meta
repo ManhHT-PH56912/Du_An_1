@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: f5ec01e088527814983908fbc202f7b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1958218248357639000
+    second: roboclaus_0
+  - first:
+      213: 1164614930841234081
+    second: roboclaus_1
+  - first:
+      213: -73102488599784189
+    second: roboclaus_2
+  - first:
+      213: -4233212256366297249
+    second: roboclaus_3
+  - first:
+      213: 2731374075986811719
+    second: roboclaus_4
+  - first:
+      213: -9196482375735730209
+    second: roboclaus_5
+  - first:
+      213: 1676825085685312380
+    second: roboclaus_6
+  - first:
+      213: 7414729375806941760
+    second: roboclaus_7
+  - first:
+      213: -5771476575878244947
+    second: roboclaus_8
+  - first:
+      213: -4236000519065210485
+    second: roboclaus_9
+  - first:
+      213: -7988163256856260817
+    second: roboclaus_10
+  - first:
+      213: 3185275725752401814
+    second: roboclaus_11
+  - first:
+      213: 7638035611887376789
+    second: roboclaus_12
+  - first:
+      213: -5915765211536636064
+    second: roboclaus_13
+  - first:
+      213: 3243350144428718242
+    second: roboclaus_14
+  - first:
+      213: -1006068151261460168
+    second: roboclaus_15
+  - first:
+      213: 2866189319072045074
+    second: roboclaus_16
+  - first:
+      213: -1963263333911449338
+    second: roboclaus_17
+  - first:
+      213: 866954936663752462
+    second: roboclaus_18
+  - first:
+      213: -7587432396269440449
+    second: roboclaus_19
+  - first:
+      213: 3596599517574483483
+    second: roboclaus_20
+  - first:
+      213: 4043851089018681419
+    second: roboclaus_21
+  - first:
+      213: 6622918820566496329
+    second: roboclaus_22
+  - first:
+      213: 4016159335098551530
+    second: roboclaus_23
+  - first:
+      213: -205872386396308877
+    second: roboclaus_24
+  - first:
+      213: -4953672836877189442
+    second: roboclaus_25
+  - first:
+      213: 6448512485236035575
+    second: roboclaus_26
+  - first:
+      213: -8646113174896293073
+    second: roboclaus_27
+  - first:
+      213: -2187553095008101041
+    second: roboclaus_28
+  - first:
+      213: -2897052905769717597
+    second: roboclaus_29
+  - first:
+      213: 6750402051649723305
+    second: roboclaus_30
+  - first:
+      213: -2861245001913857662
+    second: roboclaus_31
+  - first:
+      213: 7653072838844849922
+    second: roboclaus_32
+  - first:
+      213: 1333530516514300951
+    second: roboclaus_33
+  - first:
+      213: -7550818413981599774
+    second: roboclaus_34
+  - first:
+      213: 7501668892679361180
+    second: roboclaus_35
+  - first:
+      213: 1375865641785150984
+    second: roboclaus_36
+  - first:
+      213: 1361361155023180217
+    second: roboclaus_37
+  - first:
+      213: -3561169740697255425
+    second: roboclaus_38
+  - first:
+      213: -6816419913588333979
+    second: roboclaus_39
+  - first:
+      213: 9007816842061321114
+    second: roboclaus_40
+  - first:
+      213: -633509570240440333
+    second: roboclaus_41
+  - first:
+      213: -3241842058317121427
+    second: roboclaus_42
+  - first:
+      213: 327391473097224341
+    second: roboclaus_43
+  - first:
+      213: -7804973294986069217
+    second: roboclaus_44
+  - first:
+      213: -6210515659419012659
+    second: roboclaus_45
+  - first:
+      213: 6050479367327383769
+    second: roboclaus_46
+  - first:
+      213: -4703774184308884331
+    second: roboclaus_47
+  - first:
+      213: 7882724928735599238
+    second: roboclaus_48
+  - first:
+      213: -5757006835653182791
+    second: roboclaus_49
+  - first:
+      213: 8967775432192444065
+    second: roboclaus_50
+  - first:
+      213: 3884496452416571865
+    second: roboclaus_51
+  - first:
+      213: -4692091794077629522
+    second: roboclaus_52
+  - first:
+      213: 6667844103248012008
+    second: roboclaus_53
+  - first:
+      213: 1893942429174844097
+    second: roboclaus_54
+  - first:
+      213: -6889040127667742364
+    second: roboclaus_55
+  - first:
+      213: 4329442096932314650
+    second: roboclaus_56
+  - first:
+      213: -6518907628300256407
+    second: roboclaus_57
+  - first:
+      213: -3840646507034344974
+    second: roboclaus_58
+  - first:
+      213: -1363575140919233073
+    second: roboclaus_59
+  - first:
+      213: -2666505952485794966
+    second: roboclaus_60
+  - first:
+      213: -3808572911996749660
+    second: roboclaus_61
+  - first:
+      213: 5772222468670429850
+    second: roboclaus_62
+  - first:
+      213: 6660680379683322895
+    second: roboclaus_63
+  - first:
+      213: -6089570974006849536
+    second: roboclaus_64
+  - first:
+      213: 544803402850588180
+    second: roboclaus_65
+  - first:
+      213: -7547617039877517559
+    second: roboclaus_66
+  - first:
+      213: 6199996388492365345
+    second: roboclaus_67
+  - first:
+      213: 2014898473633697581
+    second: roboclaus_68
+  - first:
+      213: -7238468421874019238
+    second: roboclaus_69
+  - first:
+      213: -7505220123794958418
+    second: roboclaus_70
+  - first:
+      213: -7594975896990200852
+    second: roboclaus_71
+  - first:
+      213: 3377906391149400364
+    second: roboclaus_72
+  - first:
+      213: -5604497728238538974
+    second: roboclaus_73
+  - first:
+      213: -3446722881780162678
+    second: roboclaus_74
+  - first:
+      213: -6695970413911462060
+    second: roboclaus_75
+  - first:
+      213: -8134545609448506232
+    second: roboclaus_76
+  - first:
+      213: -2230578126666726770
+    second: roboclaus_77
+  - first:
+      213: -6492848901139430117
+    second: roboclaus_78
+  - first:
+      213: -5321858014799076766
+    second: roboclaus_79
+  - first:
+      213: -869955601480604512
+    second: roboclaus_80
+  - first:
+      213: -6317490138210741995
+    second: roboclaus_81
+  - first:
+      213: -8588191076011857182
+    second: roboclaus_82
+  - first:
+      213: -4898875292887626352
+    second: roboclaus_83
+  - first:
+      213: -1918553889212917168
+    second: roboclaus_84
+  - first:
+      213: 7747373517178364119
+    second: roboclaus_85
+  - first:
+      213: 4655320165589066454
+    second: roboclaus_86
+  - first:
+      213: -7104565507202603708
+    second: roboclaus_87
+  - first:
+      213: -2503892796897624412
+    second: roboclaus_88
+  - first:
+      213: -1650699829370701626
+    second: roboclaus_89
+  - first:
+      213: 8855505068999462035
+    second: roboclaus_90
+  - first:
+      213: 2253027302707846062
+    second: roboclaus_91
+  - first:
+      213: 377060355585506583
+    second: roboclaus_92
+  - first:
+      213: 3691321891554703569
+    second: roboclaus_93
+  - first:
+      213: -8707545742164869985
+    second: roboclaus_94
+  - first:
+      213: 5908914440274731195
+    second: roboclaus_95
+  - first:
+      213: 2255027706942718448
+    second: roboclaus_96
+  - first:
+      213: -2638475240835071919
+    second: roboclaus_97
+  - first:
+      213: -8568626646419718360
+    second: roboclaus_98
+  - first:
+      213: -4499177145026721184
+    second: roboclaus_99
+  - first:
+      213: -1822391945521986613
+    second: roboclaus_100
+  - first:
+      213: 7362026542352017317
+    second: roboclaus_101
+  - first:
+      213: 9148603968586283896
+    second: roboclaus_102
+  - first:
+      213: -993129347996820100
+    second: roboclaus_103
+  - first:
+      213: -4257187946719072867
+    second: roboclaus_104
+  - first:
+      213: -1570133946133039632
+    second: roboclaus_105
+  - first:
+      213: 8348269786125269325
+    second: roboclaus_106
+  - first:
+      213: 6652718673641228220
+    second: roboclaus_107
+  - first:
+      213: -1724018011462613378
+    second: roboclaus_108
+  - first:
+      213: 7896235129164804826
+    second: roboclaus_109
+  - first:
+      213: -3642268395468691838
+    second: roboclaus_110
+  - first:
+      213: 7545217613636466573
+    second: roboclaus_111
+  - first:
+      213: -2564807812735134910
+    second: roboclaus_112
+  - first:
+      213: -4693392564960492316
+    second: roboclaus_113
+  - first:
+      213: -8487024428210038043
+    second: roboclaus_114
+  - first:
+      213: 2767128736658652883
+    second: roboclaus_115
+  - first:
+      213: 188072530357847661
+    second: roboclaus_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roboclaus_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 474
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac84f1d0e203d4e0800000000000000
+      internalID: -1958218248357639000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 475
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa68e4fb1b892010800000000000000
+      internalID: 1164614930841234081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 474
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30510d68ca94cfef0800000000000000
+      internalID: -73102488599784189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 474
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff470a1eb9045c0800000000000000
+      internalID: -4233212256366297249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 462
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b97eb204ac7e520800000000000000
+      internalID: 2731374075986811719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 450
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf912b11088f5080800000000000000
+      internalID: -9196482375735730209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 486
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bacbef787454710800000000000000
+      internalID: 1676825085685312380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 180
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a60a6151966e660800000000000000
+      internalID: 7414729375806941760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 404
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51a4102a897efa0800000000000000
+      internalID: -5771476575878244947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 425
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b817fb0a8f3b635c0800000000000000
+      internalID: -4236000519065210485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 450
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f414b47d7542190800000000000000
+      internalID: -7988163256856260817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 449
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f7521756f543c20800000000000000
+      internalID: 3185275725752401814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 440
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5999454cbe0cff960800000000000000
+      internalID: 7638035611887376789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_13
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 438
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067ceb712eaf6eda0800000000000000
+      internalID: -5915765211536636064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 429
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8b2e8b5c1b20d20800000000000000
+      internalID: 3243350144428718242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 428
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390a38c85ab902f0800000000000000
+      internalID: -1006068151261460168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 391
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218de4effffb6c720800000000000000
+      internalID: 2866189319072045074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 401
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601b8ad466611c4e0800000000000000
+      internalID: -1963263333911449338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_18
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 400
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f3d1cebea080c00800000000000000
+      internalID: 866954936663752462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 403
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32b11f7f6604b690800000000000000
+      internalID: -7587432396269440449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 400
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e4e54a430b9e130800000000000000
+      internalID: 3596599517574483483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 402
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f885e325ae1830800000000000000
+      internalID: 4043851089018681419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 389
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9447d1cd39559eb50800000000000000
+      internalID: 6622918820566496329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 385
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec0be103a34cb730800000000000000
+      internalID: 4016159335098551530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 410
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a39c3c728942df0800000000000000
+      internalID: -205872386396308877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 392
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebefe60fcc4014bb0800000000000000
+      internalID: -4953672836877189442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 209
+        width: 96
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff4a2c80f7bd7950800000000000000
+      internalID: 6448512485236035575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 209
+        width: 96
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b4b7260e5d20880800000000000000
+      internalID: -8646113174896293073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 368
+        width: 83
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d5cbcdc0044a1e0800000000000000
+      internalID: -2187553095008101041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 365
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a035104bb99bc7d0800000000000000
+      internalID: -2897052905769717597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 369
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab56ab96ee3ead50800000000000000
+      internalID: 6750402051649723305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 352
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289009d84d0da48d0800000000000000
+      internalID: -2861245001913857662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 353
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f998ff23d253a60800000000000000
+      internalID: 7653072838844849922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 362
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7146afd70f6a18210800000000000000
+      internalID: 1333530516514300951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_34
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 362
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7f52f88aa163790800000000000000
+      internalID: -7550818413981599774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9250c2cc184b1860800000000000000
+      internalID: 7501668892679361180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_36
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 360
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec445f28e081310800000000000000
+      internalID: 1375865641785150984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_37
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 357
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b11c28f1c684e210800000000000000
+      internalID: 1361361155023180217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 354
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1cedc1dfe249ec0800000000000000
+      internalID: -3561169740697255425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 290
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622baa14363761a0800000000000000
+      internalID: -6816419913588333979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 289
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9398d041b1320d70800000000000000
+      internalID: 9007816842061321114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 349
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7120007625537f0800000000000000
+      internalID: -633509570240440333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 300
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d683610f2d9a203d0800000000000000
+      internalID: -3241842058317121427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_43
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 310
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b3786fc02b8400800000000000000
+      internalID: 327391473097224341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_44
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 305
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf1f6042a2fa390800000000000000
+      internalID: -7804973294986069217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_45
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 302
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1345899e0dfc9a0800000000000000
+      internalID: -6210515659419012659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_46
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 286
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d001628dee97f350800000000000000
+      internalID: 6050479367327383769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_47
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 302
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cbd901d46d8beb0800000000000000
+      internalID: -4703774184308884331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_48
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 311
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad667ee80156d60800000000000000
+      internalID: 7882724928735599238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_49
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 303
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba756fe8c00b10b0800000000000000
+      internalID: -5757006835653182791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_50
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 203
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a64e450e30f37c70800000000000000
+      internalID: 8967775432192444065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 204
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90e8941f088e530800000000000000
+      internalID: 3884496452416571865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 268
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea34a708f5752eeb0800000000000000
+      internalID: -4692091794077629522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_53
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 255
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e7c752e0f88c50800000000000000
+      internalID: 6667844103248012008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_54
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 249
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cac104da92a84a10800000000000000
+      internalID: 1893942429174844097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_55
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 251
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469d3fae0863560a0800000000000000
+      internalID: -6889040127667742364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_56
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 257
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed54716a4451c30800000000000000
+      internalID: 4329442096932314650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_57
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 251
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b349bfc003885a0800000000000000
+      internalID: -6518907628300256407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_58
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 252
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f18f58b95843bac0800000000000000
+      internalID: -3840646507034344974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_59
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 273
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5b4f442ab931de0800000000000000
+      internalID: -1363575140919233073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_60
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 213
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b9e96c6faaefad0800000000000000
+      internalID: -2666505952485794966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 198
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8324f7d1b352bc0800000000000000
+      internalID: -3808572911996749660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_62
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 199
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a11a1b0cd0b1050800000000000000
+      internalID: 5772222468670429850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_63
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 198
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c3079f38d7f6c50800000000000000
+      internalID: 6660680379683322895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_64
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000dacb867f7d7ba0800000000000000
+      internalID: -6089570974006849536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_65
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 240
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4165553fec78f8700800000000000000
+      internalID: 544803402850588180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_66
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 221
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f4a6d8a4a714790800000000000000
+      internalID: -7547617039877517559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_67
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 203
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecac8cddfca0650800000000000000
+      internalID: 6199996388492365345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_68
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 219
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc9638c7b56fb10800000000000000
+      internalID: 2014898473633697581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_69
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 196
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a541154425bcb8b90800000000000000
+      internalID: -7238468421874019238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_70
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 196
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79610df0a18d790800000000000000
+      internalID: -7505220123794958418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_71
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 193
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebce3e59a9399690800000000000000
+      internalID: -7594975896990200852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_72
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 193
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c215bf047fbb0ee20800000000000000
+      internalID: 3377906391149400364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_73
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 171
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fabd39203d832b0800000000000000
+      internalID: -5604497728238538974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_74
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 178
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f5840fcc7ca20d0800000000000000
+      internalID: -3446722881780162678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_75
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 178
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f2844a2622313a0800000000000000
+      internalID: -6695970413911462060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_76
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 200
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cbb9bedd94c1f80800000000000000
+      internalID: -8134545609448506232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 107
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82064c03056b01e0800000000000000
+      internalID: -2230578126666726770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_78
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6
+        width: 100
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b158c433354c4e5a0800000000000000
+      internalID: -6492848901139430117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 98
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e5daf456f426b0800000000000000
+      internalID: -5321858014799076766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_80
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 140
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4236b5dfb4de3f0800000000000000
+      internalID: -869955601480604512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_81
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 140
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115ae7d034c358a0800000000000000
+      internalID: -6317490138210741995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_82
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 142
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea2223f7bd90d880800000000000000
+      internalID: -8588191076011857182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_83
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 142
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dce7060e2b30cb0800000000000000
+      internalID: -4898875292887626352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_84
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 144
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a1507176def55e0800000000000000
+      internalID: -1918553889212917168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_85
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 138
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d06fa1aa23348b60800000000000000
+      internalID: 7747373517178364119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_86
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 145
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d226a196050b9040800000000000000
+      internalID: 4655320165589066454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_87
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 172
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44522b31053876d90800000000000000
+      internalID: -7104565507202603708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_88
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 161
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef14574c2604dd0800000000000000
+      internalID: -2503892796897624412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_89
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 165
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8bf8f30498719e0800000000000000
+      internalID: -1650699829370701626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_90
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 142
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c426811f215ea70800000000000000
+      internalID: 8855505068999462035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_91
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 131
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab582f056c544f10800000000000000
+      internalID: 2253027302707846062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_92
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 131
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d7e8945669b3500800000000000000
+      internalID: 377060355585506583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_93
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 118
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8bdb1f3b53a3330800000000000000
+      internalID: 3691321891554703569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_94
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 148
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c3cc43845982780800000000000000
+      internalID: -8707545742164869985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 73
+        width: 158
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb060cc606ea00250800000000000000
+      internalID: 5908914440274731195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_96
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 73
+        width: 163
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f10cf670c77b4f10800000000000000
+      internalID: 2255027706942718448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_97
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 77
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150cc596fb0426bd0800000000000000
+      internalID: -2638475240835071919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_98
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 129
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fb43fa67f161980800000000000000
+      internalID: -8568626646419718360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_99
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 125
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a40296936bf81c0800000000000000
+      internalID: -4499177145026721184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_100
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 102
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc301a55e2095b6e0800000000000000
+      internalID: -1822391945521986613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_101
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 75
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7a3e3722c2b2660800000000000000
+      internalID: 7362026542352017317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_102
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 79
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b705a86de56fe70800000000000000
+      internalID: 9148603968586283896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_103
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 63
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d52acae12b732f0800000000000000
+      internalID: -993129347996820100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_104
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d2cb53e1e6be4c0800000000000000
+      internalID: -4257187946719072867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_105
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f535f2be73c53ae0800000000000000
+      internalID: -1570133946133039632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_106
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 84
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d497f13b3230bd370800000000000000
+      internalID: 8348269786125269325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_107
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 55
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74ef4d264335c50800000000000000
+      internalID: 6652718673641228220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4
+        width: 163
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e764568b0ce0318e0800000000000000
+      internalID: -1724018011462613378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_109
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4
+        width: 158
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad234d09300159d60800000000000000
+      internalID: 7896235129164804826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_110
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 5
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e47f1130147dc0800000000000000
+      internalID: -3642268395468691838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_111
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 4
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8772dd717ff5b860800000000000000
+      internalID: 7545217613636466573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_112
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24396cc12e8f76cd0800000000000000
+      internalID: -2564807812735134910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_113
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4021e2458bddeb0800000000000000
+      internalID: -4693392564960492316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 24
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea5a7caf38083a80800000000000000
+      internalID: -8487024428210038043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_115
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7054dce0d66620800000000000000
+      internalID: 2767128736658652883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roboclaus_116
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d660dfb48fa2c9200800000000000000
+      internalID: 188072530357847661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roboclaus_0: -1958218248357639000
+      roboclaus_1: 1164614930841234081
+      roboclaus_10: -7988163256856260817
+      roboclaus_100: -1822391945521986613
+      roboclaus_101: 7362026542352017317
+      roboclaus_102: 9148603968586283896
+      roboclaus_103: -993129347996820100
+      roboclaus_104: -4257187946719072867
+      roboclaus_105: -1570133946133039632
+      roboclaus_106: 8348269786125269325
+      roboclaus_107: 6652718673641228220
+      roboclaus_108: -1724018011462613378
+      roboclaus_109: 7896235129164804826
+      roboclaus_11: 3185275725752401814
+      roboclaus_110: -3642268395468691838
+      roboclaus_111: 7545217613636466573
+      roboclaus_112: -2564807812735134910
+      roboclaus_113: -4693392564960492316
+      roboclaus_114: -8487024428210038043
+      roboclaus_115: 2767128736658652883
+      roboclaus_116: 188072530357847661
+      roboclaus_12: 7638035611887376789
+      roboclaus_13: -5915765211536636064
+      roboclaus_14: 3243350144428718242
+      roboclaus_15: -1006068151261460168
+      roboclaus_16: 2866189319072045074
+      roboclaus_17: -1963263333911449338
+      roboclaus_18: 866954936663752462
+      roboclaus_19: -7587432396269440449
+      roboclaus_2: -73102488599784189
+      roboclaus_20: 3596599517574483483
+      roboclaus_21: 4043851089018681419
+      roboclaus_22: 6622918820566496329
+      roboclaus_23: 4016159335098551530
+      roboclaus_24: -205872386396308877
+      roboclaus_25: -4953672836877189442
+      roboclaus_26: 6448512485236035575
+      roboclaus_27: -8646113174896293073
+      roboclaus_28: -2187553095008101041
+      roboclaus_29: -2897052905769717597
+      roboclaus_3: -4233212256366297249
+      roboclaus_30: 6750402051649723305
+      roboclaus_31: -2861245001913857662
+      roboclaus_32: 7653072838844849922
+      roboclaus_33: 1333530516514300951
+      roboclaus_34: -7550818413981599774
+      roboclaus_35: 7501668892679361180
+      roboclaus_36: 1375865641785150984
+      roboclaus_37: 1361361155023180217
+      roboclaus_38: -3561169740697255425
+      roboclaus_39: -6816419913588333979
+      roboclaus_4: 2731374075986811719
+      roboclaus_40: 9007816842061321114
+      roboclaus_41: -633509570240440333
+      roboclaus_42: -3241842058317121427
+      roboclaus_43: 327391473097224341
+      roboclaus_44: -7804973294986069217
+      roboclaus_45: -6210515659419012659
+      roboclaus_46: 6050479367327383769
+      roboclaus_47: -4703774184308884331
+      roboclaus_48: 7882724928735599238
+      roboclaus_49: -5757006835653182791
+      roboclaus_5: -9196482375735730209
+      roboclaus_50: 8967775432192444065
+      roboclaus_51: 3884496452416571865
+      roboclaus_52: -4692091794077629522
+      roboclaus_53: 6667844103248012008
+      roboclaus_54: 1893942429174844097
+      roboclaus_55: -6889040127667742364
+      roboclaus_56: 4329442096932314650
+      roboclaus_57: -6518907628300256407
+      roboclaus_58: -3840646507034344974
+      roboclaus_59: -1363575140919233073
+      roboclaus_6: 1676825085685312380
+      roboclaus_60: -2666505952485794966
+      roboclaus_61: -3808572911996749660
+      roboclaus_62: 5772222468670429850
+      roboclaus_63: 6660680379683322895
+      roboclaus_64: -6089570974006849536
+      roboclaus_65: 544803402850588180
+      roboclaus_66: -7547617039877517559
+      roboclaus_67: 6199996388492365345
+      roboclaus_68: 2014898473633697581
+      roboclaus_69: -7238468421874019238
+      roboclaus_7: 7414729375806941760
+      roboclaus_70: -7505220123794958418
+      roboclaus_71: -7594975896990200852
+      roboclaus_72: 3377906391149400364
+      roboclaus_73: -5604497728238538974
+      roboclaus_74: -3446722881780162678
+      roboclaus_75: -6695970413911462060
+      roboclaus_76: -8134545609448506232
+      roboclaus_77: -2230578126666726770
+      roboclaus_78: -6492848901139430117
+      roboclaus_79: -5321858014799076766
+      roboclaus_8: -5771476575878244947
+      roboclaus_80: -869955601480604512
+      roboclaus_81: -6317490138210741995
+      roboclaus_82: -8588191076011857182
+      roboclaus_83: -4898875292887626352
+      roboclaus_84: -1918553889212917168
+      roboclaus_85: 7747373517178364119
+      roboclaus_86: 4655320165589066454
+      roboclaus_87: -7104565507202603708
+      roboclaus_88: -2503892796897624412
+      roboclaus_89: -1650699829370701626
+      roboclaus_9: -4236000519065210485
+      roboclaus_90: 8855505068999462035
+      roboclaus_91: 2253027302707846062
+      roboclaus_92: 377060355585506583
+      roboclaus_93: 3691321891554703569
+      roboclaus_94: -8707545742164869985
+      roboclaus_95: 5908914440274731195
+      roboclaus_96: 2255027706942718448
+      roboclaus_97: -2638475240835071919
+      roboclaus_98: -8568626646419718360
+      roboclaus_99: -4499177145026721184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 644d1bde449e9cc438ed86ef03c86ffb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5607713108992261817
+    second: rain_confetti_0
+  - first:
+      213: 3152917457319546714
+    second: rain_confetti_1
+  - first:
+      213: 2470870099343694712
+    second: rain_confetti_2
+  - first:
+      213: 6428790790588940478
+    second: rain_confetti_3
+  - first:
+      213: 8633436689399397793
+    second: rain_confetti_4
+  - first:
+      213: -3585739314967727766
+    second: rain_confetti_5
+  - first:
+      213: 4623070136429382771
+    second: rain_confetti_6
+  - first:
+      213: -9037802562647822572
+    second: rain_confetti_7
+  - first:
+      213: -659385117041660681
+    second: rain_confetti_8
+  - first:
+      213: -4909964393698765758
+    second: rain_confetti_9
+  - first:
+      213: 5600762984880403679
+    second: rain_confetti_10
+  - first:
+      213: 2986925726345091993
+    second: rain_confetti_11
+  - first:
+      213: -8620094087919600292
+    second: rain_confetti_12
+  - first:
+      213: -5296343114930800381
+    second: rain_confetti_13
+  - first:
+      213: -6200218203082926172
+    second: rain_confetti_14
+  - first:
+      213: -8934758784601883386
+    second: rain_confetti_15
+  - first:
+      213: -8148717121517488843
+    second: rain_confetti_16
+  - first:
+      213: -8892106707299488397
+    second: rain_confetti_17
+  - first:
+      213: 3197758787579138208
+    second: rain_confetti_18
+  - first:
+      213: 2169006604325428105
+    second: rain_confetti_19
+  - first:
+      213: 1577575844110391774
+    second: rain_confetti_20
+  - first:
+      213: -9074860777908803022
+    second: rain_confetti_21
+  - first:
+      213: -6307318242923684323
+    second: rain_confetti_22
+  - first:
+      213: -5018354829148895136
+    second: rain_confetti_23
+  - first:
+      213: 6442668281846714579
+    second: rain_confetti_24
+  - first:
+      213: -3912548414948739026
+    second: rain_confetti_25
+  - first:
+      213: -4605583844801210607
+    second: rain_confetti_26
+  - first:
+      213: -1360284009092330175
+    second: rain_confetti_27
+  - first:
+      213: -5581972657855808512
+    second: rain_confetti_28
+  - first:
+      213: -8931803927718186313
+    second: rain_confetti_29
+  - first:
+      213: 2461183720876290973
+    second: rain_confetti_30
+  - first:
+      213: 5522886862749264843
+    second: rain_confetti_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rain_confetti_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741073863a66d22b0800000000000000
+      internalID: -5607713108992261817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 452
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fc8a9f8b961cb20800000000000000
+      internalID: 3152917457319546714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 457
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bd38d934b4a4220800000000000000
+      internalID: 2470870099343694712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 451
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb04b50b927a73950800000000000000
+      internalID: 6428790790588940478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 400
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb9765de020d770800000000000000
+      internalID: 8633436689399397793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 403
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6132325715ec3ec0800000000000000
+      internalID: -3585739314967727766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 407
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c07958bc1782040800000000000000
+      internalID: 4623070136429382771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 403
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe24f1476439280800000000000000
+      internalID: -9037802562647822572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc6d88cab469d6f0800000000000000
+      internalID: -659385117041660681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 327
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d4c5e56d4cdbb0800000000000000
+      internalID: -4909964393698765758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 323
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f3f8b248e9bd40800000000000000
+      internalID: 5600762984880403679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b56496f11b37920800000000000000
+      internalID: 2986925726345091993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 271
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7b1729164f5880800000000000000
+      internalID: -8620094087919600292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 275
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309b6f98ffb9f76b0800000000000000
+      internalID: -5296343114930800381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 271
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d45bf46664f9a0800000000000000
+      internalID: -6200218203082926172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 269
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60df00a493c510480800000000000000
+      internalID: -8934758784601883386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357ec4a3f0f9ee80800000000000000
+      internalID: -8148717121517488843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 195
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dab86ef04e89480800000000000000
+      internalID: -8892106707299488397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 200
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d903cca8b06c20800000000000000
+      internalID: 3197758787579138208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 209
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1b46c30cd91e10800000000000000
+      internalID: 2169006604325428105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 138
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9df623fdca4e510800000000000000
+      internalID: 1577575844110391774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 136
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aee92043e9f0280800000000000000
+      internalID: -9074860777908803022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e5135c977e778a0800000000000000
+      internalID: -6307318242923684323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 142
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c6bb0fd83b5ab0800000000000000
+      internalID: -5018354829148895136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 81
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d05629eaa4f86950800000000000000
+      internalID: 6442668281846714579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 74
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28767832f5d3b9c0800000000000000
+      internalID: -3912548414948739026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117985305eda510c0800000000000000
+      internalID: -4605583844801210607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 72
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d486c96ec4f1de0800000000000000
+      internalID: -1360284009092330175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cbf863179d882b0800000000000000
+      internalID: -5581972657855808512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 10
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b23be486abdb0480800000000000000
+      internalID: -8931803927718186313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933ec1ed81e72220800000000000000
+      internalID: 2461183720876290973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_confetti_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 10
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb67d4175c35ac40800000000000000
+      internalID: 5522886862749264843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rain_confetti_0: -5607713108992261817
+      rain_confetti_1: 3152917457319546714
+      rain_confetti_10: 5600762984880403679
+      rain_confetti_11: 2986925726345091993
+      rain_confetti_12: -8620094087919600292
+      rain_confetti_13: -5296343114930800381
+      rain_confetti_14: -6200218203082926172
+      rain_confetti_15: -8934758784601883386
+      rain_confetti_16: -8148717121517488843
+      rain_confetti_17: -8892106707299488397
+      rain_confetti_18: 3197758787579138208
+      rain_confetti_19: 2169006604325428105
+      rain_confetti_2: 2470870099343694712
+      rain_confetti_20: 1577575844110391774
+      rain_confetti_21: -9074860777908803022
+      rain_confetti_22: -6307318242923684323
+      rain_confetti_23: -5018354829148895136
+      rain_confetti_24: 6442668281846714579
+      rain_confetti_25: -3912548414948739026
+      rain_confetti_26: -4605583844801210607
+      rain_confetti_27: -1360284009092330175
+      rain_confetti_28: -5581972657855808512
+      rain_confetti_29: -8931803927718186313
+      rain_confetti_3: 6428790790588940478
+      rain_confetti_30: 2461183720876290973
+      rain_confetti_31: 5522886862749264843
+      rain_confetti_4: 8633436689399397793
+      rain_confetti_5: -3585739314967727766
+      rain_confetti_6: 4623070136429382771
+      rain_confetti_7: -9037802562647822572
+      rain_confetti_8: -659385117041660681
+      rain_confetti_9: -4909964393698765758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

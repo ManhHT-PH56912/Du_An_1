@@ -1,0 +1,3783 @@
+fileFormatVersion: 2
+guid: 783bb00b37a96a547bc6bca6c33a66c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3341356523787216949
+    second: standard_t2_large_baton_0
+  - first:
+      213: 7993532724192264151
+    second: standard_t2_large_baton_1
+  - first:
+      213: -3077029770821758812
+    second: standard_t2_large_baton_2
+  - first:
+      213: 4887767646252505702
+    second: standard_t2_large_baton_3
+  - first:
+      213: 6301615893235352212
+    second: standard_t2_large_baton_4
+  - first:
+      213: 6807346644550432305
+    second: standard_t2_large_baton_5
+  - first:
+      213: -870403699653710979
+    second: standard_t2_large_baton_6
+  - first:
+      213: -5743026086492782461
+    second: standard_t2_large_baton_7
+  - first:
+      213: -287933670223670428
+    second: standard_t2_large_baton_8
+  - first:
+      213: 8858499717632425071
+    second: standard_t2_large_baton_9
+  - first:
+      213: -1722984420443112845
+    second: standard_t2_large_baton_10
+  - first:
+      213: 8157759585930373633
+    second: standard_t2_large_baton_11
+  - first:
+      213: -6890940323189557033
+    second: standard_t2_large_baton_12
+  - first:
+      213: -2154776912542668657
+    second: standard_t2_large_baton_13
+  - first:
+      213: 109993764361749815
+    second: standard_t2_large_baton_14
+  - first:
+      213: 8793403772815835927
+    second: standard_t2_large_baton_15
+  - first:
+      213: -7193606821846493855
+    second: standard_t2_large_baton_16
+  - first:
+      213: 4235949073661945461
+    second: standard_t2_large_baton_17
+  - first:
+      213: 1993210860013119830
+    second: standard_t2_large_baton_18
+  - first:
+      213: -2709178150507030409
+    second: standard_t2_large_baton_19
+  - first:
+      213: -1592389167915163020
+    second: standard_t2_large_baton_20
+  - first:
+      213: 6476229158685760462
+    second: standard_t2_large_baton_21
+  - first:
+      213: -5669813747435943847
+    second: standard_t2_large_baton_22
+  - first:
+      213: 4334906080370277369
+    second: standard_t2_large_baton_23
+  - first:
+      213: -696914269167615158
+    second: standard_t2_large_baton_24
+  - first:
+      213: -8150773367106053245
+    second: standard_t2_large_baton_25
+  - first:
+      213: 6785686233940546930
+    second: standard_t2_large_baton_26
+  - first:
+      213: 6960606021292403343
+    second: standard_t2_large_baton_27
+  - first:
+      213: -5113490941416989069
+    second: standard_t2_large_baton_28
+  - first:
+      213: -401800902565078205
+    second: standard_t2_large_baton_29
+  - first:
+      213: -2497245859943577855
+    second: standard_t2_large_baton_30
+  - first:
+      213: -8562734213648209831
+    second: standard_t2_large_baton_31
+  - first:
+      213: -100532915352263679
+    second: standard_t2_large_baton_32
+  - first:
+      213: 1110979897557842719
+    second: standard_t2_large_baton_33
+  - first:
+      213: 6966108901755537309
+    second: standard_t2_large_baton_34
+  - first:
+      213: -5435785725806106803
+    second: standard_t2_large_baton_35
+  - first:
+      213: -393522099304012093
+    second: standard_t2_large_baton_36
+  - first:
+      213: -2231959153064664612
+    second: standard_t2_large_baton_37
+  - first:
+      213: 7949335315696301579
+    second: standard_t2_large_baton_38
+  - first:
+      213: -808069352190739928
+    second: standard_t2_large_baton_39
+  - first:
+      213: 4524498953541877781
+    second: standard_t2_large_baton_40
+  - first:
+      213: -2073984565783977152
+    second: standard_t2_large_baton_41
+  - first:
+      213: -7108793035610120347
+    second: standard_t2_large_baton_42
+  - first:
+      213: -3469286984347618931
+    second: standard_t2_large_baton_43
+  - first:
+      213: 8471963194608738862
+    second: standard_t2_large_baton_44
+  - first:
+      213: 3855719116554223152
+    second: standard_t2_large_baton_45
+  - first:
+      213: 1723032249920923151
+    second: standard_t2_large_baton_46
+  - first:
+      213: 2278180461523644067
+    second: standard_t2_large_baton_47
+  - first:
+      213: 1998683653040874775
+    second: standard_t2_large_baton_48
+  - first:
+      213: 640110858030071524
+    second: standard_t2_large_baton_49
+  - first:
+      213: 8078897307686687689
+    second: standard_t2_large_baton_50
+  - first:
+      213: -5630080323587684196
+    second: standard_t2_large_baton_51
+  - first:
+      213: 334623875496365212
+    second: standard_t2_large_baton_52
+  - first:
+      213: 1144734834417153492
+    second: standard_t2_large_baton_53
+  - first:
+      213: 2797239079001292614
+    second: standard_t2_large_baton_54
+  - first:
+      213: -8273067710449332537
+    second: standard_t2_large_baton_55
+  - first:
+      213: 3428694637474063833
+    second: standard_t2_large_baton_56
+  - first:
+      213: -5154151724384566889
+    second: standard_t2_large_baton_57
+  - first:
+      213: 211819108700531367
+    second: standard_t2_large_baton_58
+  - first:
+      213: 2949543613885282922
+    second: standard_t2_large_baton_59
+  - first:
+      213: -2385816872323232786
+    second: standard_t2_large_baton_60
+  - first:
+      213: -8056836416612048675
+    second: standard_t2_large_baton_61
+  - first:
+      213: 513736865234769474
+    second: standard_t2_large_baton_62
+  - first:
+      213: 6342408646899035641
+    second: standard_t2_large_baton_63
+  - first:
+      213: 6873523914630736593
+    second: standard_t2_large_baton_64
+  - first:
+      213: -2912907931369998426
+    second: standard_t2_large_baton_65
+  - first:
+      213: 267771963779671663
+    second: standard_t2_large_baton_66
+  - first:
+      213: 3492800247818433331
+    second: standard_t2_large_baton_67
+  - first:
+      213: -3669047711562635854
+    second: standard_t2_large_baton_68
+  - first:
+      213: -2605610911955687691
+    second: standard_t2_large_baton_69
+  - first:
+      213: -304481151593448855
+    second: standard_t2_large_baton_70
+  - first:
+      213: 8526942258523600254
+    second: standard_t2_large_baton_71
+  - first:
+      213: -946583882411890803
+    second: standard_t2_large_baton_72
+  - first:
+      213: -3219383131271287297
+    second: standard_t2_large_baton_73
+  - first:
+      213: -8591186792881072042
+    second: standard_t2_large_baton_74
+  - first:
+      213: -7648879826192139541
+    second: standard_t2_large_baton_75
+  - first:
+      213: 3926366525294723208
+    second: standard_t2_large_baton_76
+  - first:
+      213: 4780554052343560966
+    second: standard_t2_large_baton_77
+  - first:
+      213: -2085907643880529388
+    second: standard_t2_large_baton_78
+  - first:
+      213: 5730093570397020176
+    second: standard_t2_large_baton_79
+  - first:
+      213: 136999621107374463
+    second: standard_t2_large_baton_80
+  - first:
+      213: 831181784120513991
+    second: standard_t2_large_baton_81
+  - first:
+      213: -4633772356228375639
+    second: standard_t2_large_baton_82
+  - first:
+      213: 7011568183654319785
+    second: standard_t2_large_baton_83
+  - first:
+      213: 4923907262135388783
+    second: standard_t2_large_baton_84
+  - first:
+      213: -3106110639093927020
+    second: standard_t2_large_baton_85
+  - first:
+      213: -6953051768100296485
+    second: standard_t2_large_baton_86
+  - first:
+      213: 6164192386078239220
+    second: standard_t2_large_baton_87
+  - first:
+      213: -922482643313206629
+    second: standard_t2_large_baton_88
+  - first:
+      213: -9034478573290129120
+    second: standard_t2_large_baton_89
+  - first:
+      213: 6577527732920676616
+    second: standard_t2_large_baton_90
+  - first:
+      213: -1719319420643460726
+    second: standard_t2_large_baton_91
+  - first:
+      213: 8211411673319893272
+    second: standard_t2_large_baton_92
+  - first:
+      213: -3441953970343467609
+    second: standard_t2_large_baton_93
+  - first:
+      213: 2902653743047930255
+    second: standard_t2_large_baton_94
+  - first:
+      213: 6525048716088604788
+    second: standard_t2_large_baton_95
+  - first:
+      213: 349787208115264248
+    second: standard_t2_large_baton_96
+  - first:
+      213: -4747038476944423857
+    second: standard_t2_large_baton_97
+  - first:
+      213: 5142277263647498850
+    second: standard_t2_large_baton_98
+  - first:
+      213: 5851159670051686216
+    second: standard_t2_large_baton_99
+  - first:
+      213: 1233241757498241901
+    second: standard_t2_large_baton_100
+  - first:
+      213: -870897372875504689
+    second: standard_t2_large_baton_101
+  - first:
+      213: 7254600688759367763
+    second: standard_t2_large_baton_102
+  - first:
+      213: 9199370771456611772
+    second: standard_t2_large_baton_103
+  - first:
+      213: 8141034223878043383
+    second: standard_t2_large_baton_104
+  - first:
+      213: -1784025505975872937
+    second: standard_t2_large_baton_105
+  - first:
+      213: 4364508824146197407
+    second: standard_t2_large_baton_106
+  - first:
+      213: -2786222616527629268
+    second: standard_t2_large_baton_107
+  - first:
+      213: 4319165739837424040
+    second: standard_t2_large_baton_108
+  - first:
+      213: 8549443854773361228
+    second: standard_t2_large_baton_109
+  - first:
+      213: -4406868779584405172
+    second: standard_t2_large_baton_110
+  - first:
+      213: 7450736068990186524
+    second: standard_t2_large_baton_111
+  - first:
+      213: -2677628350557529726
+    second: standard_t2_large_baton_112
+  - first:
+      213: -7812254733891542933
+    second: standard_t2_large_baton_113
+  - first:
+      213: -5061962935680624105
+    second: standard_t2_large_baton_114
+  - first:
+      213: -7163106443567355430
+    second: standard_t2_large_baton_115
+  - first:
+      213: 8694579438705920406
+    second: standard_t2_large_baton_116
+  - first:
+      213: 960218645165321301
+    second: standard_t2_large_baton_117
+  - first:
+      213: 2377532508937059852
+    second: standard_t2_large_baton_118
+  - first:
+      213: 9001820693901407290
+    second: standard_t2_large_baton_119
+  - first:
+      213: 1131611569269416777
+    second: standard_t2_large_baton_120
+  - first:
+      213: 1375574805389500528
+    second: standard_t2_large_baton_121
+  - first:
+      213: -6687958892625554972
+    second: standard_t2_large_baton_122
+  - first:
+      213: 3432979183260626671
+    second: standard_t2_large_baton_123
+  - first:
+      213: -6461206756444961309
+    second: standard_t2_large_baton_124
+  - first:
+      213: 5072510151396033273
+    second: standard_t2_large_baton_125
+  - first:
+      213: 7122712754918862233
+    second: standard_t2_large_baton_126
+  - first:
+      213: -6083880391660007594
+    second: standard_t2_large_baton_127
+  - first:
+      213: -1410460894820206706
+    second: standard_t2_large_baton_128
+  - first:
+      213: -1539166227839182738
+    second: standard_t2_large_baton_129
+  - first:
+      213: 1827276743470732522
+    second: standard_t2_large_baton_130
+  - first:
+      213: -162912505250458571
+    second: standard_t2_large_baton_131
+  - first:
+      213: 6409827161756839184
+    second: standard_t2_large_baton_132
+  - first:
+      213: -659790851770921274
+    second: standard_t2_large_baton_133
+  - first:
+      213: 3765352916763106411
+    second: standard_t2_large_baton_134
+  - first:
+      213: -96862830781284637
+    second: standard_t2_large_baton_135
+  - first:
+      213: -5954740872817798070
+    second: standard_t2_large_baton_136
+  - first:
+      213: 637736499328771411
+    second: standard_t2_large_baton_137
+  - first:
+      213: 5681697725492874077
+    second: standard_t2_large_baton_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: standard_t2_large_baton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc79ab3e1fd11a1d0800000000000000
+      internalID: -3341356523787216949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 447
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfb0fd39abbeee60800000000000000
+      internalID: 7993532724192264151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 446
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a01edae9b13c45d0800000000000000
+      internalID: -3077029770821758812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 447
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a178b17c6d4d340800000000000000
+      internalID: 4887767646252505702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 450
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492cf3b7446d37750800000000000000
+      internalID: 6301615893235352212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 403
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1363063d4bd887e50800000000000000
+      internalID: 6807346644550432305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 450
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b64fe5274bbe3f0800000000000000
+      internalID: -870403699653710979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380cbc2c33cac40b0800000000000000
+      internalID: -5743026086492782461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 448
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463917b3add010cf0800000000000000
+      internalID: -287933670223670428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 447
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cf0601f86bfea70800000000000000
+      internalID: 8858499717632425071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 447
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ab4f16ccab618e0800000000000000
+      internalID: -1722984420443112845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 451
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aea6a2f1f263170800000000000000
+      internalID: 8157759585930373633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 451
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8fedb29467e50a0800000000000000
+      internalID: -6890940323189557033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f886ea580d1b812e0800000000000000
+      internalID: -2154776912542668657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7354a44feb6c68100800000000000000
+      internalID: 109993764361749815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 448
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71384455422780a70800000000000000
+      internalID: 8793403772815835927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 448
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165530a75bc2b2c90800000000000000
+      internalID: -7193606821846493855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 448
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e34e4d3d19ca30800000000000000
+      internalID: 4235949073661945461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_18
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 448
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659688977be49ab10800000000000000
+      internalID: 1993210860013119830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_19
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 447
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77857c173d0176ad0800000000000000
+      internalID: -2709178150507030409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_20
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 447
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472ac361d72b6e9e0800000000000000
+      internalID: -1592389167915163020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbdd777b1030e950800000000000000
+      internalID: 6476229158685760462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 382
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584479cf66c051b0800000000000000
+      internalID: -5669813747435943847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 382
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb62fdc1ea82c30800000000000000
+      internalID: 4334906080370277369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 402
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430d532a201456f0800000000000000
+      internalID: -696914269167615158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 400
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bdde8aec2a2ee80800000000000000
+      internalID: -8150773367106053245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 403
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275d84b7da99b2e50800000000000000
+      internalID: 6785686233940546930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 399
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a24982c4a099060800000000000000
+      internalID: 6960606021292403343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 405
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e99aac41b3909b0800000000000000
+      internalID: -5113490941416989069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_29
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 393
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b5d2c35348c6af0800000000000000
+      internalID: -401800902565078205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_30
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 392
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1078f311f10085dd0800000000000000
+      internalID: -2497245859943577855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_31
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 393
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9582a69999e0b2980800000000000000
+      internalID: -8562734213648209831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_32
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 399
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a13c98d5da9ef0800000000000000
+      internalID: -100532915352263679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_33
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 388
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf882a45efa6f00800000000000000
+      internalID: 1110979897557842719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_34
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 433
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9743db53279ca060800000000000000
+      internalID: 6966108901755537309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d472032bea53094b0800000000000000
+      internalID: -5435785725806106803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 314
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6e7b35cbde98af0800000000000000
+      internalID: -393522099304012093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 317
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd12668c9fc7601e0800000000000000
+      internalID: -2231959153064664612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 317
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06bb8c2a56b15e60800000000000000
+      internalID: 7949335315696301579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 317
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a7acc943929c4f0800000000000000
+      internalID: -808069352190739928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_40
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 346
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5108d7093df3ace30800000000000000
+      internalID: 4524498953541877781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 341
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043adce960ab733e0800000000000000
+      internalID: -2073984565783977152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 339
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f10bae56e785d90800000000000000
+      internalID: -7108793035610120347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_43
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 337
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f21a6edd9adfc0800000000000000
+      internalID: -3469286984347618931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_44
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 340
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2266dc93a5729570800000000000000
+      internalID: 8471963194608738862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 331
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eb5e7ab14428530800000000000000
+      internalID: 3855719116554223152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 328
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f062419c3b079e710800000000000000
+      internalID: 1723032249920923151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_47
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 342
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae2a573f09bd9f10800000000000000
+      internalID: 2278180461523644067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_48
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 344
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a1e56130ccbb10800000000000000
+      internalID: 1998683653040874775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_49
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 345
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeb0c51f6122e800800000000000000
+      internalID: 640110858030071524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_50
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 342
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c356892c420e1070800000000000000
+      internalID: 8078897307686687689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_51
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 343
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98c3af66cfedd1b0800000000000000
+      internalID: -5630080323587684196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 115
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c435054a2d4a400800000000000000
+      internalID: 334623875496365212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 253
+        width: 142
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5337f444ae2ef00800000000000000
+      internalID: 1144734834417153492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 253
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f76b73f1ac1d620800000000000000
+      internalID: 2797239079001292614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_55
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 254
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec9ebffb8203d80800000000000000
+      internalID: -8273067710449332537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 274
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5ade55b9b259f20800000000000000
+      internalID: 3428694637474063833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 272
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79147958056c878b0800000000000000
+      internalID: -5154151724384566889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_58
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 272
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa2cba6b5880f200800000000000000
+      internalID: 211819108700531367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_59
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 265
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a772b1a42eee820800000000000000
+      internalID: 2949543613885282922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_60
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 264
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4a0af130e3eed0800000000000000
+      internalID: -2385816872323232786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_61
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 263
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0686e47fd503090800000000000000
+      internalID: -8056836416612048675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 276
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246575005f8212700800000000000000
+      internalID: 513736865234769474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 275
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd68c29f03c40850800000000000000
+      internalID: 6342408646899035641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_64
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 274
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daa7b63599a36f50800000000000000
+      internalID: 6873523914630736593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_65
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 273
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f54f6ba54397d0800000000000000
+      internalID: -2912907931369998426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_66
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 274
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6665edae2157b300800000000000000
+      internalID: 267771963779671663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_67
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 274
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3333d9ad15be87030800000000000000
+      internalID: 3492800247818433331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_68
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 274
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b56958bb8ce41dc0800000000000000
+      internalID: -3669047711562635854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6eff14ea207dbd0800000000000000
+      internalID: -2605610911955687691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a787e710446cbf0800000000000000
+      internalID: -304481151593448855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_71
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 176
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75f0937ec8c55670800000000000000
+      internalID: 8526942258523600254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87aab269fe0dd2f0800000000000000
+      internalID: -946583882411890803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_73
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 175
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda0b069147253d0800000000000000
+      internalID: -3219383131271287297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_74
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 175
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658db434129f5c880800000000000000
+      internalID: -8591186792881072042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_75
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 173
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea7a26d258b9d590800000000000000
+      internalID: -7648879826192139541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 174
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8804d2e4d814d7630800000000000000
+      internalID: 3926366525294723208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_77
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 174
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bfd770590f75240800000000000000
+      internalID: 4780554052343560966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_78
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 193
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412aa3cac0e5d03e0800000000000000
+      internalID: -2085907643880529388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 193
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a3413eb1658f40800000000000000
+      internalID: 5730093570397020176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_80
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 193
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d776fd68b6e100800000000000000
+      internalID: 136999621107374463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_81
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 193
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5574acd63f88b00800000000000000
+      internalID: 831181784120513991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_82
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 193
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab9bf0c79881bfb0800000000000000
+      internalID: -4633772356228375639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_83
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 206
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a685293d181e4160800000000000000
+      internalID: 7011568183654319785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_84
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 206
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6acb82219b355440800000000000000
+      internalID: 4923907262135388783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_85
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 206
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493beb3a4d0e4e4d0800000000000000
+      internalID: -3106110639093927020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_86
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 206
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8ea79714cc18f90800000000000000
+      internalID: -6953051768100296485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_87
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 206
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f96c5bd05c9b8550800000000000000
+      internalID: 6164192386078239220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_88
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 206
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a5ad56ceea233f0800000000000000
+      internalID: -922482643313206629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_89
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 206
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029f924ba951f9280800000000000000
+      internalID: -9034478573290129120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_90
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 206
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017405bf92184b50800000000000000
+      internalID: 6577527732920676616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89bd15a810c328e0800000000000000
+      internalID: -1719319420643460726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 108
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196ab4396bc4f170800000000000000
+      internalID: 8211411673319893272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 107
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5ae68a919bb30d0800000000000000
+      internalID: -3441953970343467609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_94
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 109
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81745c433c484820800000000000000
+      internalID: 2902653743047930255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_95
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47874907c31ad8a50800000000000000
+      internalID: 6525048716088604788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_96
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 110
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa9faecc91bad400800000000000000
+      internalID: 349787208115264248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_97
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 110
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44cd96f7a12f1eb0800000000000000
+      internalID: -4747038476944423857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_98
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 125
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e6442de90d5740800000000000000
+      internalID: 5142277263647498850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_99
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 125
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c58918be733150800000000000000
+      internalID: 5851159670051686216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_100
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 125
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d637cdd28da5d1110800000000000000
+      internalID: 1233241757498241901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_101
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 125
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc34fed1473f9e3f0800000000000000
+      internalID: -870897372875504689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_102
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 125
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3586ec0d3e48da460800000000000000
+      internalID: 7254600688759367763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_103
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 139
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb558cde9fabaaf70800000000000000
+      internalID: 9199370771456611772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_104
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 139
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67c8a5e73caf070800000000000000
+      internalID: 8141034223878043383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_105
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 139
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7525216214edd37e0800000000000000
+      internalID: -1784025505975872937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_106
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 72
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bba42c6a9d19c30800000000000000
+      internalID: 4364508824146197407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_107
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 139
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2416b4da495559d0800000000000000
+      internalID: -2786222616527629268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a10c014b52c0fb30800000000000000
+      internalID: 4319165739837424040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_109
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a99e693e9b5a670800000000000000
+      internalID: 8549443854773361228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_110
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 40
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41cc1d8138a7d2c0800000000000000
+      internalID: -4406868779584405172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 40
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b953aaf4566760800000000000000
+      internalID: 7450736068990186524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 40
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289d08ca33727dad0800000000000000
+      internalID: -2677628350557529726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 40
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e78be5bb459390800000000000000
+      internalID: -7812254733891542933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_114
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 40
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a1098878b40c9b0800000000000000
+      internalID: -5061962935680624105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_115
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 40
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92bde24a8879c90800000000000000
+      internalID: -7163106443567355430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_116
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 40
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994b730fe959a870800000000000000
+      internalID: 8694579438705920406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_117
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 55
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c29c335c1635d00800000000000000
+      internalID: 960218645165321301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_118
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 55
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef22d5831bef020800000000000000
+      internalID: 2377532508937059852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_119
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 55
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f0c73a34ecec70800000000000000
+      internalID: 9001820693901407290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_120
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 56
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a60a0aba44bf00800000000000000
+      internalID: 1131611569269416777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_121
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 56
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e7355ff5071310800000000000000
+      internalID: 1375574805389500528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_122
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 73
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e193ac42d89f23a0800000000000000
+      internalID: -6687958892625554972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_123
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 73
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee6f83e06464af20800000000000000
+      internalID: 3432979183260626671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_124
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 6
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e58ebd10be2556a0800000000000000
+      internalID: -6461206756444961309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_125
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 73
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2068d7b1d256640800000000000000
+      internalID: 5072510151396033273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_126
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d251a4385f8d260800000000000000
+      internalID: 7122712754918862233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_127
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 5
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f042f7407b19ba0800000000000000
+      internalID: -6083880391660007594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_128
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 73
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8779a20a490d6ce0800000000000000
+      internalID: -1410460894820206706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e681e5b7878c3aae0800000000000000
+      internalID: -1539166227839182738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_130
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d7e0548acb5910800000000000000
+      internalID: 1827276743470732522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_131
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d31b80f73dbdf0800000000000000
+      internalID: -162912505250458571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_132
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01daa28c7d744f850800000000000000
+      internalID: 6409827161756839184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_133
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce442e47b3f7d6f0800000000000000
+      internalID: -659790851770921274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_134
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c55a13788314430800000000000000
+      internalID: 3765352916763106411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_135
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeb753c4cfd7aef0800000000000000
+      internalID: -96862830781284637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_136
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44123ac9b28c5da0800000000000000
+      internalID: -5954740872817798070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_137
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355eace97f1b9d800800000000000000
+      internalID: 637736499328771411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t2_large_baton_138
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc5297af179de40800000000000000
+      internalID: 5681697725492874077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      standard_t2_large_baton_0: -3341356523787216949
+      standard_t2_large_baton_1: 7993532724192264151
+      standard_t2_large_baton_10: -1722984420443112845
+      standard_t2_large_baton_100: 1233241757498241901
+      standard_t2_large_baton_101: -870897372875504689
+      standard_t2_large_baton_102: 7254600688759367763
+      standard_t2_large_baton_103: 9199370771456611772
+      standard_t2_large_baton_104: 8141034223878043383
+      standard_t2_large_baton_105: -1784025505975872937
+      standard_t2_large_baton_106: 4364508824146197407
+      standard_t2_large_baton_107: -2786222616527629268
+      standard_t2_large_baton_108: 4319165739837424040
+      standard_t2_large_baton_109: 8549443854773361228
+      standard_t2_large_baton_11: 8157759585930373633
+      standard_t2_large_baton_110: -4406868779584405172
+      standard_t2_large_baton_111: 7450736068990186524
+      standard_t2_large_baton_112: -2677628350557529726
+      standard_t2_large_baton_113: -7812254733891542933
+      standard_t2_large_baton_114: -5061962935680624105
+      standard_t2_large_baton_115: -7163106443567355430
+      standard_t2_large_baton_116: 8694579438705920406
+      standard_t2_large_baton_117: 960218645165321301
+      standard_t2_large_baton_118: 2377532508937059852
+      standard_t2_large_baton_119: 9001820693901407290
+      standard_t2_large_baton_12: -6890940323189557033
+      standard_t2_large_baton_120: 1131611569269416777
+      standard_t2_large_baton_121: 1375574805389500528
+      standard_t2_large_baton_122: -6687958892625554972
+      standard_t2_large_baton_123: 3432979183260626671
+      standard_t2_large_baton_124: -6461206756444961309
+      standard_t2_large_baton_125: 5072510151396033273
+      standard_t2_large_baton_126: 7122712754918862233
+      standard_t2_large_baton_127: -6083880391660007594
+      standard_t2_large_baton_128: -1410460894820206706
+      standard_t2_large_baton_129: -1539166227839182738
+      standard_t2_large_baton_13: -2154776912542668657
+      standard_t2_large_baton_130: 1827276743470732522
+      standard_t2_large_baton_131: -162912505250458571
+      standard_t2_large_baton_132: 6409827161756839184
+      standard_t2_large_baton_133: -659790851770921274
+      standard_t2_large_baton_134: 3765352916763106411
+      standard_t2_large_baton_135: -96862830781284637
+      standard_t2_large_baton_136: -5954740872817798070
+      standard_t2_large_baton_137: 637736499328771411
+      standard_t2_large_baton_138: 5681697725492874077
+      standard_t2_large_baton_14: 109993764361749815
+      standard_t2_large_baton_15: 8793403772815835927
+      standard_t2_large_baton_16: -7193606821846493855
+      standard_t2_large_baton_17: 4235949073661945461
+      standard_t2_large_baton_18: 1993210860013119830
+      standard_t2_large_baton_19: -2709178150507030409
+      standard_t2_large_baton_2: -3077029770821758812
+      standard_t2_large_baton_20: -1592389167915163020
+      standard_t2_large_baton_21: 6476229158685760462
+      standard_t2_large_baton_22: -5669813747435943847
+      standard_t2_large_baton_23: 4334906080370277369
+      standard_t2_large_baton_24: -696914269167615158
+      standard_t2_large_baton_25: -8150773367106053245
+      standard_t2_large_baton_26: 6785686233940546930
+      standard_t2_large_baton_27: 6960606021292403343
+      standard_t2_large_baton_28: -5113490941416989069
+      standard_t2_large_baton_29: -401800902565078205
+      standard_t2_large_baton_3: 4887767646252505702
+      standard_t2_large_baton_30: -2497245859943577855
+      standard_t2_large_baton_31: -8562734213648209831
+      standard_t2_large_baton_32: -100532915352263679
+      standard_t2_large_baton_33: 1110979897557842719
+      standard_t2_large_baton_34: 6966108901755537309
+      standard_t2_large_baton_35: -5435785725806106803
+      standard_t2_large_baton_36: -393522099304012093
+      standard_t2_large_baton_37: -2231959153064664612
+      standard_t2_large_baton_38: 7949335315696301579
+      standard_t2_large_baton_39: -808069352190739928
+      standard_t2_large_baton_4: 6301615893235352212
+      standard_t2_large_baton_40: 4524498953541877781
+      standard_t2_large_baton_41: -2073984565783977152
+      standard_t2_large_baton_42: -7108793035610120347
+      standard_t2_large_baton_43: -3469286984347618931
+      standard_t2_large_baton_44: 8471963194608738862
+      standard_t2_large_baton_45: 3855719116554223152
+      standard_t2_large_baton_46: 1723032249920923151
+      standard_t2_large_baton_47: 2278180461523644067
+      standard_t2_large_baton_48: 1998683653040874775
+      standard_t2_large_baton_49: 640110858030071524
+      standard_t2_large_baton_5: 6807346644550432305
+      standard_t2_large_baton_50: 8078897307686687689
+      standard_t2_large_baton_51: -5630080323587684196
+      standard_t2_large_baton_52: 334623875496365212
+      standard_t2_large_baton_53: 1144734834417153492
+      standard_t2_large_baton_54: 2797239079001292614
+      standard_t2_large_baton_55: -8273067710449332537
+      standard_t2_large_baton_56: 3428694637474063833
+      standard_t2_large_baton_57: -5154151724384566889
+      standard_t2_large_baton_58: 211819108700531367
+      standard_t2_large_baton_59: 2949543613885282922
+      standard_t2_large_baton_6: -870403699653710979
+      standard_t2_large_baton_60: -2385816872323232786
+      standard_t2_large_baton_61: -8056836416612048675
+      standard_t2_large_baton_62: 513736865234769474
+      standard_t2_large_baton_63: 6342408646899035641
+      standard_t2_large_baton_64: 6873523914630736593
+      standard_t2_large_baton_65: -2912907931369998426
+      standard_t2_large_baton_66: 267771963779671663
+      standard_t2_large_baton_67: 3492800247818433331
+      standard_t2_large_baton_68: -3669047711562635854
+      standard_t2_large_baton_69: -2605610911955687691
+      standard_t2_large_baton_7: -5743026086492782461
+      standard_t2_large_baton_70: -304481151593448855
+      standard_t2_large_baton_71: 8526942258523600254
+      standard_t2_large_baton_72: -946583882411890803
+      standard_t2_large_baton_73: -3219383131271287297
+      standard_t2_large_baton_74: -8591186792881072042
+      standard_t2_large_baton_75: -7648879826192139541
+      standard_t2_large_baton_76: 3926366525294723208
+      standard_t2_large_baton_77: 4780554052343560966
+      standard_t2_large_baton_78: -2085907643880529388
+      standard_t2_large_baton_79: 5730093570397020176
+      standard_t2_large_baton_8: -287933670223670428
+      standard_t2_large_baton_80: 136999621107374463
+      standard_t2_large_baton_81: 831181784120513991
+      standard_t2_large_baton_82: -4633772356228375639
+      standard_t2_large_baton_83: 7011568183654319785
+      standard_t2_large_baton_84: 4923907262135388783
+      standard_t2_large_baton_85: -3106110639093927020
+      standard_t2_large_baton_86: -6953051768100296485
+      standard_t2_large_baton_87: 6164192386078239220
+      standard_t2_large_baton_88: -922482643313206629
+      standard_t2_large_baton_89: -9034478573290129120
+      standard_t2_large_baton_9: 8858499717632425071
+      standard_t2_large_baton_90: 6577527732920676616
+      standard_t2_large_baton_91: -1719319420643460726
+      standard_t2_large_baton_92: 8211411673319893272
+      standard_t2_large_baton_93: -3441953970343467609
+      standard_t2_large_baton_94: 2902653743047930255
+      standard_t2_large_baton_95: 6525048716088604788
+      standard_t2_large_baton_96: 349787208115264248
+      standard_t2_large_baton_97: -4747038476944423857
+      standard_t2_large_baton_98: 5142277263647498850
+      standard_t2_large_baton_99: 5851159670051686216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

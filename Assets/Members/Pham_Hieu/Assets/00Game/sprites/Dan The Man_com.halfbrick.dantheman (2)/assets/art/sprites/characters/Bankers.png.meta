@@ -1,0 +1,3185 @@
+fileFormatVersion: 2
+guid: 06f7232388001b74c956a001209b3902
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2351335071557569128
+    second: Bankers_0
+  - first:
+      213: -9039940823389706108
+    second: Bankers_1
+  - first:
+      213: -1849110067939985478
+    second: Bankers_2
+  - first:
+      213: -6332769518062817615
+    second: Bankers_3
+  - first:
+      213: 1241204838074768592
+    second: Bankers_4
+  - first:
+      213: 6833609560902520262
+    second: Bankers_5
+  - first:
+      213: 793368445185333193
+    second: Bankers_6
+  - first:
+      213: -6670856825839923022
+    second: Bankers_7
+  - first:
+      213: 7117211289335085526
+    second: Bankers_8
+  - first:
+      213: 1465426449107250830
+    second: Bankers_9
+  - first:
+      213: -4186686660070678130
+    second: Bankers_10
+  - first:
+      213: 1732285238826824738
+    second: Bankers_11
+  - first:
+      213: -2738506407435948606
+    second: Bankers_12
+  - first:
+      213: 5871554913878668371
+    second: Bankers_13
+  - first:
+      213: 56610356878219999
+    second: Bankers_14
+  - first:
+      213: 2445145578827630548
+    second: Bankers_15
+  - first:
+      213: 7892970398008957529
+    second: Bankers_16
+  - first:
+      213: -5466500198078977659
+    second: Bankers_17
+  - first:
+      213: 1672610006357553827
+    second: Bankers_18
+  - first:
+      213: -1992945279844161567
+    second: Bankers_19
+  - first:
+      213: 564170728043959608
+    second: Bankers_20
+  - first:
+      213: -3023161407488725709
+    second: Bankers_21
+  - first:
+      213: -3709227319280822349
+    second: Bankers_22
+  - first:
+      213: -5451176474366825743
+    second: Bankers_23
+  - first:
+      213: -3227231877906295691
+    second: Bankers_24
+  - first:
+      213: -6708451809785088486
+    second: Bankers_25
+  - first:
+      213: -6085002532340472597
+    second: Bankers_26
+  - first:
+      213: -5085956342645017007
+    second: Bankers_27
+  - first:
+      213: -8888479906609477457
+    second: Bankers_28
+  - first:
+      213: 8892760926609918207
+    second: Bankers_29
+  - first:
+      213: 2713847056191350628
+    second: Bankers_30
+  - first:
+      213: 1644182872083146081
+    second: Bankers_31
+  - first:
+      213: 2867553114514639907
+    second: Bankers_32
+  - first:
+      213: -2493056455635741044
+    second: Bankers_33
+  - first:
+      213: 4078682151202361120
+    second: Bankers_34
+  - first:
+      213: 6131611320396361873
+    second: Bankers_35
+  - first:
+      213: 5553937624898801846
+    second: Bankers_36
+  - first:
+      213: 5564003192382303426
+    second: Bankers_37
+  - first:
+      213: -4280547496601297015
+    second: Bankers_38
+  - first:
+      213: 3663140552640340834
+    second: Bankers_39
+  - first:
+      213: 9061513246327562420
+    second: Bankers_40
+  - first:
+      213: -4812480360505249547
+    second: Bankers_41
+  - first:
+      213: -5587925745651302739
+    second: Bankers_42
+  - first:
+      213: -3953313903990050114
+    second: Bankers_43
+  - first:
+      213: -2242705765577443497
+    second: Bankers_44
+  - first:
+      213: 5337286661692269890
+    second: Bankers_45
+  - first:
+      213: -6087836494947823911
+    second: Bankers_46
+  - first:
+      213: 6078473328095531388
+    second: Bankers_47
+  - first:
+      213: -3863075073332482136
+    second: Bankers_48
+  - first:
+      213: 4519909619634558799
+    second: Bankers_49
+  - first:
+      213: -2511585797558556982
+    second: Bankers_50
+  - first:
+      213: -3374715902733480812
+    second: Bankers_51
+  - first:
+      213: 7980001619565636899
+    second: Bankers_52
+  - first:
+      213: 8747768862147043094
+    second: Bankers_53
+  - first:
+      213: 2568700141703862017
+    second: Bankers_54
+  - first:
+      213: 4527205280953366250
+    second: Bankers_55
+  - first:
+      213: -3925433365392260215
+    second: Bankers_56
+  - first:
+      213: -523707323090930678
+    second: Bankers_57
+  - first:
+      213: 6024908057341783879
+    second: Bankers_58
+  - first:
+      213: 4929383082186822283
+    second: Bankers_59
+  - first:
+      213: -3902001127916227677
+    second: Bankers_60
+  - first:
+      213: -7880574246587265187
+    second: Bankers_61
+  - first:
+      213: 4875232604711151192
+    second: Bankers_62
+  - first:
+      213: -6873997182700992622
+    second: Bankers_63
+  - first:
+      213: -4404305479629144384
+    second: Bankers_64
+  - first:
+      213: -6076188546423685161
+    second: Bankers_65
+  - first:
+      213: 3051649787178250709
+    second: Bankers_66
+  - first:
+      213: -4370438859045328705
+    second: Bankers_67
+  - first:
+      213: -6614993945299367131
+    second: Bankers_68
+  - first:
+      213: -5248080255005448592
+    second: Bankers_69
+  - first:
+      213: 8502840659266646537
+    second: Bankers_70
+  - first:
+      213: 8849321178185876283
+    second: Bankers_71
+  - first:
+      213: 8269083330055883426
+    second: Bankers_72
+  - first:
+      213: 6284293340898087674
+    second: Bankers_73
+  - first:
+      213: -7361931768815612122
+    second: Bankers_74
+  - first:
+      213: 6329091097114793091
+    second: Bankers_75
+  - first:
+      213: 5292804971008750758
+    second: Bankers_76
+  - first:
+      213: -9181309400850422615
+    second: Bankers_77
+  - first:
+      213: -3035369580506218551
+    second: Bankers_78
+  - first:
+      213: 6410073215631141123
+    second: Bankers_79
+  - first:
+      213: 8880397951385004673
+    second: Bankers_80
+  - first:
+      213: 6104188241307436130
+    second: Bankers_81
+  - first:
+      213: 4724645436041901021
+    second: Bankers_82
+  - first:
+      213: 7049139401876765098
+    second: Bankers_83
+  - first:
+      213: 6249704528398021766
+    second: Bankers_84
+  - first:
+      213: -4059640794553389900
+    second: Bankers_85
+  - first:
+      213: 3399867625554942530
+    second: Bankers_86
+  - first:
+      213: 1612816909598096738
+    second: Bankers_87
+  - first:
+      213: 1650316036174334399
+    second: Bankers_88
+  - first:
+      213: -3681200419189776083
+    second: Bankers_89
+  - first:
+      213: 4832623842695963764
+    second: Bankers_90
+  - first:
+      213: 4977265994314325148
+    second: Bankers_91
+  - first:
+      213: -1293818035205377559
+    second: Bankers_92
+  - first:
+      213: -6498201774810217782
+    second: Bankers_93
+  - first:
+      213: -1506086670316674421
+    second: Bankers_94
+  - first:
+      213: -3837103504294853630
+    second: Bankers_95
+  - first:
+      213: 5323812318156939928
+    second: Bankers_96
+  - first:
+      213: -2359864595543537847
+    second: Bankers_97
+  - first:
+      213: 4165540319024622366
+    second: Bankers_98
+  - first:
+      213: 5218033549731650801
+    second: Bankers_99
+  - first:
+      213: -4217188810602138364
+    second: Bankers_100
+  - first:
+      213: -6214242206340082389
+    second: Bankers_101
+  - first:
+      213: 6248277894873568398
+    second: Bankers_102
+  - first:
+      213: -1971317618847368813
+    second: Bankers_103
+  - first:
+      213: 5600320337665590629
+    second: Bankers_104
+  - first:
+      213: 492655199047129805
+    second: Bankers_105
+  - first:
+      213: 3269950622749039407
+    second: Bankers_106
+  - first:
+      213: -1843131488686818508
+    second: Bankers_107
+  - first:
+      213: -1665498735256122200
+    second: Bankers_108
+  - first:
+      213: 6438367755579611792
+    second: Bankers_109
+  - first:
+      213: -3565811142533921349
+    second: Bankers_110
+  - first:
+      213: 8042295630698487008
+    second: Bankers_111
+  - first:
+      213: -1147769244391531058
+    second: Bankers_112
+  - first:
+      213: 1515922471629131126
+    second: Bankers_113
+  - first:
+      213: -4148407094074777437
+    second: Bankers_114
+  - first:
+      213: -8490622053851806634
+    second: Bankers_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bankers_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b4e7d5316e5fd0800000000000000
+      internalID: -2351335071557569128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 459
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488ed4f77bdab8280800000000000000
+      internalID: -9039940823389706108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 460
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7b6d1b034a656e0800000000000000
+      internalID: -1849110067939985478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 460
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bea17ffcab7d18a0800000000000000
+      internalID: -6332769518062817615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 461
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc51fa5935a93110800000000000000
+      internalID: 1241204838074768592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 461
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdce4b80bbd5de50800000000000000
+      internalID: 6833609560902520262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 461
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7964fb56c920b00800000000000000
+      internalID: 793368445185333193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 454
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b052548f0b5c63a0800000000000000
+      internalID: -6670856825839923022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 456
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b73485f965c260800000000000000
+      internalID: 7117211289335085526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 483
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eef7f579d365410800000000000000
+      internalID: 1465426449107250830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 463
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ee982aa6e5e5c0800000000000000
+      internalID: -4186686660070678130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 463
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224fce52f305a0810800000000000000
+      internalID: 1732285238826824738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 464
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd26a18eeedef9d0800000000000000
+      internalID: -2738506407435948606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_13
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 464
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ffe8d514fb7150800000000000000
+      internalID: 5871554913878668371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 464
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9554d1de19c000800000000000000
+      internalID: 56610356878219999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d74322f2f6eee120800000000000000
+      internalID: 2445145578827630548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 413
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a5ffb12c6798d60800000000000000
+      internalID: 7892970398008957529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 413
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58966e858071324b0800000000000000
+      internalID: -5466500198078977659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 413
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2b4bc50fd463710800000000000000
+      internalID: 1672610006357553827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 414
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7e81ab3d2a754e0800000000000000
+      internalID: -1992945279844161567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 414
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835dbbdb94654d700800000000000000
+      internalID: 564170728043959608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 414
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33de6ff97b29b06d0800000000000000
+      internalID: -3023161407488725709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 414
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7971bc76d268cc0800000000000000
+      internalID: -3709227319280822349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 405
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa266dc0e78954b0800000000000000
+      internalID: -5451176474366825743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5741495a4b19633d0800000000000000
+      internalID: -3227231877906295691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 402
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16fee43f9ac6e2a0800000000000000
+      internalID: -6708451809785088486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 415
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be46e72cf6abd8ba0800000000000000
+      internalID: -6085002532340472597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156bf7527ad0b69b0800000000000000
+      internalID: -5085956342645017007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 369
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8485d3e96c5a480800000000000000
+      internalID: -8888479906609477457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_29
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 416
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ce0762fe696b70800000000000000
+      internalID: 8892760926609918207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_30
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 417
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467660fd48589a520800000000000000
+      internalID: 2713847056191350628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_31
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 416
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652c446c9f41d610800000000000000
+      internalID: 1644182872083146081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cc53d5d589bc720800000000000000
+      internalID: 2867553114514639907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 367
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8656d4cc52e66dd0800000000000000
+      internalID: -2493056455635741044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 369
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f84268ec36a9830800000000000000
+      internalID: 4078682151202361120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 362
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1903dfc520cd71550800000000000000
+      internalID: 6131611320396361873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 364
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b015c408dc831d40800000000000000
+      internalID: 5553937624898801846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 364
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc26139c6f473d40800000000000000
+      internalID: 5564003192382303426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 357
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f54ec2bb07894c0800000000000000
+      internalID: -4280547496601297015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 359
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263a47aace616d230800000000000000
+      internalID: 3663140552640340834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 374
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0e9de9946f0cd70800000000000000
+      internalID: 9061513246327562420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_41
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 393
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07a871c92a63db0800000000000000
+      internalID: -4812480360505249547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_42
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 370
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb133f323b372b0800000000000000
+      internalID: -5587925745651302739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_43
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 370
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb27f0b23f10329c0800000000000000
+      internalID: -3953313903990050114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_44
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 374
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75739031dfe40e0e0800000000000000
+      internalID: -2242705765577443497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 337
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245299ec0f9d11a40800000000000000
+      internalID: 5337286661692269890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dec9fb66f8a38ba0800000000000000
+      internalID: -6087836494947823911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 321
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7112d969431b5450800000000000000
+      internalID: 6078473328095531388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 326
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afe95130b9936ac0800000000000000
+      internalID: -3863075073332482136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 283
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47503ff9d1f9be30800000000000000
+      internalID: 4519909619634558799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 315
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac62b99260e052dd0800000000000000
+      internalID: -2511585797558556982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 317
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c85b734c99a21d0800000000000000
+      internalID: -3374715902733480812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 318
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d60417139aebe60800000000000000
+      internalID: 7980001619565636899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 307
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f5f75be61566970800000000000000
+      internalID: 8747768862147043094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 298
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10711c85b2bd5a320800000000000000
+      internalID: 2568700141703862017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_55
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 292
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae67f74873dd3de30800000000000000
+      internalID: 4527205280953366250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 323
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983045ae62f0689c0800000000000000
+      internalID: -3925433365392260215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04f4e0e6fa6bb8f0800000000000000
+      internalID: -523707323090930678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 275
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fee32f4f5cc9350800000000000000
+      internalID: 6024908057341783879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_59
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 271
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d097dbcfa86440800000000000000
+      internalID: 4929383082186822283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 293
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a33169d5ae49d9c0800000000000000
+      internalID: -3902001127916227677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_61
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 260
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f031ec97392a290800000000000000
+      internalID: -7880574246587265187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_62
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 242
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856e531593e48a340800000000000000
+      internalID: 4875232604711151192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 247
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297421a7bf7aa90a0800000000000000
+      internalID: -6873997182700992622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 278
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef5645083c0e2c0800000000000000
+      internalID: -4404305479629144384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df7e16c5ba0daba0800000000000000
+      internalID: -6076188546423685161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 226
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1f7a72053a95a20800000000000000
+      internalID: 3051649787178250709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 243
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82a0663051953c0800000000000000
+      internalID: -4370438859045328705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_68
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 204
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b4213fd02d234a0800000000000000
+      internalID: -6614993945299367131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 202
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076a8a740d21b27b0800000000000000
+      internalID: -5248080255005448592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_70
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 233
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90236559788200670800000000000000
+      internalID: 8502840659266646537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_71
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 231
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334c11d9ba1fca70800000000000000
+      internalID: 8849321178185876283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 186
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aac51a2a7fa1c270800000000000000
+      internalID: 8269083330055883426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_73
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 196
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af255987f7b463750800000000000000
+      internalID: 6284293340898087674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_74
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 220
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f051bbf0a25d990800000000000000
+      internalID: -7361931768815612122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 208
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3845d92e1d275d750800000000000000
+      internalID: 6329091097114793091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_76
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 184
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4f5622412d37940800000000000000
+      internalID: 5292804971008750758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 169
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a42b5d9ebf659080800000000000000
+      internalID: -9181309400850422615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_78
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 147
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf76e7d27330e5d0800000000000000
+      internalID: -3035369580506218551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_79
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a0f9a0a725f850800000000000000
+      internalID: 6410073215631141123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 153
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ae86ce2e28d3b70800000000000000
+      internalID: 8880397951385004673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 156
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2640f353dde66b450800000000000000
+      internalID: 6104188241307436130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3b2f8edff419140800000000000000
+      internalID: 4724645436041901021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_83
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 130
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f21520f293d160800000000000000
+      internalID: 7049139401876765098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 87
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684705ef7296bb650800000000000000
+      internalID: 6249704528398021766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_85
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 89
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bce5fcc43249a7c0800000000000000
+      internalID: -4059640794553389900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 109
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a9d889791ce2f20800000000000000
+      internalID: 3399867625554942530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 105
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d76582f60e16610800000000000000
+      internalID: 1612816909598096738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 106
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb94d4fe0b917e610800000000000000
+      internalID: 1650316036174334399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_89
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 104
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ac2bf8bfb9ecc0800000000000000
+      internalID: -3681200419189776083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_90
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 106
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474e9f4d7cde01340800000000000000
+      internalID: 4832623842695963764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_91
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 106
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9cb71d0dc21540800000000000000
+      internalID: 4977265994314325148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_92
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 106
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f6971a5f6b0ee0800000000000000
+      internalID: -1293818035205377559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_93
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 106
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2cf9d2aefb1d5a0800000000000000
+      internalID: -6498201774810217782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_94
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 106
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82e2d6272e491be0800000000000000
+      internalID: -1506086670316674421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_95
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 106
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204491451bedfbac0800000000000000
+      internalID: -3837103504294853630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_96
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 106
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e79ab81bf1e940800000000000000
+      internalID: 5323812318156939928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_97
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474b9847a3104fd0800000000000000
+      internalID: -2359864595543537847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_98
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 36
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba705a9d8fec930800000000000000
+      internalID: 4165540319024622366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_99
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 52
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc53ddfddd2a6840800000000000000
+      internalID: 5218033549731650801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_100
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 54
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405be41de198975c0800000000000000
+      internalID: -4217188810602138364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_101
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 54
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b251cd643a392c9a0800000000000000
+      internalID: -6214242206340082389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_102
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 52
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e845dddf3a756b650800000000000000
+      internalID: 6248277894873568398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_103
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 59
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3993225f11974a4e0800000000000000
+      internalID: -1971317618847368813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_104
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 59
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56504f2eca558bd40800000000000000
+      internalID: 5600320337665590629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_105
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 58
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca14f71b4346d600800000000000000
+      internalID: 492655199047129805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_106
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 7
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b160634c2316d20800000000000000
+      internalID: 3269950622749039407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_107
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3c762da1eb66e0800000000000000
+      internalID: -1843131488686818508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_108
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 7
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac423779b5f2e8e0800000000000000
+      internalID: -1665498735256122200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_109
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 7
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad6ac9c5da95950800000000000000
+      internalID: 6438367755579611792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_110
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 7
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5c22988a1b38ec0800000000000000
+      internalID: -3565811142533921349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_111
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 7
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec95762449fb9f60800000000000000
+      internalID: 8042295630698487008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_112
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 7
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9cef04fd4210f0800000000000000
+      internalID: -1147769244391531058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_113
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 7
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d8c7cc473a90510800000000000000
+      internalID: 1515922471629131126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_114
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 7
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a066f52ab5ed66c0800000000000000
+      internalID: -4148407094074777437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankers_115
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 7
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654c01e2a304b2a80800000000000000
+      internalID: -8490622053851806634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bankers_0: -2351335071557569128
+      Bankers_1: -9039940823389706108
+      Bankers_10: -4186686660070678130
+      Bankers_100: -4217188810602138364
+      Bankers_101: -6214242206340082389
+      Bankers_102: 6248277894873568398
+      Bankers_103: -1971317618847368813
+      Bankers_104: 5600320337665590629
+      Bankers_105: 492655199047129805
+      Bankers_106: 3269950622749039407
+      Bankers_107: -1843131488686818508
+      Bankers_108: -1665498735256122200
+      Bankers_109: 6438367755579611792
+      Bankers_11: 1732285238826824738
+      Bankers_110: -3565811142533921349
+      Bankers_111: 8042295630698487008
+      Bankers_112: -1147769244391531058
+      Bankers_113: 1515922471629131126
+      Bankers_114: -4148407094074777437
+      Bankers_115: -8490622053851806634
+      Bankers_12: -2738506407435948606
+      Bankers_13: 5871554913878668371
+      Bankers_14: 56610356878219999
+      Bankers_15: 2445145578827630548
+      Bankers_16: 7892970398008957529
+      Bankers_17: -5466500198078977659
+      Bankers_18: 1672610006357553827
+      Bankers_19: -1992945279844161567
+      Bankers_2: -1849110067939985478
+      Bankers_20: 564170728043959608
+      Bankers_21: -3023161407488725709
+      Bankers_22: -3709227319280822349
+      Bankers_23: -5451176474366825743
+      Bankers_24: -3227231877906295691
+      Bankers_25: -6708451809785088486
+      Bankers_26: -6085002532340472597
+      Bankers_27: -5085956342645017007
+      Bankers_28: -8888479906609477457
+      Bankers_29: 8892760926609918207
+      Bankers_3: -6332769518062817615
+      Bankers_30: 2713847056191350628
+      Bankers_31: 1644182872083146081
+      Bankers_32: 2867553114514639907
+      Bankers_33: -2493056455635741044
+      Bankers_34: 4078682151202361120
+      Bankers_35: 6131611320396361873
+      Bankers_36: 5553937624898801846
+      Bankers_37: 5564003192382303426
+      Bankers_38: -4280547496601297015
+      Bankers_39: 3663140552640340834
+      Bankers_4: 1241204838074768592
+      Bankers_40: 9061513246327562420
+      Bankers_41: -4812480360505249547
+      Bankers_42: -5587925745651302739
+      Bankers_43: -3953313903990050114
+      Bankers_44: -2242705765577443497
+      Bankers_45: 5337286661692269890
+      Bankers_46: -6087836494947823911
+      Bankers_47: 6078473328095531388
+      Bankers_48: -3863075073332482136
+      Bankers_49: 4519909619634558799
+      Bankers_5: 6833609560902520262
+      Bankers_50: -2511585797558556982
+      Bankers_51: -3374715902733480812
+      Bankers_52: 7980001619565636899
+      Bankers_53: 8747768862147043094
+      Bankers_54: 2568700141703862017
+      Bankers_55: 4527205280953366250
+      Bankers_56: -3925433365392260215
+      Bankers_57: -523707323090930678
+      Bankers_58: 6024908057341783879
+      Bankers_59: 4929383082186822283
+      Bankers_6: 793368445185333193
+      Bankers_60: -3902001127916227677
+      Bankers_61: -7880574246587265187
+      Bankers_62: 4875232604711151192
+      Bankers_63: -6873997182700992622
+      Bankers_64: -4404305479629144384
+      Bankers_65: -6076188546423685161
+      Bankers_66: 3051649787178250709
+      Bankers_67: -4370438859045328705
+      Bankers_68: -6614993945299367131
+      Bankers_69: -5248080255005448592
+      Bankers_7: -6670856825839923022
+      Bankers_70: 8502840659266646537
+      Bankers_71: 8849321178185876283
+      Bankers_72: 8269083330055883426
+      Bankers_73: 6284293340898087674
+      Bankers_74: -7361931768815612122
+      Bankers_75: 6329091097114793091
+      Bankers_76: 5292804971008750758
+      Bankers_77: -9181309400850422615
+      Bankers_78: -3035369580506218551
+      Bankers_79: 6410073215631141123
+      Bankers_8: 7117211289335085526
+      Bankers_80: 8880397951385004673
+      Bankers_81: 6104188241307436130
+      Bankers_82: 4724645436041901021
+      Bankers_83: 7049139401876765098
+      Bankers_84: 6249704528398021766
+      Bankers_85: -4059640794553389900
+      Bankers_86: 3399867625554942530
+      Bankers_87: 1612816909598096738
+      Bankers_88: 1650316036174334399
+      Bankers_89: -3681200419189776083
+      Bankers_9: 1465426449107250830
+      Bankers_90: 4832623842695963764
+      Bankers_91: 4977265994314325148
+      Bankers_92: -1293818035205377559
+      Bankers_93: -6498201774810217782
+      Bankers_94: -1506086670316674421
+      Bankers_95: -3837103504294853630
+      Bankers_96: 5323812318156939928
+      Bankers_97: -2359864595543537847
+      Bankers_98: 4165540319024622366
+      Bankers_99: 5218033549731650801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

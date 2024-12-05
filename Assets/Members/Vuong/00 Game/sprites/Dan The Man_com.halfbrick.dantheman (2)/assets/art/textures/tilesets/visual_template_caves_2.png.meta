@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 4fb49a4af5cbc324f851f9e29ce8e45f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7346415820377955153
+    second: visual_template_caves_2_0
+  - first:
+      213: 3119809186077120061
+    second: visual_template_caves_2_1
+  - first:
+      213: 839372094613323007
+    second: visual_template_caves_2_2
+  - first:
+      213: 8248951009607337282
+    second: visual_template_caves_2_3
+  - first:
+      213: -4254369615613861400
+    second: visual_template_caves_2_4
+  - first:
+      213: 5604962156864518476
+    second: visual_template_caves_2_5
+  - first:
+      213: -8057673692983824548
+    second: visual_template_caves_2_6
+  - first:
+      213: 7109264090292060275
+    second: visual_template_caves_2_7
+  - first:
+      213: -8887014557104480806
+    second: visual_template_caves_2_8
+  - first:
+      213: 6761836157349011142
+    second: visual_template_caves_2_9
+  - first:
+      213: -1449458560530847312
+    second: visual_template_caves_2_10
+  - first:
+      213: 4274932495392987728
+    second: visual_template_caves_2_11
+  - first:
+      213: -1432641092453884818
+    second: visual_template_caves_2_12
+  - first:
+      213: 7948319994957086114
+    second: visual_template_caves_2_13
+  - first:
+      213: -8080377406867659003
+    second: visual_template_caves_2_14
+  - first:
+      213: -6013777466641793970
+    second: visual_template_caves_2_15
+  - first:
+      213: -5272180059881185189
+    second: visual_template_caves_2_16
+  - first:
+      213: 2874931297093232349
+    second: visual_template_caves_2_17
+  - first:
+      213: -2630353722645649300
+    second: visual_template_caves_2_18
+  - first:
+      213: -3126339998495472419
+    second: visual_template_caves_2_19
+  - first:
+      213: -4053232394044741716
+    second: visual_template_caves_2_20
+  - first:
+      213: 2215638707943330249
+    second: visual_template_caves_2_21
+  - first:
+      213: 4811706225190583542
+    second: visual_template_caves_2_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: visual_template_caves_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b10f10446b3f560800000000000000
+      internalID: 7346415820377955153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 954
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36902fdce9cb4b20800000000000000
+      internalID: 3119809186077120061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 938
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc7dcd097c06ab00800000000000000
+      internalID: 839372094613323007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 964
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245ce390d392a7270800000000000000
+      internalID: 8248951009607337282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 639
+        width: 69
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1ee1e006175f4c0800000000000000
+      internalID: -4254369615613861400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 783
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ba63a263d8cd40800000000000000
+      internalID: 5604962156864518476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 783
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f60b5b7746d2090800000000000000
+      internalID: -8057673692983824548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 783
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3708c4c060e29a260800000000000000
+      internalID: 7109264090292060275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 783
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adddf02885bfaa480800000000000000
+      internalID: -8887014557104480806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 783
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1e2cc82ed6dd50800000000000000
+      internalID: 6761836157349011142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e8e66e1d72ebe0800000000000000
+      internalID: -1449458560530847312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 639
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a5caa747c935b30800000000000000
+      internalID: 4274932495392987728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 423
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c98a1548c3e1ce0800000000000000
+      internalID: -1432641092453884818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 303
+        width: 314
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad3d846cea1e4e60800000000000000
+      internalID: 7948319994957086114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 495
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507af846f8bbcdf80800000000000000
+      internalID: -8080377406867659003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 639
+        width: 57
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c3196a145ca8ca0800000000000000
+      internalID: -6013777466641793970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 591
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5062e23b2475d6b0800000000000000
+      internalID: -5272180059881185189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 495
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd625ec58cec5e720800000000000000
+      internalID: 2874931297093232349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 495
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c686418b93b1f7bd0800000000000000
+      internalID: -2630353722645649300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 639
+        width: 31
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4059ed5520d94d0800000000000000
+      internalID: -3126339998495472419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 639
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca76bd0dc9600c7c0800000000000000
+      internalID: -4053232394044741716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 639
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c151997aa78fbe10800000000000000
+      internalID: 2215638707943330249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_caves_2_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 209
+        width: 722
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc350c715d96c240800000000000000
+      internalID: 4811706225190583542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      visual_template_caves_2_0: 7346415820377955153
+      visual_template_caves_2_1: 3119809186077120061
+      visual_template_caves_2_10: -1449458560530847312
+      visual_template_caves_2_11: 4274932495392987728
+      visual_template_caves_2_12: -1432641092453884818
+      visual_template_caves_2_13: 7948319994957086114
+      visual_template_caves_2_14: -8080377406867659003
+      visual_template_caves_2_15: -6013777466641793970
+      visual_template_caves_2_16: -5272180059881185189
+      visual_template_caves_2_17: 2874931297093232349
+      visual_template_caves_2_18: -2630353722645649300
+      visual_template_caves_2_19: -3126339998495472419
+      visual_template_caves_2_2: 839372094613323007
+      visual_template_caves_2_20: -4053232394044741716
+      visual_template_caves_2_21: 2215638707943330249
+      visual_template_caves_2_22: 4811706225190583542
+      visual_template_caves_2_3: 8248951009607337282
+      visual_template_caves_2_4: -4254369615613861400
+      visual_template_caves_2_5: 5604962156864518476
+      visual_template_caves_2_6: -8057673692983824548
+      visual_template_caves_2_7: 7109264090292060275
+      visual_template_caves_2_8: -8887014557104480806
+      visual_template_caves_2_9: 6761836157349011142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

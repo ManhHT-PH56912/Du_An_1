@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 672da024b3779bb489bc1a4d4a7a87dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1728476328856181673
+    second: Player_Custom_0
+  - first:
+      213: -7523525823534908063
+    second: Player_Custom_1
+  - first:
+      213: 7609709884103279327
+    second: Player_Custom_2
+  - first:
+      213: 3878401403028546027
+    second: Player_Custom_3
+  - first:
+      213: -6146700002189928679
+    second: Player_Custom_4
+  - first:
+      213: 2740904891554999087
+    second: Player_Custom_5
+  - first:
+      213: -7814789467862141292
+    second: Player_Custom_6
+  - first:
+      213: -6756592993738748931
+    second: Player_Custom_7
+  - first:
+      213: 5713280754876215949
+    second: Player_Custom_8
+  - first:
+      213: 3197370652535917043
+    second: Player_Custom_9
+  - first:
+      213: 7878784868531040203
+    second: Player_Custom_10
+  - first:
+      213: -5720925382450618564
+    second: Player_Custom_11
+  - first:
+      213: -2591542162842682539
+    second: Player_Custom_12
+  - first:
+      213: 8156876892395888836
+    second: Player_Custom_13
+  - first:
+      213: 1732107045805204909
+    second: Player_Custom_14
+  - first:
+      213: 3638650108973958913
+    second: Player_Custom_15
+  - first:
+      213: -665387832736112893
+    second: Player_Custom_16
+  - first:
+      213: 7769607546364133274
+    second: Player_Custom_17
+  - first:
+      213: -6110740375003014552
+    second: Player_Custom_18
+  - first:
+      213: 8492887305635395764
+    second: Player_Custom_19
+  - first:
+      213: -242568037893659042
+    second: Player_Custom_20
+  - first:
+      213: -3210099263800147017
+    second: Player_Custom_21
+  - first:
+      213: -4470927794098426821
+    second: Player_Custom_22
+  - first:
+      213: -6427604173384659777
+    second: Player_Custom_23
+  - first:
+      213: 7728512666244366541
+    second: Player_Custom_24
+  - first:
+      213: -6162928124272980377
+    second: Player_Custom_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Custom_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 977
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542bdfcfe73308e0800000000000000
+      internalID: -1728476328856181673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 978
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d39b5ff11179790800000000000000
+      internalID: -7523525823534908063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 977
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd241c552de1b9960800000000000000
+      internalID: 7609709884103279327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 976
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1a4e30789d2d530800000000000000
+      internalID: 3878401403028546027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 969
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91793942ae882baa0800000000000000
+      internalID: -6146700002189928679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 975
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b24481a76a90620800000000000000
+      internalID: 2740904891554999087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 972
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496fc9d226a4c8390800000000000000
+      internalID: -7814789467862141292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 972
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb0f4c5872cb32a0800000000000000
+      internalID: -6756592993738748931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 976
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82f8788396a94f40800000000000000
+      internalID: 5713280754876215949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 977
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f989a70ba75f5c20800000000000000
+      internalID: 3197370652535917043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 978
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfe3862811175d60800000000000000
+      internalID: 7878784868531040203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 977
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd388eca03b90b0800000000000000
+      internalID: -5720925382450618564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 978
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b705b222ef80cd0800000000000000
+      internalID: -2591542162842682539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 991
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c069df015c033170800000000000000
+      internalID: 8156876892395888836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 976
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5ab2a5e2ea90810800000000000000
+      internalID: 1732107045805204909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1074457eef41f7230800000000000000
+      internalID: 3638650108973958913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 974
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f95ef9a4114c6f0800000000000000
+      internalID: -665387832736112893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 956
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f7a35f5e033db60800000000000000
+      internalID: 7769607546364133274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_18
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 944
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ade49410a423ba0800000000000000
+      internalID: -6110740375003014552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_19
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 949
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b872d9d10cccd570800000000000000
+      internalID: 8492887305635395764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 934
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e562c7b97a932acf0800000000000000
+      internalID: -242568037893659042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 24
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b303773abf6373d0800000000000000
+      internalID: -3210099263800147017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_22
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 48
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca758fbd214f1c0800000000000000
+      internalID: -4470927794098426821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_23
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc6982f009cc6a0800000000000000
+      internalID: -6427604173384659777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_24
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc04a919251314b60800000000000000
+      internalID: 7728512666244366541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Custom_25
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ec1780681e87aa0800000000000000
+      internalID: -6162928124272980377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player_Custom_0: -1728476328856181673
+      Player_Custom_1: -7523525823534908063
+      Player_Custom_10: 7878784868531040203
+      Player_Custom_11: -5720925382450618564
+      Player_Custom_12: -2591542162842682539
+      Player_Custom_13: 8156876892395888836
+      Player_Custom_14: 1732107045805204909
+      Player_Custom_15: 3638650108973958913
+      Player_Custom_16: -665387832736112893
+      Player_Custom_17: 7769607546364133274
+      Player_Custom_18: -6110740375003014552
+      Player_Custom_19: 8492887305635395764
+      Player_Custom_2: 7609709884103279327
+      Player_Custom_20: -242568037893659042
+      Player_Custom_21: -3210099263800147017
+      Player_Custom_22: -4470927794098426821
+      Player_Custom_23: -6427604173384659777
+      Player_Custom_24: 7728512666244366541
+      Player_Custom_25: -6162928124272980377
+      Player_Custom_3: 3878401403028546027
+      Player_Custom_4: -6146700002189928679
+      Player_Custom_5: 2740904891554999087
+      Player_Custom_6: -7814789467862141292
+      Player_Custom_7: -6756592993738748931
+      Player_Custom_8: 5713280754876215949
+      Player_Custom_9: 3197370652535917043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

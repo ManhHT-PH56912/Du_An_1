@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: 35b9caa32a8a3474d8e366c9151b179b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 218487765733415916
+    second: ShotgunGuard_0
+  - first:
+      213: -6722098850238581585
+    second: ShotgunGuard_1
+  - first:
+      213: -3242214842780668757
+    second: ShotgunGuard_2
+  - first:
+      213: -1234186307892282672
+    second: ShotgunGuard_3
+  - first:
+      213: -6354288820953411242
+    second: ShotgunGuard_4
+  - first:
+      213: 6889062733273953127
+    second: ShotgunGuard_5
+  - first:
+      213: -128661170513990941
+    second: ShotgunGuard_6
+  - first:
+      213: 8968585779458141607
+    second: ShotgunGuard_7
+  - first:
+      213: -21039219182651360
+    second: ShotgunGuard_8
+  - first:
+      213: 4658748621873354473
+    second: ShotgunGuard_9
+  - first:
+      213: 5404666285570496643
+    second: ShotgunGuard_10
+  - first:
+      213: 6515937924899799989
+    second: ShotgunGuard_11
+  - first:
+      213: 300221353580628366
+    second: ShotgunGuard_12
+  - first:
+      213: -6304622217460723294
+    second: ShotgunGuard_13
+  - first:
+      213: -2945323517018212476
+    second: ShotgunGuard_14
+  - first:
+      213: -1577364296207958029
+    second: ShotgunGuard_15
+  - first:
+      213: 8370001882309381142
+    second: ShotgunGuard_16
+  - first:
+      213: -6405206393847265943
+    second: ShotgunGuard_17
+  - first:
+      213: 2443765819339332984
+    second: ShotgunGuard_18
+  - first:
+      213: -1129769588969702167
+    second: ShotgunGuard_19
+  - first:
+      213: -1116886864669351875
+    second: ShotgunGuard_20
+  - first:
+      213: 3542646562949300674
+    second: ShotgunGuard_21
+  - first:
+      213: 8698566997490985090
+    second: ShotgunGuard_22
+  - first:
+      213: 2173268041419788228
+    second: ShotgunGuard_23
+  - first:
+      213: 6331391971532403544
+    second: ShotgunGuard_24
+  - first:
+      213: -2959810512399344533
+    second: ShotgunGuard_25
+  - first:
+      213: -8040675723897349732
+    second: ShotgunGuard_26
+  - first:
+      213: 8376284149747112445
+    second: ShotgunGuard_27
+  - first:
+      213: -1380079797749367405
+    second: ShotgunGuard_28
+  - first:
+      213: 548572458832609658
+    second: ShotgunGuard_29
+  - first:
+      213: -6705756818685803143
+    second: ShotgunGuard_30
+  - first:
+      213: -639399010369814008
+    second: ShotgunGuard_31
+  - first:
+      213: 1614737675159394941
+    second: ShotgunGuard_32
+  - first:
+      213: -6408368938513994000
+    second: ShotgunGuard_33
+  - first:
+      213: 4488003241754920956
+    second: ShotgunGuard_34
+  - first:
+      213: 8177587222153276865
+    second: ShotgunGuard_35
+  - first:
+      213: -995890594143149226
+    second: ShotgunGuard_36
+  - first:
+      213: -4382415111155435126
+    second: ShotgunGuard_37
+  - first:
+      213: -8550299440585817177
+    second: ShotgunGuard_38
+  - first:
+      213: -5958063512979875286
+    second: ShotgunGuard_39
+  - first:
+      213: 5111866189204720995
+    second: ShotgunGuard_40
+  - first:
+      213: -5125791797447698219
+    second: ShotgunGuard_41
+  - first:
+      213: 5473534948858499015
+    second: ShotgunGuard_42
+  - first:
+      213: -5319355121621348505
+    second: ShotgunGuard_43
+  - first:
+      213: 6124927623547410136
+    second: ShotgunGuard_44
+  - first:
+      213: -914512700155411839
+    second: ShotgunGuard_45
+  - first:
+      213: -5925437739173071875
+    second: ShotgunGuard_46
+  - first:
+      213: -5029142872493009034
+    second: ShotgunGuard_47
+  - first:
+      213: -599869511837089508
+    second: ShotgunGuard_48
+  - first:
+      213: -5810310481329369715
+    second: ShotgunGuard_49
+  - first:
+      213: -8125473603322948884
+    second: ShotgunGuard_50
+  - first:
+      213: -7493032881672832771
+    second: ShotgunGuard_51
+  - first:
+      213: -511069590336792105
+    second: ShotgunGuard_52
+  - first:
+      213: -3610548380429682303
+    second: ShotgunGuard_53
+  - first:
+      213: -4216530577056367672
+    second: ShotgunGuard_54
+  - first:
+      213: -590762477010665087
+    second: ShotgunGuard_55
+  - first:
+      213: 8500116502358542632
+    second: ShotgunGuard_56
+  - first:
+      213: 1642882060297403819
+    second: ShotgunGuard_57
+  - first:
+      213: -4010543257918064892
+    second: ShotgunGuard_58
+  - first:
+      213: 7601460729486033924
+    second: ShotgunGuard_59
+  - first:
+      213: 2310597131372583297
+    second: ShotgunGuard_60
+  - first:
+      213: -8215960905678833534
+    second: ShotgunGuard_61
+  - first:
+      213: 1652223612964622338
+    second: ShotgunGuard_62
+  - first:
+      213: 7643841982518582703
+    second: ShotgunGuard_63
+  - first:
+      213: -8422336343370284699
+    second: ShotgunGuard_64
+  - first:
+      213: -401717538430621413
+    second: ShotgunGuard_65
+  - first:
+      213: -1704181746428322350
+    second: ShotgunGuard_66
+  - first:
+      213: 154583275808171844
+    second: ShotgunGuard_67
+  - first:
+      213: 168478997030264110
+    second: ShotgunGuard_68
+  - first:
+      213: -8613364804535033961
+    second: ShotgunGuard_69
+  - first:
+      213: 5040760733728716172
+    second: ShotgunGuard_70
+  - first:
+      213: 1320310620342610626
+    second: ShotgunGuard_71
+  - first:
+      213: 1955765955257727159
+    second: ShotgunGuard_72
+  - first:
+      213: -2898344834091796593
+    second: ShotgunGuard_73
+  - first:
+      213: -713202938406819700
+    second: ShotgunGuard_74
+  - first:
+      213: 3524800196200144010
+    second: ShotgunGuard_75
+  - first:
+      213: 1891552621312073834
+    second: ShotgunGuard_76
+  - first:
+      213: -4433931140494101160
+    second: ShotgunGuard_77
+  - first:
+      213: -8314635645195252104
+    second: ShotgunGuard_78
+  - first:
+      213: 6245356797630735103
+    second: ShotgunGuard_79
+  - first:
+      213: 813260008421778428
+    second: ShotgunGuard_80
+  - first:
+      213: 2813256377224078884
+    second: ShotgunGuard_81
+  - first:
+      213: -9203550290943553945
+    second: ShotgunGuard_82
+  - first:
+      213: 8901431093009981641
+    second: ShotgunGuard_83
+  - first:
+      213: -3270593467043266445
+    second: ShotgunGuard_84
+  - first:
+      213: -1459993118239833185
+    second: ShotgunGuard_85
+  - first:
+      213: -2009402560976393638
+    second: ShotgunGuard_86
+  - first:
+      213: 4544321359005268548
+    second: ShotgunGuard_87
+  - first:
+      213: -6224767614436228706
+    second: ShotgunGuard_88
+  - first:
+      213: 5156257343885065533
+    second: ShotgunGuard_89
+  - first:
+      213: -6484681688754984938
+    second: ShotgunGuard_90
+  - first:
+      213: 3933479691673752936
+    second: ShotgunGuard_91
+  - first:
+      213: -7818121110137849536
+    second: ShotgunGuard_92
+  - first:
+      213: 2724317523657084040
+    second: ShotgunGuard_93
+  - first:
+      213: -1517499043944465379
+    second: ShotgunGuard_94
+  - first:
+      213: -6991146554196368907
+    second: ShotgunGuard_95
+  - first:
+      213: -8692144686917611564
+    second: ShotgunGuard_96
+  - first:
+      213: 2766027337260569170
+    second: ShotgunGuard_97
+  - first:
+      213: -1417806331962976327
+    second: ShotgunGuard_98
+  - first:
+      213: -85761691178288400
+    second: ShotgunGuard_99
+  - first:
+      213: -7286116478990194169
+    second: ShotgunGuard_100
+  - first:
+      213: -997540097151794031
+    second: ShotgunGuard_101
+  - first:
+      213: -3966360256872346869
+    second: ShotgunGuard_102
+  - first:
+      213: 1495736686946499611
+    second: ShotgunGuard_103
+  - first:
+      213: -8972712599746715003
+    second: ShotgunGuard_104
+  - first:
+      213: -6506812436371385515
+    second: ShotgunGuard_105
+  - first:
+      213: 2070592378843058660
+    second: ShotgunGuard_106
+  - first:
+      213: -8995739957199055782
+    second: ShotgunGuard_107
+  - first:
+      213: -5765538023794361763
+    second: ShotgunGuard_108
+  - first:
+      213: 7559776555158738698
+    second: ShotgunGuard_109
+  - first:
+      213: 399878297448432046
+    second: ShotgunGuard_110
+  - first:
+      213: -1560801846455659833
+    second: ShotgunGuard_111
+  - first:
+      213: -2955654932516674303
+    second: ShotgunGuard_112
+  - first:
+      213: 7519701078915705015
+    second: ShotgunGuard_113
+  - first:
+      213: -4285965536441087225
+    second: ShotgunGuard_114
+  - first:
+      213: 8576062664372165132
+    second: ShotgunGuard_115
+  - first:
+      213: 4765298920530889102
+    second: ShotgunGuard_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShotgunGuard_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 444
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb1f402779380300800000000000000
+      internalID: 218487765733415916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 444
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4b77ef5be46b2a0800000000000000
+      internalID: -6722098850238581585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 443
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac2f8a47c65103d0800000000000000
+      internalID: -3242214842780668757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 467
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dafd6b871a4fdee0800000000000000
+      internalID: -1234186307892282672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 446
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65116dadbf701d7a0800000000000000
+      internalID: -6354288820953411242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 446
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763fc2c5e0eda9f50800000000000000
+      internalID: 6889062733273953127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 447
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaa02bd857e63ef0800000000000000
+      internalID: -128661170513990941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 447
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ade832bf31d67c70800000000000000
+      internalID: 8968585779458141607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 448
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028344e01f045bff0800000000000000
+      internalID: -21039219182651360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 451
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61a90403337a040800000000000000
+      internalID: 4658748621873354473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38895f00a5b310b40800000000000000
+      internalID: 5404666285570496643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_11
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 453
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3062015034d6a50800000000000000
+      internalID: 6515937924899799989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 471
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89092efab99a2400800000000000000
+      internalID: 300221353580628366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_13
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1d73d1f7b7188a0800000000000000
+      internalID: -6304622217460723294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 455
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4877683cddb1027d0800000000000000
+      internalID: -2945323517018212476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_15
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 455
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff323a7831c1ae0800000000000000
+      internalID: -1577364296207958029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 455
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cc664ad58382470800000000000000
+      internalID: 8370001882309381142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_17
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 455
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9654ca598b22c17a0800000000000000
+      internalID: -6405206393847265943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 16
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d56f7a0100ae120800000000000000
+      internalID: 2443765819339332984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecfb6b6b804250f0800000000000000
+      internalID: -1129769588969702167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 433
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30651960550080f0800000000000000
+      internalID: -1116886864669351875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 365
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c10a5d77420a2130800000000000000
+      internalID: 3542646562949300674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 375
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288e264e89487b870800000000000000
+      internalID: 8698566997490985090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 380
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf098ae4cff82e10800000000000000
+      internalID: 2173268041419788228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 380
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f2f4f37f9dd750800000000000000
+      internalID: 6331391971532403544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 382
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c58fd4504ace6d0800000000000000
+      internalID: -2959810512399344533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 382
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99ddfac708c96090800000000000000
+      internalID: -8040675723897349732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 384
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df959630e0a8e3470800000000000000
+      internalID: 8376284149747112445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 390
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39db4756cb8f8dce0800000000000000
+      internalID: -1380079797749367405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 396
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71c74eaebbec9700800000000000000
+      internalID: 548572458832609658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_30
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 398
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754418b3bd50f2a0800000000000000
+      internalID: -6705756818685803143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_31
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 399
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802cb2ddcf56027f0800000000000000
+      internalID: -639399010369814008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_32
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 402
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad05d3c53b86610800000000000000
+      internalID: 1614737675159394941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_33
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 404
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee9364766e017a0800000000000000
+      internalID: -6408368938513994000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_34
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 405
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf78a9f7b27984e30800000000000000
+      internalID: 4488003241754920956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_35
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 407
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd28387040ac7170800000000000000
+      internalID: 8177587222153276865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 360
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653e1f4f7c2ed22f0800000000000000
+      internalID: -995890594143149226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 355
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89b649eca88e23c0800000000000000
+      internalID: -4382415111155435126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 308
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a349a0d5fb375980800000000000000
+      internalID: -8550299440585817177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 314
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a5e975dc4b05da0800000000000000
+      internalID: -5958063512979875286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_40
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 314
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d80ea173ff0f640800000000000000
+      internalID: 5111866189204720995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 317
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d48094878dd8b0800000000000000
+      internalID: -5125791797447698219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_42
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 317
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf85643907e5fb40800000000000000
+      internalID: 5473534948858499015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fca9533badd26b0800000000000000
+      internalID: -5319355121621348505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 329
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6558ce83d100550800000000000000
+      internalID: 6124927623547410136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_45
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 340
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18247a46b8ffe43f0800000000000000
+      internalID: -914512700155411839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_46
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 357
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df335e145cd94cda0800000000000000
+      internalID: -5925437739173071875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_47
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 358
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677dd58f335e43ab0800000000000000
+      internalID: -5029142872493009034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_48
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 358
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c110d537bd5dca7f0800000000000000
+      internalID: -599869511837089508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_49
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 358
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d42adc661ad5fa0800000000000000
+      internalID: -5810310481329369715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_50
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 358
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25f12fec48c3f80800000000000000
+      internalID: -8125473603322948884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_51
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 360
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8b19d3b46630890800000000000000
+      internalID: -7493032881672832771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d998745ae058e8f0800000000000000
+      internalID: -511069590336792105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_53
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 276
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1897024a061c4edc0800000000000000
+      internalID: -3610548380429682303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 287
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb7bf1c7cfdb75c0800000000000000
+      internalID: -4216530577056367672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_55
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 320
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181462b38a03dc7f0800000000000000
+      internalID: -590762477010665087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_56
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 321
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82944806cea76f570800000000000000
+      internalID: 8500116502358542632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_57
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 322
+        width: 75
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad73eb8780bcc610800000000000000
+      internalID: 1642882060297403819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_58
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 323
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b47bd720b758c0800000000000000
+      internalID: -4010543257918064892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_59
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 323
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404c81b5240dd7960800000000000000
+      internalID: 7601460729486033924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 280
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189df7259d3e01020800000000000000
+      internalID: 2310597131372583297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 241
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2883488161b0bfd80800000000000000
+      internalID: -8215960905678833534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 248
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200d4444f90ede610800000000000000
+      internalID: 1652223612964622338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_63
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 248
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faddc37c8c1641a60800000000000000
+      internalID: 7643841982518582703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_64
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 252
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5614d8a18b9dd1b80800000000000000
+      internalID: -8422336343370284699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_65
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 252
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b196cc5f600dc6af0800000000000000
+      internalID: -401717538430621413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_66
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 257
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd5f631bb78958e0800000000000000
+      internalID: -1704181746428322350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 277
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44723ca9ba0352200800000000000000
+      internalID: 154583275808171844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_68
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 284
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5a1251ce865200800000000000000
+      internalID: 168478997030264110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_69
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 283
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f56d8885e277880800000000000000
+      internalID: -8613364804535033961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_70
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 288
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8533a32e2164f540800000000000000
+      internalID: 5040760733728716172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_71
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 290
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca62be838fa25210800000000000000
+      internalID: 1320310620342610626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_72
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 290
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b870f236c6442b10800000000000000
+      internalID: 1955765955257727159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_73
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 291
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87be5fbab207c7d0800000000000000
+      internalID: -2898344834091796593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c882f7bc4b13a16f0800000000000000
+      internalID: -713202938406819700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9cbe6a1b9ae030800000000000000
+      internalID: 3524800196200144010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 207
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60e3435615204a10800000000000000
+      internalID: 1891552621312073834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 229
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8557e44ae138772c0800000000000000
+      internalID: -4433931140494101160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_78
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 230
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e065bfeea7c9c80800000000000000
+      internalID: -8314635645195252104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_79
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 252
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e95a0be6fba650800000000000000
+      internalID: 6245356797630735103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3e2083ba7494b00800000000000000
+      internalID: 813260008421778428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 175
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4262b8215c1ba0720800000000000000
+      internalID: 2813256377224078884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_82
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 182
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ecddbd5cb664080800000000000000
+      internalID: -9203550290943553945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_83
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 182
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c02a73da6c388b70800000000000000
+      internalID: 8901431093009981641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 187
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3704c20f1948c92d0800000000000000
+      internalID: -3270593467043266445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_85
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 199
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93cccc8eff0dbbe0800000000000000
+      internalID: -1459993118239833185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_86
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 162
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aed3e540b2d14e0800000000000000
+      internalID: -2009402560976393638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_87
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ababcf23ca01f30800000000000000
+      internalID: 4544321359005268548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_88
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 177
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914c2cb5de2d99a0800000000000000
+      internalID: -6224767614436228706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3db4c83cb4be8740800000000000000
+      internalID: 5156257343885065533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 109
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61867448c58c106a0800000000000000
+      internalID: -6484681688754984938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_91
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8655d6960f6869630800000000000000
+      internalID: 3933479691673752936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_92
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 116
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0493043c544708390800000000000000
+      internalID: -7818121110137849536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_93
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 122
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cc3fc8a58bec520800000000000000
+      internalID: 2724317523657084040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_94
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 132
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf1bad8a2c0fae0800000000000000
+      internalID: -1517499043944465379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_95
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 127
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1ed68ef357afe90800000000000000
+      internalID: -6991146554196368907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_96
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df0affc57c4f5780800000000000000
+      internalID: -8692144686917611564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_97
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 109
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2529f6c4537e26620800000000000000
+      internalID: 2766027337260569170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 127
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b71c0727a0f25ce0800000000000000
+      internalID: -1417806331962976327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_99
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 92
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa3bfd32305fcef0800000000000000
+      internalID: -85761691178288400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_100
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 70
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a6ba57aa382ea90800000000000000
+      internalID: -7286116478990194169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_101
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 80
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940f0c11960822f0800000000000000
+      internalID: -997540097151794031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b85ed6c58a4f8c0800000000000000
+      internalID: -3966360256872346869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_103
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c37fe879ce1c410800000000000000
+      internalID: 1495736686946499611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_104
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 40
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ec641e658a7380800000000000000
+      internalID: -8972712599746715003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 50
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5535dfd409823b5a0800000000000000
+      internalID: -6506812436371385515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_106
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 50
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1529f4cc83cbc10800000000000000
+      internalID: 2070592378843058660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_107
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 57
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54dc5f9b26b82380800000000000000
+      internalID: -8995739957199055782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_108
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5abab8e6b1bcffa0800000000000000
+      internalID: -5765538023794361763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07109739b8b9e860800000000000000
+      internalID: 7559776555158738698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_110
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14dc06137ac8500800000000000000
+      internalID: 399878297448432046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_111
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29c397dfae65ae0800000000000000
+      internalID: -1560801846455659833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10566b4af776bf6d0800000000000000
+      internalID: -2955654932516674303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_113
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 8
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b864e94a485b5860800000000000000
+      internalID: 7519701078915705015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_114
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 37
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bccd87d013584c0800000000000000
+      internalID: -4285965536441087225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_115
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a94692e8b440770800000000000000
+      internalID: 8576062664372165132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunGuard_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89cbcede1eb12240800000000000000
+      internalID: 4765298920530889102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShotgunGuard_0: 218487765733415916
+      ShotgunGuard_1: -6722098850238581585
+      ShotgunGuard_10: 5404666285570496643
+      ShotgunGuard_100: -7286116478990194169
+      ShotgunGuard_101: -997540097151794031
+      ShotgunGuard_102: -3966360256872346869
+      ShotgunGuard_103: 1495736686946499611
+      ShotgunGuard_104: -8972712599746715003
+      ShotgunGuard_105: -6506812436371385515
+      ShotgunGuard_106: 2070592378843058660
+      ShotgunGuard_107: -8995739957199055782
+      ShotgunGuard_108: -5765538023794361763
+      ShotgunGuard_109: 7559776555158738698
+      ShotgunGuard_11: 6515937924899799989
+      ShotgunGuard_110: 399878297448432046
+      ShotgunGuard_111: -1560801846455659833
+      ShotgunGuard_112: -2955654932516674303
+      ShotgunGuard_113: 7519701078915705015
+      ShotgunGuard_114: -4285965536441087225
+      ShotgunGuard_115: 8576062664372165132
+      ShotgunGuard_116: 4765298920530889102
+      ShotgunGuard_12: 300221353580628366
+      ShotgunGuard_13: -6304622217460723294
+      ShotgunGuard_14: -2945323517018212476
+      ShotgunGuard_15: -1577364296207958029
+      ShotgunGuard_16: 8370001882309381142
+      ShotgunGuard_17: -6405206393847265943
+      ShotgunGuard_18: 2443765819339332984
+      ShotgunGuard_19: -1129769588969702167
+      ShotgunGuard_2: -3242214842780668757
+      ShotgunGuard_20: -1116886864669351875
+      ShotgunGuard_21: 3542646562949300674
+      ShotgunGuard_22: 8698566997490985090
+      ShotgunGuard_23: 2173268041419788228
+      ShotgunGuard_24: 6331391971532403544
+      ShotgunGuard_25: -2959810512399344533
+      ShotgunGuard_26: -8040675723897349732
+      ShotgunGuard_27: 8376284149747112445
+      ShotgunGuard_28: -1380079797749367405
+      ShotgunGuard_29: 548572458832609658
+      ShotgunGuard_3: -1234186307892282672
+      ShotgunGuard_30: -6705756818685803143
+      ShotgunGuard_31: -639399010369814008
+      ShotgunGuard_32: 1614737675159394941
+      ShotgunGuard_33: -6408368938513994000
+      ShotgunGuard_34: 4488003241754920956
+      ShotgunGuard_35: 8177587222153276865
+      ShotgunGuard_36: -995890594143149226
+      ShotgunGuard_37: -4382415111155435126
+      ShotgunGuard_38: -8550299440585817177
+      ShotgunGuard_39: -5958063512979875286
+      ShotgunGuard_4: -6354288820953411242
+      ShotgunGuard_40: 5111866189204720995
+      ShotgunGuard_41: -5125791797447698219
+      ShotgunGuard_42: 5473534948858499015
+      ShotgunGuard_43: -5319355121621348505
+      ShotgunGuard_44: 6124927623547410136
+      ShotgunGuard_45: -914512700155411839
+      ShotgunGuard_46: -5925437739173071875
+      ShotgunGuard_47: -5029142872493009034
+      ShotgunGuard_48: -599869511837089508
+      ShotgunGuard_49: -5810310481329369715
+      ShotgunGuard_5: 6889062733273953127
+      ShotgunGuard_50: -8125473603322948884
+      ShotgunGuard_51: -7493032881672832771
+      ShotgunGuard_52: -511069590336792105
+      ShotgunGuard_53: -3610548380429682303
+      ShotgunGuard_54: -4216530577056367672
+      ShotgunGuard_55: -590762477010665087
+      ShotgunGuard_56: 8500116502358542632
+      ShotgunGuard_57: 1642882060297403819
+      ShotgunGuard_58: -4010543257918064892
+      ShotgunGuard_59: 7601460729486033924
+      ShotgunGuard_6: -128661170513990941
+      ShotgunGuard_60: 2310597131372583297
+      ShotgunGuard_61: -8215960905678833534
+      ShotgunGuard_62: 1652223612964622338
+      ShotgunGuard_63: 7643841982518582703
+      ShotgunGuard_64: -8422336343370284699
+      ShotgunGuard_65: -401717538430621413
+      ShotgunGuard_66: -1704181746428322350
+      ShotgunGuard_67: 154583275808171844
+      ShotgunGuard_68: 168478997030264110
+      ShotgunGuard_69: -8613364804535033961
+      ShotgunGuard_7: 8968585779458141607
+      ShotgunGuard_70: 5040760733728716172
+      ShotgunGuard_71: 1320310620342610626
+      ShotgunGuard_72: 1955765955257727159
+      ShotgunGuard_73: -2898344834091796593
+      ShotgunGuard_74: -713202938406819700
+      ShotgunGuard_75: 3524800196200144010
+      ShotgunGuard_76: 1891552621312073834
+      ShotgunGuard_77: -4433931140494101160
+      ShotgunGuard_78: -8314635645195252104
+      ShotgunGuard_79: 6245356797630735103
+      ShotgunGuard_8: -21039219182651360
+      ShotgunGuard_80: 813260008421778428
+      ShotgunGuard_81: 2813256377224078884
+      ShotgunGuard_82: -9203550290943553945
+      ShotgunGuard_83: 8901431093009981641
+      ShotgunGuard_84: -3270593467043266445
+      ShotgunGuard_85: -1459993118239833185
+      ShotgunGuard_86: -2009402560976393638
+      ShotgunGuard_87: 4544321359005268548
+      ShotgunGuard_88: -6224767614436228706
+      ShotgunGuard_89: 5156257343885065533
+      ShotgunGuard_9: 4658748621873354473
+      ShotgunGuard_90: -6484681688754984938
+      ShotgunGuard_91: 3933479691673752936
+      ShotgunGuard_92: -7818121110137849536
+      ShotgunGuard_93: 2724317523657084040
+      ShotgunGuard_94: -1517499043944465379
+      ShotgunGuard_95: -6991146554196368907
+      ShotgunGuard_96: -8692144686917611564
+      ShotgunGuard_97: 2766027337260569170
+      ShotgunGuard_98: -1417806331962976327
+      ShotgunGuard_99: -85761691178288400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

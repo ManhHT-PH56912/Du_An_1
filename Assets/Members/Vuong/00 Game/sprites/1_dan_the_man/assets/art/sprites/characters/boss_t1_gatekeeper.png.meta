@@ -1,0 +1,6747 @@
+fileFormatVersion: 2
+guid: 5d952657b5b597649a8e5cc0785f1450
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8986730663471085189
+    second: boss_t1_gatekeeper_0
+  - first:
+      213: -6615731289718641269
+    second: boss_t1_gatekeeper_1
+  - first:
+      213: 6521569448605693404
+    second: boss_t1_gatekeeper_2
+  - first:
+      213: -46522675514652761
+    second: boss_t1_gatekeeper_3
+  - first:
+      213: -3808661984792083805
+    second: boss_t1_gatekeeper_4
+  - first:
+      213: 101713348932519446
+    second: boss_t1_gatekeeper_5
+  - first:
+      213: 7561961893457990400
+    second: boss_t1_gatekeeper_6
+  - first:
+      213: 1272092733676859347
+    second: boss_t1_gatekeeper_7
+  - first:
+      213: 6641429719711602008
+    second: boss_t1_gatekeeper_8
+  - first:
+      213: -31368456483853472
+    second: boss_t1_gatekeeper_9
+  - first:
+      213: -4776025424122623639
+    second: boss_t1_gatekeeper_10
+  - first:
+      213: 8289535245903674912
+    second: boss_t1_gatekeeper_11
+  - first:
+      213: -4350650368546119425
+    second: boss_t1_gatekeeper_12
+  - first:
+      213: 3915335316892298695
+    second: boss_t1_gatekeeper_13
+  - first:
+      213: 5280978979122325827
+    second: boss_t1_gatekeeper_14
+  - first:
+      213: 5868136077585264905
+    second: boss_t1_gatekeeper_15
+  - first:
+      213: -1620926410638868716
+    second: boss_t1_gatekeeper_16
+  - first:
+      213: -1330499347860527275
+    second: boss_t1_gatekeeper_17
+  - first:
+      213: -7844346593557616968
+    second: boss_t1_gatekeeper_18
+  - first:
+      213: -4977618774911803233
+    second: boss_t1_gatekeeper_19
+  - first:
+      213: -4810300212004773545
+    second: boss_t1_gatekeeper_20
+  - first:
+      213: -3483323998222795714
+    second: boss_t1_gatekeeper_21
+  - first:
+      213: 2848781661323476619
+    second: boss_t1_gatekeeper_22
+  - first:
+      213: -8733100822981708552
+    second: boss_t1_gatekeeper_23
+  - first:
+      213: -5528672625927557575
+    second: boss_t1_gatekeeper_24
+  - first:
+      213: -6452806782070531366
+    second: boss_t1_gatekeeper_25
+  - first:
+      213: -4662145192717898680
+    second: boss_t1_gatekeeper_26
+  - first:
+      213: 5338374387815743521
+    second: boss_t1_gatekeeper_27
+  - first:
+      213: -2524124605332558108
+    second: boss_t1_gatekeeper_28
+  - first:
+      213: 1158597656478120032
+    second: boss_t1_gatekeeper_29
+  - first:
+      213: 3658152918960538278
+    second: boss_t1_gatekeeper_30
+  - first:
+      213: 1489342835716536239
+    second: boss_t1_gatekeeper_31
+  - first:
+      213: -7083431877342539844
+    second: boss_t1_gatekeeper_32
+  - first:
+      213: 8712207769020024270
+    second: boss_t1_gatekeeper_33
+  - first:
+      213: 2690753856231307026
+    second: boss_t1_gatekeeper_34
+  - first:
+      213: 6820526596828541760
+    second: boss_t1_gatekeeper_35
+  - first:
+      213: -1604168942187824344
+    second: boss_t1_gatekeeper_36
+  - first:
+      213: -4927355250236658767
+    second: boss_t1_gatekeeper_37
+  - first:
+      213: 228264444064999689
+    second: boss_t1_gatekeeper_38
+  - first:
+      213: -7649447240437510158
+    second: boss_t1_gatekeeper_39
+  - first:
+      213: 2241705415691916668
+    second: boss_t1_gatekeeper_40
+  - first:
+      213: -2166869807737374224
+    second: boss_t1_gatekeeper_41
+  - first:
+      213: -6311230573753202139
+    second: boss_t1_gatekeeper_42
+  - first:
+      213: -932052369675433358
+    second: boss_t1_gatekeeper_43
+  - first:
+      213: 5298799904995188658
+    second: boss_t1_gatekeeper_44
+  - first:
+      213: -2468230334902926822
+    second: boss_t1_gatekeeper_45
+  - first:
+      213: -3046802814770186725
+    second: boss_t1_gatekeeper_46
+  - first:
+      213: 1794656217746202964
+    second: boss_t1_gatekeeper_47
+  - first:
+      213: 4182612450845139322
+    second: boss_t1_gatekeeper_48
+  - first:
+      213: -7219453375940384207
+    second: boss_t1_gatekeeper_49
+  - first:
+      213: 3911459096298650465
+    second: boss_t1_gatekeeper_50
+  - first:
+      213: 9058536876864415930
+    second: boss_t1_gatekeeper_51
+  - first:
+      213: 1201013749216771743
+    second: boss_t1_gatekeeper_52
+  - first:
+      213: -9104472446749153106
+    second: boss_t1_gatekeeper_53
+  - first:
+      213: -4454769118327962603
+    second: boss_t1_gatekeeper_54
+  - first:
+      213: 5728253372222071179
+    second: boss_t1_gatekeeper_55
+  - first:
+      213: -793892502705374365
+    second: boss_t1_gatekeeper_56
+  - first:
+      213: 7467216774222777188
+    second: boss_t1_gatekeeper_57
+  - first:
+      213: 43258975211536049
+    second: boss_t1_gatekeeper_58
+  - first:
+      213: -7682298982028282662
+    second: boss_t1_gatekeeper_59
+  - first:
+      213: 1247814608637551289
+    second: boss_t1_gatekeeper_60
+  - first:
+      213: -2427362060314362396
+    second: boss_t1_gatekeeper_61
+  - first:
+      213: 7883215532736752915
+    second: boss_t1_gatekeeper_62
+  - first:
+      213: 2368104958958731865
+    second: boss_t1_gatekeeper_63
+  - first:
+      213: -8298171175533145609
+    second: boss_t1_gatekeeper_64
+  - first:
+      213: 9215942952027075951
+    second: boss_t1_gatekeeper_65
+  - first:
+      213: 5940063998613684031
+    second: boss_t1_gatekeeper_66
+  - first:
+      213: -6593089911572131237
+    second: boss_t1_gatekeeper_67
+  - first:
+      213: -924382150309381708
+    second: boss_t1_gatekeeper_68
+  - first:
+      213: -4849822048964936183
+    second: boss_t1_gatekeeper_69
+  - first:
+      213: 3274563295933909624
+    second: boss_t1_gatekeeper_70
+  - first:
+      213: 7610994984516111920
+    second: boss_t1_gatekeeper_71
+  - first:
+      213: 7567002044124735711
+    second: boss_t1_gatekeeper_72
+  - first:
+      213: 8222918366528353035
+    second: boss_t1_gatekeeper_73
+  - first:
+      213: -1870619236494424061
+    second: boss_t1_gatekeeper_74
+  - first:
+      213: -2494245920843055370
+    second: boss_t1_gatekeeper_75
+  - first:
+      213: -286541596288879980
+    second: boss_t1_gatekeeper_76
+  - first:
+      213: -1692563368540068585
+    second: boss_t1_gatekeeper_77
+  - first:
+      213: 87141012005023118
+    second: boss_t1_gatekeeper_78
+  - first:
+      213: 8325476128287570282
+    second: boss_t1_gatekeeper_79
+  - first:
+      213: -1569759535369040642
+    second: boss_t1_gatekeeper_80
+  - first:
+      213: -4978982594699417373
+    second: boss_t1_gatekeeper_81
+  - first:
+      213: 5044900798635085662
+    second: boss_t1_gatekeeper_82
+  - first:
+      213: -8619217497975589510
+    second: boss_t1_gatekeeper_83
+  - first:
+      213: 4972295880050269649
+    second: boss_t1_gatekeeper_84
+  - first:
+      213: -6313741306747023652
+    second: boss_t1_gatekeeper_85
+  - first:
+      213: -5500117012258853852
+    second: boss_t1_gatekeeper_86
+  - first:
+      213: 3961766600983609185
+    second: boss_t1_gatekeeper_87
+  - first:
+      213: -5488211159109412905
+    second: boss_t1_gatekeeper_88
+  - first:
+      213: 2379566701171877377
+    second: boss_t1_gatekeeper_89
+  - first:
+      213: 2654636727245617962
+    second: boss_t1_gatekeeper_90
+  - first:
+      213: 3412929141459711496
+    second: boss_t1_gatekeeper_91
+  - first:
+      213: -7178359502305409517
+    second: boss_t1_gatekeeper_92
+  - first:
+      213: 4597254713777570377
+    second: boss_t1_gatekeeper_93
+  - first:
+      213: 3072999891741962323
+    second: boss_t1_gatekeeper_94
+  - first:
+      213: 8363132459542205302
+    second: boss_t1_gatekeeper_95
+  - first:
+      213: 1409363125172286382
+    second: boss_t1_gatekeeper_96
+  - first:
+      213: -8018461953733068080
+    second: boss_t1_gatekeeper_97
+  - first:
+      213: -8313340401174665991
+    second: boss_t1_gatekeeper_98
+  - first:
+      213: 4100191396600214245
+    second: boss_t1_gatekeeper_99
+  - first:
+      213: -6199969378345733064
+    second: boss_t1_gatekeeper_100
+  - first:
+      213: -5644539085819396255
+    second: boss_t1_gatekeeper_101
+  - first:
+      213: -7487136521319368366
+    second: boss_t1_gatekeeper_102
+  - first:
+      213: -5862085132576304422
+    second: boss_t1_gatekeeper_103
+  - first:
+      213: 6033170030258528168
+    second: boss_t1_gatekeeper_104
+  - first:
+      213: 8737468176785539240
+    second: boss_t1_gatekeeper_105
+  - first:
+      213: -5718325347540272224
+    second: boss_t1_gatekeeper_106
+  - first:
+      213: 1779374461310899837
+    second: boss_t1_gatekeeper_107
+  - first:
+      213: 4393103738158835852
+    second: boss_t1_gatekeeper_108
+  - first:
+      213: 6755225065352897323
+    second: boss_t1_gatekeeper_109
+  - first:
+      213: -1252429550061291029
+    second: boss_t1_gatekeeper_110
+  - first:
+      213: 5277389231173930110
+    second: boss_t1_gatekeeper_111
+  - first:
+      213: -2482348792704462750
+    second: boss_t1_gatekeeper_112
+  - first:
+      213: 3520374023702719972
+    second: boss_t1_gatekeeper_113
+  - first:
+      213: 8846224577962371581
+    second: boss_t1_gatekeeper_114
+  - first:
+      213: -825191150681634051
+    second: boss_t1_gatekeeper_115
+  - first:
+      213: 5360899626905525051
+    second: boss_t1_gatekeeper_116
+  - first:
+      213: -3423199264449034847
+    second: boss_t1_gatekeeper_117
+  - first:
+      213: -3251511975470391283
+    second: boss_t1_gatekeeper_118
+  - first:
+      213: -7008617072858872969
+    second: boss_t1_gatekeeper_119
+  - first:
+      213: 351225970729371664
+    second: boss_t1_gatekeeper_120
+  - first:
+      213: -2621777092811402614
+    second: boss_t1_gatekeeper_121
+  - first:
+      213: 5432183413704561935
+    second: boss_t1_gatekeeper_122
+  - first:
+      213: 5503351042043757775
+    second: boss_t1_gatekeeper_123
+  - first:
+      213: -5383756415977574955
+    second: boss_t1_gatekeeper_124
+  - first:
+      213: 1047195397340900117
+    second: boss_t1_gatekeeper_125
+  - first:
+      213: -239629362211574099
+    second: boss_t1_gatekeeper_126
+  - first:
+      213: -4280779273936188731
+    second: boss_t1_gatekeeper_127
+  - first:
+      213: 9154416435602374
+    second: boss_t1_gatekeeper_128
+  - first:
+      213: 6227248690045787805
+    second: boss_t1_gatekeeper_129
+  - first:
+      213: 3539226449706990194
+    second: boss_t1_gatekeeper_130
+  - first:
+      213: -7585942457230306183
+    second: boss_t1_gatekeeper_131
+  - first:
+      213: 3238409993394063937
+    second: boss_t1_gatekeeper_132
+  - first:
+      213: -5734622398324545589
+    second: boss_t1_gatekeeper_133
+  - first:
+      213: -204099438872891304
+    second: boss_t1_gatekeeper_134
+  - first:
+      213: 6793652548455872481
+    second: boss_t1_gatekeeper_135
+  - first:
+      213: -3859403071023216761
+    second: boss_t1_gatekeeper_136
+  - first:
+      213: -2699944246700863549
+    second: boss_t1_gatekeeper_137
+  - first:
+      213: 7448439238405583872
+    second: boss_t1_gatekeeper_138
+  - first:
+      213: 8792745088304689872
+    second: boss_t1_gatekeeper_139
+  - first:
+      213: -496142353746610586
+    second: boss_t1_gatekeeper_140
+  - first:
+      213: -826275040786783132
+    second: boss_t1_gatekeeper_141
+  - first:
+      213: -3532469880887571060
+    second: boss_t1_gatekeeper_142
+  - first:
+      213: 1215226258468939093
+    second: boss_t1_gatekeeper_143
+  - first:
+      213: -1611625556404120809
+    second: boss_t1_gatekeeper_144
+  - first:
+      213: 5481043869512915383
+    second: boss_t1_gatekeeper_145
+  - first:
+      213: 211465970657116260
+    second: boss_t1_gatekeeper_146
+  - first:
+      213: -3629568893959553661
+    second: boss_t1_gatekeeper_147
+  - first:
+      213: 2585986245194192857
+    second: boss_t1_gatekeeper_148
+  - first:
+      213: -2076082005062949873
+    second: boss_t1_gatekeeper_149
+  - first:
+      213: -3433128750185295740
+    second: boss_t1_gatekeeper_150
+  - first:
+      213: 8464520138179527756
+    second: boss_t1_gatekeeper_151
+  - first:
+      213: 6685871134869827996
+    second: boss_t1_gatekeeper_152
+  - first:
+      213: 7525047176657841973
+    second: boss_t1_gatekeeper_153
+  - first:
+      213: -81853657585792351
+    second: boss_t1_gatekeeper_154
+  - first:
+      213: 9073808231376445943
+    second: boss_t1_gatekeeper_155
+  - first:
+      213: -2625634377026651437
+    second: boss_t1_gatekeeper_156
+  - first:
+      213: -2202981796006689082
+    second: boss_t1_gatekeeper_157
+  - first:
+      213: -3078183110263465335
+    second: boss_t1_gatekeeper_158
+  - first:
+      213: -5056561358998653413
+    second: boss_t1_gatekeeper_159
+  - first:
+      213: -29397889777622768
+    second: boss_t1_gatekeeper_160
+  - first:
+      213: 4929622114669354044
+    second: boss_t1_gatekeeper_161
+  - first:
+      213: 3123871110275390428
+    second: boss_t1_gatekeeper_162
+  - first:
+      213: 2331605533049148761
+    second: boss_t1_gatekeeper_163
+  - first:
+      213: 1965422314473897403
+    second: boss_t1_gatekeeper_164
+  - first:
+      213: 7401830034168500986
+    second: boss_t1_gatekeeper_165
+  - first:
+      213: -2371954665702656895
+    second: boss_t1_gatekeeper_166
+  - first:
+      213: -3924092958196549829
+    second: boss_t1_gatekeeper_167
+  - first:
+      213: -6221421482072772672
+    second: boss_t1_gatekeeper_168
+  - first:
+      213: 7217980143393297239
+    second: boss_t1_gatekeeper_169
+  - first:
+      213: 1009940112098243561
+    second: boss_t1_gatekeeper_170
+  - first:
+      213: 1276425535976357903
+    second: boss_t1_gatekeeper_171
+  - first:
+      213: -3144909346197650374
+    second: boss_t1_gatekeeper_172
+  - first:
+      213: -7220575062660923908
+    second: boss_t1_gatekeeper_173
+  - first:
+      213: -4347471469942819146
+    second: boss_t1_gatekeeper_174
+  - first:
+      213: 3040923178443107376
+    second: boss_t1_gatekeeper_175
+  - first:
+      213: 2858637183123869754
+    second: boss_t1_gatekeeper_176
+  - first:
+      213: -8654265065695986405
+    second: boss_t1_gatekeeper_177
+  - first:
+      213: -2362306380524837257
+    second: boss_t1_gatekeeper_178
+  - first:
+      213: -7965371913700245631
+    second: boss_t1_gatekeeper_179
+  - first:
+      213: 4323267213721358778
+    second: boss_t1_gatekeeper_180
+  - first:
+      213: 4760676099912474973
+    second: boss_t1_gatekeeper_181
+  - first:
+      213: 8139989494402914420
+    second: boss_t1_gatekeeper_182
+  - first:
+      213: 3651842062174550319
+    second: boss_t1_gatekeeper_183
+  - first:
+      213: 3157965441516645158
+    second: boss_t1_gatekeeper_184
+  - first:
+      213: 2898822873693605403
+    second: boss_t1_gatekeeper_185
+  - first:
+      213: -5265091030543014083
+    second: boss_t1_gatekeeper_186
+  - first:
+      213: -4148921570969024881
+    second: boss_t1_gatekeeper_187
+  - first:
+      213: 558977317301879129
+    second: boss_t1_gatekeeper_188
+  - first:
+      213: 3746842991451015317
+    second: boss_t1_gatekeeper_189
+  - first:
+      213: -4324392130674914513
+    second: boss_t1_gatekeeper_190
+  - first:
+      213: 1750970760280318798
+    second: boss_t1_gatekeeper_191
+  - first:
+      213: 731279180782374715
+    second: boss_t1_gatekeeper_192
+  - first:
+      213: 8329526937546658612
+    second: boss_t1_gatekeeper_193
+  - first:
+      213: 2139786948438350868
+    second: boss_t1_gatekeeper_194
+  - first:
+      213: 8019482791892540473
+    second: boss_t1_gatekeeper_195
+  - first:
+      213: 7077388346308817109
+    second: boss_t1_gatekeeper_196
+  - first:
+      213: -6854616217748888709
+    second: boss_t1_gatekeeper_197
+  - first:
+      213: -4036894538031715761
+    second: boss_t1_gatekeeper_198
+  - first:
+      213: 3585302234760031576
+    second: boss_t1_gatekeeper_199
+  - first:
+      213: 7909128371502090365
+    second: boss_t1_gatekeeper_200
+  - first:
+      213: 7618261973848855907
+    second: boss_t1_gatekeeper_201
+  - first:
+      213: -4169383417657988201
+    second: boss_t1_gatekeeper_202
+  - first:
+      213: -3469260218024673634
+    second: boss_t1_gatekeeper_203
+  - first:
+      213: -1694494532124743481
+    second: boss_t1_gatekeeper_204
+  - first:
+      213: -9130281676630500178
+    second: boss_t1_gatekeeper_205
+  - first:
+      213: -1198639775628837525
+    second: boss_t1_gatekeeper_206
+  - first:
+      213: 7969184852802702677
+    second: boss_t1_gatekeeper_207
+  - first:
+      213: 5432610897980895732
+    second: boss_t1_gatekeeper_208
+  - first:
+      213: -5105531577601272212
+    second: boss_t1_gatekeeper_209
+  - first:
+      213: 860378070556863243
+    second: boss_t1_gatekeeper_210
+  - first:
+      213: 2867256495200177679
+    second: boss_t1_gatekeeper_211
+  - first:
+      213: -1942910186122154596
+    second: boss_t1_gatekeeper_212
+  - first:
+      213: -782166052286907606
+    second: boss_t1_gatekeeper_213
+  - first:
+      213: 1127899747370345469
+    second: boss_t1_gatekeeper_214
+  - first:
+      213: -9094446237891460046
+    second: boss_t1_gatekeeper_215
+  - first:
+      213: 3459540310865533409
+    second: boss_t1_gatekeeper_216
+  - first:
+      213: -6613596131621605587
+    second: boss_t1_gatekeeper_217
+  - first:
+      213: 8821201245939874094
+    second: boss_t1_gatekeeper_218
+  - first:
+      213: -8713021306925105470
+    second: boss_t1_gatekeeper_219
+  - first:
+      213: 6099663125621728200
+    second: boss_t1_gatekeeper_220
+  - first:
+      213: 659054286945933583
+    second: boss_t1_gatekeeper_221
+  - first:
+      213: -6748072558324387858
+    second: boss_t1_gatekeeper_222
+  - first:
+      213: -8555769391945331887
+    second: boss_t1_gatekeeper_223
+  - first:
+      213: -5585082702803097445
+    second: boss_t1_gatekeeper_224
+  - first:
+      213: 7935756517746230817
+    second: boss_t1_gatekeeper_225
+  - first:
+      213: 6973287021699892333
+    second: boss_t1_gatekeeper_226
+  - first:
+      213: -5250010042167501935
+    second: boss_t1_gatekeeper_227
+  - first:
+      213: -1439611286553927559
+    second: boss_t1_gatekeeper_228
+  - first:
+      213: 2473248404713003904
+    second: boss_t1_gatekeeper_229
+  - first:
+      213: 7384714918704072536
+    second: boss_t1_gatekeeper_230
+  - first:
+      213: 6740649336943105707
+    second: boss_t1_gatekeeper_231
+  - first:
+      213: 3297953683531396719
+    second: boss_t1_gatekeeper_232
+  - first:
+      213: 4976117393747524682
+    second: boss_t1_gatekeeper_233
+  - first:
+      213: 1593478001834739331
+    second: boss_t1_gatekeeper_234
+  - first:
+      213: 5199199461454109976
+    second: boss_t1_gatekeeper_235
+  - first:
+      213: 924722831307089552
+    second: boss_t1_gatekeeper_236
+  - first:
+      213: -4676922892667092957
+    second: boss_t1_gatekeeper_237
+  - first:
+      213: 8838426911551284290
+    second: boss_t1_gatekeeper_238
+  - first:
+      213: 5375799972274487961
+    second: boss_t1_gatekeeper_239
+  - first:
+      213: 4704012965955350424
+    second: boss_t1_gatekeeper_240
+  - first:
+      213: 1113637197412540743
+    second: boss_t1_gatekeeper_241
+  - first:
+      213: -6332044531841142606
+    second: boss_t1_gatekeeper_242
+  - first:
+      213: 7167361719342607408
+    second: boss_t1_gatekeeper_243
+  - first:
+      213: 903450361068974048
+    second: boss_t1_gatekeeper_244
+  - first:
+      213: 7490291652188608647
+    second: boss_t1_gatekeeper_245
+  - first:
+      213: -8555260626395440685
+    second: boss_t1_gatekeeper_246
+  - first:
+      213: -5364274265173618624
+    second: boss_t1_gatekeeper_247
+  - first:
+      213: 2026719363698780988
+    second: boss_t1_gatekeeper_248
+  - first:
+      213: -6100165161565977329
+    second: boss_t1_gatekeeper_249
+  - first:
+      213: 3366685374393229480
+    second: boss_t1_gatekeeper_250
+  - first:
+      213: 7536954417739172195
+    second: boss_t1_gatekeeper_251
+  - first:
+      213: -4252641539204971428
+    second: boss_t1_gatekeeper_252
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 935
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7902b74318b84380800000000000000
+      internalID: -8986730663471085189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 980
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d22e291733034a0800000000000000
+      internalID: -6615731289718641269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 995
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5be2a5cd4418a50800000000000000
+      internalID: 6521569448605693404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1003
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7c2f38fd7ba5ff0800000000000000
+      internalID: -46522675514652761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 995
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a20fee9a1ae42bc0800000000000000
+      internalID: -3808661984792083805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1003
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c90080cb596100800000000000000
+      internalID: 101713348932519446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 995
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0039a90f64c71f860800000000000000
+      internalID: 7561961893457990400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 977
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df2a28f99167a110800000000000000
+      internalID: 1272092733676859347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 980
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d12c64291b2c50800000000000000
+      internalID: 6641429719711602008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 995
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba0261e8e809ff0800000000000000
+      internalID: -31368456483853472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1003
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969cfe46e2628bdb0800000000000000
+      internalID: -4776025424122623639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 995
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e3b25e2685a0370800000000000000
+      internalID: 8289535245903674912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1003
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e2e06a826f93c0800000000000000
+      internalID: -4350650368546119425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 995
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd28e3f9b0165630800000000000000
+      internalID: 3915335316892298695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 977
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34924e4d66ec94940800000000000000
+      internalID: 5280978979122325827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 970
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901bf1efbaecf6150800000000000000
+      internalID: 5868136077585264905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 958
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f32de74005189e0800000000000000
+      internalID: -1620926410638868716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 950
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55762e474ed198de0800000000000000
+      internalID: -1330499347860527275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 946
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e3f39558432390800000000000000
+      internalID: -7844346593557616968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_19
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 943
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f902116c812fbeab0800000000000000
+      internalID: -4977618774911803233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_20
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 945
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751287871716e3db0800000000000000
+      internalID: -4810300212004773545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_21
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 991
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c3650774fb8afc0800000000000000
+      internalID: -3483323998222795714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_22
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 993
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e35d5d3d7e88720800000000000000
+      internalID: 2848781661323476619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 953
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f08a421bcdc680800000000000000
+      internalID: -8733100822981708552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_24
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 953
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e6924f9853643b0800000000000000
+      internalID: -5528672625927557575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_25
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 953
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada547e8b660376a0800000000000000
+      internalID: -6452806782070531366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 980
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c21c8f5abbc4fb0800000000000000
+      internalID: -4662145192717898680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 980
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1200dc7c837b51a40800000000000000
+      internalID: 5338374387815743521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 980
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee645a7b0288fcd0800000000000000
+      internalID: -2524124605332558108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 980
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0687af71e6a241010800000000000000
+      internalID: 1158597656478120032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 980
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a283b4b2be54c230800000000000000
+      internalID: 3658152918960538278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 980
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa738af0b653ba410800000000000000
+      internalID: 1489342835716536239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_32
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 958
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc158bc3892bd90800000000000000
+      internalID: -7083431877342539844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_33
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 954
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec546d18ecaf7e870800000000000000
+      internalID: 8712207769020024270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 939
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217fda2406a775520800000000000000
+      internalID: 2690753856231307026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 963
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043b1199dc067ae50800000000000000
+      internalID: 6820526596828541760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 963
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b3e29a8d8dcb9e0800000000000000
+      internalID: -1604168942187824344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 936
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbec7391848e9bb0800000000000000
+      internalID: -4927355250236658767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 941
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a85f6d45fa2300800000000000000
+      internalID: 228264444064999689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 957
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff41a96344b7d590800000000000000
+      internalID: -7649447240437510158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 965
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75d261d2332c1f10800000000000000
+      internalID: 2241705415691916668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 957
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f97b43f36bbde1e0800000000000000
+      internalID: -2166869807737374224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 965
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a0bd34b310a68a0800000000000000
+      internalID: -6311230573753202139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_43
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 957
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a4f69de4fa013f0800000000000000
+      internalID: -932052369675433358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 938
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf9c19707e198940800000000000000
+      internalID: 5298799904995188658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 916
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12844076951fbdd0800000000000000
+      internalID: -2468230334902926822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 955
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1676fc8bf497b5d0800000000000000
+      internalID: -3046802814770186725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 947
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45165b05256e7e810800000000000000
+      internalID: 1794656217746202964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 955
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7120c51ddf9b0a30800000000000000
+      internalID: 4182612450845139322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 947
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a2496a7695fcb90800000000000000
+      internalID: -7219453375940384207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 955
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bf954035b484630800000000000000
+      internalID: 3911459096298650465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 947
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8a74a9b4366bd70800000000000000
+      internalID: 9058536876864415930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 949
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9efc6444abdaa010800000000000000
+      internalID: 1201013749216771743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_53
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 949
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea86f281c8a66a180800000000000000
+      internalID: -9104472446749153106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_54
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 949
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5148ea9d61b7d22c0800000000000000
+      internalID: -4454769118327962603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_55
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 904
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81eabaa718de7f40800000000000000
+      internalID: 5728253372222071179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 939
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b766a99f68bf4f0800000000000000
+      internalID: -793892502705374365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 939
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0368d712e0a760800000000000000
+      internalID: 7467216774222777188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 939
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb4da0fcfa99000800000000000000
+      internalID: 43258975211536049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 941
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4fbd547cdf26590800000000000000
+      internalID: -7682298982028282662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_60
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 941
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2626d76c0215110800000000000000
+      internalID: 1247814608637551289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 941
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edb3bd1117405ed0800000000000000
+      internalID: -2427362060314362396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_62
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 919
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dad9c82cec66d60800000000000000
+      internalID: 7883215532736752915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_63
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 888
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9528395d9e23dd020800000000000000
+      internalID: 2368104958958731865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_64
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 892
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f116fc0849f6dc80800000000000000
+      internalID: -8298171175533145609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 921
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b6d5694b95ef70800000000000000
+      internalID: 9215942952027075951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 913
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f74742cb85f6250800000000000000
+      internalID: 5940063998613684031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 898
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52188838a3a084a0800000000000000
+      internalID: -6593089911572131237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_68
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 921
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f816f45feb23f0800000000000000
+      internalID: -924382150309381708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 913
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e769bba88f1bcb0800000000000000
+      internalID: -4849822048964936183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_70
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 897
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a4ca0e7f5917d20800000000000000
+      internalID: 3274563295933909624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 901
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ecc571d9faf9960800000000000000
+      internalID: 7610994984516111920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_72
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 914
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8a5b67444630960800000000000000
+      internalID: 7567002044124735711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 922
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0335fdffacad1270800000000000000
+      internalID: 8222918366528353035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_74
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 914
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308ccb227b93a06e0800000000000000
+      internalID: -1870619236494424061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_75
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 922
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6febea1dc88a26dd0800000000000000
+      internalID: -2494245920843055370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_76
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 914
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492f3d3bfeff50cf0800000000000000
+      internalID: -286541596288879980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 898
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a45a759ec288e0800000000000000
+      internalID: -1692563368540068585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_78
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 871
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d6de9e946953100800000000000000
+      internalID: 87141012005023118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_79
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 875
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69339cad680a8370800000000000000
+      internalID: 8325476128287570282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_80
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 871
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efccb8ff408173ae0800000000000000
+      internalID: -1569759535369040642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_81
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 872
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a61cb5b917eab0800000000000000
+      internalID: -4978982594699417373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_82
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 875
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f8abd1c86130640800000000000000
+      internalID: 5044900798635085662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 900
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7575572a53626880800000000000000
+      internalID: -8619217497975589510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_84
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 900
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd88032c4210540800000000000000
+      internalID: 4972295880050269649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 901
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde02afabb51168a0800000000000000
+      internalID: -6313741306747023652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_86
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 901
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c6a3dd7b8aba3b0800000000000000
+      internalID: -5500117012258853852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_87
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 901
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f72a6bbb50bf630800000000000000
+      internalID: 3961766600983609185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_88
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 885
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7d2f05705f5d3b0800000000000000
+      internalID: -5488211159109412905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_89
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 901
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a2b6ae4be50120800000000000000
+      internalID: 2379566701171877377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_90
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 901
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3e2fd90a27d420800000000000000
+      internalID: 2654636727245617962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_91
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 901
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806f840c8f82d5f20800000000000000
+      internalID: 3412929141459711496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_92
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 902
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3164903b018516c90800000000000000
+      internalID: -7178359502305409517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_93
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 859
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942c3bc0ecabccf30800000000000000
+      internalID: 4597254713777570377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_94
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 887
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350f71ebe1d75aa20800000000000000
+      internalID: 3072999891741962323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_95
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 885
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735d8489a0df0470800000000000000
+      internalID: 8363132459542205302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_96
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 885
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3bd639b401f8310800000000000000
+      internalID: 1409363125172286382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_97
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 884
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da71c23653b8b090800000000000000
+      internalID: -8018461953733068080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_98
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 884
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4a41b73f411ac80800000000000000
+      internalID: -8313340401174665991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_99
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 822
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2f779f95ec6e830800000000000000
+      internalID: 4100191396600214245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_100
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 831
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834376103b845f9a0800000000000000
+      internalID: -6199969378345733064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 795
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f3de48b919aa1b0800000000000000
+      internalID: -5644539085819396255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_102
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 805
+        width: 214
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b7ed9009581890800000000000000
+      internalID: -7487136521319368366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_103
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 857
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2d0bd61a0b5aea0800000000000000
+      internalID: -5862085132576304422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_104
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 813
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af971b6d202ab350800000000000000
+      internalID: 6033170030258528168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_105
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 812
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a005918309b14970800000000000000
+      internalID: 8737468176785539240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_106
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 813
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abffb5b46d64a0b0800000000000000
+      internalID: -5718325347540272224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_107
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 840
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7696d025ab91b810800000000000000
+      internalID: 1779374461310899837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_108
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 847
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88e56ef29077fc30800000000000000
+      internalID: 4393103738158835852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_109
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 814
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23ac2ef7616fbd50800000000000000
+      internalID: 6755225065352897323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_110
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 810
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f46ab5f97e9ee0800000000000000
+      internalID: -1252429550061291029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_111
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 789
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c08918b8d0d3940800000000000000
+      internalID: 5277389231173930110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_112
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 782
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2601b32dcecec8dd0800000000000000
+      internalID: -2482348792704462750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 718
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2057d581ead030800000000000000
+      internalID: 3520374023702719972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 717
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9e6c4626a14ca70800000000000000
+      internalID: 8846224577962371581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_115
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 756
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa43df35055c84f0800000000000000
+      internalID: -825191150681634051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_116
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 746
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b5a32becdb56a40800000000000000
+      internalID: 5360899626905525051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_117
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 743
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a50327e76a5e70d0800000000000000
+      internalID: -3423199264449034847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_118
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 745
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00a827e51f40e2d0800000000000000
+      internalID: -3251511975470391283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_119
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 752
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773428dc7e36cbe90800000000000000
+      internalID: -7008617072858872969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_120
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 780
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0184735d82ecfd400800000000000000
+      internalID: 351225970729371664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_121
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 766
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8258b6ff939d9bd0800000000000000
+      internalID: -2621777092811402614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_122
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 762
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0511a8a80ef26b40800000000000000
+      internalID: 5432183413704561935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_123
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 750
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc44b4f5d94df5c40800000000000000
+      internalID: 5503351042043757775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_124
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 716
+        width: 121
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd2d64601e0945b0800000000000000
+      internalID: -5383756415977574955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_125
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 721
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bade46aa2688e00800000000000000
+      internalID: 1047195397340900117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 721
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae20ab5d5aacacf0800000000000000
+      internalID: -239629362211574099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_127
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 721
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cacd2f4eed9794c0800000000000000
+      internalID: -4280779273936188731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_128
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 718
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c325cba4e5802000800000000000000
+      internalID: 9154416435602374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_129
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 671
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e1232b0b1ab6650800000000000000
+      internalID: 6227248690045787805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_130
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 672
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ab37254bbdd1130800000000000000
+      internalID: 3539226449706990194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_131
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 672
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974db36f68159b690800000000000000
+      internalID: -7585942457230306183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_132
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 675
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a045d2bb421fc20800000000000000
+      internalID: 3238409993394063937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_133
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 679
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7edd2ef478a60b0800000000000000
+      internalID: -5734622398324545589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_134
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 711
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ff1744a4ea2df0800000000000000
+      internalID: -204099438872891304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_135
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 642
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7b32e9ff6e74e50800000000000000
+      internalID: 6793652548455872481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_136
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 580
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870c9ada55a07ac0800000000000000
+      internalID: -3859403071023216761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_137
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 592
+        width: 40
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf0906330fd78ad0800000000000000
+      internalID: -2699944246700863549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_138
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 693
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004fe38160c2e5760800000000000000
+      internalID: 7448439238405583872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_139
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 685
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d236f4621b160a70800000000000000
+      internalID: 8792745088304689872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_140
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 633
+        width: 141
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66638ee68295d19f0800000000000000
+      internalID: -496142353746610586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_141
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 476
+        width: 96
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464e12b6a3b7884f0800000000000000
+      internalID: -826275040786783132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_142
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 636
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d0ee1fb552afec0800000000000000
+      internalID: -3532469880887571060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_143
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 602
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a4c1f7d95dd010800000000000000
+      internalID: 1215226258468939093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_144
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 602
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713579f581b52a9e0800000000000000
+      internalID: -1611625556404120809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_145
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 599
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b956a80c54901c40800000000000000
+      internalID: 5481043869512915383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_146
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 606
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c91f0e274fe200800000000000000
+      internalID: 211465970657116260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_147
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 611
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dbbbb325e21adc0800000000000000
+      internalID: -3629568893959553661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_148
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 645
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d798d2f9c443e320800000000000000
+      internalID: 2585986245194192857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_149
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 622
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0464ab7a664033e0800000000000000
+      internalID: -2076082005062949873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_150
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 590
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480560957931b50d0800000000000000
+      internalID: -3433128750185295740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_151
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 591
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44c45ef734087570800000000000000
+      internalID: 8464520138179527756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_152
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9134f7bf5cf8cc50800000000000000
+      internalID: 6685871134869827996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_153
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 566
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2fbaa9865e6860800000000000000
+      internalID: 7525047176657841973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_154
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 570
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa480838823ddef0800000000000000
+      internalID: -81853657585792351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_155
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 572
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f16537e284aced70800000000000000
+      internalID: 9073808231376445943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_156
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 587
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab54ff17fdf8bd0800000000000000
+      internalID: -2625634377026651437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_157
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 463
+        width: 40
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68e5a7abf6d61e0800000000000000
+      internalID: -2202981796006689082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_158
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 445
+        width: 85
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a932725c81845d0800000000000000
+      internalID: -3078183110263465335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_159
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 537
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b163beb1c3c73d9b0800000000000000
+      internalID: -5056561358998653413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_160
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 535
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a8a666ce879ff0800000000000000
+      internalID: -29397889777622768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_161
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 535
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cd6cde139896440800000000000000
+      internalID: 4929622114669354044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_162
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 529
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd11c49383a5b20800000000000000
+      internalID: 3123871110275390428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_163
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 528
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955dab101e68b5020800000000000000
+      internalID: 2331605533049148761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_164
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 530
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdb7d78e25964b10800000000000000
+      internalID: 1965422314473897403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_165
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 538
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25e62133598b660800000000000000
+      internalID: 7401830034168500986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_166
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 539
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18476777ccf151fd0800000000000000
+      internalID: -2371954665702656895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_167
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 516
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b373519ce32da89c0800000000000000
+      internalID: -3924092958196549829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_168
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 512
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf6113ef1219a9a0800000000000000
+      internalID: -6221421482072772672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_169
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 477
+        width: 129
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d7caa2ba6b2460800000000000000
+      internalID: 7217980143393297239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_170
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3b80a5e27040e00800000000000000
+      internalID: 1009940112098243561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_171
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 466
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00cb1e1346c6b110800000000000000
+      internalID: 1276425535976357903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_172
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 487
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344511bc990b54d0800000000000000
+      internalID: -3144909346197650374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_173
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 457
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd3d0c9c3d5bcb90800000000000000
+      internalID: -7220575062660923908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_174
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 483
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6b9e26bbdaaa3c0800000000000000
+      internalID: -4347471469942819146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_175
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 491
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c6a50f487833a20800000000000000
+      internalID: 3040923178443107376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_176
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 487
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3052d15f5beba720800000000000000
+      internalID: 2858637183123869754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_177
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 479
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d3e1766cfd5e780800000000000000
+      internalID: -8654265065695986405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_178
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 460
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776ad2aecd6673fd0800000000000000
+      internalID: -2362306380524837257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_179
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 478
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ff5046270557190800000000000000
+      internalID: -7965371913700245631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_180
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 446
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab154fe00a45ffb30800000000000000
+      internalID: 4323267213721358778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_181
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 453
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51a9f190b1511240800000000000000
+      internalID: 4760676099912474973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_182
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 331
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4781c41515d07f070800000000000000
+      internalID: 8139989494402914420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 315
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f297ebbd103fda230800000000000000
+      internalID: 3651842062174550319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_184
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 393
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b2f8266d853db20800000000000000
+      internalID: 3157965441516645158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_185
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 394
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec8458b00ba3820800000000000000
+      internalID: 2898822873693605403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_186
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 393
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3763667a93aee6b0800000000000000
+      internalID: -5265091030543014083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_187
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 392
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f868f6920d11c66c0800000000000000
+      internalID: -4148921570969024881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_188
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 393
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951874398e2e1c700800000000000000
+      internalID: 558977317301879129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_189
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 392
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598899e59d57ff330800000000000000
+      internalID: 3746842991451015317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_190
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 394
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b80adc44cacf3c0800000000000000
+      internalID: -4324392130674914513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_191
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 390
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43aa9221a2bc4810800000000000000
+      internalID: 1750970760280318798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_192
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 392
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0c2a5a86062a00800000000000000
+      internalID: 731279180782374715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_193
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 390
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43314833e9c689370800000000000000
+      internalID: 8329526937546658612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_194
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 391
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c5fac74ec02bd10800000000000000
+      internalID: 2139786948438350868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_195
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 390
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cdc153c1dea4f60800000000000000
+      internalID: 8019482791892540473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_196
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 407
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f93f043fe73260800000000000000
+      internalID: 7077388346308817109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_197
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 391
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7322750ed28fd0a0800000000000000
+      internalID: -6854616217748888709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_198
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 378
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aa7e85ec11af7c0800000000000000
+      internalID: -4036894538031715761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_199
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 370
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d2943036d81c130800000000000000
+      internalID: 3585302234760031576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_200
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 350
+        width: 136
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78885a795ed2cd60800000000000000
+      internalID: 7909128371502090365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_201
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 341
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3659025e6e089b960800000000000000
+      internalID: 7618261973848855907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_202
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 353
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b671a3fdf5326c0800000000000000
+      internalID: -4169383417657988201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_203
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 353
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ebe3f6636badfc0800000000000000
+      internalID: -3469260218024673634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_204
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 350
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8ecda6332fb78e0800000000000000
+      internalID: -1694494532124743481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_205
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 351
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5e2d7039ba4180800000000000000
+      internalID: -9130281676630500178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_206
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 349
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3df789739d5fe0800000000000000
+      internalID: -1198639775628837525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_207
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d8abca66b389e60800000000000000
+      internalID: 7969184852802702677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_208
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 350
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1311914d2846b40800000000000000
+      internalID: 5432610897980895732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_209
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 351
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66598794128529b0800000000000000
+      internalID: -5105531577601272212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_210
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 352
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0be314fb4da0fb00800000000000000
+      internalID: 860378070556863243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_211
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 355
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e865c479a8ac720800000000000000
+      internalID: 2867256495200177679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_212
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 354
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d63bdca756905e0800000000000000
+      internalID: -1942910186122154596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_213
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 283
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb11a9e103525f0800000000000000
+      internalID: -782166052286907606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_214
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 313
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3234828da17af00800000000000000
+      internalID: 1127899747370345469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_215
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 314
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2348791c4590ac180800000000000000
+      internalID: -9094446237891460046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_216
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 311
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d8435591c20030800000000000000
+      internalID: 3459540310865533409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_217
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 312
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2febcecb59c734a0800000000000000
+      internalID: -6613596131621605587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_218
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 309
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ba74ebc33b6a70800000000000000
+      internalID: 8821201245939874094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_219
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 8
+        width: 168
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb150f841251780800000000000000
+      internalID: -8713021306925105470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_220
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 236
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36b3c9b4b56a450800000000000000
+      internalID: 6099663125621728200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_221
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 273
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f095c15d16e652900800000000000000
+      internalID: 659054286945933583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_222
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 282
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef6382d2c70a52a0800000000000000
+      internalID: -6748072558324387858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_223
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 276
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b40f4811dc34980800000000000000
+      internalID: -8555769391945331887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_224
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 240
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b982e327fdccd72b0800000000000000
+      internalID: -5585082702803097445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_225
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 60
+        width: 126
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264148e188712e60800000000000000
+      internalID: 7935756517746230817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_226
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 221
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d648345a99716c060800000000000000
+      internalID: 6973287021699892333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_227
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 230
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b5f51bea73427b0800000000000000
+      internalID: -5250010042167501935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_228
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 230
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9706f4a8929750ce0800000000000000
+      internalID: -1439611286553927559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_229
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 206
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b583cf15eb25220800000000000000
+      internalID: 2473248404713003904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_230
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 230
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85742e8b717cb7660800000000000000
+      internalID: 7384714918704072536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_231
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 217
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba657f3cbd89b8d50800000000000000
+      internalID: 6740649336943105707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_232
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 117
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f667490e66fa4cd20800000000000000
+      internalID: 3297953683531396719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_233
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 63
+        width: 32
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cb6fea768be0540800000000000000
+      internalID: 4976117393747524682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 171
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38642c0dccb2d1610800000000000000
+      internalID: 1593478001834739331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_235
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 154
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ddf581d54472840800000000000000
+      internalID: 5199199461454109976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_236
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 151
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a0c3048645dc00800000000000000
+      internalID: 924722831307089552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_237
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 154
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208fa4986b381fb0800000000000000
+      internalID: -4676922892667092957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_238
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 151
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2446444b27668aa70800000000000000
+      internalID: 8838426911551284290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_239
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 155
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992c9f2b79daa9a40800000000000000
+      internalID: 5375799972274487961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_240
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fa99e9ed2084140800000000000000
+      internalID: 4704012965955350424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_241
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 148
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741af68712f647f00800000000000000
+      internalID: 1113637197412540743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_242
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 135
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b077a10c0f0028a0800000000000000
+      internalID: -6332044531841142606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_243
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 132
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c262a6285977360800000000000000
+      internalID: 7167361719342607408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_244
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efe6b31153b98c00800000000000000
+      internalID: 903450361068974048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_245
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 132
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78896c8829cd2f760800000000000000
+      internalID: 7490291652188608647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_246
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 63
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d950dab9cb954980800000000000000
+      internalID: -8555260626395440685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_247
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 85
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0409e8a1af44e85b0800000000000000
+      internalID: -5364274265173618624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_248
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 25
+        width: 19
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3beba4f58a502c10800000000000000
+      internalID: 2026719363698780988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_249
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 41
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0585a90b1cd75ba0800000000000000
+      internalID: -6100165161565977329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_250
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 28
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a02633b28ed8be20800000000000000
+      internalID: 3366685374393229480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_251
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36987a54c14a89860800000000000000
+      internalID: 7536954417739172195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t1_gatekeeper_252
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c540e923d059bf4c0800000000000000
+      internalID: -4252641539204971428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_t1_gatekeeper_0: -8986730663471085189
+      boss_t1_gatekeeper_1: -6615731289718641269
+      boss_t1_gatekeeper_10: -4776025424122623639
+      boss_t1_gatekeeper_100: -6199969378345733064
+      boss_t1_gatekeeper_101: -5644539085819396255
+      boss_t1_gatekeeper_102: -7487136521319368366
+      boss_t1_gatekeeper_103: -5862085132576304422
+      boss_t1_gatekeeper_104: 6033170030258528168
+      boss_t1_gatekeeper_105: 8737468176785539240
+      boss_t1_gatekeeper_106: -5718325347540272224
+      boss_t1_gatekeeper_107: 1779374461310899837
+      boss_t1_gatekeeper_108: 4393103738158835852
+      boss_t1_gatekeeper_109: 6755225065352897323
+      boss_t1_gatekeeper_11: 8289535245903674912
+      boss_t1_gatekeeper_110: -1252429550061291029
+      boss_t1_gatekeeper_111: 5277389231173930110
+      boss_t1_gatekeeper_112: -2482348792704462750
+      boss_t1_gatekeeper_113: 3520374023702719972
+      boss_t1_gatekeeper_114: 8846224577962371581
+      boss_t1_gatekeeper_115: -825191150681634051
+      boss_t1_gatekeeper_116: 5360899626905525051
+      boss_t1_gatekeeper_117: -3423199264449034847
+      boss_t1_gatekeeper_118: -3251511975470391283
+      boss_t1_gatekeeper_119: -7008617072858872969
+      boss_t1_gatekeeper_12: -4350650368546119425
+      boss_t1_gatekeeper_120: 351225970729371664
+      boss_t1_gatekeeper_121: -2621777092811402614
+      boss_t1_gatekeeper_122: 5432183413704561935
+      boss_t1_gatekeeper_123: 5503351042043757775
+      boss_t1_gatekeeper_124: -5383756415977574955
+      boss_t1_gatekeeper_125: 1047195397340900117
+      boss_t1_gatekeeper_126: -239629362211574099
+      boss_t1_gatekeeper_127: -4280779273936188731
+      boss_t1_gatekeeper_128: 9154416435602374
+      boss_t1_gatekeeper_129: 6227248690045787805
+      boss_t1_gatekeeper_13: 3915335316892298695
+      boss_t1_gatekeeper_130: 3539226449706990194
+      boss_t1_gatekeeper_131: -7585942457230306183
+      boss_t1_gatekeeper_132: 3238409993394063937
+      boss_t1_gatekeeper_133: -5734622398324545589
+      boss_t1_gatekeeper_134: -204099438872891304
+      boss_t1_gatekeeper_135: 6793652548455872481
+      boss_t1_gatekeeper_136: -3859403071023216761
+      boss_t1_gatekeeper_137: -2699944246700863549
+      boss_t1_gatekeeper_138: 7448439238405583872
+      boss_t1_gatekeeper_139: 8792745088304689872
+      boss_t1_gatekeeper_14: 5280978979122325827
+      boss_t1_gatekeeper_140: -496142353746610586
+      boss_t1_gatekeeper_141: -826275040786783132
+      boss_t1_gatekeeper_142: -3532469880887571060
+      boss_t1_gatekeeper_143: 1215226258468939093
+      boss_t1_gatekeeper_144: -1611625556404120809
+      boss_t1_gatekeeper_145: 5481043869512915383
+      boss_t1_gatekeeper_146: 211465970657116260
+      boss_t1_gatekeeper_147: -3629568893959553661
+      boss_t1_gatekeeper_148: 2585986245194192857
+      boss_t1_gatekeeper_149: -2076082005062949873
+      boss_t1_gatekeeper_15: 5868136077585264905
+      boss_t1_gatekeeper_150: -3433128750185295740
+      boss_t1_gatekeeper_151: 8464520138179527756
+      boss_t1_gatekeeper_152: 6685871134869827996
+      boss_t1_gatekeeper_153: 7525047176657841973
+      boss_t1_gatekeeper_154: -81853657585792351
+      boss_t1_gatekeeper_155: 9073808231376445943
+      boss_t1_gatekeeper_156: -2625634377026651437
+      boss_t1_gatekeeper_157: -2202981796006689082
+      boss_t1_gatekeeper_158: -3078183110263465335
+      boss_t1_gatekeeper_159: -5056561358998653413
+      boss_t1_gatekeeper_16: -1620926410638868716
+      boss_t1_gatekeeper_160: -29397889777622768
+      boss_t1_gatekeeper_161: 4929622114669354044
+      boss_t1_gatekeeper_162: 3123871110275390428
+      boss_t1_gatekeeper_163: 2331605533049148761
+      boss_t1_gatekeeper_164: 1965422314473897403
+      boss_t1_gatekeeper_165: 7401830034168500986
+      boss_t1_gatekeeper_166: -2371954665702656895
+      boss_t1_gatekeeper_167: -3924092958196549829
+      boss_t1_gatekeeper_168: -6221421482072772672
+      boss_t1_gatekeeper_169: 7217980143393297239
+      boss_t1_gatekeeper_17: -1330499347860527275
+      boss_t1_gatekeeper_170: 1009940112098243561
+      boss_t1_gatekeeper_171: 1276425535976357903
+      boss_t1_gatekeeper_172: -3144909346197650374
+      boss_t1_gatekeeper_173: -7220575062660923908
+      boss_t1_gatekeeper_174: -4347471469942819146
+      boss_t1_gatekeeper_175: 3040923178443107376
+      boss_t1_gatekeeper_176: 2858637183123869754
+      boss_t1_gatekeeper_177: -8654265065695986405
+      boss_t1_gatekeeper_178: -2362306380524837257
+      boss_t1_gatekeeper_179: -7965371913700245631
+      boss_t1_gatekeeper_18: -7844346593557616968
+      boss_t1_gatekeeper_180: 4323267213721358778
+      boss_t1_gatekeeper_181: 4760676099912474973
+      boss_t1_gatekeeper_182: 8139989494402914420
+      boss_t1_gatekeeper_183: 3651842062174550319
+      boss_t1_gatekeeper_184: 3157965441516645158
+      boss_t1_gatekeeper_185: 2898822873693605403
+      boss_t1_gatekeeper_186: -5265091030543014083
+      boss_t1_gatekeeper_187: -4148921570969024881
+      boss_t1_gatekeeper_188: 558977317301879129
+      boss_t1_gatekeeper_189: 3746842991451015317
+      boss_t1_gatekeeper_19: -4977618774911803233
+      boss_t1_gatekeeper_190: -4324392130674914513
+      boss_t1_gatekeeper_191: 1750970760280318798
+      boss_t1_gatekeeper_192: 731279180782374715
+      boss_t1_gatekeeper_193: 8329526937546658612
+      boss_t1_gatekeeper_194: 2139786948438350868
+      boss_t1_gatekeeper_195: 8019482791892540473
+      boss_t1_gatekeeper_196: 7077388346308817109
+      boss_t1_gatekeeper_197: -6854616217748888709
+      boss_t1_gatekeeper_198: -4036894538031715761
+      boss_t1_gatekeeper_199: 3585302234760031576
+      boss_t1_gatekeeper_2: 6521569448605693404
+      boss_t1_gatekeeper_20: -4810300212004773545
+      boss_t1_gatekeeper_200: 7909128371502090365
+      boss_t1_gatekeeper_201: 7618261973848855907
+      boss_t1_gatekeeper_202: -4169383417657988201
+      boss_t1_gatekeeper_203: -3469260218024673634
+      boss_t1_gatekeeper_204: -1694494532124743481
+      boss_t1_gatekeeper_205: -9130281676630500178
+      boss_t1_gatekeeper_206: -1198639775628837525
+      boss_t1_gatekeeper_207: 7969184852802702677
+      boss_t1_gatekeeper_208: 5432610897980895732
+      boss_t1_gatekeeper_209: -5105531577601272212
+      boss_t1_gatekeeper_21: -3483323998222795714
+      boss_t1_gatekeeper_210: 860378070556863243
+      boss_t1_gatekeeper_211: 2867256495200177679
+      boss_t1_gatekeeper_212: -1942910186122154596
+      boss_t1_gatekeeper_213: -782166052286907606
+      boss_t1_gatekeeper_214: 1127899747370345469
+      boss_t1_gatekeeper_215: -9094446237891460046
+      boss_t1_gatekeeper_216: 3459540310865533409
+      boss_t1_gatekeeper_217: -6613596131621605587
+      boss_t1_gatekeeper_218: 8821201245939874094
+      boss_t1_gatekeeper_219: -8713021306925105470
+      boss_t1_gatekeeper_22: 2848781661323476619
+      boss_t1_gatekeeper_220: 6099663125621728200
+      boss_t1_gatekeeper_221: 659054286945933583
+      boss_t1_gatekeeper_222: -6748072558324387858
+      boss_t1_gatekeeper_223: -8555769391945331887
+      boss_t1_gatekeeper_224: -5585082702803097445
+      boss_t1_gatekeeper_225: 7935756517746230817
+      boss_t1_gatekeeper_226: 6973287021699892333
+      boss_t1_gatekeeper_227: -5250010042167501935
+      boss_t1_gatekeeper_228: -1439611286553927559
+      boss_t1_gatekeeper_229: 2473248404713003904
+      boss_t1_gatekeeper_23: -8733100822981708552
+      boss_t1_gatekeeper_230: 7384714918704072536
+      boss_t1_gatekeeper_231: 6740649336943105707
+      boss_t1_gatekeeper_232: 3297953683531396719
+      boss_t1_gatekeeper_233: 4976117393747524682
+      boss_t1_gatekeeper_234: 1593478001834739331
+      boss_t1_gatekeeper_235: 5199199461454109976
+      boss_t1_gatekeeper_236: 924722831307089552
+      boss_t1_gatekeeper_237: -4676922892667092957
+      boss_t1_gatekeeper_238: 8838426911551284290
+      boss_t1_gatekeeper_239: 5375799972274487961
+      boss_t1_gatekeeper_24: -5528672625927557575
+      boss_t1_gatekeeper_240: 4704012965955350424
+      boss_t1_gatekeeper_241: 1113637197412540743
+      boss_t1_gatekeeper_242: -6332044531841142606
+      boss_t1_gatekeeper_243: 7167361719342607408
+      boss_t1_gatekeeper_244: 903450361068974048
+      boss_t1_gatekeeper_245: 7490291652188608647
+      boss_t1_gatekeeper_246: -8555260626395440685
+      boss_t1_gatekeeper_247: -5364274265173618624
+      boss_t1_gatekeeper_248: 2026719363698780988
+      boss_t1_gatekeeper_249: -6100165161565977329
+      boss_t1_gatekeeper_25: -6452806782070531366
+      boss_t1_gatekeeper_250: 3366685374393229480
+      boss_t1_gatekeeper_251: 7536954417739172195
+      boss_t1_gatekeeper_252: -4252641539204971428
+      boss_t1_gatekeeper_26: -4662145192717898680
+      boss_t1_gatekeeper_27: 5338374387815743521
+      boss_t1_gatekeeper_28: -2524124605332558108
+      boss_t1_gatekeeper_29: 1158597656478120032
+      boss_t1_gatekeeper_3: -46522675514652761
+      boss_t1_gatekeeper_30: 3658152918960538278
+      boss_t1_gatekeeper_31: 1489342835716536239
+      boss_t1_gatekeeper_32: -7083431877342539844
+      boss_t1_gatekeeper_33: 8712207769020024270
+      boss_t1_gatekeeper_34: 2690753856231307026
+      boss_t1_gatekeeper_35: 6820526596828541760
+      boss_t1_gatekeeper_36: -1604168942187824344
+      boss_t1_gatekeeper_37: -4927355250236658767
+      boss_t1_gatekeeper_38: 228264444064999689
+      boss_t1_gatekeeper_39: -7649447240437510158
+      boss_t1_gatekeeper_4: -3808661984792083805
+      boss_t1_gatekeeper_40: 2241705415691916668
+      boss_t1_gatekeeper_41: -2166869807737374224
+      boss_t1_gatekeeper_42: -6311230573753202139
+      boss_t1_gatekeeper_43: -932052369675433358
+      boss_t1_gatekeeper_44: 5298799904995188658
+      boss_t1_gatekeeper_45: -2468230334902926822
+      boss_t1_gatekeeper_46: -3046802814770186725
+      boss_t1_gatekeeper_47: 1794656217746202964
+      boss_t1_gatekeeper_48: 4182612450845139322
+      boss_t1_gatekeeper_49: -7219453375940384207
+      boss_t1_gatekeeper_5: 101713348932519446
+      boss_t1_gatekeeper_50: 3911459096298650465
+      boss_t1_gatekeeper_51: 9058536876864415930
+      boss_t1_gatekeeper_52: 1201013749216771743
+      boss_t1_gatekeeper_53: -9104472446749153106
+      boss_t1_gatekeeper_54: -4454769118327962603
+      boss_t1_gatekeeper_55: 5728253372222071179
+      boss_t1_gatekeeper_56: -793892502705374365
+      boss_t1_gatekeeper_57: 7467216774222777188
+      boss_t1_gatekeeper_58: 43258975211536049
+      boss_t1_gatekeeper_59: -7682298982028282662
+      boss_t1_gatekeeper_6: 7561961893457990400
+      boss_t1_gatekeeper_60: 1247814608637551289
+      boss_t1_gatekeeper_61: -2427362060314362396
+      boss_t1_gatekeeper_62: 7883215532736752915
+      boss_t1_gatekeeper_63: 2368104958958731865
+      boss_t1_gatekeeper_64: -8298171175533145609
+      boss_t1_gatekeeper_65: 9215942952027075951
+      boss_t1_gatekeeper_66: 5940063998613684031
+      boss_t1_gatekeeper_67: -6593089911572131237
+      boss_t1_gatekeeper_68: -924382150309381708
+      boss_t1_gatekeeper_69: -4849822048964936183
+      boss_t1_gatekeeper_7: 1272092733676859347
+      boss_t1_gatekeeper_70: 3274563295933909624
+      boss_t1_gatekeeper_71: 7610994984516111920
+      boss_t1_gatekeeper_72: 7567002044124735711
+      boss_t1_gatekeeper_73: 8222918366528353035
+      boss_t1_gatekeeper_74: -1870619236494424061
+      boss_t1_gatekeeper_75: -2494245920843055370
+      boss_t1_gatekeeper_76: -286541596288879980
+      boss_t1_gatekeeper_77: -1692563368540068585
+      boss_t1_gatekeeper_78: 87141012005023118
+      boss_t1_gatekeeper_79: 8325476128287570282
+      boss_t1_gatekeeper_8: 6641429719711602008
+      boss_t1_gatekeeper_80: -1569759535369040642
+      boss_t1_gatekeeper_81: -4978982594699417373
+      boss_t1_gatekeeper_82: 5044900798635085662
+      boss_t1_gatekeeper_83: -8619217497975589510
+      boss_t1_gatekeeper_84: 4972295880050269649
+      boss_t1_gatekeeper_85: -6313741306747023652
+      boss_t1_gatekeeper_86: -5500117012258853852
+      boss_t1_gatekeeper_87: 3961766600983609185
+      boss_t1_gatekeeper_88: -5488211159109412905
+      boss_t1_gatekeeper_89: 2379566701171877377
+      boss_t1_gatekeeper_9: -31368456483853472
+      boss_t1_gatekeeper_90: 2654636727245617962
+      boss_t1_gatekeeper_91: 3412929141459711496
+      boss_t1_gatekeeper_92: -7178359502305409517
+      boss_t1_gatekeeper_93: 4597254713777570377
+      boss_t1_gatekeeper_94: 3072999891741962323
+      boss_t1_gatekeeper_95: 8363132459542205302
+      boss_t1_gatekeeper_96: 1409363125172286382
+      boss_t1_gatekeeper_97: -8018461953733068080
+      boss_t1_gatekeeper_98: -8313340401174665991
+      boss_t1_gatekeeper_99: 4100191396600214245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

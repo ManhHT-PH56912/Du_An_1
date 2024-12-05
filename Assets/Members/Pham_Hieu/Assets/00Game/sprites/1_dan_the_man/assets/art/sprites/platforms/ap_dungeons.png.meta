@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: d603e9b3b9c46da4b811b02a13e66cd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8778841817276880181
+    second: ap_dungeons_0
+  - first:
+      213: 3737053364715099931
+    second: ap_dungeons_1
+  - first:
+      213: -8670048338035070747
+    second: ap_dungeons_2
+  - first:
+      213: 9164856180832095907
+    second: ap_dungeons_3
+  - first:
+      213: -8100228500593360673
+    second: ap_dungeons_4
+  - first:
+      213: -168978398482142171
+    second: ap_dungeons_5
+  - first:
+      213: -5381963759376763276
+    second: ap_dungeons_6
+  - first:
+      213: 2177948059836404799
+    second: ap_dungeons_7
+  - first:
+      213: 496048145593770888
+    second: ap_dungeons_8
+  - first:
+      213: 6148634956907894393
+    second: ap_dungeons_9
+  - first:
+      213: -4588888276317471443
+    second: ap_dungeons_10
+  - first:
+      213: -1926054159570355309
+    second: ap_dungeons_11
+  - first:
+      213: 817892984205422883
+    second: ap_dungeons_12
+  - first:
+      213: 980320449345148355
+    second: ap_dungeons_13
+  - first:
+      213: 5969480193717837071
+    second: ap_dungeons_14
+  - first:
+      213: 9190028546707289386
+    second: ap_dungeons_15
+  - first:
+      213: -8782636185513881948
+    second: ap_dungeons_16
+  - first:
+      213: 1756566270492636867
+    second: ap_dungeons_17
+  - first:
+      213: 5191825193299935758
+    second: ap_dungeons_18
+  - first:
+      213: 212773668605023667
+    second: ap_dungeons_19
+  - first:
+      213: -454825495921977751
+    second: ap_dungeons_20
+  - first:
+      213: -4631860388696621534
+    second: ap_dungeons_21
+  - first:
+      213: -7946545112573780488
+    second: ap_dungeons_22
+  - first:
+      213: 2927784650828298284
+    second: ap_dungeons_23
+  - first:
+      213: -4439533705991745759
+    second: ap_dungeons_24
+  - first:
+      213: -592243073674065467
+    second: ap_dungeons_25
+  - first:
+      213: 645621339588818398
+    second: ap_dungeons_26
+  - first:
+      213: 2224434773484608597
+    second: ap_dungeons_27
+  - first:
+      213: 6100082651966489345
+    second: ap_dungeons_28
+  - first:
+      213: 3259265152694064888
+    second: ap_dungeons_29
+  - first:
+      213: 3569149535895365452
+    second: ap_dungeons_30
+  - first:
+      213: -3135713802698803027
+    second: ap_dungeons_31
+  - first:
+      213: -6266028046446575888
+    second: ap_dungeons_32
+  - first:
+      213: 1344592372754173082
+    second: ap_dungeons_33
+  - first:
+      213: 7872978360444405643
+    second: ap_dungeons_34
+  - first:
+      213: -4837679843596717037
+    second: ap_dungeons_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ap_dungeons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaedd521e94b2680800000000000000
+      internalID: -8778841817276880181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 226
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1795864c3eacd330800000000000000
+      internalID: 3737053364715099931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 221
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e824f1f8fccda780800000000000000
+      internalID: -8670048338035070747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 220
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae4a04932c103f70800000000000000
+      internalID: 9164856180832095907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd043a67815369f80800000000000000
+      internalID: -8100228500593360673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ce1c7ba0ba7adf0800000000000000
+      internalID: -168978398482142171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 177
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4767258c97c6f45b0800000000000000
+      internalID: -5381963759376763276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 174
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34dccd9830a93e10800000000000000
+      internalID: 2177948059836404799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 174
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883ab95092152e600800000000000000
+      internalID: 496048145593770888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 172
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9765b0c9ae6545550800000000000000
+      internalID: 6148634956907894393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 172
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d7428fc6ef050c0800000000000000
+      internalID: -4588888276317471443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b35a052f74545e0800000000000000
+      internalID: -1926054159570355309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32139d3f55db95b00800000000000000
+      internalID: 817892984205422883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 129
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5d445314cca9d00800000000000000
+      internalID: 980320449345148355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 129
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1848cb9ad7d250800000000000000
+      internalID: 5969480193717837071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 146
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ff2ab54a898f70800000000000000
+      internalID: 9190028546707289386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 58
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae04f2fbeecd1680800000000000000
+      internalID: -8782636185513881948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 100
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6752167b3906810800000000000000
+      internalID: 1756566270492636867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 145
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02019e71811d0840800000000000000
+      internalID: 5191825193299935758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b552c6368ce3f200800000000000000
+      internalID: 212773668605023667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96697c80f9220b9f0800000000000000
+      internalID: -454825495921977751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 118
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ef882648358bfb0800000000000000
+      internalID: -4631860388696621534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 103
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd5c6d925338b190800000000000000
+      internalID: -7946545112573780488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 109
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28367bb0a491a820800000000000000
+      internalID: 2927784650828298284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 73
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0df5bd9b9362c0800000000000000
+      internalID: -4439533705991745759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9c8f4ff0ee7c7f0800000000000000
+      internalID: -592243073674065467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed57a9d0035b5f800800000000000000
+      internalID: 645621339588818398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 93
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c939314a7cede10800000000000000
+      internalID: 2224434773484608597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1034cf23ad8d7a450800000000000000
+      internalID: 6100082651966489345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 75
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f69327536c3b3d20800000000000000
+      internalID: 3259265152694064888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 44
+        width: 97
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c472b4db79a288130800000000000000
+      internalID: 3569149535895365452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 60
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da839d009e4bb74d0800000000000000
+      internalID: -3135713802698803027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 60
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febaeac0b89a09a0800000000000000
+      internalID: -6266028046446575888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c46b993a3f8a210800000000000000
+      internalID: 1344592372754173082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8740a22b10724d60800000000000000
+      internalID: 7872978360444405643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ap_dungeons_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314b95930db1ddcb0800000000000000
+      internalID: -4837679843596717037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ap_dungeons_0: -8778841817276880181
+      ap_dungeons_1: 3737053364715099931
+      ap_dungeons_10: -4588888276317471443
+      ap_dungeons_11: -1926054159570355309
+      ap_dungeons_12: 817892984205422883
+      ap_dungeons_13: 980320449345148355
+      ap_dungeons_14: 5969480193717837071
+      ap_dungeons_15: 9190028546707289386
+      ap_dungeons_16: -8782636185513881948
+      ap_dungeons_17: 1756566270492636867
+      ap_dungeons_18: 5191825193299935758
+      ap_dungeons_19: 212773668605023667
+      ap_dungeons_2: -8670048338035070747
+      ap_dungeons_20: -454825495921977751
+      ap_dungeons_21: -4631860388696621534
+      ap_dungeons_22: -7946545112573780488
+      ap_dungeons_23: 2927784650828298284
+      ap_dungeons_24: -4439533705991745759
+      ap_dungeons_25: -592243073674065467
+      ap_dungeons_26: 645621339588818398
+      ap_dungeons_27: 2224434773484608597
+      ap_dungeons_28: 6100082651966489345
+      ap_dungeons_29: 3259265152694064888
+      ap_dungeons_3: 9164856180832095907
+      ap_dungeons_30: 3569149535895365452
+      ap_dungeons_31: -3135713802698803027
+      ap_dungeons_32: -6266028046446575888
+      ap_dungeons_33: 1344592372754173082
+      ap_dungeons_34: 7872978360444405643
+      ap_dungeons_35: -4837679843596717037
+      ap_dungeons_4: -8100228500593360673
+      ap_dungeons_5: -168978398482142171
+      ap_dungeons_6: -5381963759376763276
+      ap_dungeons_7: 2177948059836404799
+      ap_dungeons_8: 496048145593770888
+      ap_dungeons_9: 6148634956907894393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 35320af27971cff46a4f1aff0e80e095
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6360940804246228451
+    second: FlamethrowerGuard_0
+  - first:
+      213: 6138498800671171633
+    second: FlamethrowerGuard_1
+  - first:
+      213: -8040716453179749838
+    second: FlamethrowerGuard_2
+  - first:
+      213: 5421827228997360136
+    second: FlamethrowerGuard_3
+  - first:
+      213: 8688477685905422696
+    second: FlamethrowerGuard_4
+  - first:
+      213: -340716639283512897
+    second: FlamethrowerGuard_5
+  - first:
+      213: -8805495357481110197
+    second: FlamethrowerGuard_6
+  - first:
+      213: -447275272988138095
+    second: FlamethrowerGuard_7
+  - first:
+      213: -2571294753724761766
+    second: FlamethrowerGuard_8
+  - first:
+      213: 5109833535729592784
+    second: FlamethrowerGuard_9
+  - first:
+      213: -6809020510011752144
+    second: FlamethrowerGuard_10
+  - first:
+      213: 5928375110286309967
+    second: FlamethrowerGuard_11
+  - first:
+      213: -81856196417806765
+    second: FlamethrowerGuard_12
+  - first:
+      213: 5443343804826530052
+    second: FlamethrowerGuard_13
+  - first:
+      213: 2090375023088925754
+    second: FlamethrowerGuard_14
+  - first:
+      213: 6487238923502350840
+    second: FlamethrowerGuard_15
+  - first:
+      213: -8299689799102399227
+    second: FlamethrowerGuard_16
+  - first:
+      213: -8847651409645229536
+    second: FlamethrowerGuard_17
+  - first:
+      213: -1067829581991364383
+    second: FlamethrowerGuard_18
+  - first:
+      213: 4931318474202045362
+    second: FlamethrowerGuard_19
+  - first:
+      213: -2083336079250549877
+    second: FlamethrowerGuard_20
+  - first:
+      213: 5265874030543620701
+    second: FlamethrowerGuard_21
+  - first:
+      213: 1862137493775020161
+    second: FlamethrowerGuard_22
+  - first:
+      213: 7749643430998218805
+    second: FlamethrowerGuard_23
+  - first:
+      213: 1678853062021483827
+    second: FlamethrowerGuard_24
+  - first:
+      213: 8553884663133376967
+    second: FlamethrowerGuard_25
+  - first:
+      213: -1040770518540560657
+    second: FlamethrowerGuard_26
+  - first:
+      213: 2660880003661686256
+    second: FlamethrowerGuard_27
+  - first:
+      213: 4675971282681836056
+    second: FlamethrowerGuard_28
+  - first:
+      213: -2493171416533574791
+    second: FlamethrowerGuard_29
+  - first:
+      213: 1081887631373672530
+    second: FlamethrowerGuard_30
+  - first:
+      213: 4465900910869682621
+    second: FlamethrowerGuard_31
+  - first:
+      213: -6218250544665212108
+    second: FlamethrowerGuard_32
+  - first:
+      213: -4492059678235256536
+    second: FlamethrowerGuard_33
+  - first:
+      213: 1778590899153673034
+    second: FlamethrowerGuard_34
+  - first:
+      213: -6357263348172369518
+    second: FlamethrowerGuard_35
+  - first:
+      213: -9146527234710081697
+    second: FlamethrowerGuard_36
+  - first:
+      213: -8287528030041110381
+    second: FlamethrowerGuard_37
+  - first:
+      213: -2743298569482267521
+    second: FlamethrowerGuard_38
+  - first:
+      213: 8221123824194730782
+    second: FlamethrowerGuard_39
+  - first:
+      213: 2129585762527576039
+    second: FlamethrowerGuard_40
+  - first:
+      213: -4673271364380499586
+    second: FlamethrowerGuard_41
+  - first:
+      213: 1619905651070723770
+    second: FlamethrowerGuard_42
+  - first:
+      213: 4246067493477811060
+    second: FlamethrowerGuard_43
+  - first:
+      213: -4441940750163792395
+    second: FlamethrowerGuard_44
+  - first:
+      213: 6885019310180231065
+    second: FlamethrowerGuard_45
+  - first:
+      213: 8275816474527673485
+    second: FlamethrowerGuard_46
+  - first:
+      213: 5975175389341001645
+    second: FlamethrowerGuard_47
+  - first:
+      213: 6959121642626812711
+    second: FlamethrowerGuard_48
+  - first:
+      213: -8333241094051629205
+    second: FlamethrowerGuard_49
+  - first:
+      213: 3216905260405336793
+    second: FlamethrowerGuard_50
+  - first:
+      213: -7889708514122950880
+    second: FlamethrowerGuard_51
+  - first:
+      213: -8394976581984787689
+    second: FlamethrowerGuard_52
+  - first:
+      213: -4212855098897173382
+    second: FlamethrowerGuard_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlamethrowerGuard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12bd9d4a0669b7a0800000000000000
+      internalID: -6360940804246228451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 434
+        width: 159
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134aa24d224503550800000000000000
+      internalID: 6138498800671171633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 436
+        width: 236
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a0594ccf2a96090800000000000000
+      internalID: -8040716453179749838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 504
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9de183233e3b40800000000000000
+      internalID: 5421827228997360136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 437
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869fc4bfb6ca39870800000000000000
+      internalID: 8688477685905422696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_5
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 442
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f0729508854bf0800000000000000
+      internalID: -340716639283512897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 479
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45bcf930a89cc580800000000000000
+      internalID: -8805495357481110197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 421
+        width: 109
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e9bc4285fac9f0800000000000000
+      internalID: -447275272988138095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 474
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59f8677b0de05cd0800000000000000
+      internalID: -2571294753724761766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 454
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d96a861786c9e640800000000000000
+      internalID: 5109833535729592784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 448
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03186600cef7181a0800000000000000
+      internalID: -6809020510011752144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 443
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4af1efb0c1d54250800000000000000
+      internalID: 5928375110286309967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 442
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e1ad919303ddef0800000000000000
+      internalID: -81856196417806765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 330
+        width: 233
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4013205b954aa8b40800000000000000
+      internalID: 5443343804826530052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 394
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c709a1201820d10800000000000000
+      internalID: 2090375023088925754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 356
+        width: 155
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f1781e6d470a50800000000000000
+      internalID: 6487238923502350840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 366
+        width: 221
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d7192f91491dc80800000000000000
+      internalID: -8299689799102399227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 372
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aac977be3d63580800000000000000
+      internalID: -8847651409645229536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 372
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e830cc17ae4e21f0800000000000000
+      internalID: -1067829581991364383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 374
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb522966009f6440800000000000000
+      internalID: 4931318474202045362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_20
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 375
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b831488bfd08613e0800000000000000
+      internalID: -2083336079250549877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac18ee784241940800000000000000
+      internalID: 5265874030543620701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 285
+        width: 159
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180756f3f24a7d910800000000000000
+      internalID: 1862137493775020161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 296
+        width: 206
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538969024a34c8b60800000000000000
+      internalID: 7749643430998218805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 311
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0ed707fb7c4710800000000000000
+      internalID: 1678853062021483827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 312
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c11abbd7c085b670800000000000000
+      internalID: 8553884663133376967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 248
+        width: 225
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6d0b54ab07e81f0800000000000000
+      internalID: -1040770518540560657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 314
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e130f3485de420800000000000000
+      internalID: 2660880003661686256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 296
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812bd247b1364e040800000000000000
+      internalID: 4675971282681836056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 226
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bdb595ec9766dd0800000000000000
+      internalID: -2493171416533574791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_30
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 226
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250aae29113a30f00800000000000000
+      internalID: 1081887631373672530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db91b7297311afd30800000000000000
+      internalID: 4465900910869682621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 272
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc9d8431654b9a0800000000000000
+      internalID: -6218250544665212108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 277
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8299ee8c58ff8a1c0800000000000000
+      internalID: -4492059678235256536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b1cc8dff2dea810800000000000000
+      internalID: 1778590899153673034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 214
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2915394caa676c7a0800000000000000
+      internalID: -6357263348172369518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 242
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f6baeb0f1011180800000000000000
+      internalID: -9146527234710081697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3988e477a29ccfc80800000000000000
+      internalID: -8287528030041110381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 216
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f741c255c78dde9d0800000000000000
+      internalID: -2743298569482267521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 156
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb0ab8f8c471270800000000000000
+      internalID: 8221123824194730782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 158
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7f2ec7fecd8d10800000000000000
+      internalID: 2129585762527576039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 252
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7168134474352fb0800000000000000
+      internalID: -4673271364380499586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 154
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6e7b56b9f0b7610800000000000000
+      internalID: 1619905651070723770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 143
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473041183ef0dea30800000000000000
+      internalID: 4246067493477811060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 88
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda7211c6e0b52c0800000000000000
+      internalID: -4441940750163792395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 89
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9976ffe85908c8f50800000000000000
+      internalID: 6885019310180231065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c2c868c3b99d270800000000000000
+      internalID: 8275816474527673485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 73
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7a358db561ce250800000000000000
+      internalID: 5975175389341001645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b01815344c39060800000000000000
+      internalID: 6959121642626812711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 52
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b677d5950616a5c80800000000000000
+      internalID: -8333241094051629205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daab8a5a4eb4ac20800000000000000
+      internalID: 3216905260405336793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027935a68ef128290800000000000000
+      internalID: -7889708514122950880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_52
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 20
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e215f64d0f7b80800000000000000
+      internalID: -8394976581984787689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlamethrowerGuard_53
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 24
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747a04bb9ee885c0800000000000000
+      internalID: -4212855098897173382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlamethrowerGuard_0: -6360940804246228451
+      FlamethrowerGuard_1: 6138498800671171633
+      FlamethrowerGuard_10: -6809020510011752144
+      FlamethrowerGuard_11: 5928375110286309967
+      FlamethrowerGuard_12: -81856196417806765
+      FlamethrowerGuard_13: 5443343804826530052
+      FlamethrowerGuard_14: 2090375023088925754
+      FlamethrowerGuard_15: 6487238923502350840
+      FlamethrowerGuard_16: -8299689799102399227
+      FlamethrowerGuard_17: -8847651409645229536
+      FlamethrowerGuard_18: -1067829581991364383
+      FlamethrowerGuard_19: 4931318474202045362
+      FlamethrowerGuard_2: -8040716453179749838
+      FlamethrowerGuard_20: -2083336079250549877
+      FlamethrowerGuard_21: 5265874030543620701
+      FlamethrowerGuard_22: 1862137493775020161
+      FlamethrowerGuard_23: 7749643430998218805
+      FlamethrowerGuard_24: 1678853062021483827
+      FlamethrowerGuard_25: 8553884663133376967
+      FlamethrowerGuard_26: -1040770518540560657
+      FlamethrowerGuard_27: 2660880003661686256
+      FlamethrowerGuard_28: 4675971282681836056
+      FlamethrowerGuard_29: -2493171416533574791
+      FlamethrowerGuard_3: 5421827228997360136
+      FlamethrowerGuard_30: 1081887631373672530
+      FlamethrowerGuard_31: 4465900910869682621
+      FlamethrowerGuard_32: -6218250544665212108
+      FlamethrowerGuard_33: -4492059678235256536
+      FlamethrowerGuard_34: 1778590899153673034
+      FlamethrowerGuard_35: -6357263348172369518
+      FlamethrowerGuard_36: -9146527234710081697
+      FlamethrowerGuard_37: -8287528030041110381
+      FlamethrowerGuard_38: -2743298569482267521
+      FlamethrowerGuard_39: 8221123824194730782
+      FlamethrowerGuard_4: 8688477685905422696
+      FlamethrowerGuard_40: 2129585762527576039
+      FlamethrowerGuard_41: -4673271364380499586
+      FlamethrowerGuard_42: 1619905651070723770
+      FlamethrowerGuard_43: 4246067493477811060
+      FlamethrowerGuard_44: -4441940750163792395
+      FlamethrowerGuard_45: 6885019310180231065
+      FlamethrowerGuard_46: 8275816474527673485
+      FlamethrowerGuard_47: 5975175389341001645
+      FlamethrowerGuard_48: 6959121642626812711
+      FlamethrowerGuard_49: -8333241094051629205
+      FlamethrowerGuard_5: -340716639283512897
+      FlamethrowerGuard_50: 3216905260405336793
+      FlamethrowerGuard_51: -7889708514122950880
+      FlamethrowerGuard_52: -8394976581984787689
+      FlamethrowerGuard_53: -4212855098897173382
+      FlamethrowerGuard_6: -8805495357481110197
+      FlamethrowerGuard_7: -447275272988138095
+      FlamethrowerGuard_8: -2571294753724761766
+      FlamethrowerGuard_9: 5109833535729592784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

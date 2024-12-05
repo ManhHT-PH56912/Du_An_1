@@ -1,0 +1,3367 @@
+fileFormatVersion: 2
+guid: 45ac8f97a553b2940a192f864bd291ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6843823250959608423
+    second: NoHelmetMachineGunGuard_0
+  - first:
+      213: -7469498117541116932
+    second: NoHelmetMachineGunGuard_1
+  - first:
+      213: -8052935882464964842
+    second: NoHelmetMachineGunGuard_2
+  - first:
+      213: 7857566845346139039
+    second: NoHelmetMachineGunGuard_3
+  - first:
+      213: 7729142723085926052
+    second: NoHelmetMachineGunGuard_4
+  - first:
+      213: 4252170303456231486
+    second: NoHelmetMachineGunGuard_5
+  - first:
+      213: 8445530941645454575
+    second: NoHelmetMachineGunGuard_6
+  - first:
+      213: 6544526778249276008
+    second: NoHelmetMachineGunGuard_7
+  - first:
+      213: 7966331391385974544
+    second: NoHelmetMachineGunGuard_8
+  - first:
+      213: -1017470236297511732
+    second: NoHelmetMachineGunGuard_9
+  - first:
+      213: 8314252940103009740
+    second: NoHelmetMachineGunGuard_10
+  - first:
+      213: 4147120500777093046
+    second: NoHelmetMachineGunGuard_11
+  - first:
+      213: -3505963947637649291
+    second: NoHelmetMachineGunGuard_12
+  - first:
+      213: 1391723916816122959
+    second: NoHelmetMachineGunGuard_13
+  - first:
+      213: -4812566438635834094
+    second: NoHelmetMachineGunGuard_14
+  - first:
+      213: -7780457908662073918
+    second: NoHelmetMachineGunGuard_15
+  - first:
+      213: 1480602037902077110
+    second: NoHelmetMachineGunGuard_16
+  - first:
+      213: -7380457836038578663
+    second: NoHelmetMachineGunGuard_17
+  - first:
+      213: 9200307629187249669
+    second: NoHelmetMachineGunGuard_18
+  - first:
+      213: 1644714997768461971
+    second: NoHelmetMachineGunGuard_19
+  - first:
+      213: -6820641168258391245
+    second: NoHelmetMachineGunGuard_20
+  - first:
+      213: -2360293671695541934
+    second: NoHelmetMachineGunGuard_21
+  - first:
+      213: 6696435374935274760
+    second: NoHelmetMachineGunGuard_22
+  - first:
+      213: -1019266638150495469
+    second: NoHelmetMachineGunGuard_23
+  - first:
+      213: -8648218440043817650
+    second: NoHelmetMachineGunGuard_24
+  - first:
+      213: 392524220075823057
+    second: NoHelmetMachineGunGuard_25
+  - first:
+      213: 8135956220426119493
+    second: NoHelmetMachineGunGuard_26
+  - first:
+      213: 8742709554422962073
+    second: NoHelmetMachineGunGuard_27
+  - first:
+      213: -1966334586650737309
+    second: NoHelmetMachineGunGuard_28
+  - first:
+      213: -2111834452075485804
+    second: NoHelmetMachineGunGuard_29
+  - first:
+      213: -7865963751560335047
+    second: NoHelmetMachineGunGuard_30
+  - first:
+      213: 5439363691123705533
+    second: NoHelmetMachineGunGuard_31
+  - first:
+      213: 3580076093494441394
+    second: NoHelmetMachineGunGuard_32
+  - first:
+      213: 7667882465452706425
+    second: NoHelmetMachineGunGuard_33
+  - first:
+      213: -3392653068202856205
+    second: NoHelmetMachineGunGuard_34
+  - first:
+      213: 6858407838096964547
+    second: NoHelmetMachineGunGuard_35
+  - first:
+      213: -2012210028661920346
+    second: NoHelmetMachineGunGuard_36
+  - first:
+      213: -9099583121719067519
+    second: NoHelmetMachineGunGuard_37
+  - first:
+      213: -9118685207475534513
+    second: NoHelmetMachineGunGuard_38
+  - first:
+      213: 2841241151363686926
+    second: NoHelmetMachineGunGuard_39
+  - first:
+      213: 7843040900807729175
+    second: NoHelmetMachineGunGuard_40
+  - first:
+      213: 3604699766702056062
+    second: NoHelmetMachineGunGuard_41
+  - first:
+      213: 3075548083327758117
+    second: NoHelmetMachineGunGuard_42
+  - first:
+      213: 7153969027642512517
+    second: NoHelmetMachineGunGuard_43
+  - first:
+      213: -7108549349107379312
+    second: NoHelmetMachineGunGuard_44
+  - first:
+      213: 4512650146477972199
+    second: NoHelmetMachineGunGuard_45
+  - first:
+      213: -3371309013653811250
+    second: NoHelmetMachineGunGuard_46
+  - first:
+      213: 4077540796799628866
+    second: NoHelmetMachineGunGuard_47
+  - first:
+      213: 563907863106137307
+    second: NoHelmetMachineGunGuard_48
+  - first:
+      213: 4906032891218380298
+    second: NoHelmetMachineGunGuard_49
+  - first:
+      213: 4769712549393543559
+    second: NoHelmetMachineGunGuard_50
+  - first:
+      213: 8607275829037966468
+    second: NoHelmetMachineGunGuard_51
+  - first:
+      213: 8497350295589836587
+    second: NoHelmetMachineGunGuard_52
+  - first:
+      213: -1650031782094908100
+    second: NoHelmetMachineGunGuard_53
+  - first:
+      213: -1396278582784132953
+    second: NoHelmetMachineGunGuard_54
+  - first:
+      213: 818703131301111178
+    second: NoHelmetMachineGunGuard_55
+  - first:
+      213: 2203968789017491318
+    second: NoHelmetMachineGunGuard_56
+  - first:
+      213: 4745509845320830752
+    second: NoHelmetMachineGunGuard_57
+  - first:
+      213: 150034370076768262
+    second: NoHelmetMachineGunGuard_58
+  - first:
+      213: -8394164551959769657
+    second: NoHelmetMachineGunGuard_59
+  - first:
+      213: 1052155638618460026
+    second: NoHelmetMachineGunGuard_60
+  - first:
+      213: -6653767300415511850
+    second: NoHelmetMachineGunGuard_61
+  - first:
+      213: 5174523601711877540
+    second: NoHelmetMachineGunGuard_62
+  - first:
+      213: -3192804181391334815
+    second: NoHelmetMachineGunGuard_63
+  - first:
+      213: 3977285279290517756
+    second: NoHelmetMachineGunGuard_64
+  - first:
+      213: -448291135816530172
+    second: NoHelmetMachineGunGuard_65
+  - first:
+      213: 5404940043255267350
+    second: NoHelmetMachineGunGuard_66
+  - first:
+      213: -3779708517004961772
+    second: NoHelmetMachineGunGuard_67
+  - first:
+      213: 8927389889031547843
+    second: NoHelmetMachineGunGuard_68
+  - first:
+      213: 165757570005989802
+    second: NoHelmetMachineGunGuard_69
+  - first:
+      213: 3879510868810860735
+    second: NoHelmetMachineGunGuard_70
+  - first:
+      213: -5721603700636695580
+    second: NoHelmetMachineGunGuard_71
+  - first:
+      213: 6338980173239663661
+    second: NoHelmetMachineGunGuard_72
+  - first:
+      213: 1021864531811893165
+    second: NoHelmetMachineGunGuard_73
+  - first:
+      213: 1982390960601317681
+    second: NoHelmetMachineGunGuard_74
+  - first:
+      213: -576081910539092844
+    second: NoHelmetMachineGunGuard_75
+  - first:
+      213: -5543442082872464610
+    second: NoHelmetMachineGunGuard_76
+  - first:
+      213: -6423143005981975237
+    second: NoHelmetMachineGunGuard_77
+  - first:
+      213: -5984821089616302580
+    second: NoHelmetMachineGunGuard_78
+  - first:
+      213: 6030303393777993065
+    second: NoHelmetMachineGunGuard_79
+  - first:
+      213: -1971514645661381243
+    second: NoHelmetMachineGunGuard_80
+  - first:
+      213: 647007714199728496
+    second: NoHelmetMachineGunGuard_81
+  - first:
+      213: 3138628376187230926
+    second: NoHelmetMachineGunGuard_82
+  - first:
+      213: -8685155253565870195
+    second: NoHelmetMachineGunGuard_83
+  - first:
+      213: 1002089587895263214
+    second: NoHelmetMachineGunGuard_84
+  - first:
+      213: -5333161168161328183
+    second: NoHelmetMachineGunGuard_85
+  - first:
+      213: -7871722012939146451
+    second: NoHelmetMachineGunGuard_86
+  - first:
+      213: -28515554734704181
+    second: NoHelmetMachineGunGuard_87
+  - first:
+      213: -2394314744374381115
+    second: NoHelmetMachineGunGuard_88
+  - first:
+      213: 1657360067745145558
+    second: NoHelmetMachineGunGuard_89
+  - first:
+      213: 435524939209882334
+    second: NoHelmetMachineGunGuard_90
+  - first:
+      213: 348686201898039114
+    second: NoHelmetMachineGunGuard_91
+  - first:
+      213: 3226417215911815315
+    second: NoHelmetMachineGunGuard_92
+  - first:
+      213: -6137487163842067084
+    second: NoHelmetMachineGunGuard_93
+  - first:
+      213: -3500140747814236816
+    second: NoHelmetMachineGunGuard_94
+  - first:
+      213: 5803143864826810119
+    second: NoHelmetMachineGunGuard_95
+  - first:
+      213: -1543962724352987429
+    second: NoHelmetMachineGunGuard_96
+  - first:
+      213: 7254851168356325230
+    second: NoHelmetMachineGunGuard_97
+  - first:
+      213: 8112281920656935706
+    second: NoHelmetMachineGunGuard_98
+  - first:
+      213: -876573765893764609
+    second: NoHelmetMachineGunGuard_99
+  - first:
+      213: 8309124183426445077
+    second: NoHelmetMachineGunGuard_100
+  - first:
+      213: 214511523100274051
+    second: NoHelmetMachineGunGuard_101
+  - first:
+      213: -7381451044677089256
+    second: NoHelmetMachineGunGuard_102
+  - first:
+      213: 3985121860603486277
+    second: NoHelmetMachineGunGuard_103
+  - first:
+      213: -3464352539654278963
+    second: NoHelmetMachineGunGuard_104
+  - first:
+      213: -9128021762891884535
+    second: NoHelmetMachineGunGuard_105
+  - first:
+      213: -7248915531200920537
+    second: NoHelmetMachineGunGuard_106
+  - first:
+      213: 1862113971632688062
+    second: NoHelmetMachineGunGuard_107
+  - first:
+      213: 5411332081926343286
+    second: NoHelmetMachineGunGuard_108
+  - first:
+      213: 8586171089781480763
+    second: NoHelmetMachineGunGuard_109
+  - first:
+      213: 184390506961374159
+    second: NoHelmetMachineGunGuard_110
+  - first:
+      213: -7254840554733203993
+    second: NoHelmetMachineGunGuard_111
+  - first:
+      213: 6952469715008453354
+    second: NoHelmetMachineGunGuard_112
+  - first:
+      213: 6609296822062199289
+    second: NoHelmetMachineGunGuard_113
+  - first:
+      213: 3232105594960297316
+    second: NoHelmetMachineGunGuard_114
+  - first:
+      213: 6013070032239672172
+    second: NoHelmetMachineGunGuard_115
+  - first:
+      213: -6171577592076270864
+    second: NoHelmetMachineGunGuard_116
+  - first:
+      213: 9128880534403817890
+    second: NoHelmetMachineGunGuard_117
+  - first:
+      213: 2981296304496987734
+    second: NoHelmetMachineGunGuard_118
+  - first:
+      213: 6352635969641858428
+    second: NoHelmetMachineGunGuard_119
+  - first:
+      213: -7909469747104062618
+    second: NoHelmetMachineGunGuard_120
+  - first:
+      213: -3694348322023737768
+    second: NoHelmetMachineGunGuard_121
+  - first:
+      213: -955223048682391602
+    second: NoHelmetMachineGunGuard_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 462
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa1039cf42afe50800000000000000
+      internalID: 6843823250959608423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 462
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf343858903075890800000000000000
+      internalID: -7469498117541116932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 452
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fcdae2b793e3090800000000000000
+      internalID: -8052935882464964842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 462
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b4eb72a6fab0d60800000000000000
+      internalID: 7857566845346139039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 463
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef4db1b5e634b60800000000000000
+      internalID: 7729142723085926052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 464
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3049fdac5eb20b30800000000000000
+      internalID: 4252170303456231486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 466
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf85425ad843570800000000000000
+      internalID: 8445530941645454575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 468
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a64903e64d2da50800000000000000
+      internalID: 6544526778249276008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_8
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 479
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017ba9a61381e8e60800000000000000
+      internalID: 7966331391385974544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 473
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc34fbf53831e1f0800000000000000
+      internalID: -1017470236297511732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 473
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5469b8ff8226370800000000000000
+      internalID: 8314252940103009740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 473
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70f818f188d8930800000000000000
+      internalID: 4147120500777093046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_12
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 473
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5705bb17d50585fc0800000000000000
+      internalID: -3505963947637649291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 474
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f448d375785605310800000000000000
+      internalID: 1391723916816122959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 475
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f4277254563db0800000000000000
+      internalID: -4812566438635834094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_15
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 475
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5815431c2460490800000000000000
+      internalID: -7780457908662073918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_16
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 475
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc6fda75b72c8410800000000000000
+      internalID: 1480602037902077110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_17
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e1c2393b8539990800000000000000
+      internalID: -7380457836038578663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b50e1b0f0eaf70800000000000000
+      internalID: 9200307629187249669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 447
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e1fbe839333d610800000000000000
+      internalID: 1644714997768461971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 385
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333ad89aef63851a0800000000000000
+      internalID: -6820641168258391245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 400
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591cf4396d8e3fd0800000000000000
+      internalID: -2360293671695541934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_22
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 400
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80570688e748eec50800000000000000
+      internalID: 6696435374935274760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 412
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31312a59466dad1f0800000000000000
+      internalID: -1019266638150495469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 414
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e459435262b5bf780800000000000000
+      internalID: -8648218440043817650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 416
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df4b5fc2b6827500800000000000000
+      internalID: 392524220075823057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 420
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549e0aa8319b8e070800000000000000
+      internalID: 8135956220426119493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_27
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 431
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9975bc5d408545970800000000000000
+      internalID: 8742709554422962073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 432
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3654e1d8c1d26b4e0800000000000000
+      internalID: -1966334586650737309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 432
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495eb9b31c141b2e0800000000000000
+      internalID: -2111834452075485804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 432
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b524c4ab76d290800000000000000
+      internalID: -7865963751560335047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 435
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6069545708c7b40800000000000000
+      internalID: 5439363691123705533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_32
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 437
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5ba9d2d3cfea130800000000000000
+      internalID: 3580076093494441394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_33
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 441
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a41c4e97ac96a60800000000000000
+      internalID: 7667882465452706425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_34
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 441
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f031af6200eae0d0800000000000000
+      internalID: -3392653068202856205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_35
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 442
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb36826795fd2f50800000000000000
+      internalID: 6858407838096964547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 442
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada02cd3a13314e0800000000000000
+      internalID: -2012210028661920346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c7bc9cc59c7b180800000000000000
+      internalID: -9099583121719067519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 362
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45cfcddd1ce37180800000000000000
+      internalID: -9118685207475534513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 365
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02214c06cd1e6720800000000000000
+      internalID: 2841241151363686926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 368
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7102183252418dc60800000000000000
+      internalID: 7843040900807729175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_41
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 374
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72a53cd657760230800000000000000
+      internalID: 3604699766702056062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_42
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6264dfaa8eaa20800000000000000
+      internalID: 3075548083327758117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_43
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 406
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58457c26de0084360800000000000000
+      internalID: 7153969027642512517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_44
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 407
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093de1a970c595d90800000000000000
+      internalID: -7108549349107379312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_45
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 407
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea1f60366720ae30800000000000000
+      internalID: 4512650146477972199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf87156054b631d0800000000000000
+      internalID: -3371309013653811250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 320
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b76e30c5569830800000000000000
+      internalID: 4077540796799628866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 326
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcad7ab63763d700800000000000000
+      internalID: 563907863106137307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_49
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 348
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a064479dbeab51440800000000000000
+      internalID: 4906032891218380298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 350
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781335bea4c613240800000000000000
+      internalID: 4769712549393543559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_51
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 329
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4842d9163cf237770800000000000000
+      internalID: 8607275829037966468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_52
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 361
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2751bca217ace570800000000000000
+      internalID: 8497350295589836587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 349
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35d02026d8e919e0800000000000000
+      internalID: -1650031782094908100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_54
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 349
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87aa9d60c6f9ce0800000000000000
+      internalID: -1396278582784132953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_55
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 350
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85e3b5092e9c5b00800000000000000
+      internalID: 818703131301111178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_56
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 350
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6777f6dbfe1169e10800000000000000
+      internalID: 2203968789017491318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_57
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 349
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f8770cf007bd140800000000000000
+      internalID: 4745509845320830752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_58
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 349
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6087684f677051200800000000000000
+      internalID: 150034370076768262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_59
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 350
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd034e60dfe18b80800000000000000
+      internalID: -8394164551959769657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_60
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 296
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f07409af10a9e00800000000000000
+      internalID: 1052155638618460026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2af98b4e119a3a0800000000000000
+      internalID: -6653767300415511850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 313
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad49e9ccc99fc740800000000000000
+      internalID: 5174523601711877540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 316
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162a9c26381e0b3d0800000000000000
+      internalID: -3192804181391334815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_64
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 320
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8608293e7223730800000000000000
+      internalID: 3977285279290517756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_65
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 284
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40703bd469957c9f0800000000000000
+      internalID: -448291135816530172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_66
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 330
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c38e2554320b40800000000000000
+      internalID: 5404940043255267350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41896692127cb8bc0800000000000000
+      internalID: -3779708517004961772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_68
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 249
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cba3230ec574eb70800000000000000
+      internalID: 8927389889031547843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 267
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f907b1a3ec4200800000000000000
+      internalID: 165757570005989802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 264
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80db5a49ac6d530800000000000000
+      internalID: 3879510868810860735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_71
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 267
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e34df5afb7c890b0800000000000000
+      internalID: -5721603700636695580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_72
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 273
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cb138d1e498f750800000000000000
+      internalID: 6338980173239663661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daff73ba0646e2e00800000000000000
+      internalID: 1021864531811893165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 212
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1314694531ed28b10800000000000000
+      internalID: 1982390960601317681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 244
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cf9c8fd885108f0800000000000000
+      internalID: -576081910539092844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_76
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 193
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b6f69cbccb113b0800000000000000
+      internalID: -5543442082872464610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_77
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 244
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd8e2a7796cd6a0800000000000000
+      internalID: -6423143005981975237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_78
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e672d8de4a1fca0800000000000000
+      internalID: -5984821089616302580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_79
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 218
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96548f99cf0ffa350800000000000000
+      internalID: 6030303393777993065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_80
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 226
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d8fd310e5c3a4e0800000000000000
+      internalID: -1971514645661381243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_81
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 240
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071ffcb8612aaf800800000000000000
+      internalID: 647007714199728496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 179
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad99401e5ae8b20800000000000000
+      internalID: 3138628376187230926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fa6141051287780800000000000000
+      internalID: -8685155253565870195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_84
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 166
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5d9fbb2328ed00800000000000000
+      internalID: 1002089587895263214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_85
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 169
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c336d18c2eccf5b0800000000000000
+      internalID: -5333161168161328183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_86
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 179
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba320198602c290800000000000000
+      internalID: -7871722012939146451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_87
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 196
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9f6790141ba9ff0800000000000000
+      internalID: -28515554734704181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_88
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 153
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b515fc6fa5ced0800000000000000
+      internalID: -2394314744374381115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2edd65330200710800000000000000
+      internalID: 1657360067745145558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_90
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 109
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edabd6cef9b4b0600800000000000000
+      internalID: 435524939209882334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_91
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 142
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a477632d048c6d400800000000000000
+      internalID: 348686201898039114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 117
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e0a31d5986cc20800000000000000
+      internalID: 3226417215911815315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 121
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4758ca931f343daa0800000000000000
+      internalID: -6137487163842067084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_94
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 132
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d89aec8800d6fc0800000000000000
+      internalID: -3500140747814236816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f4d734998e88050800000000000000
+      internalID: 5803143864826810119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_96
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 102
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeee7c151eb29ae0800000000000000
+      internalID: -1543962724352987429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_97
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 104
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67d43423b86ea460800000000000000
+      internalID: 7254851168356325230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_98
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 91
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b84961d6d949070800000000000000
+      internalID: 8112281920656935706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_99
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 93
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9c970edc8c5d3f0800000000000000
+      internalID: -876573765893764609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_100
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 68
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fadb3db60ff4370800000000000000
+      internalID: 8309124183426445077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_101
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 73
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dae9ef7191af200800000000000000
+      internalID: 214511523100274051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_102
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 85
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818061b2261df8990800000000000000
+      internalID: -7381451044677089256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_103
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 110
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5402ae7d73ffd4730800000000000000
+      internalID: 3985121860603486277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_104
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 69
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc03f2958b52cefc0800000000000000
+      internalID: -3464352539654278963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_105
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 40
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9085bc8a190c25180800000000000000
+      internalID: -9128021762891884535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_106
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 49
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72405f31bbda66b90800000000000000
+      internalID: -7248915531200920537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_107
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb45729ace87d910800000000000000
+      internalID: 1862113971632688062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_108
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 49
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a05e8abd9e81b40800000000000000
+      internalID: 5411332081926343286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_109
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d572b5d15382770800000000000000
+      internalID: 8586171089781480763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 40
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb036b60361f8200800000000000000
+      internalID: 184390506961374159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_111
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 42
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed870904f0a15b90800000000000000
+      internalID: -7254840554733203993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_112
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 19
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea7dbabe522c7060800000000000000
+      internalID: 6952469715008453354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 25
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b22e2170f8bb50800000000000000
+      internalID: 6609296822062199289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_114
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 35
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d39280aeebadc20800000000000000
+      internalID: 3232105594960297316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_115
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 30
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b3131f557b27350800000000000000
+      internalID: 6013070032239672172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f28880e0e62a5aa0800000000000000
+      internalID: -6171577592076270864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a12e1aaa7c40be70800000000000000
+      internalID: 9128880534403817890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_118
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4abf7131bf5920800000000000000
+      internalID: 2981296304496987734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_119
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754fd5b1c8192850800000000000000
+      internalID: 6352635969641858428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_120
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663e922db2beb3290800000000000000
+      internalID: -7909469747104062618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_121
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f63d46c90bbcc0800000000000000
+      internalID: -3694348322023737768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoHelmetMachineGunGuard_122
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7350eb2bd5eb2f0800000000000000
+      internalID: -955223048682391602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NoHelmetMachineGunGuard_0: 6843823250959608423
+      NoHelmetMachineGunGuard_1: -7469498117541116932
+      NoHelmetMachineGunGuard_10: 8314252940103009740
+      NoHelmetMachineGunGuard_100: 8309124183426445077
+      NoHelmetMachineGunGuard_101: 214511523100274051
+      NoHelmetMachineGunGuard_102: -7381451044677089256
+      NoHelmetMachineGunGuard_103: 3985121860603486277
+      NoHelmetMachineGunGuard_104: -3464352539654278963
+      NoHelmetMachineGunGuard_105: -9128021762891884535
+      NoHelmetMachineGunGuard_106: -7248915531200920537
+      NoHelmetMachineGunGuard_107: 1862113971632688062
+      NoHelmetMachineGunGuard_108: 5411332081926343286
+      NoHelmetMachineGunGuard_109: 8586171089781480763
+      NoHelmetMachineGunGuard_11: 4147120500777093046
+      NoHelmetMachineGunGuard_110: 184390506961374159
+      NoHelmetMachineGunGuard_111: -7254840554733203993
+      NoHelmetMachineGunGuard_112: 6952469715008453354
+      NoHelmetMachineGunGuard_113: 6609296822062199289
+      NoHelmetMachineGunGuard_114: 3232105594960297316
+      NoHelmetMachineGunGuard_115: 6013070032239672172
+      NoHelmetMachineGunGuard_116: -6171577592076270864
+      NoHelmetMachineGunGuard_117: 9128880534403817890
+      NoHelmetMachineGunGuard_118: 2981296304496987734
+      NoHelmetMachineGunGuard_119: 6352635969641858428
+      NoHelmetMachineGunGuard_12: -3505963947637649291
+      NoHelmetMachineGunGuard_120: -7909469747104062618
+      NoHelmetMachineGunGuard_121: -3694348322023737768
+      NoHelmetMachineGunGuard_122: -955223048682391602
+      NoHelmetMachineGunGuard_13: 1391723916816122959
+      NoHelmetMachineGunGuard_14: -4812566438635834094
+      NoHelmetMachineGunGuard_15: -7780457908662073918
+      NoHelmetMachineGunGuard_16: 1480602037902077110
+      NoHelmetMachineGunGuard_17: -7380457836038578663
+      NoHelmetMachineGunGuard_18: 9200307629187249669
+      NoHelmetMachineGunGuard_19: 1644714997768461971
+      NoHelmetMachineGunGuard_2: -8052935882464964842
+      NoHelmetMachineGunGuard_20: -6820641168258391245
+      NoHelmetMachineGunGuard_21: -2360293671695541934
+      NoHelmetMachineGunGuard_22: 6696435374935274760
+      NoHelmetMachineGunGuard_23: -1019266638150495469
+      NoHelmetMachineGunGuard_24: -8648218440043817650
+      NoHelmetMachineGunGuard_25: 392524220075823057
+      NoHelmetMachineGunGuard_26: 8135956220426119493
+      NoHelmetMachineGunGuard_27: 8742709554422962073
+      NoHelmetMachineGunGuard_28: -1966334586650737309
+      NoHelmetMachineGunGuard_29: -2111834452075485804
+      NoHelmetMachineGunGuard_3: 7857566845346139039
+      NoHelmetMachineGunGuard_30: -7865963751560335047
+      NoHelmetMachineGunGuard_31: 5439363691123705533
+      NoHelmetMachineGunGuard_32: 3580076093494441394
+      NoHelmetMachineGunGuard_33: 7667882465452706425
+      NoHelmetMachineGunGuard_34: -3392653068202856205
+      NoHelmetMachineGunGuard_35: 6858407838096964547
+      NoHelmetMachineGunGuard_36: -2012210028661920346
+      NoHelmetMachineGunGuard_37: -9099583121719067519
+      NoHelmetMachineGunGuard_38: -9118685207475534513
+      NoHelmetMachineGunGuard_39: 2841241151363686926
+      NoHelmetMachineGunGuard_4: 7729142723085926052
+      NoHelmetMachineGunGuard_40: 7843040900807729175
+      NoHelmetMachineGunGuard_41: 3604699766702056062
+      NoHelmetMachineGunGuard_42: 3075548083327758117
+      NoHelmetMachineGunGuard_43: 7153969027642512517
+      NoHelmetMachineGunGuard_44: -7108549349107379312
+      NoHelmetMachineGunGuard_45: 4512650146477972199
+      NoHelmetMachineGunGuard_46: -3371309013653811250
+      NoHelmetMachineGunGuard_47: 4077540796799628866
+      NoHelmetMachineGunGuard_48: 563907863106137307
+      NoHelmetMachineGunGuard_49: 4906032891218380298
+      NoHelmetMachineGunGuard_5: 4252170303456231486
+      NoHelmetMachineGunGuard_50: 4769712549393543559
+      NoHelmetMachineGunGuard_51: 8607275829037966468
+      NoHelmetMachineGunGuard_52: 8497350295589836587
+      NoHelmetMachineGunGuard_53: -1650031782094908100
+      NoHelmetMachineGunGuard_54: -1396278582784132953
+      NoHelmetMachineGunGuard_55: 818703131301111178
+      NoHelmetMachineGunGuard_56: 2203968789017491318
+      NoHelmetMachineGunGuard_57: 4745509845320830752
+      NoHelmetMachineGunGuard_58: 150034370076768262
+      NoHelmetMachineGunGuard_59: -8394164551959769657
+      NoHelmetMachineGunGuard_6: 8445530941645454575
+      NoHelmetMachineGunGuard_60: 1052155638618460026
+      NoHelmetMachineGunGuard_61: -6653767300415511850
+      NoHelmetMachineGunGuard_62: 5174523601711877540
+      NoHelmetMachineGunGuard_63: -3192804181391334815
+      NoHelmetMachineGunGuard_64: 3977285279290517756
+      NoHelmetMachineGunGuard_65: -448291135816530172
+      NoHelmetMachineGunGuard_66: 5404940043255267350
+      NoHelmetMachineGunGuard_67: -3779708517004961772
+      NoHelmetMachineGunGuard_68: 8927389889031547843
+      NoHelmetMachineGunGuard_69: 165757570005989802
+      NoHelmetMachineGunGuard_7: 6544526778249276008
+      NoHelmetMachineGunGuard_70: 3879510868810860735
+      NoHelmetMachineGunGuard_71: -5721603700636695580
+      NoHelmetMachineGunGuard_72: 6338980173239663661
+      NoHelmetMachineGunGuard_73: 1021864531811893165
+      NoHelmetMachineGunGuard_74: 1982390960601317681
+      NoHelmetMachineGunGuard_75: -576081910539092844
+      NoHelmetMachineGunGuard_76: -5543442082872464610
+      NoHelmetMachineGunGuard_77: -6423143005981975237
+      NoHelmetMachineGunGuard_78: -5984821089616302580
+      NoHelmetMachineGunGuard_79: 6030303393777993065
+      NoHelmetMachineGunGuard_8: 7966331391385974544
+      NoHelmetMachineGunGuard_80: -1971514645661381243
+      NoHelmetMachineGunGuard_81: 647007714199728496
+      NoHelmetMachineGunGuard_82: 3138628376187230926
+      NoHelmetMachineGunGuard_83: -8685155253565870195
+      NoHelmetMachineGunGuard_84: 1002089587895263214
+      NoHelmetMachineGunGuard_85: -5333161168161328183
+      NoHelmetMachineGunGuard_86: -7871722012939146451
+      NoHelmetMachineGunGuard_87: -28515554734704181
+      NoHelmetMachineGunGuard_88: -2394314744374381115
+      NoHelmetMachineGunGuard_89: 1657360067745145558
+      NoHelmetMachineGunGuard_9: -1017470236297511732
+      NoHelmetMachineGunGuard_90: 435524939209882334
+      NoHelmetMachineGunGuard_91: 348686201898039114
+      NoHelmetMachineGunGuard_92: 3226417215911815315
+      NoHelmetMachineGunGuard_93: -6137487163842067084
+      NoHelmetMachineGunGuard_94: -3500140747814236816
+      NoHelmetMachineGunGuard_95: 5803143864826810119
+      NoHelmetMachineGunGuard_96: -1543962724352987429
+      NoHelmetMachineGunGuard_97: 7254851168356325230
+      NoHelmetMachineGunGuard_98: 8112281920656935706
+      NoHelmetMachineGunGuard_99: -876573765893764609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

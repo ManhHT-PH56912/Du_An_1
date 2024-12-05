@@ -1,0 +1,5213 @@
+fileFormatVersion: 2
+guid: 6d7d475ede74c8f449da2c80cc56bf47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4657816831462403997
+    second: Geezer_BALD_0
+  - first:
+      213: -1258590492943257588
+    second: Geezer_BALD_1
+  - first:
+      213: -8203063915160769924
+    second: Geezer_BALD_2
+  - first:
+      213: -3419901320608581695
+    second: Geezer_BALD_3
+  - first:
+      213: -296317170998983707
+    second: Geezer_BALD_4
+  - first:
+      213: 5509763424655865717
+    second: Geezer_BALD_5
+  - first:
+      213: -115133302185561685
+    second: Geezer_BALD_6
+  - first:
+      213: -7475802219663253797
+    second: Geezer_BALD_7
+  - first:
+      213: -5666821011288158465
+    second: Geezer_BALD_8
+  - first:
+      213: 6140700570689047866
+    second: Geezer_BALD_9
+  - first:
+      213: -5324603176936796895
+    second: Geezer_BALD_10
+  - first:
+      213: 8590626086815383144
+    second: Geezer_BALD_11
+  - first:
+      213: -6659816212804939556
+    second: Geezer_BALD_12
+  - first:
+      213: -1304099449130017782
+    second: Geezer_BALD_13
+  - first:
+      213: 1386416363707830875
+    second: Geezer_BALD_14
+  - first:
+      213: 418231219510042336
+    second: Geezer_BALD_15
+  - first:
+      213: -4220565661160710982
+    second: Geezer_BALD_16
+  - first:
+      213: -5699103613419156043
+    second: Geezer_BALD_17
+  - first:
+      213: -2367340248195603271
+    second: Geezer_BALD_18
+  - first:
+      213: -4594006578962777964
+    second: Geezer_BALD_19
+  - first:
+      213: 8839945280777225961
+    second: Geezer_BALD_20
+  - first:
+      213: 8754066904885441698
+    second: Geezer_BALD_21
+  - first:
+      213: 550122163523580751
+    second: Geezer_BALD_22
+  - first:
+      213: 778908041817203017
+    second: Geezer_BALD_23
+  - first:
+      213: -2570198541943099093
+    second: Geezer_BALD_24
+  - first:
+      213: -3517330287555369083
+    second: Geezer_BALD_25
+  - first:
+      213: -5569119035601467740
+    second: Geezer_BALD_26
+  - first:
+      213: 7595198680446688368
+    second: Geezer_BALD_27
+  - first:
+      213: -2027462758040201001
+    second: Geezer_BALD_28
+  - first:
+      213: -4059212463514932833
+    second: Geezer_BALD_29
+  - first:
+      213: 1271817984731725558
+    second: Geezer_BALD_30
+  - first:
+      213: 7049437622135620818
+    second: Geezer_BALD_31
+  - first:
+      213: 6538030300050957678
+    second: Geezer_BALD_32
+  - first:
+      213: -4547696900806504454
+    second: Geezer_BALD_33
+  - first:
+      213: 8558790529994602112
+    second: Geezer_BALD_34
+  - first:
+      213: -1216127174647024899
+    second: Geezer_BALD_35
+  - first:
+      213: -8711006989468895962
+    second: Geezer_BALD_36
+  - first:
+      213: 6276776896807279969
+    second: Geezer_BALD_37
+  - first:
+      213: -160961992729311935
+    second: Geezer_BALD_38
+  - first:
+      213: -7211232899328678652
+    second: Geezer_BALD_39
+  - first:
+      213: 2633779152870195391
+    second: Geezer_BALD_40
+  - first:
+      213: 112998092654813082
+    second: Geezer_BALD_41
+  - first:
+      213: 3206501570376562512
+    second: Geezer_BALD_42
+  - first:
+      213: 8910575651986840011
+    second: Geezer_BALD_43
+  - first:
+      213: -7533195062237900256
+    second: Geezer_BALD_44
+  - first:
+      213: -1034134155130883571
+    second: Geezer_BALD_45
+  - first:
+      213: 2835663984782694140
+    second: Geezer_BALD_46
+  - first:
+      213: 722706358906081913
+    second: Geezer_BALD_47
+  - first:
+      213: 4003407334621709690
+    second: Geezer_BALD_48
+  - first:
+      213: 7005617233806173585
+    second: Geezer_BALD_49
+  - first:
+      213: -2467904509456345020
+    second: Geezer_BALD_50
+  - first:
+      213: 8979921347722938947
+    second: Geezer_BALD_51
+  - first:
+      213: -4097444273844339366
+    second: Geezer_BALD_52
+  - first:
+      213: 7962126914507432584
+    second: Geezer_BALD_53
+  - first:
+      213: 2420645368222341724
+    second: Geezer_BALD_54
+  - first:
+      213: -675552540069267490
+    second: Geezer_BALD_55
+  - first:
+      213: 7871763112459776641
+    second: Geezer_BALD_56
+  - first:
+      213: -9042908907796612397
+    second: Geezer_BALD_57
+  - first:
+      213: -4091222896742855796
+    second: Geezer_BALD_58
+  - first:
+      213: 7360563470565652459
+    second: Geezer_BALD_59
+  - first:
+      213: 691800389924073272
+    second: Geezer_BALD_60
+  - first:
+      213: -1316633052539109950
+    second: Geezer_BALD_61
+  - first:
+      213: -8845507509355813286
+    second: Geezer_BALD_62
+  - first:
+      213: 1900067643606885828
+    second: Geezer_BALD_63
+  - first:
+      213: 6107720499506072094
+    second: Geezer_BALD_64
+  - first:
+      213: -280000594004581320
+    second: Geezer_BALD_65
+  - first:
+      213: 7415270258655330825
+    second: Geezer_BALD_66
+  - first:
+      213: 7880863861984156266
+    second: Geezer_BALD_67
+  - first:
+      213: 3114216180883378153
+    second: Geezer_BALD_68
+  - first:
+      213: 467662759409856985
+    second: Geezer_BALD_69
+  - first:
+      213: 1151407821803340193
+    second: Geezer_BALD_70
+  - first:
+      213: -6056596535993350309
+    second: Geezer_BALD_71
+  - first:
+      213: -6363823294568848966
+    second: Geezer_BALD_72
+  - first:
+      213: 1163848783537419487
+    second: Geezer_BALD_73
+  - first:
+      213: 8788138856512424879
+    second: Geezer_BALD_74
+  - first:
+      213: 588678104733781985
+    second: Geezer_BALD_75
+  - first:
+      213: -4019099552192251033
+    second: Geezer_BALD_76
+  - first:
+      213: -2810694851509062983
+    second: Geezer_BALD_77
+  - first:
+      213: -4292456895381939126
+    second: Geezer_BALD_78
+  - first:
+      213: -8082864925579062268
+    second: Geezer_BALD_79
+  - first:
+      213: 1926040043469833252
+    second: Geezer_BALD_80
+  - first:
+      213: 5129447978865530674
+    second: Geezer_BALD_81
+  - first:
+      213: -2721523743825454344
+    second: Geezer_BALD_82
+  - first:
+      213: 9102647413141604514
+    second: Geezer_BALD_83
+  - first:
+      213: 2437090023714309555
+    second: Geezer_BALD_84
+  - first:
+      213: 8561643531535529275
+    second: Geezer_BALD_85
+  - first:
+      213: 6089958348292140760
+    second: Geezer_BALD_86
+  - first:
+      213: -2468838587701620989
+    second: Geezer_BALD_87
+  - first:
+      213: -2493267829593721320
+    second: Geezer_BALD_88
+  - first:
+      213: -3081111309150278123
+    second: Geezer_BALD_89
+  - first:
+      213: 8390358105427297341
+    second: Geezer_BALD_90
+  - first:
+      213: 6560625321072362102
+    second: Geezer_BALD_91
+  - first:
+      213: 6624226701620992415
+    second: Geezer_BALD_92
+  - first:
+      213: -1372056975386038103
+    second: Geezer_BALD_93
+  - first:
+      213: 9195458112263224834
+    second: Geezer_BALD_94
+  - first:
+      213: -7034251946702382848
+    second: Geezer_BALD_95
+  - first:
+      213: -5651101848954238140
+    second: Geezer_BALD_96
+  - first:
+      213: 6230766964800209449
+    second: Geezer_BALD_97
+  - first:
+      213: -9218421456539982020
+    second: Geezer_BALD_98
+  - first:
+      213: 1770514540814882287
+    second: Geezer_BALD_99
+  - first:
+      213: -3422941132682424564
+    second: Geezer_BALD_100
+  - first:
+      213: 5487854884411361884
+    second: Geezer_BALD_101
+  - first:
+      213: 3442463330142482439
+    second: Geezer_BALD_102
+  - first:
+      213: -905804587014047583
+    second: Geezer_BALD_103
+  - first:
+      213: -2529617159314891
+    second: Geezer_BALD_104
+  - first:
+      213: -104968528078218435
+    second: Geezer_BALD_105
+  - first:
+      213: -1719263697511268249
+    second: Geezer_BALD_106
+  - first:
+      213: -7496576135914459735
+    second: Geezer_BALD_107
+  - first:
+      213: 7646065778119713616
+    second: Geezer_BALD_108
+  - first:
+      213: -6630448332337588394
+    second: Geezer_BALD_109
+  - first:
+      213: 3207277104029421080
+    second: Geezer_BALD_110
+  - first:
+      213: -5323466126590172318
+    second: Geezer_BALD_111
+  - first:
+      213: 6867996198840651782
+    second: Geezer_BALD_112
+  - first:
+      213: 565038140405157396
+    second: Geezer_BALD_113
+  - first:
+      213: 986239690629421333
+    second: Geezer_BALD_114
+  - first:
+      213: 1660028428078092580
+    second: Geezer_BALD_115
+  - first:
+      213: 1151408000227466129
+    second: Geezer_BALD_116
+  - first:
+      213: 7162376479396483129
+    second: Geezer_BALD_117
+  - first:
+      213: 4400742077239244969
+    second: Geezer_BALD_118
+  - first:
+      213: 8728688458231818773
+    second: Geezer_BALD_119
+  - first:
+      213: -4476321548815092536
+    second: Geezer_BALD_120
+  - first:
+      213: -1840147255228351338
+    second: Geezer_BALD_121
+  - first:
+      213: -2657579331563894386
+    second: Geezer_BALD_122
+  - first:
+      213: -2355487789328581477
+    second: Geezer_BALD_123
+  - first:
+      213: 5162199205037363848
+    second: Geezer_BALD_124
+  - first:
+      213: -8257439922600187811
+    second: Geezer_BALD_125
+  - first:
+      213: -3872096328465922717
+    second: Geezer_BALD_126
+  - first:
+      213: 4034496135099887928
+    second: Geezer_BALD_127
+  - first:
+      213: -8289341265651112454
+    second: Geezer_BALD_128
+  - first:
+      213: -8268930689053318487
+    second: Geezer_BALD_129
+  - first:
+      213: -6049733435628137539
+    second: Geezer_BALD_130
+  - first:
+      213: -6969777077475541339
+    second: Geezer_BALD_131
+  - first:
+      213: 6194952469474968330
+    second: Geezer_BALD_132
+  - first:
+      213: 8701082435038963502
+    second: Geezer_BALD_133
+  - first:
+      213: -3052254956293734786
+    second: Geezer_BALD_134
+  - first:
+      213: -8937247259808478880
+    second: Geezer_BALD_135
+  - first:
+      213: -8122882107697687427
+    second: Geezer_BALD_136
+  - first:
+      213: -6658739993870225335
+    second: Geezer_BALD_137
+  - first:
+      213: -8347141288317686566
+    second: Geezer_BALD_138
+  - first:
+      213: -5554856034201633465
+    second: Geezer_BALD_139
+  - first:
+      213: 821740713389781717
+    second: Geezer_BALD_140
+  - first:
+      213: 772659530386790145
+    second: Geezer_BALD_141
+  - first:
+      213: 7417955252764456712
+    second: Geezer_BALD_142
+  - first:
+      213: 1320969973318895337
+    second: Geezer_BALD_143
+  - first:
+      213: 2618240228015346210
+    second: Geezer_BALD_144
+  - first:
+      213: -630466263647860875
+    second: Geezer_BALD_145
+  - first:
+      213: 6740346370243004737
+    second: Geezer_BALD_146
+  - first:
+      213: 3429936250680566391
+    second: Geezer_BALD_147
+  - first:
+      213: -7031759755341955511
+    second: Geezer_BALD_148
+  - first:
+      213: -8851811866359054535
+    second: Geezer_BALD_149
+  - first:
+      213: 1809461212962316374
+    second: Geezer_BALD_150
+  - first:
+      213: 2722613446603987951
+    second: Geezer_BALD_151
+  - first:
+      213: -7388844789290262091
+    second: Geezer_BALD_152
+  - first:
+      213: 6939343315771120963
+    second: Geezer_BALD_153
+  - first:
+      213: -2895891138917396239
+    second: Geezer_BALD_154
+  - first:
+      213: -6993163406421447052
+    second: Geezer_BALD_155
+  - first:
+      213: -8256542778124529635
+    second: Geezer_BALD_156
+  - first:
+      213: -7593017181812167814
+    second: Geezer_BALD_157
+  - first:
+      213: -6546156118880098772
+    second: Geezer_BALD_158
+  - first:
+      213: 4788872062665167325
+    second: Geezer_BALD_159
+  - first:
+      213: 4884061632018324238
+    second: Geezer_BALD_160
+  - first:
+      213: -2255543532338018005
+    second: Geezer_BALD_161
+  - first:
+      213: 818225543026965252
+    second: Geezer_BALD_162
+  - first:
+      213: -5751001940139685384
+    second: Geezer_BALD_163
+  - first:
+      213: -6402338173480748041
+    second: Geezer_BALD_164
+  - first:
+      213: 6400693007955847076
+    second: Geezer_BALD_165
+  - first:
+      213: 5441021284183355777
+    second: Geezer_BALD_166
+  - first:
+      213: 6791447456239429417
+    second: Geezer_BALD_167
+  - first:
+      213: -263819277931038483
+    second: Geezer_BALD_168
+  - first:
+      213: 6645516261373210902
+    second: Geezer_BALD_169
+  - first:
+      213: -2937819967547952233
+    second: Geezer_BALD_170
+  - first:
+      213: -934958675060464692
+    second: Geezer_BALD_171
+  - first:
+      213: -4032299826778061129
+    second: Geezer_BALD_172
+  - first:
+      213: -6653236417494164008
+    second: Geezer_BALD_173
+  - first:
+      213: 5023458173230884962
+    second: Geezer_BALD_174
+  - first:
+      213: 4992738156324964166
+    second: Geezer_BALD_175
+  - first:
+      213: 2691051043528058352
+    second: Geezer_BALD_176
+  - first:
+      213: 2754718107580554757
+    second: Geezer_BALD_177
+  - first:
+      213: -6306996921211201188
+    second: Geezer_BALD_178
+  - first:
+      213: -1606067034127355660
+    second: Geezer_BALD_179
+  - first:
+      213: -8254997791446682533
+    second: Geezer_BALD_180
+  - first:
+      213: -1536578134677542386
+    second: Geezer_BALD_181
+  - first:
+      213: 8634378978321969759
+    second: Geezer_BALD_182
+  - first:
+      213: -6734769612573572498
+    second: Geezer_BALD_183
+  - first:
+      213: -3860012216144644132
+    second: Geezer_BALD_184
+  - first:
+      213: -7252914056349050864
+    second: Geezer_BALD_185
+  - first:
+      213: -8479228110301405694
+    second: Geezer_BALD_186
+  - first:
+      213: -5299994364267963803
+    second: Geezer_BALD_187
+  - first:
+      213: 12067668091981641
+    second: Geezer_BALD_188
+  - first:
+      213: -1619128810164731449
+    second: Geezer_BALD_189
+  - first:
+      213: -8321585434846406486
+    second: Geezer_BALD_190
+  - first:
+      213: 3299325644027813641
+    second: Geezer_BALD_191
+  - first:
+      213: -5261618131437753502
+    second: Geezer_BALD_192
+  - first:
+      213: 9119741249085764683
+    second: Geezer_BALD_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geezer_BALD_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fe624eab3e3a040800000000000000
+      internalID: 4657816831462403997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 466
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00fe6e6d96988ee0800000000000000
+      internalID: -1258590492943257588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 464
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6403b4dcd82e80800000000000000
+      internalID: -8203063915160769924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 464
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c77c3a4ed11a80d0800000000000000
+      internalID: -3419901320608581695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 465
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3c1c95a1543ebf0800000000000000
+      internalID: -296317170998983707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 466
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5777d0b84ac967c40800000000000000
+      internalID: 5509763424655865717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 470
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba179652fd6f66ef0800000000000000
+      internalID: -115133302185561685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_7
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 469
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde15ed5d7d904890800000000000000
+      internalID: -7475802219663253797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_8
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 468
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe037870586b51b0800000000000000
+      internalID: -5666821011288158465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_9
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 466
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d85fb52a6283550800000000000000
+      internalID: 6140700570689047866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 466
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d04cc1f953b16b0800000000000000
+      internalID: -5324603176936796895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 466
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eb5de29e8083770800000000000000
+      internalID: 8590626086815383144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_12
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 466
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0df5e80749393a0800000000000000
+      internalID: -6659816212804939556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 475
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c92ded578e6ede0800000000000000
+      internalID: -1304099449130017782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 448
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521895565a8d3310800000000000000
+      internalID: 1386416363707830875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 384
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eedfd8041bddc500800000000000000
+      internalID: 418231219510042336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 419
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcdd4784e98d65c0800000000000000
+      internalID: -4220565661160710982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 416
+        width: 89
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd81007577b8e0b0800000000000000
+      internalID: -5699103613419156043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 416
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e0d34694852fd0800000000000000
+      internalID: -2367340248195603271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 416
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498bd154b5fce30c0800000000000000
+      internalID: -4594006578962777964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 416
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e60e96956bcdaa70800000000000000
+      internalID: 8839945280777225961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 417
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a433bd0871bc7970800000000000000
+      internalID: 8754066904885441698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 418
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4374eb613d62a700800000000000000
+      internalID: 550122163523580751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 422
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a539bcbc3fca00800000000000000
+      internalID: 778908041817203017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 421
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2131492b02d45cd0800000000000000
+      internalID: -2570198541943099093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 421
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872a843dbeef2fc0800000000000000
+      internalID: -3517330287555369083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 421
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6cb1b5eb386b2b0800000000000000
+      internalID: -5569119035601467740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c5a8275f0976960800000000000000
+      internalID: 7595198680446688368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_28
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d81eaf0d510dd3e0800000000000000
+      internalID: -2027462758040201001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_29
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99aa5465c7caa7c0800000000000000
+      internalID: -4059212463514932833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_30
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe33eef7b766a110800000000000000
+      internalID: 1271817984731725558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_31
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 421
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d40ba5fa22a4d160800000000000000
+      internalID: 7049437622135620818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_32
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 421
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65274dfaefbbba50800000000000000
+      internalID: 6538030300050957678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_33
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 12
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff884173c553e0c0800000000000000
+      internalID: -4547696900806504454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 333
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0863e4ff3aee6c670800000000000000
+      internalID: 8558790529994602112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 372
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f67927c27f1fe0800000000000000
+      internalID: -1216127174647024899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 368
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625f2c4cb494c1780800000000000000
+      internalID: -8711006989468895962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 368
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d9394f4579b1750800000000000000
+      internalID: 6276776896807279969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 367
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c701abe524cdf0800000000000000
+      internalID: -160961992729311935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 367
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40567e282ed8ceb90800000000000000
+      internalID: -7211232899328678652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_40
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 369
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb048a76f201d8420800000000000000
+      internalID: 2633779152870195391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_41
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 376
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9cf4aa23719100800000000000000
+      internalID: 112998092654813082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_42
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 331
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f6028038cf7c20800000000000000
+      internalID: 3206501570376562512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_43
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 376
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc99be06859b8ab70800000000000000
+      internalID: 8910575651986840011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_44
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 331
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0225593e007b47790800000000000000
+      internalID: -7533195062237900256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 376
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023359077406a1f0800000000000000
+      internalID: -1034134155130883571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_46
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 331
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf65753ce5d4a5720800000000000000
+      internalID: 2835663984782694140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_47
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 376
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725387ba91970a00800000000000000
+      internalID: 722706358906081913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_48
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 332
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75025782c5fe8730800000000000000
+      internalID: 4003407334621709690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_49
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1952f5db1c3f83160800000000000000
+      internalID: 7005617233806173585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_50
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44815469ced30cdd0800000000000000
+      internalID: -2467904509456345020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_51
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 332
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a09f953e61f9c70800000000000000
+      internalID: 8979921347722938947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_52
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dbc826424f227c0800000000000000
+      internalID: -4097444273844339366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 332
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882eacb5e382f7e60800000000000000
+      internalID: 7962126914507432584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_54
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a5614232cd79120800000000000000
+      internalID: 2420645368222341724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_55
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7fe064b84ff96f0800000000000000
+      internalID: -675552540069267490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_56
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 332
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182303a28de1e3d60800000000000000
+      internalID: 7871763112459776641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_57
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 376
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da319e7242218280800000000000000
+      internalID: -9042908907796612397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_58
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b82be937e0937c0800000000000000
+      internalID: -4091222896742855796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_59
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 332
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be738c18a79f52660800000000000000
+      internalID: 7360563470565652459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_60
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa6e01ac4c99900800000000000000
+      internalID: 691800389924073272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_61
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd3edbe6316abde0800000000000000
+      internalID: -1316633052539109950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_62
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 332
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ebc629c17e3580800000000000000
+      internalID: -8845507509355813286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_63
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5e66274756e5a10800000000000000
+      internalID: 1900067643606885828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_64
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4e682f6bf2c450800000000000000
+      internalID: 6107720499506072094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_65
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834657971fc3d1cf0800000000000000
+      internalID: -280000594004581320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028ba0330558e660800000000000000
+      internalID: 7415270258655330825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 326
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a57c88de37e5d60800000000000000
+      internalID: 7880863861984156266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 321
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efc35fdd1be73b20800000000000000
+      internalID: 3114216180883378153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_69
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 321
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1bd494dc87d7600800000000000000
+      internalID: 467662759409856985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_70
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 321
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c132405f9aff00800000000000000
+      internalID: 1151407821803340193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_71
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 321
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57414c2a85a2fba0800000000000000
+      internalID: -6056596535993350309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_72
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 283
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab12ed93e682fa7a0800000000000000
+      internalID: -6363823294568848966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_73
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 286
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b4036d42d62010800000000000000
+      internalID: 1163848783537419487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_74
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 286
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab0b3b7abdb5f970800000000000000
+      internalID: 8788138856512424879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_75
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 286
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef05b70e976b2800800000000000000
+      internalID: 588678104733781985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 288
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b36aa504a4938c0800000000000000
+      internalID: -4019099552192251033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_77
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b278cb9ce76ef8d0800000000000000
+      internalID: -2810694851509062983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_78
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c551132312e64c0800000000000000
+      internalID: -4292456895381939126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_79
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404556fcc25e3df80800000000000000
+      internalID: -8082864925579062268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_80
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4248236073baaba10800000000000000
+      internalID: 1926040043469833252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_81
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 288
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237102282c57f2740800000000000000
+      internalID: 5129447978865530674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_82
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 289
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa1e7103943b3ad0800000000000000
+      internalID: -2721523743825454344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_83
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 289
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a80fe72899135e70800000000000000
+      internalID: 9102647413141604514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_84
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 289
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5c32dd67842d120800000000000000
+      internalID: 2437090023714309555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_85
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 289
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3532be2e6111d670800000000000000
+      internalID: 8561643531535529275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 263
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dea0ee0ad0e38450800000000000000
+      internalID: 6089958348292140760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_87
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 272
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f844c826cecbdd0800000000000000
+      internalID: -2468838587701620989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 278
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816382f6e12266dd0800000000000000
+      internalID: -2493267829593721320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_89
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 276
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea8a8b691bd35d0800000000000000
+      internalID: -3081111309150278123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_90
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 276
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34405c2e3a807470800000000000000
+      internalID: 8390358105427297341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_91
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 239
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67283f648f50c0b50800000000000000
+      internalID: 6560625321072362102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 239
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99d6c5a61bfdeb50800000000000000
+      internalID: 6624226701620992415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_93
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 238
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b48a437975fce0800000000000000
+      internalID: -1372056975386038103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_94
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 241
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20efe68fe64dc9f70800000000000000
+      internalID: 9195458112263224834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_95
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 241
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0095430af11516e90800000000000000
+      internalID: -7034251946702382848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_96
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 241
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b87872fc04391b0800000000000000
+      internalID: -5651101848954238140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_97
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 244
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922c72fda81287650800000000000000
+      internalID: 6230766964800209449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_98
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 244
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37681dc686911080800000000000000
+      internalID: -9218421456539982020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 245
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe55fe22891229810800000000000000
+      internalID: 1770514540814882287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_100
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 246
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f0463ec254f70d0800000000000000
+      internalID: -3422941132682424564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_101
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 252
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a4b3401f6c82c40800000000000000
+      internalID: 5487854884411361884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_102
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 262
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7007379e82616cf20800000000000000
+      internalID: 3442463330142482439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_103
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 263
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8bb1bf68fed63f0800000000000000
+      internalID: -905804587014047583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 256
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5322dcb935307fff0800000000000000
+      internalID: -2529617159314891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 192
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b5d4b0ea31b8ef0800000000000000
+      internalID: -104968528078218435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_106
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 230
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760cd92b6c2f328e0800000000000000
+      internalID: -1719263697511268249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 231
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ade52319bfc6f790800000000000000
+      internalID: -7496576135914459735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_108
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 231
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053a81a80584c1a60800000000000000
+      internalID: 7646065778119713616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_109
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 231
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657df611f5aebf3a0800000000000000
+      internalID: -6630448332337588394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_110
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 210
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ecae18889828c20800000000000000
+      internalID: 3207277104029421080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_111
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 195
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263a4c643cf3f16b0800000000000000
+      internalID: -5323466126590172318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 184
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60051a69726005f50800000000000000
+      internalID: 6867996198840651782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_113
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 211
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e856be13b67d700800000000000000
+      internalID: 565038140405157396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_114
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 222
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5199b57f5c3dfad00800000000000000
+      internalID: 986239690629421333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_115
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42115a46f0b990710800000000000000
+      internalID: 1660028428078092580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_116
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 193
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bd91dc97f9aff00800000000000000
+      internalID: 1151408000227466129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_117
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 196
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9305a0ac57fd56360800000000000000
+      internalID: 7162376479396483129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_118
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 196
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b5f56a93921d30800000000000000
+      internalID: 4400742077239244969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_119
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 196
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa5fbf7e7822970800000000000000
+      internalID: 8728688458231818773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_120
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 200
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c433769449e0e1c0800000000000000
+      internalID: -4476321548815092536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_121
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 200
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c34b522db7676e0800000000000000
+      internalID: -1840147255228351338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_122
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 204
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c6bbada16e1bd0800000000000000
+      internalID: -2657579331563894386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_123
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 198
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cbc44e550af4fd0800000000000000
+      internalID: -2355487789328581477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_124
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 199
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8825e0493d0d3a740800000000000000
+      internalID: 5162199205037363848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_125
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 204
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d586943e32ea76d80800000000000000
+      internalID: -8257439922600187811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_126
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 208
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365c1bd87ec834ac0800000000000000
+      internalID: -3872096328465922717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_127
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 211
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831b054fbd86df730800000000000000
+      internalID: 4034496135099887928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_128
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 199
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e0e6a90856fc80800000000000000
+      internalID: -8289341265651112454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_129
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 156
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2a6a6595bde3d80800000000000000
+      internalID: -8268930689053318487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_130
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 156
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3d49f3e770b0ca0800000000000000
+      internalID: -6049733435628137539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 158
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aef86deca0664f90800000000000000
+      internalID: -6969777077475541339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_132
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 160
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a030c7fd274e8f550800000000000000
+      internalID: 6194952469474968330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_133
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 176
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2763e5df5470c870800000000000000
+      internalID: 8701082435038963502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_134
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 178
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ebf2ee94634a5d0800000000000000
+      internalID: -3052254956293734786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_135
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 162
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069484108f488f380800000000000000
+      internalID: -8937247259808478880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_136
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d749d4a82c9b54f80800000000000000
+      internalID: -8122882107697687427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_137
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 126
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940bdad41476793a0800000000000000
+      internalID: -6658739993870225335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_138
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce3db293ff82c80800000000000000
+      internalID: -8347141288317686566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_139
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 135
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74df9f62edf29e2b0800000000000000
+      internalID: -5554856034201633465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_140
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 148
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2f21733d8676b00800000000000000
+      internalID: 821740713389781717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_141
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 151
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1075609cfb909ba00800000000000000
+      internalID: 772659530386790145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_142
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 106
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807b4c8100fd1f660800000000000000
+      internalID: 7417955252764456712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_143
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 151
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e641a22137055210800000000000000
+      internalID: 1320969973318895337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_144
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 106
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2221e778d9bd55420800000000000000
+      internalID: 2618240228015346210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_145
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 151
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c66806422047f0800000000000000
+      internalID: -630466263647860875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_146
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 106
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1498d65df458a8d50800000000000000
+      internalID: 6740346370243004737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_147
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 112
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772ec00f8d4999f20800000000000000
+      internalID: 3429936250680566391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_148
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 112
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e74f422cb2a6e90800000000000000
+      internalID: -7031759755341955511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_149
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 109
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fb417a10c082580800000000000000
+      internalID: -8851811866359054535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_150
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 149
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6506771e26f7c1910800000000000000
+      internalID: 1809461212962316374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_151
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 151
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb5881318aa8c520800000000000000
+      internalID: 2722613446603987951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_152
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 114
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1abd9dfcc857990800000000000000
+      internalID: -7388844789290262091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_153
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 115
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dd40fbaff7d4060800000000000000
+      internalID: 6939343315771120963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_154
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 149
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f090ac2a5abfc7d0800000000000000
+      internalID: -2895891138917396239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_155
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 118
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e2df7eeea43fe90800000000000000
+      internalID: -6993163406421447052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_156
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 128
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10121d961eda6d80800000000000000
+      internalID: -8256542778124529635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_157
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7be5a84a1f20a690800000000000000
+      internalID: -7593017181812167814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_158
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 90
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26e6e161b16725a0800000000000000
+      internalID: -6546156118880098772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_159
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 103
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd113f9b4cd757240800000000000000
+      internalID: 4788872062665167325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_160
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 102
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b119d6d2ca7c340800000000000000
+      internalID: 4884061632018324238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_161
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 103
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2900939b13b2b0e0800000000000000
+      internalID: -2255543532338018005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_162
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 103
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bf546dbcbea5b00800000000000000
+      internalID: 818225543026965252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_163
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 110
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9446f94365030b0800000000000000
+      internalID: -5751001940139685384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_164
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbb1cd2a535627a0800000000000000
+      internalID: -6402338173480748041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_165
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7e88fd064d3d850800000000000000
+      internalID: 6400693007955847076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_166
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 68
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181b61bb704628b40800000000000000
+      internalID: 5441021284183355777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_167
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 68
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927a1e39a71104e50800000000000000
+      internalID: 6791447456239429417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_168
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83506b3c9b65cf0800000000000000
+      internalID: -263819277931038483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_169
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 45
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117b3c84dd993c50800000000000000
+      internalID: 6645516261373210902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_170
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 58
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79331440e44ca37d0800000000000000
+      internalID: -2937819967547952233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_171
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 61
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3e955e90c5603f0800000000000000
+      internalID: -934958675060464692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_172
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 16
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6460deba46a08c0800000000000000
+      internalID: -4032299826778061129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_173
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 61
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd51988ab4faa3a0800000000000000
+      internalID: -6653236417494164008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_174
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 16
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a577d798e6b540800000000000000
+      internalID: 5023458173230884962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_175
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 61
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647c94886e4c94540800000000000000
+      internalID: 4992738156324964166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_176
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 17
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52fe19aa8885520800000000000000
+      internalID: 2691051043528058352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_177
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 24
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50edca21689ba3620800000000000000
+      internalID: 2754718107580554757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_178
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 24
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5959bf47bb0978a0800000000000000
+      internalID: -6306996921211201188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_179
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 56
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0bf51ba8a16b9e0800000000000000
+      internalID: -1606067034127355660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_180
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 58
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54bf2bde3b507d80800000000000000
+      internalID: -8254997791446682533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_181
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 58
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa9e0e35afcaae0800000000000000
+      internalID: -1536578134677542386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_182
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 58
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f523bf21fe973d770800000000000000
+      internalID: 8634378978321969759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_183
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 58
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62057e38ba4982a0800000000000000
+      internalID: -6734769612573572498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7b704375b7e6ac0800000000000000
+      internalID: -3860012216144644132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_185
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01890e4e719785b90800000000000000
+      internalID: -7252914056349050864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_186
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e5af365fab35a80800000000000000
+      internalID: -8479228110301405694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_187
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5c3ec433a276b0800000000000000
+      internalID: -5299994364267963803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_188
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fc3edea7fda2000800000000000000
+      internalID: 12067668091981641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_189
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 13
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1c788fce2b789e0800000000000000
+      internalID: -1619128810164731449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_190
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 14
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85aebf22ac38c80800000000000000
+      internalID: -8321585434846406486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_191
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 15
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f5d92513f89cd20800000000000000
+      internalID: 3299325644027813641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_192
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 15
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26be5ebcf2afaf6b0800000000000000
+      internalID: -5261618131437753502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_BALD_193
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 16
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44fb3bf854df8e70800000000000000
+      internalID: 9119741249085764683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Geezer_BALD_0: 4657816831462403997
+      Geezer_BALD_1: -1258590492943257588
+      Geezer_BALD_10: -5324603176936796895
+      Geezer_BALD_100: -3422941132682424564
+      Geezer_BALD_101: 5487854884411361884
+      Geezer_BALD_102: 3442463330142482439
+      Geezer_BALD_103: -905804587014047583
+      Geezer_BALD_104: -2529617159314891
+      Geezer_BALD_105: -104968528078218435
+      Geezer_BALD_106: -1719263697511268249
+      Geezer_BALD_107: -7496576135914459735
+      Geezer_BALD_108: 7646065778119713616
+      Geezer_BALD_109: -6630448332337588394
+      Geezer_BALD_11: 8590626086815383144
+      Geezer_BALD_110: 3207277104029421080
+      Geezer_BALD_111: -5323466126590172318
+      Geezer_BALD_112: 6867996198840651782
+      Geezer_BALD_113: 565038140405157396
+      Geezer_BALD_114: 986239690629421333
+      Geezer_BALD_115: 1660028428078092580
+      Geezer_BALD_116: 1151408000227466129
+      Geezer_BALD_117: 7162376479396483129
+      Geezer_BALD_118: 4400742077239244969
+      Geezer_BALD_119: 8728688458231818773
+      Geezer_BALD_12: -6659816212804939556
+      Geezer_BALD_120: -4476321548815092536
+      Geezer_BALD_121: -1840147255228351338
+      Geezer_BALD_122: -2657579331563894386
+      Geezer_BALD_123: -2355487789328581477
+      Geezer_BALD_124: 5162199205037363848
+      Geezer_BALD_125: -8257439922600187811
+      Geezer_BALD_126: -3872096328465922717
+      Geezer_BALD_127: 4034496135099887928
+      Geezer_BALD_128: -8289341265651112454
+      Geezer_BALD_129: -8268930689053318487
+      Geezer_BALD_13: -1304099449130017782
+      Geezer_BALD_130: -6049733435628137539
+      Geezer_BALD_131: -6969777077475541339
+      Geezer_BALD_132: 6194952469474968330
+      Geezer_BALD_133: 8701082435038963502
+      Geezer_BALD_134: -3052254956293734786
+      Geezer_BALD_135: -8937247259808478880
+      Geezer_BALD_136: -8122882107697687427
+      Geezer_BALD_137: -6658739993870225335
+      Geezer_BALD_138: -8347141288317686566
+      Geezer_BALD_139: -5554856034201633465
+      Geezer_BALD_14: 1386416363707830875
+      Geezer_BALD_140: 821740713389781717
+      Geezer_BALD_141: 772659530386790145
+      Geezer_BALD_142: 7417955252764456712
+      Geezer_BALD_143: 1320969973318895337
+      Geezer_BALD_144: 2618240228015346210
+      Geezer_BALD_145: -630466263647860875
+      Geezer_BALD_146: 6740346370243004737
+      Geezer_BALD_147: 3429936250680566391
+      Geezer_BALD_148: -7031759755341955511
+      Geezer_BALD_149: -8851811866359054535
+      Geezer_BALD_15: 418231219510042336
+      Geezer_BALD_150: 1809461212962316374
+      Geezer_BALD_151: 2722613446603987951
+      Geezer_BALD_152: -7388844789290262091
+      Geezer_BALD_153: 6939343315771120963
+      Geezer_BALD_154: -2895891138917396239
+      Geezer_BALD_155: -6993163406421447052
+      Geezer_BALD_156: -8256542778124529635
+      Geezer_BALD_157: -7593017181812167814
+      Geezer_BALD_158: -6546156118880098772
+      Geezer_BALD_159: 4788872062665167325
+      Geezer_BALD_16: -4220565661160710982
+      Geezer_BALD_160: 4884061632018324238
+      Geezer_BALD_161: -2255543532338018005
+      Geezer_BALD_162: 818225543026965252
+      Geezer_BALD_163: -5751001940139685384
+      Geezer_BALD_164: -6402338173480748041
+      Geezer_BALD_165: 6400693007955847076
+      Geezer_BALD_166: 5441021284183355777
+      Geezer_BALD_167: 6791447456239429417
+      Geezer_BALD_168: -263819277931038483
+      Geezer_BALD_169: 6645516261373210902
+      Geezer_BALD_17: -5699103613419156043
+      Geezer_BALD_170: -2937819967547952233
+      Geezer_BALD_171: -934958675060464692
+      Geezer_BALD_172: -4032299826778061129
+      Geezer_BALD_173: -6653236417494164008
+      Geezer_BALD_174: 5023458173230884962
+      Geezer_BALD_175: 4992738156324964166
+      Geezer_BALD_176: 2691051043528058352
+      Geezer_BALD_177: 2754718107580554757
+      Geezer_BALD_178: -6306996921211201188
+      Geezer_BALD_179: -1606067034127355660
+      Geezer_BALD_18: -2367340248195603271
+      Geezer_BALD_180: -8254997791446682533
+      Geezer_BALD_181: -1536578134677542386
+      Geezer_BALD_182: 8634378978321969759
+      Geezer_BALD_183: -6734769612573572498
+      Geezer_BALD_184: -3860012216144644132
+      Geezer_BALD_185: -7252914056349050864
+      Geezer_BALD_186: -8479228110301405694
+      Geezer_BALD_187: -5299994364267963803
+      Geezer_BALD_188: 12067668091981641
+      Geezer_BALD_189: -1619128810164731449
+      Geezer_BALD_19: -4594006578962777964
+      Geezer_BALD_190: -8321585434846406486
+      Geezer_BALD_191: 3299325644027813641
+      Geezer_BALD_192: -5261618131437753502
+      Geezer_BALD_193: 9119741249085764683
+      Geezer_BALD_2: -8203063915160769924
+      Geezer_BALD_20: 8839945280777225961
+      Geezer_BALD_21: 8754066904885441698
+      Geezer_BALD_22: 550122163523580751
+      Geezer_BALD_23: 778908041817203017
+      Geezer_BALD_24: -2570198541943099093
+      Geezer_BALD_25: -3517330287555369083
+      Geezer_BALD_26: -5569119035601467740
+      Geezer_BALD_27: 7595198680446688368
+      Geezer_BALD_28: -2027462758040201001
+      Geezer_BALD_29: -4059212463514932833
+      Geezer_BALD_3: -3419901320608581695
+      Geezer_BALD_30: 1271817984731725558
+      Geezer_BALD_31: 7049437622135620818
+      Geezer_BALD_32: 6538030300050957678
+      Geezer_BALD_33: -4547696900806504454
+      Geezer_BALD_34: 8558790529994602112
+      Geezer_BALD_35: -1216127174647024899
+      Geezer_BALD_36: -8711006989468895962
+      Geezer_BALD_37: 6276776896807279969
+      Geezer_BALD_38: -160961992729311935
+      Geezer_BALD_39: -7211232899328678652
+      Geezer_BALD_4: -296317170998983707
+      Geezer_BALD_40: 2633779152870195391
+      Geezer_BALD_41: 112998092654813082
+      Geezer_BALD_42: 3206501570376562512
+      Geezer_BALD_43: 8910575651986840011
+      Geezer_BALD_44: -7533195062237900256
+      Geezer_BALD_45: -1034134155130883571
+      Geezer_BALD_46: 2835663984782694140
+      Geezer_BALD_47: 722706358906081913
+      Geezer_BALD_48: 4003407334621709690
+      Geezer_BALD_49: 7005617233806173585
+      Geezer_BALD_5: 5509763424655865717
+      Geezer_BALD_50: -2467904509456345020
+      Geezer_BALD_51: 8979921347722938947
+      Geezer_BALD_52: -4097444273844339366
+      Geezer_BALD_53: 7962126914507432584
+      Geezer_BALD_54: 2420645368222341724
+      Geezer_BALD_55: -675552540069267490
+      Geezer_BALD_56: 7871763112459776641
+      Geezer_BALD_57: -9042908907796612397
+      Geezer_BALD_58: -4091222896742855796
+      Geezer_BALD_59: 7360563470565652459
+      Geezer_BALD_6: -115133302185561685
+      Geezer_BALD_60: 691800389924073272
+      Geezer_BALD_61: -1316633052539109950
+      Geezer_BALD_62: -8845507509355813286
+      Geezer_BALD_63: 1900067643606885828
+      Geezer_BALD_64: 6107720499506072094
+      Geezer_BALD_65: -280000594004581320
+      Geezer_BALD_66: 7415270258655330825
+      Geezer_BALD_67: 7880863861984156266
+      Geezer_BALD_68: 3114216180883378153
+      Geezer_BALD_69: 467662759409856985
+      Geezer_BALD_7: -7475802219663253797
+      Geezer_BALD_70: 1151407821803340193
+      Geezer_BALD_71: -6056596535993350309
+      Geezer_BALD_72: -6363823294568848966
+      Geezer_BALD_73: 1163848783537419487
+      Geezer_BALD_74: 8788138856512424879
+      Geezer_BALD_75: 588678104733781985
+      Geezer_BALD_76: -4019099552192251033
+      Geezer_BALD_77: -2810694851509062983
+      Geezer_BALD_78: -4292456895381939126
+      Geezer_BALD_79: -8082864925579062268
+      Geezer_BALD_8: -5666821011288158465
+      Geezer_BALD_80: 1926040043469833252
+      Geezer_BALD_81: 5129447978865530674
+      Geezer_BALD_82: -2721523743825454344
+      Geezer_BALD_83: 9102647413141604514
+      Geezer_BALD_84: 2437090023714309555
+      Geezer_BALD_85: 8561643531535529275
+      Geezer_BALD_86: 6089958348292140760
+      Geezer_BALD_87: -2468838587701620989
+      Geezer_BALD_88: -2493267829593721320
+      Geezer_BALD_89: -3081111309150278123
+      Geezer_BALD_9: 6140700570689047866
+      Geezer_BALD_90: 8390358105427297341
+      Geezer_BALD_91: 6560625321072362102
+      Geezer_BALD_92: 6624226701620992415
+      Geezer_BALD_93: -1372056975386038103
+      Geezer_BALD_94: 9195458112263224834
+      Geezer_BALD_95: -7034251946702382848
+      Geezer_BALD_96: -5651101848954238140
+      Geezer_BALD_97: 6230766964800209449
+      Geezer_BALD_98: -9218421456539982020
+      Geezer_BALD_99: 1770514540814882287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

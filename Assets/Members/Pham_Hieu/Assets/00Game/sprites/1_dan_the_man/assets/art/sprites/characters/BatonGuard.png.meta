@@ -1,0 +1,4199 @@
+fileFormatVersion: 2
+guid: 49c40aeb360d90347a2d99db2bfe51ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -445080225152521207
+    second: BatonGuard_0
+  - first:
+      213: 6932813687181365789
+    second: BatonGuard_1
+  - first:
+      213: 8216437779008658225
+    second: BatonGuard_2
+  - first:
+      213: 6728969529169128884
+    second: BatonGuard_3
+  - first:
+      213: -422341631347222040
+    second: BatonGuard_4
+  - first:
+      213: 8371479604030013667
+    second: BatonGuard_5
+  - first:
+      213: 564146692035247391
+    second: BatonGuard_6
+  - first:
+      213: -8031356095590704671
+    second: BatonGuard_7
+  - first:
+      213: 2418315720823612568
+    second: BatonGuard_8
+  - first:
+      213: 9181514492025032982
+    second: BatonGuard_9
+  - first:
+      213: 4594626150065346652
+    second: BatonGuard_10
+  - first:
+      213: -6264433356993639321
+    second: BatonGuard_11
+  - first:
+      213: -3206178617409302440
+    second: BatonGuard_12
+  - first:
+      213: -8057947309828765264
+    second: BatonGuard_13
+  - first:
+      213: 3899534042828051710
+    second: BatonGuard_14
+  - first:
+      213: 1715564199376310824
+    second: BatonGuard_15
+  - first:
+      213: 2564548354486685273
+    second: BatonGuard_16
+  - first:
+      213: 1882002305974300921
+    second: BatonGuard_17
+  - first:
+      213: 3322199634096214431
+    second: BatonGuard_18
+  - first:
+      213: -7776289551929411981
+    second: BatonGuard_19
+  - first:
+      213: -7727852213700564129
+    second: BatonGuard_20
+  - first:
+      213: 3942857015334377712
+    second: BatonGuard_21
+  - first:
+      213: 1401581116956255004
+    second: BatonGuard_22
+  - first:
+      213: -2420180338815039345
+    second: BatonGuard_23
+  - first:
+      213: 2793815110213447018
+    second: BatonGuard_24
+  - first:
+      213: -763970975962749230
+    second: BatonGuard_25
+  - first:
+      213: 85778066693786272
+    second: BatonGuard_26
+  - first:
+      213: -6139235857811599814
+    second: BatonGuard_27
+  - first:
+      213: -7414349965246007250
+    second: BatonGuard_28
+  - first:
+      213: 4569619219771211967
+    second: BatonGuard_29
+  - first:
+      213: -284226516257703664
+    second: BatonGuard_30
+  - first:
+      213: 8608538094465744947
+    second: BatonGuard_31
+  - first:
+      213: -7181753813828814817
+    second: BatonGuard_32
+  - first:
+      213: -3012541490828469936
+    second: BatonGuard_33
+  - first:
+      213: -8084535208951663629
+    second: BatonGuard_34
+  - first:
+      213: 2098517336897585948
+    second: BatonGuard_35
+  - first:
+      213: 4162049928672063250
+    second: BatonGuard_36
+  - first:
+      213: 9063606897613426082
+    second: BatonGuard_37
+  - first:
+      213: 6576404776486596685
+    second: BatonGuard_38
+  - first:
+      213: 3085188243703741915
+    second: BatonGuard_39
+  - first:
+      213: -647589523641244676
+    second: BatonGuard_40
+  - first:
+      213: 4078334648366940800
+    second: BatonGuard_41
+  - first:
+      213: -463010394860055251
+    second: BatonGuard_42
+  - first:
+      213: -2858129793664533753
+    second: BatonGuard_43
+  - first:
+      213: -275900299522278094
+    second: BatonGuard_44
+  - first:
+      213: -6587947670650609295
+    second: BatonGuard_45
+  - first:
+      213: -82125180864618459
+    second: BatonGuard_46
+  - first:
+      213: 3393745076359359327
+    second: BatonGuard_47
+  - first:
+      213: 7593655316125109584
+    second: BatonGuard_48
+  - first:
+      213: -7418073690644034084
+    second: BatonGuard_49
+  - first:
+      213: -1698361341699709676
+    second: BatonGuard_50
+  - first:
+      213: -6335487884168581136
+    second: BatonGuard_51
+  - first:
+      213: -550605302836725274
+    second: BatonGuard_52
+  - first:
+      213: -8673739928961172257
+    second: BatonGuard_53
+  - first:
+      213: -6618976991005390381
+    second: BatonGuard_54
+  - first:
+      213: 6845532866640368523
+    second: BatonGuard_55
+  - first:
+      213: 4917735188967968980
+    second: BatonGuard_56
+  - first:
+      213: 6526670058244025603
+    second: BatonGuard_57
+  - first:
+      213: 4902481359560368922
+    second: BatonGuard_58
+  - first:
+      213: -2051667513083619512
+    second: BatonGuard_59
+  - first:
+      213: 3625436630026231456
+    second: BatonGuard_60
+  - first:
+      213: -8639160874143046131
+    second: BatonGuard_61
+  - first:
+      213: -1918944859625855758
+    second: BatonGuard_62
+  - first:
+      213: 7383217426109956809
+    second: BatonGuard_63
+  - first:
+      213: -8587852223407432673
+    second: BatonGuard_64
+  - first:
+      213: 5781370965210581902
+    second: BatonGuard_65
+  - first:
+      213: -4971475156899861581
+    second: BatonGuard_66
+  - first:
+      213: -2364902341809384736
+    second: BatonGuard_67
+  - first:
+      213: 5432930517043730465
+    second: BatonGuard_68
+  - first:
+      213: -2947150947381318114
+    second: BatonGuard_69
+  - first:
+      213: 1253926980877069046
+    second: BatonGuard_70
+  - first:
+      213: 5928557968613572503
+    second: BatonGuard_71
+  - first:
+      213: 3801429371517219134
+    second: BatonGuard_72
+  - first:
+      213: -125019679587820223
+    second: BatonGuard_73
+  - first:
+      213: 6153175860237054307
+    second: BatonGuard_74
+  - first:
+      213: -4594140251850871838
+    second: BatonGuard_75
+  - first:
+      213: 1294623667631759643
+    second: BatonGuard_76
+  - first:
+      213: 3634912897973042118
+    second: BatonGuard_77
+  - first:
+      213: -6371925404017449320
+    second: BatonGuard_78
+  - first:
+      213: 8318660542468785044
+    second: BatonGuard_79
+  - first:
+      213: 4479851784954706289
+    second: BatonGuard_80
+  - first:
+      213: -2052887508438578733
+    second: BatonGuard_81
+  - first:
+      213: -1379969137124695952
+    second: BatonGuard_82
+  - first:
+      213: 8838833441617117606
+    second: BatonGuard_83
+  - first:
+      213: 718070981952302519
+    second: BatonGuard_84
+  - first:
+      213: 3460036735226475739
+    second: BatonGuard_85
+  - first:
+      213: 2823740408751027575
+    second: BatonGuard_86
+  - first:
+      213: 7414518764879819444
+    second: BatonGuard_87
+  - first:
+      213: 8871274708380840270
+    second: BatonGuard_88
+  - first:
+      213: -6001425918822307302
+    second: BatonGuard_89
+  - first:
+      213: 3529535109444754977
+    second: BatonGuard_90
+  - first:
+      213: 5618825535695943605
+    second: BatonGuard_91
+  - first:
+      213: 1850623320102728201
+    second: BatonGuard_92
+  - first:
+      213: -707004935494601443
+    second: BatonGuard_93
+  - first:
+      213: -2350335045439939432
+    second: BatonGuard_94
+  - first:
+      213: 2908517344820725157
+    second: BatonGuard_95
+  - first:
+      213: -229535862067963838
+    second: BatonGuard_96
+  - first:
+      213: 7802118015879234804
+    second: BatonGuard_97
+  - first:
+      213: -249188989902449006
+    second: BatonGuard_98
+  - first:
+      213: -6389364654081134923
+    second: BatonGuard_99
+  - first:
+      213: -4415747208146336356
+    second: BatonGuard_100
+  - first:
+      213: -1066709196879080350
+    second: BatonGuard_101
+  - first:
+      213: 4174313925441324332
+    second: BatonGuard_102
+  - first:
+      213: -476210066399618192
+    second: BatonGuard_103
+  - first:
+      213: 283519039426001440
+    second: BatonGuard_104
+  - first:
+      213: 725607074660691554
+    second: BatonGuard_105
+  - first:
+      213: -1219973667861199932
+    second: BatonGuard_106
+  - first:
+      213: -5469749012463413965
+    second: BatonGuard_107
+  - first:
+      213: 3394627706462284062
+    second: BatonGuard_108
+  - first:
+      213: -501076834632721359
+    second: BatonGuard_109
+  - first:
+      213: 3020747445958747899
+    second: BatonGuard_110
+  - first:
+      213: -1285249760595052123
+    second: BatonGuard_111
+  - first:
+      213: -2256575731978027750
+    second: BatonGuard_112
+  - first:
+      213: -2188305196889934421
+    second: BatonGuard_113
+  - first:
+      213: 8612057577909284816
+    second: BatonGuard_114
+  - first:
+      213: -6559479888160851292
+    second: BatonGuard_115
+  - first:
+      213: 8377466102930609805
+    second: BatonGuard_116
+  - first:
+      213: 759150247082960206
+    second: BatonGuard_117
+  - first:
+      213: -28060384756473582
+    second: BatonGuard_118
+  - first:
+      213: 2085861155543681896
+    second: BatonGuard_119
+  - first:
+      213: -5691337290280765733
+    second: BatonGuard_120
+  - first:
+      213: -8035310042605471859
+    second: BatonGuard_121
+  - first:
+      213: 686338912412672270
+    second: BatonGuard_122
+  - first:
+      213: -835576495209925807
+    second: BatonGuard_123
+  - first:
+      213: -5492633774930016640
+    second: BatonGuard_124
+  - first:
+      213: 8209014367845202299
+    second: BatonGuard_125
+  - first:
+      213: -820997729683307624
+    second: BatonGuard_126
+  - first:
+      213: 6954154230200317967
+    second: BatonGuard_127
+  - first:
+      213: 6757869359544349993
+    second: BatonGuard_128
+  - first:
+      213: 5878719331896696398
+    second: BatonGuard_129
+  - first:
+      213: 4643834261214922284
+    second: BatonGuard_130
+  - first:
+      213: 7389568231593353091
+    second: BatonGuard_131
+  - first:
+      213: -7437396360402705946
+    second: BatonGuard_132
+  - first:
+      213: -5177827129224994355
+    second: BatonGuard_133
+  - first:
+      213: 4345953874743467496
+    second: BatonGuard_134
+  - first:
+      213: 5525440831860008360
+    second: BatonGuard_135
+  - first:
+      213: 8088033112511634363
+    second: BatonGuard_136
+  - first:
+      213: 6198572427588853519
+    second: BatonGuard_137
+  - first:
+      213: -6964749890970709970
+    second: BatonGuard_138
+  - first:
+      213: -3050991818427874409
+    second: BatonGuard_139
+  - first:
+      213: 8734352281856928970
+    second: BatonGuard_140
+  - first:
+      213: 8066901532662776231
+    second: BatonGuard_141
+  - first:
+      213: 8242106824107203767
+    second: BatonGuard_142
+  - first:
+      213: -8428638702101176207
+    second: BatonGuard_143
+  - first:
+      213: -2471412262700229952
+    second: BatonGuard_144
+  - first:
+      213: -7179730027732638580
+    second: BatonGuard_145
+  - first:
+      213: -2944281719018079133
+    second: BatonGuard_146
+  - first:
+      213: 8639218146688154628
+    second: BatonGuard_147
+  - first:
+      213: 5904422688072677040
+    second: BatonGuard_148
+  - first:
+      213: -8902753168592175133
+    second: BatonGuard_149
+  - first:
+      213: 1975151655392492948
+    second: BatonGuard_150
+  - first:
+      213: -8280547700319096280
+    second: BatonGuard_151
+  - first:
+      213: -5432422521636636996
+    second: BatonGuard_152
+  - first:
+      213: 1873506868816219229
+    second: BatonGuard_153
+  - first:
+      213: -1027358171072792136
+    second: BatonGuard_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatonGuard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cab33b4e1c2d9f0800000000000000
+      internalID: -445080225152521207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 444
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12596e115d463060800000000000000
+      internalID: 6932813687181365789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 461
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b19e0a0a6a60270800000000000000
+      internalID: 8216437779008658225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 444
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdad8a922a126d50800000000000000
+      internalID: 6728969529169128884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 445
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e990b1268a832af0800000000000000
+      internalID: -422341631347222040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 446
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e003aa88587d2470800000000000000
+      internalID: 8371479604030013667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 447
+        width: 143
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1df8fb6d6044d700800000000000000
+      internalID: 564146692035247391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 447
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d5a9de24ea8090800000000000000
+      internalID: -8031356095590704671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 447
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8942f66d5559f8120800000000000000
+      internalID: 2418315720823612568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d045e8ca4b6f70800000000000000
+      internalID: 9181514492025032982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c589d5ed32463cf30800000000000000
+      internalID: 4594626150065346652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c494d5d034019a0800000000000000
+      internalID: -6264433356993639321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_12
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509dd6d88d5183d0800000000000000
+      internalID: -3206178617409302440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b987d25d9b6c2090800000000000000
+      internalID: -8057947309828765264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef41f442d8ded1630800000000000000
+      internalID: 3899534042828051710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822d335cc88eec710800000000000000
+      internalID: 1715564199376310824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_16
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ecd7e042b179320800000000000000
+      internalID: 2564548354486685273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_17
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0701240273e1a10800000000000000
+      internalID: 1882002305974300921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_18
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91dc3727f2da1e20800000000000000
+      internalID: 3322199634096214431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3767aa26ad1151490800000000000000
+      internalID: -7776289551929411981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 368
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b69a50b5721c490800000000000000
+      internalID: -7727852213700564129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 376
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f89927b097d7b630800000000000000
+      internalID: 3942857015334377712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 393
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a218999a637310800000000000000
+      internalID: 1401581116956255004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 376
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f888b84fdcac96ed0800000000000000
+      internalID: -2420180338815039345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 379
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d246c5a00a5c620800000000000000
+      internalID: 2793815110213447018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 380
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6280fe174d565f0800000000000000
+      internalID: -763970975962749230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 382
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa8dca72beb03100800000000000000
+      internalID: 85778066693786272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 382
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8ccea38d0dcaa0800000000000000
+      internalID: -6139235857811599814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 382
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28f4115dffea1990800000000000000
+      internalID: -7414349965246007250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_29
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 382
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c241387c8a6f30800000000000000
+      internalID: 4569619219771211967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_30
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 383
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01976b64d793e0cf0800000000000000
+      internalID: -284226516257703664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 383
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3308c0479cba77770800000000000000
+      internalID: 8608538094465744947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_32
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 384
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183d66f4f8455c90800000000000000
+      internalID: -7181753813828814817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 384
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591b08a97d4136d0800000000000000
+      internalID: -3012541490828469936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_34
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 384
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f33c48af06fdcf80800000000000000
+      internalID: -8084535208951663629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_35
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 385
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1387c4466e6f1d10800000000000000
+      internalID: 2098517336897585948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_36
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 385
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f20ffcb5292c930800000000000000
+      internalID: 4162049928672063250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_37
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 385
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad470cc37668cd70800000000000000
+      internalID: 9063606897613426082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_38
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 386
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407aa90d45144b50800000000000000
+      internalID: 6576404776486596685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd3c239c5ac0da20800000000000000
+      internalID: 3085188243703741915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 303
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3691362cc4307f0800000000000000
+      internalID: -647589523641244676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 297
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082441731c7299830800000000000000
+      internalID: 4078334648366940800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 308
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d259d0fbf7e0399f0800000000000000
+      internalID: -463010394860055251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 325
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b3aae7812e558d0800000000000000
+      internalID: -2858129793664533753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 309
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dfc8da32ecb2cf0800000000000000
+      internalID: -275900299522278094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 313
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171220c7f78e294a0800000000000000
+      internalID: -6587947670650609295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 314
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5202377459b3cdef0800000000000000
+      internalID: -82125180864618459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 317
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b61a68a21091f20800000000000000
+      internalID: 3393745076359359327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 317
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dc460f645126960800000000000000
+      internalID: 7593655316125109584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_49
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 317
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddcd7fe745bd0990800000000000000
+      internalID: -7418073690644034084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 317
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415abb7ab553e68e0800000000000000
+      internalID: -1698361341699709676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 319
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff27511653d318a0800000000000000
+      internalID: -6335487884168581136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_52
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 322
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e978f0f46bdb58f0800000000000000
+      internalID: -550605302836725274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_53
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 324
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcb5247d7fa0a780800000000000000
+      internalID: -8673739928961172257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_54
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 326
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c3aade7ba424a0800000000000000
+      internalID: -6618976991005390381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_55
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 326
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835c5e7fd7300f50800000000000000
+      internalID: 6845532866640368523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_56
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 327
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0dfdd591e4f3440800000000000000
+      internalID: 4917735188967968980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_57
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 327
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d20d396d3639a50800000000000000
+      internalID: 6526670058244025603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13e19272dc190440800000000000000
+      internalID: 4902481359560368922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 230
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847117d54430783e0800000000000000
+      internalID: -2051667513083619512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 240
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae17681863205230800000000000000
+      internalID: 3625436630026231456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 257
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06204b05f88b1880800000000000000
+      internalID: -8639160874143046131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 242
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4607231d98e55e0800000000000000
+      internalID: -1918944859625855758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 247
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c202ce8125767660800000000000000
+      internalID: 7383217426109956809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 248
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c504837e1d1d880800000000000000
+      internalID: -8587852223407432673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_65
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 252
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4228034e8b3050800000000000000
+      internalID: 5781370965210581902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_66
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 252
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbed4f4fa5c10bb0800000000000000
+      internalID: -4971475156899861581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_67
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 252
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e256f399dd2e2fd0800000000000000
+      internalID: -2364902341809384736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 252
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12855c53585a56b40800000000000000
+      internalID: 5432930517043730465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_69
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 255
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e61e9f3dd9917d0800000000000000
+      internalID: -2947150947381318114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_70
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 261
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faa47d02f7d66110800000000000000
+      internalID: 1253926980877069046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_71
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 270
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff585cf08764250800000000000000
+      internalID: 5928557968613572503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_72
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 274
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3135006fd361c430800000000000000
+      internalID: 3801429371517219134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_73
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 276
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1c388347d34ef0800000000000000
+      internalID: -125019679587820223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_74
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 277
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36130fd08d8746550800000000000000
+      internalID: 6153175860237054307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_75
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 277
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebea1028c55e30c0800000000000000
+      internalID: -4594140251850871838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_76
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 228
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112103dd5d67f110800000000000000
+      internalID: 1294623667631759643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 172
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb3b29a50ec17230800000000000000
+      internalID: 3634912897973042118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_78
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 176
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a04eda9f5297a0800000000000000
+      internalID: -6371925404017449320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 181
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49309e070b1d17370800000000000000
+      internalID: 8318660542468785044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_80
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 182
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179ff909671ab2e30800000000000000
+      internalID: 4479851784954706289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_81
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 187
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98eaf00bda283e0800000000000000
+      internalID: -2052887508438578733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_82
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 187
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0702ea4916d59dce0800000000000000
+      internalID: -1379969137124695952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_83
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 187
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a18e6c5f28d9aa70800000000000000
+      internalID: 8838833441617117606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_84
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 188
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd68cae0c917f900800000000000000
+      internalID: 718070981952302519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_85
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 191
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4f9f02415840030800000000000000
+      internalID: 3460036735226475739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_86
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 208
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7757581e0f0ff2720800000000000000
+      internalID: 2823740408751027575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_87
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 216
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b231296889a5e660800000000000000
+      internalID: 7414518764879819444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_88
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 229
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4172f168591d1b70800000000000000
+      internalID: 8871274708380840270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_89
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 233
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a26ca7ce6a6bca0800000000000000
+      internalID: -6001425918822307302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_90
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 234
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e59b45b7d6bf030800000000000000
+      internalID: 3529535109444754977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_91
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 234
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7fc0e0e041afd40800000000000000
+      internalID: 5618825535695943605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902f6c7ca1cbea910800000000000000
+      internalID: 1850623320102728201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_93
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15756dc1c63036f0800000000000000
+      internalID: -707004935494601443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_94
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 162
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c96619abee16fd0800000000000000
+      internalID: -2350335045439939432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_95
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 127
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a50a197d112d5820800000000000000
+      internalID: 2908517344820725157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_96
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 156
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d93e795680dcf0800000000000000
+      internalID: -229535862067963838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_97
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 163
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f448208ff0b64c60800000000000000
+      internalID: 7802118015879234804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_98
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 189
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2961de61fe3ba8cf0800000000000000
+      internalID: -249188989902449006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_99
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 191
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beae0d03ba6457a0800000000000000
+      internalID: -6389364654081134923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_100
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 155
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c3805f4d18b2c0800000000000000
+      internalID: -4415747208146336356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_101
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 155
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264516913a94231f0800000000000000
+      internalID: -1066709196879080350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_102
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 191
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2585e216642ee930800000000000000
+      internalID: 4174313925441324332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_103
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 156
+        width: 75
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b19c9b7792469f0800000000000000
+      internalID: -476210066399618192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_104
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 192
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02afb0070134fe300800000000000000
+      internalID: 283519039426001440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e29ab3acfd11a00800000000000000
+      internalID: 725607074660691554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_106
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 95
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c38dcba968c11fe0800000000000000
+      internalID: -1219973667861199932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_107
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 104
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335139dc04c8714b0800000000000000
+      internalID: -5469749012463413965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_108
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 110
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19226cd9e32c1f20800000000000000
+      internalID: 3394627706462284062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_109
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 115
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1a821641db09f0800000000000000
+      internalID: -501076834632721359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_110
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 117
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf62a882cc9dbe920800000000000000
+      internalID: 3020747445958747899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_111
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 122
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9731cf620e92ee0800000000000000
+      internalID: -1285249760595052123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_112
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 122
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dbeaed3580fa0e0800000000000000
+      internalID: -2256575731978027750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_113
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 122
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5fb3f740491a1e0800000000000000
+      internalID: -2188305196889934421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_114
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 124
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6e7c0dbc248770800000000000000
+      internalID: 8612057577909284816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_115
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 108
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa7ada9bcb08f4a0800000000000000
+      internalID: -6559479888160851292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_116
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 110
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d861e0fe80db24470800000000000000
+      internalID: 8377466102930609805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_117
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 149
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a788a02b098a00800000000000000
+      internalID: 759150247082960206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_118
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 118
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211645e8a3f4c9ff0800000000000000
+      internalID: -28060384756473582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_119
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 121
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b87fa6ba772fc10800000000000000
+      internalID: 2085861155543681896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_120
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 122
+        width: 85
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd671e373ee4401b0800000000000000
+      internalID: -5691337290280765733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 104
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d873f52d618dc7090800000000000000
+      internalID: -8035310042605471859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_122
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 36
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a2edba9d568900800000000000000
+      internalID: 686338912412672270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_123
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 44
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b85cca9f6764f0800000000000000
+      internalID: -835576495209925807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_124
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 49
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086cbf3deae36c3b0800000000000000
+      internalID: -5492633774930016640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_125
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 52
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79bd7703174ce170800000000000000
+      internalID: 8209014367845202299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_126
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 57
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89303d82aea3b94f0800000000000000
+      internalID: -820997729683307624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_127
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 57
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08be5c7d6e128060800000000000000
+      internalID: 6954154230200317967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_128
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 57
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9253326b066c8cd50800000000000000
+      internalID: 6757869359544349993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_129
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 57
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e9ce7e518659150800000000000000
+      internalID: 5878719331896696398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_130
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 61
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26018f08a6327040800000000000000
+      internalID: 4643834261214922284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_131
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 63
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f12afa7250d8660800000000000000
+      internalID: 7389568231593353091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_132
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 73
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e96c4a6f09c890800000000000000
+      internalID: -7437396360402705946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_133
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 59
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1e926c8a9a428b0800000000000000
+      internalID: -5177827129224994355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_134
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 51
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1152f50eef4c30800000000000000
+      internalID: 4345953874743467496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_135
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 87
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5647a592f4eac40800000000000000
+      internalID: 5525440831860008360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_136
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 54
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5ada73477e3070800000000000000
+      internalID: 8088033112511634363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fd6fc08c0c50650800000000000000
+      internalID: 6198572427588853519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_138
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 39
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20104fffdc385f90800000000000000
+      internalID: -6964749890970709970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_139
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 26
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cbf12b13b8a5d0800000000000000
+      internalID: -3050991818427874409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_140
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc643faf17a63970800000000000000
+      internalID: 8734352281856928970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_141
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a14b64243463ff60800000000000000
+      internalID: 8066901532662776231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_142
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc9bbbec78d16270800000000000000
+      internalID: 8242106824107203767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_143
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170662dd1c5770b80800000000000000
+      internalID: -8428638702101176207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_144
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca553424a7c3bdd0800000000000000
+      internalID: -2471412262700229952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_145
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c846ac164997c5c90800000000000000
+      internalID: -7179730027732638580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_146
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 38
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3043406fc327d0800000000000000
+      internalID: -2944281719018079133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_147
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 8
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb472c12ba4e770800000000000000
+      internalID: 8639218146688154628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_148
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 57
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6345ed629b0f150800000000000000
+      internalID: 5904422688072677040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_149
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef74177921137480800000000000000
+      internalID: -8902753168592175133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_150
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49db13d37f5296b10800000000000000
+      internalID: 1975151655392492948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_151
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8227dc02db5951d80800000000000000
+      internalID: -8280547700319096280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_152
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 17
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63400bf782c94b0800000000000000
+      internalID: -5432422521636636996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_153
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c8b082298000a10800000000000000
+      internalID: 1873506868816219229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatonGuard_154
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b97c14cf271eb1f0800000000000000
+      internalID: -1027358171072792136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BatonGuard_0: -445080225152521207
+      BatonGuard_1: 6932813687181365789
+      BatonGuard_10: 4594626150065346652
+      BatonGuard_100: -4415747208146336356
+      BatonGuard_101: -1066709196879080350
+      BatonGuard_102: 4174313925441324332
+      BatonGuard_103: -476210066399618192
+      BatonGuard_104: 283519039426001440
+      BatonGuard_105: 725607074660691554
+      BatonGuard_106: -1219973667861199932
+      BatonGuard_107: -5469749012463413965
+      BatonGuard_108: 3394627706462284062
+      BatonGuard_109: -501076834632721359
+      BatonGuard_11: -6264433356993639321
+      BatonGuard_110: 3020747445958747899
+      BatonGuard_111: -1285249760595052123
+      BatonGuard_112: -2256575731978027750
+      BatonGuard_113: -2188305196889934421
+      BatonGuard_114: 8612057577909284816
+      BatonGuard_115: -6559479888160851292
+      BatonGuard_116: 8377466102930609805
+      BatonGuard_117: 759150247082960206
+      BatonGuard_118: -28060384756473582
+      BatonGuard_119: 2085861155543681896
+      BatonGuard_12: -3206178617409302440
+      BatonGuard_120: -5691337290280765733
+      BatonGuard_121: -8035310042605471859
+      BatonGuard_122: 686338912412672270
+      BatonGuard_123: -835576495209925807
+      BatonGuard_124: -5492633774930016640
+      BatonGuard_125: 8209014367845202299
+      BatonGuard_126: -820997729683307624
+      BatonGuard_127: 6954154230200317967
+      BatonGuard_128: 6757869359544349993
+      BatonGuard_129: 5878719331896696398
+      BatonGuard_13: -8057947309828765264
+      BatonGuard_130: 4643834261214922284
+      BatonGuard_131: 7389568231593353091
+      BatonGuard_132: -7437396360402705946
+      BatonGuard_133: -5177827129224994355
+      BatonGuard_134: 4345953874743467496
+      BatonGuard_135: 5525440831860008360
+      BatonGuard_136: 8088033112511634363
+      BatonGuard_137: 6198572427588853519
+      BatonGuard_138: -6964749890970709970
+      BatonGuard_139: -3050991818427874409
+      BatonGuard_14: 3899534042828051710
+      BatonGuard_140: 8734352281856928970
+      BatonGuard_141: 8066901532662776231
+      BatonGuard_142: 8242106824107203767
+      BatonGuard_143: -8428638702101176207
+      BatonGuard_144: -2471412262700229952
+      BatonGuard_145: -7179730027732638580
+      BatonGuard_146: -2944281719018079133
+      BatonGuard_147: 8639218146688154628
+      BatonGuard_148: 5904422688072677040
+      BatonGuard_149: -8902753168592175133
+      BatonGuard_15: 1715564199376310824
+      BatonGuard_150: 1975151655392492948
+      BatonGuard_151: -8280547700319096280
+      BatonGuard_152: -5432422521636636996
+      BatonGuard_153: 1873506868816219229
+      BatonGuard_154: -1027358171072792136
+      BatonGuard_16: 2564548354486685273
+      BatonGuard_17: 1882002305974300921
+      BatonGuard_18: 3322199634096214431
+      BatonGuard_19: -7776289551929411981
+      BatonGuard_2: 8216437779008658225
+      BatonGuard_20: -7727852213700564129
+      BatonGuard_21: 3942857015334377712
+      BatonGuard_22: 1401581116956255004
+      BatonGuard_23: -2420180338815039345
+      BatonGuard_24: 2793815110213447018
+      BatonGuard_25: -763970975962749230
+      BatonGuard_26: 85778066693786272
+      BatonGuard_27: -6139235857811599814
+      BatonGuard_28: -7414349965246007250
+      BatonGuard_29: 4569619219771211967
+      BatonGuard_3: 6728969529169128884
+      BatonGuard_30: -284226516257703664
+      BatonGuard_31: 8608538094465744947
+      BatonGuard_32: -7181753813828814817
+      BatonGuard_33: -3012541490828469936
+      BatonGuard_34: -8084535208951663629
+      BatonGuard_35: 2098517336897585948
+      BatonGuard_36: 4162049928672063250
+      BatonGuard_37: 9063606897613426082
+      BatonGuard_38: 6576404776486596685
+      BatonGuard_39: 3085188243703741915
+      BatonGuard_4: -422341631347222040
+      BatonGuard_40: -647589523641244676
+      BatonGuard_41: 4078334648366940800
+      BatonGuard_42: -463010394860055251
+      BatonGuard_43: -2858129793664533753
+      BatonGuard_44: -275900299522278094
+      BatonGuard_45: -6587947670650609295
+      BatonGuard_46: -82125180864618459
+      BatonGuard_47: 3393745076359359327
+      BatonGuard_48: 7593655316125109584
+      BatonGuard_49: -7418073690644034084
+      BatonGuard_5: 8371479604030013667
+      BatonGuard_50: -1698361341699709676
+      BatonGuard_51: -6335487884168581136
+      BatonGuard_52: -550605302836725274
+      BatonGuard_53: -8673739928961172257
+      BatonGuard_54: -6618976991005390381
+      BatonGuard_55: 6845532866640368523
+      BatonGuard_56: 4917735188967968980
+      BatonGuard_57: 6526670058244025603
+      BatonGuard_58: 4902481359560368922
+      BatonGuard_59: -2051667513083619512
+      BatonGuard_6: 564146692035247391
+      BatonGuard_60: 3625436630026231456
+      BatonGuard_61: -8639160874143046131
+      BatonGuard_62: -1918944859625855758
+      BatonGuard_63: 7383217426109956809
+      BatonGuard_64: -8587852223407432673
+      BatonGuard_65: 5781370965210581902
+      BatonGuard_66: -4971475156899861581
+      BatonGuard_67: -2364902341809384736
+      BatonGuard_68: 5432930517043730465
+      BatonGuard_69: -2947150947381318114
+      BatonGuard_7: -8031356095590704671
+      BatonGuard_70: 1253926980877069046
+      BatonGuard_71: 5928557968613572503
+      BatonGuard_72: 3801429371517219134
+      BatonGuard_73: -125019679587820223
+      BatonGuard_74: 6153175860237054307
+      BatonGuard_75: -4594140251850871838
+      BatonGuard_76: 1294623667631759643
+      BatonGuard_77: 3634912897973042118
+      BatonGuard_78: -6371925404017449320
+      BatonGuard_79: 8318660542468785044
+      BatonGuard_8: 2418315720823612568
+      BatonGuard_80: 4479851784954706289
+      BatonGuard_81: -2052887508438578733
+      BatonGuard_82: -1379969137124695952
+      BatonGuard_83: 8838833441617117606
+      BatonGuard_84: 718070981952302519
+      BatonGuard_85: 3460036735226475739
+      BatonGuard_86: 2823740408751027575
+      BatonGuard_87: 7414518764879819444
+      BatonGuard_88: 8871274708380840270
+      BatonGuard_89: -6001425918822307302
+      BatonGuard_9: 9181514492025032982
+      BatonGuard_90: 3529535109444754977
+      BatonGuard_91: 5618825535695943605
+      BatonGuard_92: 1850623320102728201
+      BatonGuard_93: -707004935494601443
+      BatonGuard_94: -2350335045439939432
+      BatonGuard_95: 2908517344820725157
+      BatonGuard_96: -229535862067963838
+      BatonGuard_97: 7802118015879234804
+      BatonGuard_98: -249188989902449006
+      BatonGuard_99: -6389364654081134923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec41895df904d834fa07c462839d413d, type: 3}
+  m_Name: ItemData_ 0
+  m_EditorClassIdentifier: 
+  _ID: 0
+  _name: Punch
+  _image: {fileID: -848036363366520905, guid: 83898135fe8b67e4ebe65d65c9af7483, type: 3}
+  _price: 30
+  _healthIncrease: 0
+  _armorIncrease: 0
+  _kickDamageIncrease: 0
+  _meleeDamageIncrease: 60

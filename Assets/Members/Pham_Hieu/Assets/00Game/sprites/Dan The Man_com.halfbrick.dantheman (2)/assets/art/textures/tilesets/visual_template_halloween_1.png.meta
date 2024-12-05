@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 808f36bbc31ed7d4f8e3bd509e58bd0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7352884509897114427
+    second: visual_template_halloween_1_0
+  - first:
+      213: -5010651899893245442
+    second: visual_template_halloween_1_1
+  - first:
+      213: 2062132859433777910
+    second: visual_template_halloween_1_2
+  - first:
+      213: 7773657183818776120
+    second: visual_template_halloween_1_3
+  - first:
+      213: -110168551491755870
+    second: visual_template_halloween_1_4
+  - first:
+      213: -315920205156634670
+    second: visual_template_halloween_1_5
+  - first:
+      213: -2748663869522214030
+    second: visual_template_halloween_1_6
+  - first:
+      213: 2855316783015852863
+    second: visual_template_halloween_1_7
+  - first:
+      213: 2029840606185686340
+    second: visual_template_halloween_1_8
+  - first:
+      213: 8959742195222018015
+    second: visual_template_halloween_1_9
+  - first:
+      213: -519348639902187796
+    second: visual_template_halloween_1_10
+  - first:
+      213: 8685461356559435772
+    second: visual_template_halloween_1_11
+  - first:
+      213: -2619571480102029928
+    second: visual_template_halloween_1_12
+  - first:
+      213: -628025943976898993
+    second: visual_template_halloween_1_13
+  - first:
+      213: 255651828910523040
+    second: visual_template_halloween_1_14
+  - first:
+      213: -5121911159888463586
+    second: visual_template_halloween_1_15
+  - first:
+      213: -18703208273255654
+    second: visual_template_halloween_1_16
+  - first:
+      213: 3171844996850259787
+    second: visual_template_halloween_1_17
+  - first:
+      213: -1534759175243829775
+    second: visual_template_halloween_1_18
+  - first:
+      213: -7401963908874687209
+    second: visual_template_halloween_1_19
+  - first:
+      213: 6587353035417193412
+    second: visual_template_halloween_1_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: visual_template_halloween_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c3e62181ba0660800000000000000
+      internalID: 7352884509897114427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1007
+        width: 146
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91ab505a6967ab0800000000000000
+      internalID: -5010651899893245442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 951
+        width: 290
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faf536f8ea2e9c10800000000000000
+      internalID: 2062132859433777910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 939
+        width: 146
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e7e27a50491eb60800000000000000
+      internalID: 7773657183818776120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 888
+        width: 146
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02aee394a987ef0800000000000000
+      internalID: -110168551491755870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 898
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df254a4f30ad9bf0800000000000000
+      internalID: -315920205156634670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 855
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2738d2216c8cad9d0800000000000000
+      internalID: -2748663869522214030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 807
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bfedc6c7f10a720800000000000000
+      internalID: 2855316783015852863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 855
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458c5ad6417b2c10800000000000000
+      internalID: 2029840606185686340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 807
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd779494e06675c70800000000000000
+      internalID: 8959742195222018015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 807
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee3c04e927eac8f0800000000000000
+      internalID: -519348639902187796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 807
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf78b141615f88870800000000000000
+      internalID: 8685461356559435772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 759
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89536c03e9965abd0800000000000000
+      internalID: -2619571480102029928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 807
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e078b3bbdc847f0800000000000000
+      internalID: -628025943976898993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 768
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a20460ebf14c8300800000000000000
+      internalID: 255651828910523040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 773
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e193db7efe05be8b0800000000000000
+      internalID: -5121911159888463586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 762
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1366baf78d8dbff0800000000000000
+      internalID: -18703208273255654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 721
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471cdf2838a40c20800000000000000
+      internalID: 3171844996850259787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 715
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde1df59a073bae0800000000000000
+      internalID: -1534759175243829775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 737
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d234bca01f64990800000000000000
+      internalID: -7401963908874687209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_halloween_1_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 745
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb02263faafa6b50800000000000000
+      internalID: 6587353035417193412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      visual_template_halloween_1_0: 7352884509897114427
+      visual_template_halloween_1_1: -5010651899893245442
+      visual_template_halloween_1_10: -519348639902187796
+      visual_template_halloween_1_11: 8685461356559435772
+      visual_template_halloween_1_12: -2619571480102029928
+      visual_template_halloween_1_13: -628025943976898993
+      visual_template_halloween_1_14: 255651828910523040
+      visual_template_halloween_1_15: -5121911159888463586
+      visual_template_halloween_1_16: -18703208273255654
+      visual_template_halloween_1_17: 3171844996850259787
+      visual_template_halloween_1_18: -1534759175243829775
+      visual_template_halloween_1_19: -7401963908874687209
+      visual_template_halloween_1_2: 2062132859433777910
+      visual_template_halloween_1_20: 6587353035417193412
+      visual_template_halloween_1_3: 7773657183818776120
+      visual_template_halloween_1_4: -110168551491755870
+      visual_template_halloween_1_5: -315920205156634670
+      visual_template_halloween_1_6: -2748663869522214030
+      visual_template_halloween_1_7: 2855316783015852863
+      visual_template_halloween_1_8: 2029840606185686340
+      visual_template_halloween_1_9: 8959742195222018015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

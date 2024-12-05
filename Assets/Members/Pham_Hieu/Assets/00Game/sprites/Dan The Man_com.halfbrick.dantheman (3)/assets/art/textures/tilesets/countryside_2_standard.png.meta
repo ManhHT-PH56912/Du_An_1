@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 99a2820a43de9d34e85f367d33a90406
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9005397513637346288
+    second: countryside_2_standard_0
+  - first:
+      213: -6283436407453170977
+    second: countryside_2_standard_1
+  - first:
+      213: -6919595874374164490
+    second: countryside_2_standard_2
+  - first:
+      213: 9161190746285765599
+    second: countryside_2_standard_3
+  - first:
+      213: 7166861995344154908
+    second: countryside_2_standard_4
+  - first:
+      213: 8063912849770217723
+    second: countryside_2_standard_5
+  - first:
+      213: -6447078630979262884
+    second: countryside_2_standard_6
+  - first:
+      213: 724367240398281414
+    second: countryside_2_standard_7
+  - first:
+      213: 7378577615310656247
+    second: countryside_2_standard_8
+  - first:
+      213: -8448155223873414411
+    second: countryside_2_standard_9
+  - first:
+      213: 5732090306851724809
+    second: countryside_2_standard_10
+  - first:
+      213: -6384938444731179746
+    second: countryside_2_standard_11
+  - first:
+      213: -4000907894221146231
+    second: countryside_2_standard_12
+  - first:
+      213: -5324213655298131137
+    second: countryside_2_standard_13
+  - first:
+      213: 2654745636484174265
+    second: countryside_2_standard_14
+  - first:
+      213: -1512806232624765696
+    second: countryside_2_standard_15
+  - first:
+      213: 6383221801198627755
+    second: countryside_2_standard_16
+  - first:
+      213: 4724529500508585543
+    second: countryside_2_standard_17
+  - first:
+      213: 7145610589592671996
+    second: countryside_2_standard_18
+  - first:
+      213: 587015636304982536
+    second: countryside_2_standard_19
+  - first:
+      213: 2914889950290443201
+    second: countryside_2_standard_20
+  - first:
+      213: -2695090663823359180
+    second: countryside_2_standard_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: countryside_2_standard_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 567
+        width: 657
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb3a85735999fc70800000000000000
+      internalID: 9005397513637346288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 783
+        width: 266
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24ff4e0efbcc8a0800000000000000
+      internalID: -6283436407453170977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 555
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff5baeb638a8ff90800000000000000
+      internalID: -6919595874374164490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 546
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd375f71276132f70800000000000000
+      internalID: 9161190746285765599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 554
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c115cba530fc57360800000000000000
+      internalID: 7166861995344154908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 519
+        width: 170
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0034e2306c8ef60800000000000000
+      internalID: 8063912849770217723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_6
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 423
+        width: 122
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c562879a4206786a0800000000000000
+      internalID: -6447078630979262884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 495
+        width: 146
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca9ed2da287d0a00800000000000000
+      internalID: 724367240398281414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 495
+        width: 185
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f29d3c6f39f56660800000000000000
+      internalID: 7378577615310656247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 519
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa1aa9859f12ca80800000000000000
+      internalID: -8448155223873414411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 471
+        width: 170
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e5b50a3c97c8f40800000000000000
+      internalID: 5732090306851724809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 423
+        width: 170
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d101930542467a0800000000000000
+      internalID: -6384938444731179746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 657
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98774e9c77be978c0800000000000000
+      internalID: -4000907894221146231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 263
+        width: 177
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bbbafa3e79c16b0800000000000000
+      internalID: -5324213655298131137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 172
+        width: 154
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b158a7471d87d420800000000000000
+      internalID: 2654745636484174265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_15
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 207
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00567622fbe610be0800000000000000
+      internalID: -1512806232624765696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_16
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 159
+        width: 74
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab29fe8862c59850800000000000000
+      internalID: 6383221801198627755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_17
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 174
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74efaa09c86e09140800000000000000
+      internalID: 4724529500508585543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_18
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 121
+        width: 170
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d0ffd8fe4a2360800000000000000
+      internalID: 7145610589592671996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 63
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802fe8f6c9f752800800000000000000
+      internalID: 587015636304982536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 15
+        width: 218
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbfa6e47f4c37820800000000000000
+      internalID: 2914889950290443201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryside_2_standard_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 102
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4334659025d199ad0800000000000000
+      internalID: -2695090663823359180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      countryside_2_standard_0: 9005397513637346288
+      countryside_2_standard_1: -6283436407453170977
+      countryside_2_standard_10: 5732090306851724809
+      countryside_2_standard_11: -6384938444731179746
+      countryside_2_standard_12: -4000907894221146231
+      countryside_2_standard_13: -5324213655298131137
+      countryside_2_standard_14: 2654745636484174265
+      countryside_2_standard_15: -1512806232624765696
+      countryside_2_standard_16: 6383221801198627755
+      countryside_2_standard_17: 4724529500508585543
+      countryside_2_standard_18: 7145610589592671996
+      countryside_2_standard_19: 587015636304982536
+      countryside_2_standard_2: -6919595874374164490
+      countryside_2_standard_20: 2914889950290443201
+      countryside_2_standard_21: -2695090663823359180
+      countryside_2_standard_3: 9161190746285765599
+      countryside_2_standard_4: 7166861995344154908
+      countryside_2_standard_5: 8063912849770217723
+      countryside_2_standard_6: -6447078630979262884
+      countryside_2_standard_7: 724367240398281414
+      countryside_2_standard_8: 7378577615310656247
+      countryside_2_standard_9: -8448155223873414411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

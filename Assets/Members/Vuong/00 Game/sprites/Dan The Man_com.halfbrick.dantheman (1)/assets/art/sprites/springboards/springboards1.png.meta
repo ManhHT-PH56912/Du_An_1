@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: c5adb0369f6b67c4c9b8019350f13848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9071382005275562107
+    second: springboards1_0
+  - first:
+      213: -2541788230459794663
+    second: springboards1_1
+  - first:
+      213: 636099432834726870
+    second: springboards1_2
+  - first:
+      213: 3710095537908405284
+    second: springboards1_3
+  - first:
+      213: 8438280815058001668
+    second: springboards1_4
+  - first:
+      213: 781016288233921301
+    second: springboards1_5
+  - first:
+      213: 8800246742555174686
+    second: springboards1_6
+  - first:
+      213: -8558265260687484167
+    second: springboards1_7
+  - first:
+      213: 2553612223320134538
+    second: springboards1_8
+  - first:
+      213: 372435333120663186
+    second: springboards1_9
+  - first:
+      213: -8194237434556171545
+    second: springboards1_10
+  - first:
+      213: 1449737864132771963
+    second: springboards1_11
+  - first:
+      213: 8373808728421504865
+    second: springboards1_12
+  - first:
+      213: -1263378952820046797
+    second: springboards1_13
+  - first:
+      213: 2414924036671160349
+    second: springboards1_14
+  - first:
+      213: -1740775694839725375
+    second: springboards1_15
+  - first:
+      213: -5721107941042663961
+    second: springboards1_16
+  - first:
+      213: 8395519530435256378
+    second: springboards1_17
+  - first:
+      213: 2310475115169060921
+    second: springboards1_18
+  - first:
+      213: -4032253562953048195
+    second: springboards1_19
+  - first:
+      213: 566060507293961302
+    second: springboards1_20
+  - first:
+      213: -8299970565085353738
+    second: springboards1_21
+  - first:
+      213: 8045837522487010470
+    second: springboards1_22
+  - first:
+      213: 1770764171986122820
+    second: springboards1_23
+  - first:
+      213: 1716925553965960957
+    second: springboards1_24
+  - first:
+      213: -8234593703820737588
+    second: springboards1_25
+  - first:
+      213: -5598402830289701721
+    second: springboards1_26
+  - first:
+      213: -2436553373039742745
+    second: springboards1_27
+  - first:
+      213: -6826808776828151443
+    second: springboards1_28
+  - first:
+      213: -5115973692102495000
+    second: springboards1_29
+  - first:
+      213: -2155984319561115620
+    second: springboards1_30
+  - first:
+      213: -3308596995620399531
+    second: springboards1_31
+  - first:
+      213: -7421063700565935520
+    second: springboards1_32
+  - first:
+      213: -1865746335039188542
+    second: springboards1_33
+  - first:
+      213: -4883305658039649485
+    second: springboards1_34
+  - first:
+      213: -7447745812369010929
+    second: springboards1_35
+  - first:
+      213: -6297486001020676000
+    second: springboards1_36
+  - first:
+      213: -1782947379497454757
+    second: springboards1_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: springboards1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70125e1fd504ed70800000000000000
+      internalID: 9071382005275562107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 210
+        width: 133
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bdc254211c9bcd0800000000000000
+      internalID: -2541788230459794663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 212
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbf0ff5011e3d800800000000000000
+      internalID: 636099432834726870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 212
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424dacb1c38ec7330800000000000000
+      internalID: 3710095537908405284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 211
+        width: 101
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f968081bbca1570800000000000000
+      internalID: 8438280815058001668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 168
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b1af71d2ab6da00800000000000000
+      internalID: 781016288233921301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e172ac169c1c02a70800000000000000
+      internalID: 8800246742555174686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 166
+        width: 107
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa182bc61fea3980800000000000000
+      internalID: -8558265260687484167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 163
+        width: 102
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83971999c0407320800000000000000
+      internalID: 2553612223320134538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e167456f72b2500800000000000000
+      internalID: 372435333120663186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea321cd778384e80800000000000000
+      internalID: -8194237434556171545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 133
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70411908e08e1410800000000000000
+      internalID: 1449737864132771963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16711a21caeb53470800000000000000
+      internalID: 8373808728421504865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 101
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334c47c3983977ee0800000000000000
+      internalID: -1263378952820046797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 134
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d104655dd98838120800000000000000
+      internalID: 2414924036671160349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2c1738ab587d7e0800000000000000
+      internalID: -1740775694839725375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4c7ca3aa8a90b0800000000000000
+      internalID: -5721107941042663961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a2741880e28470800000000000000
+      internalID: 8395519530435256378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 101
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938180630e4701020800000000000000
+      internalID: 2310475115169060921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 97
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f51ef8fbe8a08c0800000000000000
+      internalID: -4032253562953048195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c42a2480d0bd700800000000000000
+      internalID: 566060507293961302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8a3e50fb490dc80800000000000000
+      internalID: -8299970565085353738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 75
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e858199e88af60800000000000000
+      internalID: 8045837522487010470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 74
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b83ce1a4039810800000000000000
+      internalID: 1770764171986122820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe8ee5d1beb3d710800000000000000
+      internalID: 1716925553965960957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 53
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3c816b7a8d8bd80800000000000000
+      internalID: -8234593703820737588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47a07994a7e42b0800000000000000
+      internalID: -5598402830289701721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 67
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0bfabdd9f9f2ed0800000000000000
+      internalID: -2436553373039742745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6993a3669d4241a0800000000000000
+      internalID: -6826808776828151443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4bcf958096009b0800000000000000
+      internalID: -5115973692102495000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c185f3b2fa76412e0800000000000000
+      internalID: -2155984319561115620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5561f1bef808512d0800000000000000
+      internalID: -3308596995620399531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ab83002e5130990800000000000000
+      internalID: -7421063700565935520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 17
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1900be7998b16e0800000000000000
+      internalID: -1865746335039188542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b34ea70630b3cb0800000000000000
+      internalID: -4883305658039649485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f875cb4aa44a890800000000000000
+      internalID: -7447745812369010929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068da2bf8d5da98a0800000000000000
+      internalID: -6297486001020676000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springboards1_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5337d70ec2b147e0800000000000000
+      internalID: -1782947379497454757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      springboards1_0: 9071382005275562107
+      springboards1_1: -2541788230459794663
+      springboards1_10: -8194237434556171545
+      springboards1_11: 1449737864132771963
+      springboards1_12: 8373808728421504865
+      springboards1_13: -1263378952820046797
+      springboards1_14: 2414924036671160349
+      springboards1_15: -1740775694839725375
+      springboards1_16: -5721107941042663961
+      springboards1_17: 8395519530435256378
+      springboards1_18: 2310475115169060921
+      springboards1_19: -4032253562953048195
+      springboards1_2: 636099432834726870
+      springboards1_20: 566060507293961302
+      springboards1_21: -8299970565085353738
+      springboards1_22: 8045837522487010470
+      springboards1_23: 1770764171986122820
+      springboards1_24: 1716925553965960957
+      springboards1_25: -8234593703820737588
+      springboards1_26: -5598402830289701721
+      springboards1_27: -2436553373039742745
+      springboards1_28: -6826808776828151443
+      springboards1_29: -5115973692102495000
+      springboards1_3: 3710095537908405284
+      springboards1_30: -2155984319561115620
+      springboards1_31: -3308596995620399531
+      springboards1_32: -7421063700565935520
+      springboards1_33: -1865746335039188542
+      springboards1_34: -4883305658039649485
+      springboards1_35: -7447745812369010929
+      springboards1_36: -6297486001020676000
+      springboards1_37: -1782947379497454757
+      springboards1_4: 8438280815058001668
+      springboards1_5: 781016288233921301
+      springboards1_6: 8800246742555174686
+      springboards1_7: -8558265260687484167
+      springboards1_8: 2553612223320134538
+      springboards1_9: 372435333120663186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

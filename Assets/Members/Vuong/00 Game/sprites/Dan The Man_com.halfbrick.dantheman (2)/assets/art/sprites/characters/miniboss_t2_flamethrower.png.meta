@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: 92c2fd48c0c06d64bb6719170066b926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2555419406965180848
+    second: miniboss_t2_flamethrower_0
+  - first:
+      213: 5034556670118232552
+    second: miniboss_t2_flamethrower_1
+  - first:
+      213: -8074180386478724635
+    second: miniboss_t2_flamethrower_2
+  - first:
+      213: -7851082466387527831
+    second: miniboss_t2_flamethrower_3
+  - first:
+      213: 4255413105910140979
+    second: miniboss_t2_flamethrower_4
+  - first:
+      213: 5529379004794692076
+    second: miniboss_t2_flamethrower_5
+  - first:
+      213: -1013764872616228738
+    second: miniboss_t2_flamethrower_6
+  - first:
+      213: 7742103071374406069
+    second: miniboss_t2_flamethrower_7
+  - first:
+      213: 638641066756955771
+    second: miniboss_t2_flamethrower_8
+  - first:
+      213: -6203971752046636741
+    second: miniboss_t2_flamethrower_9
+  - first:
+      213: 9057895501749193158
+    second: miniboss_t2_flamethrower_10
+  - first:
+      213: 3795567333430744325
+    second: miniboss_t2_flamethrower_11
+  - first:
+      213: -8497715831811259243
+    second: miniboss_t2_flamethrower_12
+  - first:
+      213: -811818035859877755
+    second: miniboss_t2_flamethrower_13
+  - first:
+      213: -1892131503630513153
+    second: miniboss_t2_flamethrower_14
+  - first:
+      213: 5457383415728354669
+    second: miniboss_t2_flamethrower_15
+  - first:
+      213: 7022578571448042230
+    second: miniboss_t2_flamethrower_16
+  - first:
+      213: -495397841173695083
+    second: miniboss_t2_flamethrower_17
+  - first:
+      213: -817847131773274030
+    second: miniboss_t2_flamethrower_18
+  - first:
+      213: 4749428547419739188
+    second: miniboss_t2_flamethrower_19
+  - first:
+      213: -6039580100277585522
+    second: miniboss_t2_flamethrower_20
+  - first:
+      213: 4682566564186284104
+    second: miniboss_t2_flamethrower_21
+  - first:
+      213: -8515263915720498972
+    second: miniboss_t2_flamethrower_22
+  - first:
+      213: -7094035255954791249
+    second: miniboss_t2_flamethrower_23
+  - first:
+      213: -1819504409455929695
+    second: miniboss_t2_flamethrower_24
+  - first:
+      213: 3618904366212326931
+    second: miniboss_t2_flamethrower_25
+  - first:
+      213: -4915540004219741733
+    second: miniboss_t2_flamethrower_26
+  - first:
+      213: -4884516605213929432
+    second: miniboss_t2_flamethrower_27
+  - first:
+      213: 1198785222395228306
+    second: miniboss_t2_flamethrower_28
+  - first:
+      213: -7587830740299750193
+    second: miniboss_t2_flamethrower_29
+  - first:
+      213: -6928498639829784357
+    second: miniboss_t2_flamethrower_30
+  - first:
+      213: -1355000708980443550
+    second: miniboss_t2_flamethrower_31
+  - first:
+      213: -7727788257111808240
+    second: miniboss_t2_flamethrower_32
+  - first:
+      213: -7652156202222640715
+    second: miniboss_t2_flamethrower_33
+  - first:
+      213: 6802035263258867119
+    second: miniboss_t2_flamethrower_34
+  - first:
+      213: -8373568213161166425
+    second: miniboss_t2_flamethrower_35
+  - first:
+      213: 4018727011037878700
+    second: miniboss_t2_flamethrower_36
+  - first:
+      213: -4526876655158558976
+    second: miniboss_t2_flamethrower_37
+  - first:
+      213: 1668194999920155996
+    second: miniboss_t2_flamethrower_38
+  - first:
+      213: -8123754679144547379
+    second: miniboss_t2_flamethrower_39
+  - first:
+      213: 6275363440137408142
+    second: miniboss_t2_flamethrower_40
+  - first:
+      213: 5943793824492048332
+    second: miniboss_t2_flamethrower_41
+  - first:
+      213: 5612689925757047694
+    second: miniboss_t2_flamethrower_42
+  - first:
+      213: 2043889895587688425
+    second: miniboss_t2_flamethrower_43
+  - first:
+      213: -5100938621011426939
+    second: miniboss_t2_flamethrower_44
+  - first:
+      213: -1363038408742534331
+    second: miniboss_t2_flamethrower_45
+  - first:
+      213: -6050220498823830812
+    second: miniboss_t2_flamethrower_46
+  - first:
+      213: -5206527317843729263
+    second: miniboss_t2_flamethrower_47
+  - first:
+      213: -6854984430739355399
+    second: miniboss_t2_flamethrower_48
+  - first:
+      213: 7369467032032647835
+    second: miniboss_t2_flamethrower_49
+  - first:
+      213: 1792680413967218858
+    second: miniboss_t2_flamethrower_50
+  - first:
+      213: 1694474644291989619
+    second: miniboss_t2_flamethrower_51
+  - first:
+      213: 383918582259280535
+    second: miniboss_t2_flamethrower_52
+  - first:
+      213: 4695099169854894045
+    second: miniboss_t2_flamethrower_53
+  - first:
+      213: 3803230393290529972
+    second: miniboss_t2_flamethrower_54
+  - first:
+      213: -4726659841909508922
+    second: miniboss_t2_flamethrower_55
+  - first:
+      213: 5518006980415672573
+    second: miniboss_t2_flamethrower_56
+  - first:
+      213: 3312632590116330195
+    second: miniboss_t2_flamethrower_57
+  - first:
+      213: -8020633290465688277
+    second: miniboss_t2_flamethrower_58
+  - first:
+      213: -4009251364411881721
+    second: miniboss_t2_flamethrower_59
+  - first:
+      213: -5173391988119771978
+    second: miniboss_t2_flamethrower_60
+  - first:
+      213: -5738538570630099421
+    second: miniboss_t2_flamethrower_61
+  - first:
+      213: -1972068097125858831
+    second: miniboss_t2_flamethrower_62
+  - first:
+      213: -5002579863649914985
+    second: miniboss_t2_flamethrower_63
+  - first:
+      213: -4722761038853629985
+    second: miniboss_t2_flamethrower_64
+  - first:
+      213: 4139061267844444778
+    second: miniboss_t2_flamethrower_65
+  - first:
+      213: -3280504671146484639
+    second: miniboss_t2_flamethrower_66
+  - first:
+      213: -6836775733632782500
+    second: miniboss_t2_flamethrower_67
+  - first:
+      213: -8903909273986741342
+    second: miniboss_t2_flamethrower_68
+  - first:
+      213: -8471073793341396821
+    second: miniboss_t2_flamethrower_69
+  - first:
+      213: -2365947399020366442
+    second: miniboss_t2_flamethrower_70
+  - first:
+      213: 424760024229598122
+    second: miniboss_t2_flamethrower_71
+  - first:
+      213: -658999277172218286
+    second: miniboss_t2_flamethrower_72
+  - first:
+      213: -6148523974849802040
+    second: miniboss_t2_flamethrower_73
+  - first:
+      213: -3641501551985976771
+    second: miniboss_t2_flamethrower_74
+  - first:
+      213: -453790688064774772
+    second: miniboss_t2_flamethrower_75
+  - first:
+      213: 695672307703917438
+    second: miniboss_t2_flamethrower_76
+  - first:
+      213: 5889936718004926410
+    second: miniboss_t2_flamethrower_77
+  - first:
+      213: -1018032737062085103
+    second: miniboss_t2_flamethrower_78
+  - first:
+      213: 5737548670341977069
+    second: miniboss_t2_flamethrower_79
+  - first:
+      213: -244481693590798544
+    second: miniboss_t2_flamethrower_80
+  - first:
+      213: -7415955296191267424
+    second: miniboss_t2_flamethrower_81
+  - first:
+      213: -2968637367438409706
+    second: miniboss_t2_flamethrower_82
+  - first:
+      213: 6593422423503665780
+    second: miniboss_t2_flamethrower_83
+  - first:
+      213: -4870907606372226666
+    second: miniboss_t2_flamethrower_84
+  - first:
+      213: 7027018403025717094
+    second: miniboss_t2_flamethrower_85
+  - first:
+      213: 896081090498572460
+    second: miniboss_t2_flamethrower_86
+  - first:
+      213: -3007622314173687203
+    second: miniboss_t2_flamethrower_87
+  - first:
+      213: 2920546350045530859
+    second: miniboss_t2_flamethrower_88
+  - first:
+      213: -3929302836188478853
+    second: miniboss_t2_flamethrower_89
+  - first:
+      213: -3658693340166589074
+    second: miniboss_t2_flamethrower_90
+  - first:
+      213: -4243806994911403987
+    second: miniboss_t2_flamethrower_91
+  - first:
+      213: -6762467191963846672
+    second: miniboss_t2_flamethrower_92
+  - first:
+      213: -397039861527148814
+    second: miniboss_t2_flamethrower_93
+  - first:
+      213: 6043554265875879833
+    second: miniboss_t2_flamethrower_94
+  - first:
+      213: 1523921875482838758
+    second: miniboss_t2_flamethrower_95
+  - first:
+      213: -2054691373137589278
+    second: miniboss_t2_flamethrower_96
+  - first:
+      213: -5740148543648545341
+    second: miniboss_t2_flamethrower_97
+  - first:
+      213: 1670916263190811839
+    second: miniboss_t2_flamethrower_98
+  - first:
+      213: -6775633859330096590
+    second: miniboss_t2_flamethrower_99
+  - first:
+      213: 8948754048145021328
+    second: miniboss_t2_flamethrower_100
+  - first:
+      213: -7492416283656085726
+    second: miniboss_t2_flamethrower_101
+  - first:
+      213: -2048719942228886893
+    second: miniboss_t2_flamethrower_102
+  - first:
+      213: -8592483639792528584
+    second: miniboss_t2_flamethrower_103
+  - first:
+      213: -3405390273885949048
+    second: miniboss_t2_flamethrower_104
+  - first:
+      213: 7409946462007795923
+    second: miniboss_t2_flamethrower_105
+  - first:
+      213: 7305560663804429906
+    second: miniboss_t2_flamethrower_106
+  - first:
+      213: 3093223585403867567
+    second: miniboss_t2_flamethrower_107
+  - first:
+      213: 5881781359909914486
+    second: miniboss_t2_flamethrower_108
+  - first:
+      213: -7106880133788787105
+    second: miniboss_t2_flamethrower_109
+  - first:
+      213: -1831362538855866511
+    second: miniboss_t2_flamethrower_110
+  - first:
+      213: -2456507077922578397
+    second: miniboss_t2_flamethrower_111
+  - first:
+      213: 2041651804585717811
+    second: miniboss_t2_flamethrower_112
+  - first:
+      213: 5267181781701985749
+    second: miniboss_t2_flamethrower_113
+  - first:
+      213: -3496270327115645073
+    second: miniboss_t2_flamethrower_114
+  - first:
+      213: -2427800798690260796
+    second: miniboss_t2_flamethrower_115
+  - first:
+      213: 1627070314606562385
+    second: miniboss_t2_flamethrower_116
+  - first:
+      213: -7654287498858339888
+    second: miniboss_t2_flamethrower_117
+  - first:
+      213: -7778046476583256222
+    second: miniboss_t2_flamethrower_118
+  - first:
+      213: -3578875523518963586
+    second: miniboss_t2_flamethrower_119
+  - first:
+      213: -4564441777883396189
+    second: miniboss_t2_flamethrower_120
+  - first:
+      213: -5548719835227445723
+    second: miniboss_t2_flamethrower_121
+  - first:
+      213: 5048712622093196495
+    second: miniboss_t2_flamethrower_122
+  - first:
+      213: 5564574030414967368
+    second: miniboss_t2_flamethrower_123
+  - first:
+      213: -9042564408702995517
+    second: miniboss_t2_flamethrower_124
+  - first:
+      213: -1507403143739129338
+    second: miniboss_t2_flamethrower_125
+  - first:
+      213: -5639431303858774106
+    second: miniboss_t2_flamethrower_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05673bba693598cd0800000000000000
+      internalID: -2555419406965180848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e188f30e965ed540800000000000000
+      internalID: 5034556670118232552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 885
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e96283a7bfb2ff80800000000000000
+      internalID: -8074180386478724635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 954
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9677ca8f71a5b0390800000000000000
+      internalID: -7851082466387527831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 953
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d0567ca34e0b30800000000000000
+      internalID: 4255413105910140979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 883
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce16a41b8ec4cbc40800000000000000
+      internalID: 5529379004794692076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 954
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78c0f138326ee1f0800000000000000
+      internalID: -1013764872616228738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 954
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b17bb759b9717b60800000000000000
+      internalID: 7742103071374406069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 953
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5603aaa8ecd800800000000000000
+      internalID: 638641066756955771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 884
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31d3b2cf8017e9a0800000000000000
+      internalID: -6203971752046636741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 954
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c98e52d7fb14bd70800000000000000
+      internalID: 9057895501749193158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 885
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505573641609ca430800000000000000
+      internalID: 3795567333430744325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_12
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 953
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5944daa497c021a80800000000000000
+      internalID: -8497715831811259243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 953
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580115e2cc7dbb4f0800000000000000
+      internalID: -811818035859877755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 954
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb07c12c6ccdb5e0800000000000000
+      internalID: -1892131503630513153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_15
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 953
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b8995d458cbb40800000000000000
+      internalID: 5457383415728354669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 885
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24e66e006357160800000000000000
+      internalID: 7022578571448042230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 885
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595b856c94eff19f0800000000000000
+      internalID: -495397841173695083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_18
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 884
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f416ed5c66a4f0800000000000000
+      internalID: -817847131773274030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 884
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4349d0fa91c59e140800000000000000
+      internalID: 4749428547419739188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_20
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 880
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89bf6ad5e91f2ca0800000000000000
+      internalID: -6039580100277585522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_21
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 880
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e1771b71dbf040800000000000000
+      internalID: 4682566564186284104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 880
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e027ce9594b3d980800000000000000
+      internalID: -8515263915720498972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 796
+        width: 159
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4a7b0458cec8d90800000000000000
+      internalID: -7094035255954791249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 800
+        width: 155
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a65f173162dfb6e0800000000000000
+      internalID: -1819504409455929695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 802
+        width: 159
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162238e85ee83230800000000000000
+      internalID: 3618904366212326931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_26
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 789
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd99249e86e78cbb0800000000000000
+      internalID: -4915540004219741733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_27
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 797
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8201abed606b63cb0800000000000000
+      internalID: -4884516605213929432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_28
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 797
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290fadeeec0f2a010800000000000000
+      internalID: 1198785222395228306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_29
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 795
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e4acc42c92b690800000000000000
+      internalID: -7587830740299750193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_30
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 794
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd82b22223709df90800000000000000
+      internalID: -6928498639829784357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 725
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26671d6c802123de0800000000000000
+      internalID: -1355000708980443550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 725
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0176a63168161c490800000000000000
+      internalID: -7727788257111808240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 716
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a7b81a741ec590800000000000000
+      internalID: -7652156202222640715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 718
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5b930880fa56e50800000000000000
+      internalID: 6802035263258867119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 717
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9b600431c1bcb80800000000000000
+      internalID: -8373568213161166425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 712
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca91e26ace265c730800000000000000
+      internalID: 4018727011037878700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_37
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 734
+        width: 119
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ff343aaad4d21c0800000000000000
+      internalID: -4526876655158558976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_38
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 734
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dd252938e962710800000000000000
+      internalID: 1668194999920155996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 733
+        width: 115
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbfb2b2920a24f80800000000000000
+      internalID: -8123754679144547379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 667
+        width: 119
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e0dddecc1961750800000000000000
+      internalID: 6275363440137408142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 665
+        width: 119
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf4207edf89c7250800000000000000
+      internalID: 5943793824492048332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 650
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83992b00c744ed40800000000000000
+      internalID: 5612689925757047694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 647
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efa382f70b5d5c10800000000000000
+      internalID: 2043889895587688425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 642
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5810b81a953d539b0800000000000000
+      internalID: -5100938621011426939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_45
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 642
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54300b7f9c3851de0800000000000000
+      internalID: -1363038408742534331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_46
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 641
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2a1d2038c490ca0800000000000000
+      internalID: -6050220498823830812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_47
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 641
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ae826df2beb7b0800000000000000
+      internalID: -5206527317843729263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_48
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 652
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f882f0caf33ed0a0800000000000000
+      internalID: -6854984430739355399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_49
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 652
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a1244783b954660800000000000000
+      internalID: 7369467032032647835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 590
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f056a651e0e810800000000000000
+      internalID: 1792680413967218858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 591
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3703ee516bbf38710800000000000000
+      internalID: 1694474644291989619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 579
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a6c3e9ae3f35500800000000000000
+      internalID: 383918582259280535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 578
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfae6cb1d7582140800000000000000
+      internalID: 4695099169854894045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_54
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 600
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1d0f64e9c7c430800000000000000
+      internalID: 3803230393290529972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 571
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c431ecaae7876eb0800000000000000
+      internalID: -4726659841909508922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_56
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 572
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05dcfec16e39c40800000000000000
+      internalID: 5518006980415672573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_57
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 572
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da14452ac5d8fd20800000000000000
+      internalID: 3312632590116330195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 570
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ce18748cf0b090800000000000000
+      internalID: -8020633290465688277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_59
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 570
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707caf040274c58c0800000000000000
+      internalID: -4009251364411881721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_60
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 570
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4e448856b6438b0800000000000000
+      internalID: -5173391988119771978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_61
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 572
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e07b7f29d9c50b0800000000000000
+      internalID: -5738538570630099421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 515
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ceed938ec1a4e0800000000000000
+      internalID: -1972068097125858831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 516
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fef9a6e14439ab0800000000000000
+      internalID: -5002579863649914985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 510
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd713108bd1657eb0800000000000000
+      internalID: -4722761038853629985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 212
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62327d1b46e07930800000000000000
+      internalID: 4139061267844444778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cdd48e16e4972d0800000000000000
+      internalID: -3280504671146484639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 183
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5faecb61b4ee11a0800000000000000
+      internalID: -6836775733632782500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 211
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abc6b3b0b5fe6480800000000000000
+      internalID: -8903909273986741342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_69
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 157
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e3c14443b07a80800000000000000
+      internalID: -8471073793341396821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 197
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695b12c30677a2fd0800000000000000
+      internalID: -2365947399020366442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ddf6ddfc05e500800000000000000
+      internalID: 424760024229598122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_72
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 202
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25629e026a3cad6f0800000000000000
+      internalID: -658999277172218286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_73
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 156
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0da1a650e0caaa0800000000000000
+      internalID: -6148523974849802040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 108
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a97d8c1a9c67dc0800000000000000
+      internalID: -3641501551985976771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 179
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dd48306cfc3b9f0800000000000000
+      internalID: -453790688064774772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 186
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba4cc274687a900800000000000000
+      internalID: 695672307703917438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_77
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 159
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7b6322d324db150800000000000000
+      internalID: 5889936718004926410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_78
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 165
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e12b19e983fd1f0800000000000000
+      internalID: -1018032737062085103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_79
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 110
+        width: 137
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de39f39ed1edf9f40800000000000000
+      internalID: 5737548670341977069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 123
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f3f6be13d6b9cf0800000000000000
+      internalID: -244481693590798544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 121
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adb75413fb351990800000000000000
+      internalID: -7415955296191267424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_82
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 81
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61002e6fa084dc6d0800000000000000
+      internalID: -2968637367438409706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_83
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 127
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47af70fb2ca808b50800000000000000
+      internalID: 6593422423503665780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_84
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 141
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996f64d65f076cb0800000000000000
+      internalID: -4870907606372226666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_85
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670b7eb10cf48160800000000000000
+      internalID: 7027018403025717094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_86
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 131
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0bc1111058f6c00800000000000000
+      internalID: 896081090498572460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_87
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9329b077c246d0800000000000000
+      internalID: -3007622314173687203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea07808e6dd78820800000000000000
+      internalID: 2920546350045530859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 90
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b720d0a83ef4879c0800000000000000
+      internalID: -3929302836188478853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_90
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 88
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65784daac5b93dc0800000000000000
+      internalID: -3658693340166589074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_91
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 86
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20ecf4d508fa15c0800000000000000
+      internalID: -4243806994911403987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_92
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7f2c10be3e622a0800000000000000
+      internalID: -6762467191963846672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_93
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 93
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6010c795e6d7af0800000000000000
+      internalID: -397039861527148814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_94
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 86
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997145ea5940fd350800000000000000
+      internalID: 6043554265875879833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 96
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e60a952fde062510800000000000000
+      internalID: 1523921875482838758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_96
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 106
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb031515154c73e0800000000000000
+      internalID: -2054691373137589278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_97
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 94
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c54ad9ef45e650b0800000000000000
+      internalID: -5740148543648545341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 113
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb459ec0d79403710800000000000000
+      internalID: 1670916263190811839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_99
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232458e57ec18f1a0800000000000000
+      internalID: -6775633859330096590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_100
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 82
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099d50ee46c503c70800000000000000
+      internalID: 8948754048145021328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_101
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 88
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f93572617950890800000000000000
+      internalID: -7492416283656085726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_102
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 96
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a303f211c7193e0800000000000000
+      internalID: -2048719942228886893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_103
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 96
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8339fcf87ad51c880800000000000000
+      internalID: -8592483639792528584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_104
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 85
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8833573a69f9db0d0800000000000000
+      internalID: -3405390273885949048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 87
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d023a03c0b65d660800000000000000
+      internalID: 7409946462007795923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_106
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 87
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256412b97b0926560800000000000000
+      internalID: 7305560663804429906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_107
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 37
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa19bda56765dea20800000000000000
+      internalID: 3093223585403867567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_108
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 11
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677c1fbdbf840a150800000000000000
+      internalID: 5881781359909914486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_109
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 10
+        width: 141
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e1d341c2a4f5d90800000000000000
+      internalID: -7106880133788787105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_110
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 65
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd9805971b596e0800000000000000
+      internalID: -1831362538855866511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_111
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 9
+        width: 142
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3202138e3dbb8edd0800000000000000
+      internalID: -2456507077922578397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_112
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 56
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330fd57cf77655c10800000000000000
+      internalID: 2041651804585717811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_113
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 40
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d581c97ce9c81940800000000000000
+      internalID: 5267181781701985749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_114
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 36
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f788959a0ca7fc0800000000000000
+      internalID: -3496270327115645073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c848a06908be4ed0800000000000000
+      internalID: -2427800798690260796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_116
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c05be94d3849610800000000000000
+      internalID: 1627070314606562385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_117
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e5dde21286c590800000000000000
+      internalID: -7654287498858339888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_118
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 37
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fb6cc70f3de0490800000000000000
+      internalID: -7778046476583256222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_119
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 17
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70ef4d4ca7455ec0800000000000000
+      internalID: -3578875523518963586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_120
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 44
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7ce4fe268d7a0c0800000000000000
+      internalID: -4564441777883396189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_121
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526aa1f45bcfef2b0800000000000000
+      internalID: -5548719835227445723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_122
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc55ec6161a01640800000000000000
+      internalID: 5048712622093196495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_123
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8427f392996593d40800000000000000
+      internalID: 5564574030414967368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3faa0749b528280800000000000000
+      internalID: -9042564408702995517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_125
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6024f1cc3d0a41be0800000000000000
+      internalID: -1507403143739129338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t2_flamethrower_126
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af974eab17bcb1b0800000000000000
+      internalID: -5639431303858774106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miniboss_t2_flamethrower_0: -2555419406965180848
+      miniboss_t2_flamethrower_1: 5034556670118232552
+      miniboss_t2_flamethrower_10: 9057895501749193158
+      miniboss_t2_flamethrower_100: 8948754048145021328
+      miniboss_t2_flamethrower_101: -7492416283656085726
+      miniboss_t2_flamethrower_102: -2048719942228886893
+      miniboss_t2_flamethrower_103: -8592483639792528584
+      miniboss_t2_flamethrower_104: -3405390273885949048
+      miniboss_t2_flamethrower_105: 7409946462007795923
+      miniboss_t2_flamethrower_106: 7305560663804429906
+      miniboss_t2_flamethrower_107: 3093223585403867567
+      miniboss_t2_flamethrower_108: 5881781359909914486
+      miniboss_t2_flamethrower_109: -7106880133788787105
+      miniboss_t2_flamethrower_11: 3795567333430744325
+      miniboss_t2_flamethrower_110: -1831362538855866511
+      miniboss_t2_flamethrower_111: -2456507077922578397
+      miniboss_t2_flamethrower_112: 2041651804585717811
+      miniboss_t2_flamethrower_113: 5267181781701985749
+      miniboss_t2_flamethrower_114: -3496270327115645073
+      miniboss_t2_flamethrower_115: -2427800798690260796
+      miniboss_t2_flamethrower_116: 1627070314606562385
+      miniboss_t2_flamethrower_117: -7654287498858339888
+      miniboss_t2_flamethrower_118: -7778046476583256222
+      miniboss_t2_flamethrower_119: -3578875523518963586
+      miniboss_t2_flamethrower_12: -8497715831811259243
+      miniboss_t2_flamethrower_120: -4564441777883396189
+      miniboss_t2_flamethrower_121: -5548719835227445723
+      miniboss_t2_flamethrower_122: 5048712622093196495
+      miniboss_t2_flamethrower_123: 5564574030414967368
+      miniboss_t2_flamethrower_124: -9042564408702995517
+      miniboss_t2_flamethrower_125: -1507403143739129338
+      miniboss_t2_flamethrower_126: -5639431303858774106
+      miniboss_t2_flamethrower_13: -811818035859877755
+      miniboss_t2_flamethrower_14: -1892131503630513153
+      miniboss_t2_flamethrower_15: 5457383415728354669
+      miniboss_t2_flamethrower_16: 7022578571448042230
+      miniboss_t2_flamethrower_17: -495397841173695083
+      miniboss_t2_flamethrower_18: -817847131773274030
+      miniboss_t2_flamethrower_19: 4749428547419739188
+      miniboss_t2_flamethrower_2: -8074180386478724635
+      miniboss_t2_flamethrower_20: -6039580100277585522
+      miniboss_t2_flamethrower_21: 4682566564186284104
+      miniboss_t2_flamethrower_22: -8515263915720498972
+      miniboss_t2_flamethrower_23: -7094035255954791249
+      miniboss_t2_flamethrower_24: -1819504409455929695
+      miniboss_t2_flamethrower_25: 3618904366212326931
+      miniboss_t2_flamethrower_26: -4915540004219741733
+      miniboss_t2_flamethrower_27: -4884516605213929432
+      miniboss_t2_flamethrower_28: 1198785222395228306
+      miniboss_t2_flamethrower_29: -7587830740299750193
+      miniboss_t2_flamethrower_3: -7851082466387527831
+      miniboss_t2_flamethrower_30: -6928498639829784357
+      miniboss_t2_flamethrower_31: -1355000708980443550
+      miniboss_t2_flamethrower_32: -7727788257111808240
+      miniboss_t2_flamethrower_33: -7652156202222640715
+      miniboss_t2_flamethrower_34: 6802035263258867119
+      miniboss_t2_flamethrower_35: -8373568213161166425
+      miniboss_t2_flamethrower_36: 4018727011037878700
+      miniboss_t2_flamethrower_37: -4526876655158558976
+      miniboss_t2_flamethrower_38: 1668194999920155996
+      miniboss_t2_flamethrower_39: -8123754679144547379
+      miniboss_t2_flamethrower_4: 4255413105910140979
+      miniboss_t2_flamethrower_40: 6275363440137408142
+      miniboss_t2_flamethrower_41: 5943793824492048332
+      miniboss_t2_flamethrower_42: 5612689925757047694
+      miniboss_t2_flamethrower_43: 2043889895587688425
+      miniboss_t2_flamethrower_44: -5100938621011426939
+      miniboss_t2_flamethrower_45: -1363038408742534331
+      miniboss_t2_flamethrower_46: -6050220498823830812
+      miniboss_t2_flamethrower_47: -5206527317843729263
+      miniboss_t2_flamethrower_48: -6854984430739355399
+      miniboss_t2_flamethrower_49: 7369467032032647835
+      miniboss_t2_flamethrower_5: 5529379004794692076
+      miniboss_t2_flamethrower_50: 1792680413967218858
+      miniboss_t2_flamethrower_51: 1694474644291989619
+      miniboss_t2_flamethrower_52: 383918582259280535
+      miniboss_t2_flamethrower_53: 4695099169854894045
+      miniboss_t2_flamethrower_54: 3803230393290529972
+      miniboss_t2_flamethrower_55: -4726659841909508922
+      miniboss_t2_flamethrower_56: 5518006980415672573
+      miniboss_t2_flamethrower_57: 3312632590116330195
+      miniboss_t2_flamethrower_58: -8020633290465688277
+      miniboss_t2_flamethrower_59: -4009251364411881721
+      miniboss_t2_flamethrower_6: -1013764872616228738
+      miniboss_t2_flamethrower_60: -5173391988119771978
+      miniboss_t2_flamethrower_61: -5738538570630099421
+      miniboss_t2_flamethrower_62: -1972068097125858831
+      miniboss_t2_flamethrower_63: -5002579863649914985
+      miniboss_t2_flamethrower_64: -4722761038853629985
+      miniboss_t2_flamethrower_65: 4139061267844444778
+      miniboss_t2_flamethrower_66: -3280504671146484639
+      miniboss_t2_flamethrower_67: -6836775733632782500
+      miniboss_t2_flamethrower_68: -8903909273986741342
+      miniboss_t2_flamethrower_69: -8471073793341396821
+      miniboss_t2_flamethrower_7: 7742103071374406069
+      miniboss_t2_flamethrower_70: -2365947399020366442
+      miniboss_t2_flamethrower_71: 424760024229598122
+      miniboss_t2_flamethrower_72: -658999277172218286
+      miniboss_t2_flamethrower_73: -6148523974849802040
+      miniboss_t2_flamethrower_74: -3641501551985976771
+      miniboss_t2_flamethrower_75: -453790688064774772
+      miniboss_t2_flamethrower_76: 695672307703917438
+      miniboss_t2_flamethrower_77: 5889936718004926410
+      miniboss_t2_flamethrower_78: -1018032737062085103
+      miniboss_t2_flamethrower_79: 5737548670341977069
+      miniboss_t2_flamethrower_8: 638641066756955771
+      miniboss_t2_flamethrower_80: -244481693590798544
+      miniboss_t2_flamethrower_81: -7415955296191267424
+      miniboss_t2_flamethrower_82: -2968637367438409706
+      miniboss_t2_flamethrower_83: 6593422423503665780
+      miniboss_t2_flamethrower_84: -4870907606372226666
+      miniboss_t2_flamethrower_85: 7027018403025717094
+      miniboss_t2_flamethrower_86: 896081090498572460
+      miniboss_t2_flamethrower_87: -3007622314173687203
+      miniboss_t2_flamethrower_88: 2920546350045530859
+      miniboss_t2_flamethrower_89: -3929302836188478853
+      miniboss_t2_flamethrower_9: -6203971752046636741
+      miniboss_t2_flamethrower_90: -3658693340166589074
+      miniboss_t2_flamethrower_91: -4243806994911403987
+      miniboss_t2_flamethrower_92: -6762467191963846672
+      miniboss_t2_flamethrower_93: -397039861527148814
+      miniboss_t2_flamethrower_94: 6043554265875879833
+      miniboss_t2_flamethrower_95: 1523921875482838758
+      miniboss_t2_flamethrower_96: -2054691373137589278
+      miniboss_t2_flamethrower_97: -5740148543648545341
+      miniboss_t2_flamethrower_98: 1670916263190811839
+      miniboss_t2_flamethrower_99: -6775633859330096590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

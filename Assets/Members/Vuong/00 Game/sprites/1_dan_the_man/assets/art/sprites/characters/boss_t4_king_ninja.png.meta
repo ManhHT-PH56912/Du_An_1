@@ -1,0 +1,4537 @@
+fileFormatVersion: 2
+guid: dae833d809647e746b2693dd28fdab37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5819471807816389314
+    second: boss_t4_king_ninja_0
+  - first:
+      213: 42946178052495832
+    second: boss_t4_king_ninja_1
+  - first:
+      213: 499372139017599241
+    second: boss_t4_king_ninja_2
+  - first:
+      213: 6356102446145557620
+    second: boss_t4_king_ninja_3
+  - first:
+      213: -1132593734385735897
+    second: boss_t4_king_ninja_4
+  - first:
+      213: -6447225439200364784
+    second: boss_t4_king_ninja_5
+  - first:
+      213: 4460751529967587318
+    second: boss_t4_king_ninja_6
+  - first:
+      213: 1154629924602313497
+    second: boss_t4_king_ninja_7
+  - first:
+      213: 8427968561342486405
+    second: boss_t4_king_ninja_8
+  - first:
+      213: -2950872863679492927
+    second: boss_t4_king_ninja_9
+  - first:
+      213: -8394215676889724077
+    second: boss_t4_king_ninja_10
+  - first:
+      213: 1582765783452619302
+    second: boss_t4_king_ninja_11
+  - first:
+      213: 876776709176703899
+    second: boss_t4_king_ninja_12
+  - first:
+      213: -6040673641087835413
+    second: boss_t4_king_ninja_13
+  - first:
+      213: -6480371184185115842
+    second: boss_t4_king_ninja_14
+  - first:
+      213: 6986917705241523163
+    second: boss_t4_king_ninja_15
+  - first:
+      213: -6472160466424538857
+    second: boss_t4_king_ninja_16
+  - first:
+      213: -1402768759840291903
+    second: boss_t4_king_ninja_17
+  - first:
+      213: 7823259756736794383
+    second: boss_t4_king_ninja_18
+  - first:
+      213: 7672004497354516887
+    second: boss_t4_king_ninja_19
+  - first:
+      213: 6900228800412723120
+    second: boss_t4_king_ninja_20
+  - first:
+      213: 2936696091380878899
+    second: boss_t4_king_ninja_21
+  - first:
+      213: -7836450239824225882
+    second: boss_t4_king_ninja_22
+  - first:
+      213: -2986458117095669961
+    second: boss_t4_king_ninja_23
+  - first:
+      213: -6053412604110260597
+    second: boss_t4_king_ninja_24
+  - first:
+      213: -8121564662340175350
+    second: boss_t4_king_ninja_25
+  - first:
+      213: -4014855384743480002
+    second: boss_t4_king_ninja_26
+  - first:
+      213: 5860863301710118387
+    second: boss_t4_king_ninja_27
+  - first:
+      213: -3868806283387686585
+    second: boss_t4_king_ninja_28
+  - first:
+      213: -1359696539407629121
+    second: boss_t4_king_ninja_29
+  - first:
+      213: -3255187926584850579
+    second: boss_t4_king_ninja_30
+  - first:
+      213: 9053221015089467169
+    second: boss_t4_king_ninja_31
+  - first:
+      213: -2438816389739188182
+    second: boss_t4_king_ninja_32
+  - first:
+      213: 5776706041711745460
+    second: boss_t4_king_ninja_33
+  - first:
+      213: 8505485742180162869
+    second: boss_t4_king_ninja_34
+  - first:
+      213: -4684701923656493150
+    second: boss_t4_king_ninja_35
+  - first:
+      213: -4283917401263193633
+    second: boss_t4_king_ninja_36
+  - first:
+      213: 4178249973658727791
+    second: boss_t4_king_ninja_37
+  - first:
+      213: 5500143269793119364
+    second: boss_t4_king_ninja_38
+  - first:
+      213: -2489028145156162327
+    second: boss_t4_king_ninja_39
+  - first:
+      213: -190479678645646023
+    second: boss_t4_king_ninja_40
+  - first:
+      213: -8993043156399926019
+    second: boss_t4_king_ninja_41
+  - first:
+      213: 917389421860947022
+    second: boss_t4_king_ninja_42
+  - first:
+      213: 2462136398536189572
+    second: boss_t4_king_ninja_43
+  - first:
+      213: 8854428703807120876
+    second: boss_t4_king_ninja_44
+  - first:
+      213: 5135385453613992141
+    second: boss_t4_king_ninja_45
+  - first:
+      213: -821191759296964656
+    second: boss_t4_king_ninja_46
+  - first:
+      213: 8414898680679829422
+    second: boss_t4_king_ninja_47
+  - first:
+      213: -7224290095350897453
+    second: boss_t4_king_ninja_48
+  - first:
+      213: -9088749861781762306
+    second: boss_t4_king_ninja_49
+  - first:
+      213: 7764684712492532215
+    second: boss_t4_king_ninja_50
+  - first:
+      213: 2564305940285239794
+    second: boss_t4_king_ninja_51
+  - first:
+      213: -8650239173025062949
+    second: boss_t4_king_ninja_52
+  - first:
+      213: 1007884729628358587
+    second: boss_t4_king_ninja_53
+  - first:
+      213: -471471684657961795
+    second: boss_t4_king_ninja_54
+  - first:
+      213: -5003863390256707291
+    second: boss_t4_king_ninja_55
+  - first:
+      213: -6093831990756376210
+    second: boss_t4_king_ninja_56
+  - first:
+      213: 6024918858314528230
+    second: boss_t4_king_ninja_57
+  - first:
+      213: -7436824338608663173
+    second: boss_t4_king_ninja_58
+  - first:
+      213: -1467068182625856706
+    second: boss_t4_king_ninja_59
+  - first:
+      213: -8399651722304601287
+    second: boss_t4_king_ninja_60
+  - first:
+      213: -7374198710163614270
+    second: boss_t4_king_ninja_61
+  - first:
+      213: -4865401682229356089
+    second: boss_t4_king_ninja_62
+  - first:
+      213: 3732987493881473062
+    second: boss_t4_king_ninja_63
+  - first:
+      213: 4922597089945297704
+    second: boss_t4_king_ninja_64
+  - first:
+      213: -1800206337522994548
+    second: boss_t4_king_ninja_65
+  - first:
+      213: 8947601991575265329
+    second: boss_t4_king_ninja_66
+  - first:
+      213: 9216136586916754664
+    second: boss_t4_king_ninja_67
+  - first:
+      213: -6850122462001804889
+    second: boss_t4_king_ninja_68
+  - first:
+      213: 1437505787231857483
+    second: boss_t4_king_ninja_69
+  - first:
+      213: -8152296933151642627
+    second: boss_t4_king_ninja_70
+  - first:
+      213: 1742419491220151212
+    second: boss_t4_king_ninja_71
+  - first:
+      213: -8320150768887837378
+    second: boss_t4_king_ninja_72
+  - first:
+      213: -2624308678424987828
+    second: boss_t4_king_ninja_73
+  - first:
+      213: -872439024427323538
+    second: boss_t4_king_ninja_74
+  - first:
+      213: 945189503074546367
+    second: boss_t4_king_ninja_75
+  - first:
+      213: 828383736778962130
+    second: boss_t4_king_ninja_76
+  - first:
+      213: 8541535129522848497
+    second: boss_t4_king_ninja_77
+  - first:
+      213: -5057012748260238053
+    second: boss_t4_king_ninja_78
+  - first:
+      213: -1207853639154103752
+    second: boss_t4_king_ninja_79
+  - first:
+      213: -8752639415145620032
+    second: boss_t4_king_ninja_80
+  - first:
+      213: 9039647872772066301
+    second: boss_t4_king_ninja_81
+  - first:
+      213: -6830663262586522077
+    second: boss_t4_king_ninja_82
+  - first:
+      213: -5705377360956900258
+    second: boss_t4_king_ninja_83
+  - first:
+      213: 5542761840469702035
+    second: boss_t4_king_ninja_84
+  - first:
+      213: -6474271814413298000
+    second: boss_t4_king_ninja_85
+  - first:
+      213: -4691634885303928548
+    second: boss_t4_king_ninja_86
+  - first:
+      213: 6374043524142143181
+    second: boss_t4_king_ninja_87
+  - first:
+      213: -8085423423990095826
+    second: boss_t4_king_ninja_88
+  - first:
+      213: 1355885735014860391
+    second: boss_t4_king_ninja_89
+  - first:
+      213: 1262155028274307531
+    second: boss_t4_king_ninja_90
+  - first:
+      213: -2667109941116449221
+    second: boss_t4_king_ninja_91
+  - first:
+      213: 9079823555703219628
+    second: boss_t4_king_ninja_92
+  - first:
+      213: 5725387747003890306
+    second: boss_t4_king_ninja_93
+  - first:
+      213: 2864427555451280378
+    second: boss_t4_king_ninja_94
+  - first:
+      213: -8585163572503967300
+    second: boss_t4_king_ninja_95
+  - first:
+      213: -4937765861039909492
+    second: boss_t4_king_ninja_96
+  - first:
+      213: 6403660558651001435
+    second: boss_t4_king_ninja_97
+  - first:
+      213: -1925762896739421229
+    second: boss_t4_king_ninja_98
+  - first:
+      213: -7803769125058752801
+    second: boss_t4_king_ninja_99
+  - first:
+      213: 2324509451302144138
+    second: boss_t4_king_ninja_100
+  - first:
+      213: -5241122647775429183
+    second: boss_t4_king_ninja_101
+  - first:
+      213: -4260940074529747194
+    second: boss_t4_king_ninja_102
+  - first:
+      213: -2856046181589774366
+    second: boss_t4_king_ninja_103
+  - first:
+      213: -3275236937255414105
+    second: boss_t4_king_ninja_104
+  - first:
+      213: 7647455595094657384
+    second: boss_t4_king_ninja_105
+  - first:
+      213: -4637950720376154283
+    second: boss_t4_king_ninja_106
+  - first:
+      213: -8223907653067311440
+    second: boss_t4_king_ninja_107
+  - first:
+      213: 1339121349541318235
+    second: boss_t4_king_ninja_108
+  - first:
+      213: 6959216940513630331
+    second: boss_t4_king_ninja_109
+  - first:
+      213: -2922960161439809278
+    second: boss_t4_king_ninja_110
+  - first:
+      213: 4757441454847912852
+    second: boss_t4_king_ninja_111
+  - first:
+      213: -9168872931405142941
+    second: boss_t4_king_ninja_112
+  - first:
+      213: 6011973908788991474
+    second: boss_t4_king_ninja_113
+  - first:
+      213: 6908212356780369062
+    second: boss_t4_king_ninja_114
+  - first:
+      213: 4482610601167529017
+    second: boss_t4_king_ninja_115
+  - first:
+      213: 1576989590649194910
+    second: boss_t4_king_ninja_116
+  - first:
+      213: -4688585009792826898
+    second: boss_t4_king_ninja_117
+  - first:
+      213: 6154500069349467521
+    second: boss_t4_king_ninja_118
+  - first:
+      213: 2384750625364661360
+    second: boss_t4_king_ninja_119
+  - first:
+      213: 1043287178072222614
+    second: boss_t4_king_ninja_120
+  - first:
+      213: -2335439099591906208
+    second: boss_t4_king_ninja_121
+  - first:
+      213: -4551632318743764810
+    second: boss_t4_king_ninja_122
+  - first:
+      213: -4389980931806576644
+    second: boss_t4_king_ninja_123
+  - first:
+      213: -8685148884904053667
+    second: boss_t4_king_ninja_124
+  - first:
+      213: -4889433713891803002
+    second: boss_t4_king_ninja_125
+  - first:
+      213: 3643541813486524268
+    second: boss_t4_king_ninja_126
+  - first:
+      213: 7057507504836430799
+    second: boss_t4_king_ninja_127
+  - first:
+      213: 8977919043996439432
+    second: boss_t4_king_ninja_128
+  - first:
+      213: -5286637302345928976
+    second: boss_t4_king_ninja_129
+  - first:
+      213: -4495523907579136378
+    second: boss_t4_king_ninja_130
+  - first:
+      213: -8172999154513872524
+    second: boss_t4_king_ninja_131
+  - first:
+      213: -6737580107704006579
+    second: boss_t4_king_ninja_132
+  - first:
+      213: 7987835989713676706
+    second: boss_t4_king_ninja_133
+  - first:
+      213: 8654759435199123978
+    second: boss_t4_king_ninja_134
+  - first:
+      213: 593175449338440982
+    second: boss_t4_king_ninja_135
+  - first:
+      213: -2305356681791659459
+    second: boss_t4_king_ninja_136
+  - first:
+      213: -8345440271761500561
+    second: boss_t4_king_ninja_137
+  - first:
+      213: 723967362841928280
+    second: boss_t4_king_ninja_138
+  - first:
+      213: -4868838248410682781
+    second: boss_t4_king_ninja_139
+  - first:
+      213: -7118939120317971901
+    second: boss_t4_king_ninja_140
+  - first:
+      213: 1679257659192736738
+    second: boss_t4_king_ninja_141
+  - first:
+      213: 6511077325021182746
+    second: boss_t4_king_ninja_142
+  - first:
+      213: 8677733833567442743
+    second: boss_t4_king_ninja_143
+  - first:
+      213: -5061648250453777113
+    second: boss_t4_king_ninja_144
+  - first:
+      213: 1589193291520996284
+    second: boss_t4_king_ninja_145
+  - first:
+      213: 2320840837796122497
+    second: boss_t4_king_ninja_146
+  - first:
+      213: -759555833990661100
+    second: boss_t4_king_ninja_147
+  - first:
+      213: -2812654526574822415
+    second: boss_t4_king_ninja_148
+  - first:
+      213: -6293240184410608485
+    second: boss_t4_king_ninja_149
+  - first:
+      213: 1055600106155356204
+    second: boss_t4_king_ninja_150
+  - first:
+      213: 8774732493916613876
+    second: boss_t4_king_ninja_151
+  - first:
+      213: 1602653663578579841
+    second: boss_t4_king_ninja_152
+  - first:
+      213: 6907738491977228389
+    second: boss_t4_king_ninja_153
+  - first:
+      213: 2423865708389574876
+    second: boss_t4_king_ninja_154
+  - first:
+      213: 5754253087231889241
+    second: boss_t4_king_ninja_155
+  - first:
+      213: 5249889382212659217
+    second: boss_t4_king_ninja_156
+  - first:
+      213: -3569969788418900956
+    second: boss_t4_king_ninja_157
+  - first:
+      213: 1828992955895729204
+    second: boss_t4_king_ninja_158
+  - first:
+      213: 1557175482530134127
+    second: boss_t4_king_ninja_159
+  - first:
+      213: -5141361232836437323
+    second: boss_t4_king_ninja_160
+  - first:
+      213: 6214601677970981800
+    second: boss_t4_king_ninja_161
+  - first:
+      213: 3190789201246446240
+    second: boss_t4_king_ninja_162
+  - first:
+      213: 1376373294118938841
+    second: boss_t4_king_ninja_163
+  - first:
+      213: -7760197068460645715
+    second: boss_t4_king_ninja_164
+  - first:
+      213: -4789721923244215101
+    second: boss_t4_king_ninja_165
+  - first:
+      213: 3653004740669200318
+    second: boss_t4_king_ninja_166
+  - first:
+      213: 8389683310451813320
+    second: boss_t4_king_ninja_167
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 997
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2db4db6cae2c050800000000000000
+      internalID: 5819471807816389314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 997
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d997474253989000800000000000000
+      internalID: 42946178052495832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 956
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909fedc80502ee600800000000000000
+      internalID: 499372139017599241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 998
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4745f7aaf79653850800000000000000
+      internalID: 6356102446145557620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 956
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ea13dff73840f0800000000000000
+      internalID: -1132593734385735897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 989
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017b9953f9ad686a0800000000000000
+      internalID: -6447225439200364784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 968
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff8ff6e1e5c7ed30800000000000000
+      internalID: 4460751529967587318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 984
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bf4f68cc1160010800000000000000
+      internalID: 1154629924602313497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 984
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5879af4d0c826f470800000000000000
+      internalID: 8427968561342486405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 984
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc4b0fc3c46c07d0800000000000000
+      internalID: -2950872863679492927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 984
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b09faf051c18b80800000000000000
+      internalID: -8394215676889724077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 992
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622165d181d17f510800000000000000
+      internalID: 1582765783452619302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 992
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b30d985cfea2c00800000000000000
+      internalID: 876776709176703899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 992
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e4ea04573b2ca0800000000000000
+      internalID: -6040673641087835413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_14
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 992
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf7f11eb81116a0800000000000000
+      internalID: -6480371184185115842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_15
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 992
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3fec772a486f060800000000000000
+      internalID: 6986917705241523163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_16
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 992
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7195075c8544e26a0800000000000000
+      internalID: -6472160466424538857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 989
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c344bfbe3d588ce0800000000000000
+      internalID: -1402768759840291903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_18
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 990
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc7e1ac4dc19c60800000000000000
+      internalID: 7823259756736794383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_19
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 991
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e30c317f687a60800000000000000
+      internalID: 7672004497354516887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 964
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b72585f88982cf50800000000000000
+      internalID: 6900228800412723120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 956
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e090c298d31c820800000000000000
+      internalID: 2936696091380878899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 977
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a99043b6065f3390800000000000000
+      internalID: -7836450239824225882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 966
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f3ee95a28fd86d0800000000000000
+      internalID: -2986458117095669961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 946
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86b2251f45fdfba0800000000000000
+      internalID: -6053412604110260597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 946
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a39d038f76a4f80800000000000000
+      internalID: -8121564662340175350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 946
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35fcc79c4e5848c0800000000000000
+      internalID: -4014855384743480002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 946
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdfd87ee18f55150800000000000000
+      internalID: 5860863301710118387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 962
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741b0edde2d3f4ac0800000000000000
+      internalID: -3868806283387686585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 962
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c74e8333612de0800000000000000
+      internalID: -1359696539407629121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_30
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 962
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6705c6d3df33d2d0800000000000000
+      internalID: -3255187926584850579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 962
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f42851c8083ad70800000000000000
+      internalID: 9053221015089467169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_32
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 962
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f1393a65972ed0800000000000000
+      internalID: -2438816389739188182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_33
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 955
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9d414e98bfa2050800000000000000
+      internalID: 5776706041711745460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_34
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 957
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d5cc0f73e890670800000000000000
+      internalID: 8505485742180162869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_35
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 958
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a79dd9cb689cfeb0800000000000000
+      internalID: -4684701923656493150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 922
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1c79a12d77c84c0800000000000000
+      internalID: -4283917401263193633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 908
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b6b6b6302cf930800000000000000
+      internalID: 4178249973658727791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 908
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c36c1b92f645c40800000000000000
+      internalID: 5500143269793119364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 908
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec7404e612357dd0800000000000000
+      internalID: -2489028145156162327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 930
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d4561ddb74b5df0800000000000000
+      internalID: -190479678645646023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 916
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4560d75ea423380800000000000000
+      internalID: -8993043156399926019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 913
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4409b291d83bbc00800000000000000
+      internalID: 917389421860947022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 914
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862f4f62044b2220800000000000000
+      internalID: 2462136398536189572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_44
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 914
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5227b4eff31ea70800000000000000
+      internalID: 8854428703807120876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 909
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8ce539cdd844740800000000000000
+      internalID: 5135385453613992141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 909
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d750ae127a8a94f0800000000000000
+      internalID: -821191759296964656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_47
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 909
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf03da14c9b7c470800000000000000
+      internalID: 8414898680679829422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 883
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4ac382f6a2ebb90800000000000000
+      internalID: -7224290095350897453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 882
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe0e1ca7264ed180800000000000000
+      internalID: -9088749861781762306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_50
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 871
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f106016b93b1cb60800000000000000
+      internalID: 7764684712492532215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 871
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1302a9aae369320800000000000000
+      internalID: 2564305940285239794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_52
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 888
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1ca59d4d24f780800000000000000
+      internalID: -8650239173025062949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_53
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 889
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7f90452d9bcfd00800000000000000
+      internalID: 1007884729628358587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 902
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4ae42300ff479f0800000000000000
+      internalID: -471471684657961795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_55
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 867
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529ca2712c4be8ab0800000000000000
+      internalID: -5003863390256707291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_56
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 892
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e610e06471c5e6ba0800000000000000
+      internalID: -6093831990756376210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_57
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 867
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5b36eb7cfcc9350800000000000000
+      internalID: 6024918858314528230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_58
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 868
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7550408aa71bc890800000000000000
+      internalID: -7436824338608663173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_59
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 868
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33de41c24de3abe0800000000000000
+      internalID: -1467068182625856706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_60
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 829
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933490703417e6b80800000000000000
+      internalID: -8399651722304601287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 829
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5dd81e75599a990800000000000000
+      internalID: -7374198710163614270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_62
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 871
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c99121b2fe9a7cb0800000000000000
+      internalID: -4865401682229356089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 869
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e7c3f85c3ec330800000000000000
+      internalID: 3732987493881473062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_64
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 867
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823af86e8f3905440800000000000000
+      internalID: 4922597089945297704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 829
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82f889bfd16407e0800000000000000
+      internalID: -1800206337522994548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 829
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130eb6bda944c2c70800000000000000
+      internalID: 8947601991575265329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 829
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e477a8856b46ef70800000000000000
+      internalID: 9216136586916754664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 829
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a945701ae97fe0a0800000000000000
+      internalID: -6850122462001804889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_69
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 858
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4be582b5eb03f310800000000000000
+      internalID: 1437505787231857483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_70
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 856
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb6dfbc1293dde80800000000000000
+      internalID: -8152296933151642627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_71
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 853
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabd4e7ab415e2810800000000000000
+      internalID: 1742419491220151212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_72
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 835
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d4fbe25f2e88c80800000000000000
+      internalID: -8320150768887837378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_73
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 835
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f0814925949bd0800000000000000
+      internalID: -2624308678424987828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_74
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 835
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f22d4645974e3f0800000000000000
+      internalID: -872439024427323538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_75
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 835
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2bf2068dcfd1d00800000000000000
+      internalID: 945189503074546367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_76
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 835
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4bb60ae920f7b00800000000000000
+      internalID: 828383736778962130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_77
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 833
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2cabff1f0a98670800000000000000
+      internalID: 8541535129522848497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_78
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 834
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d935bd2b1e1d9b0800000000000000
+      internalID: -5057012748260238053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 834
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8e81c387dc3fe0800000000000000
+      internalID: -1207853639154103752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_80
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 803
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd992d43d0688680800000000000000
+      internalID: -8752639415145620032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_81
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 835
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbc13f98d7437d70800000000000000
+      internalID: 9039647872772066301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 784
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326383df3fb9431a0800000000000000
+      internalID: -6830663262586522077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_83
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 784
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cbb92c48d62d0b0800000000000000
+      internalID: -5705377360956900258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 784
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39579cfe688dbec40800000000000000
+      internalID: 5542761840469702035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 784
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b652924614c626a0800000000000000
+      internalID: -6474271814413298000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 784
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19f0addde6f3eeb0800000000000000
+      internalID: -4691634885303928548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 784
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc61f5760d6257850800000000000000
+      internalID: 6374043524142143181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_88
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 784
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20a27afb3ecacf80800000000000000
+      internalID: -8085423423990095826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 810
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766849764e211d210800000000000000
+      internalID: 1355885735014860391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 804
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc163cf9f43148110800000000000000
+      internalID: 1262155028274307531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_91
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 805
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e47d6b3a58cfad0800000000000000
+      internalID: -2667109941116449221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_92
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 805
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca52aecba63020e70800000000000000
+      internalID: 9079823555703219628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_93
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 805
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a7a8d42d9a47f40800000000000000
+      internalID: 5725387747003890306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_94
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 805
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb938f6fad70c720800000000000000
+      internalID: 2864427555451280378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_95
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 805
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9074a873f5bd880800000000000000
+      internalID: -8585163572503967300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_96
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 775
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c855aac5c18897bb0800000000000000
+      internalID: -4937765861039909492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 774
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a829c995f5ed850800000000000000
+      internalID: 6403660558651001435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_98
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 768
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3383a39d05645e0800000000000000
+      internalID: -1925762896739421229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_99
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 769
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde46bfa35173b390800000000000000
+      internalID: -7803769125058752801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_100
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 764
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8807e9b701524020800000000000000
+      internalID: 2324509451302144138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_101
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 789
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd371378bac347b0800000000000000
+      internalID: -5241122647775429183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 742
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8d60e3991ed4c0800000000000000
+      internalID: -4260940074529747194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_103
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 742
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef0b3c31294d58d0800000000000000
+      internalID: -2856046181589774366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 742
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a617a7cb550c82d0800000000000000
+      internalID: -3275236937255414105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 742
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869c0358858312a60800000000000000
+      internalID: 7647455595094657384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_106
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 742
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557563a8460b2afb0800000000000000
+      internalID: -4637950720376154283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_107
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 762
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b67e49cf8fcedd80800000000000000
+      internalID: -8223907653067311440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_108
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 745
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e4d8eb5c3859210800000000000000
+      internalID: 1339121349541318235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_109
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 763
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7812369fea149060800000000000000
+      internalID: 6959216940513630331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_110
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 743
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20103cc383f8f67d0800000000000000
+      internalID: -2922960161439809278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 760
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6de31cc3d50240800000000000000
+      internalID: 4757441454847912852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 700
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364e6ecc5ae91c080800000000000000
+      internalID: -9168872931405142941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_113
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 742
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5d840da62de6350800000000000000
+      internalID: 6011973908788991474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_114
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 743
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4abd68986eedf50800000000000000
+      internalID: 6908212356780369062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 744
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934adf4879e653e30800000000000000
+      internalID: 4482610601167529017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_116
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 746
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99422d6da792e510800000000000000
+      internalID: 1576989590649194910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_117
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 743
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1c31856ccceeeb0800000000000000
+      internalID: -4688585009792826898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18521b3843d296550800000000000000
+      internalID: 6154500069349467521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_119
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 700
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07450ce0f06581120800000000000000
+      internalID: 2384750625364661360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_120
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 700
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69be6bf29208a7e00800000000000000
+      internalID: 1043287178072222614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_121
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 700
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c244a338ad69fd0800000000000000
+      internalID: -2335439099591906208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_122
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 700
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0271d858a55d0c0800000000000000
+      internalID: -4551632318743764810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_123
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 700
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff3ee40a97a313c0800000000000000
+      internalID: -4389980931806576644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_124
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 717
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f9e5ea17287780800000000000000
+      internalID: -8685148884904053667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 718
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68009aa41fd352cb0800000000000000
+      internalID: -4889433713891803002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_126
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 718
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67952d99f5709230800000000000000
+      internalID: 3643541813486524268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 687
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbcd61fead41f160800000000000000
+      internalID: 7057507504836430799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_128
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 708
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8835f9fadc9f79c70800000000000000
+      internalID: 8977919043996439432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_129
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 708
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe6751226712a6b0800000000000000
+      internalID: -5286637302345928976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_130
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 708
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686387903d0bc91c0800000000000000
+      internalID: -4495523907579136378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_131
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 707
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479f1a5429ca39e80800000000000000
+      internalID: -8172999154513872524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48809ad69e4f72a0800000000000000
+      internalID: -6737580107704006579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_133
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 662
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9e6f2e28e7ade60800000000000000
+      internalID: 7987835989713676706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 662
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a021187f9d1eb1870800000000000000
+      internalID: 8654759435199123978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_135
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 662
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dec4bade16b3800800000000000000
+      internalID: 593175449338440982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 662
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322c3def4ab100e0800000000000000
+      internalID: -2305356681791659459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_137
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 659
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f669a63f94a0f2c80800000000000000
+      internalID: -8345440271761500561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_138
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 668
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8526b231b7c0c0a00800000000000000
+      internalID: 723967362841928280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_139
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 694
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a65a6c8696e6cb0800000000000000
+      internalID: -4868838248410682781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_140
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 688
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342c0db7692743d90800000000000000
+      internalID: -7118939120317971901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_141
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 676
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7986a1fbed4710800000000000000
+      internalID: 1679257659192736738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_142
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 638
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bfcf6745efb5a50800000000000000
+      internalID: 6511077325021182746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 610
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7371d2de1f08d6870800000000000000
+      internalID: 8677733833567442743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_144
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 610
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725a9b5ebb961c9b0800000000000000
+      internalID: -5061648250453777113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_145
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 659
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3fa84f0e2fd0610800000000000000
+      internalID: 1589193291520996284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_146
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 640
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fce051278453020800000000000000
+      internalID: 2320840837796122497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_147
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 598
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c39e74ef38575f0800000000000000
+      internalID: -759555833990661100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 647
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbfc933c9177f8d0800000000000000
+      internalID: -2812654526574822415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_149
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 647
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cedf1356be9a8a0800000000000000
+      internalID: -6293240184410608485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_150
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 641
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20314824be36ae00800000000000000
+      internalID: 1055600106155356204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_151
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 640
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc2af276bc16c970800000000000000
+      internalID: 8774732493916613876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_152
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 622
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183649b0405cd3610800000000000000
+      internalID: 1602653663578579841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_153
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 602
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56068974f873ddf50800000000000000
+      internalID: 6907738491977228389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_154
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 598
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8afc3050d43a120800000000000000
+      internalID: 2423865708389574876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_155
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 610
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc62c02b63bdf40800000000000000
+      internalID: 5754253087231889241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_156
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 627
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11861e8f39a5bd840800000000000000
+      internalID: 5249889382212659217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_157
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 627
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3a66546be47ec0800000000000000
+      internalID: -3569969788418900956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 568
+        width: 134
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c4bd82763e16910800000000000000
+      internalID: 1828992955895729204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_159
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 599
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f721e9d23c9510800000000000000
+      internalID: 1557175482530134127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_160
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 562
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bad1d6e23736a8b0800000000000000
+      internalID: -5141361232836437323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_161
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 599
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c10cbc43be3650800000000000000
+      internalID: 6214601677970981800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_162
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 562
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2627d7fd5f74c20800000000000000
+      internalID: 3190789201246446240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_163
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 597
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d82b4af73cd91310800000000000000
+      internalID: 1376373294118938841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_164
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 564
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2206ba1ed3e4490800000000000000
+      internalID: -7760197068460645715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_165
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 574
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b020b94d778db0800000000000000
+      internalID: -4789721923244215101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_166
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 519
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d76a057412b230800000000000000
+      internalID: 3653004740669200318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t4_king_ninja_167
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbe08935842e6470800000000000000
+      internalID: 8389683310451813320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_t4_king_ninja_0: 5819471807816389314
+      boss_t4_king_ninja_1: 42946178052495832
+      boss_t4_king_ninja_10: -8394215676889724077
+      boss_t4_king_ninja_100: 2324509451302144138
+      boss_t4_king_ninja_101: -5241122647775429183
+      boss_t4_king_ninja_102: -4260940074529747194
+      boss_t4_king_ninja_103: -2856046181589774366
+      boss_t4_king_ninja_104: -3275236937255414105
+      boss_t4_king_ninja_105: 7647455595094657384
+      boss_t4_king_ninja_106: -4637950720376154283
+      boss_t4_king_ninja_107: -8223907653067311440
+      boss_t4_king_ninja_108: 1339121349541318235
+      boss_t4_king_ninja_109: 6959216940513630331
+      boss_t4_king_ninja_11: 1582765783452619302
+      boss_t4_king_ninja_110: -2922960161439809278
+      boss_t4_king_ninja_111: 4757441454847912852
+      boss_t4_king_ninja_112: -9168872931405142941
+      boss_t4_king_ninja_113: 6011973908788991474
+      boss_t4_king_ninja_114: 6908212356780369062
+      boss_t4_king_ninja_115: 4482610601167529017
+      boss_t4_king_ninja_116: 1576989590649194910
+      boss_t4_king_ninja_117: -4688585009792826898
+      boss_t4_king_ninja_118: 6154500069349467521
+      boss_t4_king_ninja_119: 2384750625364661360
+      boss_t4_king_ninja_12: 876776709176703899
+      boss_t4_king_ninja_120: 1043287178072222614
+      boss_t4_king_ninja_121: -2335439099591906208
+      boss_t4_king_ninja_122: -4551632318743764810
+      boss_t4_king_ninja_123: -4389980931806576644
+      boss_t4_king_ninja_124: -8685148884904053667
+      boss_t4_king_ninja_125: -4889433713891803002
+      boss_t4_king_ninja_126: 3643541813486524268
+      boss_t4_king_ninja_127: 7057507504836430799
+      boss_t4_king_ninja_128: 8977919043996439432
+      boss_t4_king_ninja_129: -5286637302345928976
+      boss_t4_king_ninja_13: -6040673641087835413
+      boss_t4_king_ninja_130: -4495523907579136378
+      boss_t4_king_ninja_131: -8172999154513872524
+      boss_t4_king_ninja_132: -6737580107704006579
+      boss_t4_king_ninja_133: 7987835989713676706
+      boss_t4_king_ninja_134: 8654759435199123978
+      boss_t4_king_ninja_135: 593175449338440982
+      boss_t4_king_ninja_136: -2305356681791659459
+      boss_t4_king_ninja_137: -8345440271761500561
+      boss_t4_king_ninja_138: 723967362841928280
+      boss_t4_king_ninja_139: -4868838248410682781
+      boss_t4_king_ninja_14: -6480371184185115842
+      boss_t4_king_ninja_140: -7118939120317971901
+      boss_t4_king_ninja_141: 1679257659192736738
+      boss_t4_king_ninja_142: 6511077325021182746
+      boss_t4_king_ninja_143: 8677733833567442743
+      boss_t4_king_ninja_144: -5061648250453777113
+      boss_t4_king_ninja_145: 1589193291520996284
+      boss_t4_king_ninja_146: 2320840837796122497
+      boss_t4_king_ninja_147: -759555833990661100
+      boss_t4_king_ninja_148: -2812654526574822415
+      boss_t4_king_ninja_149: -6293240184410608485
+      boss_t4_king_ninja_15: 6986917705241523163
+      boss_t4_king_ninja_150: 1055600106155356204
+      boss_t4_king_ninja_151: 8774732493916613876
+      boss_t4_king_ninja_152: 1602653663578579841
+      boss_t4_king_ninja_153: 6907738491977228389
+      boss_t4_king_ninja_154: 2423865708389574876
+      boss_t4_king_ninja_155: 5754253087231889241
+      boss_t4_king_ninja_156: 5249889382212659217
+      boss_t4_king_ninja_157: -3569969788418900956
+      boss_t4_king_ninja_158: 1828992955895729204
+      boss_t4_king_ninja_159: 1557175482530134127
+      boss_t4_king_ninja_16: -6472160466424538857
+      boss_t4_king_ninja_160: -5141361232836437323
+      boss_t4_king_ninja_161: 6214601677970981800
+      boss_t4_king_ninja_162: 3190789201246446240
+      boss_t4_king_ninja_163: 1376373294118938841
+      boss_t4_king_ninja_164: -7760197068460645715
+      boss_t4_king_ninja_165: -4789721923244215101
+      boss_t4_king_ninja_166: 3653004740669200318
+      boss_t4_king_ninja_167: 8389683310451813320
+      boss_t4_king_ninja_17: -1402768759840291903
+      boss_t4_king_ninja_18: 7823259756736794383
+      boss_t4_king_ninja_19: 7672004497354516887
+      boss_t4_king_ninja_2: 499372139017599241
+      boss_t4_king_ninja_20: 6900228800412723120
+      boss_t4_king_ninja_21: 2936696091380878899
+      boss_t4_king_ninja_22: -7836450239824225882
+      boss_t4_king_ninja_23: -2986458117095669961
+      boss_t4_king_ninja_24: -6053412604110260597
+      boss_t4_king_ninja_25: -8121564662340175350
+      boss_t4_king_ninja_26: -4014855384743480002
+      boss_t4_king_ninja_27: 5860863301710118387
+      boss_t4_king_ninja_28: -3868806283387686585
+      boss_t4_king_ninja_29: -1359696539407629121
+      boss_t4_king_ninja_3: 6356102446145557620
+      boss_t4_king_ninja_30: -3255187926584850579
+      boss_t4_king_ninja_31: 9053221015089467169
+      boss_t4_king_ninja_32: -2438816389739188182
+      boss_t4_king_ninja_33: 5776706041711745460
+      boss_t4_king_ninja_34: 8505485742180162869
+      boss_t4_king_ninja_35: -4684701923656493150
+      boss_t4_king_ninja_36: -4283917401263193633
+      boss_t4_king_ninja_37: 4178249973658727791
+      boss_t4_king_ninja_38: 5500143269793119364
+      boss_t4_king_ninja_39: -2489028145156162327
+      boss_t4_king_ninja_4: -1132593734385735897
+      boss_t4_king_ninja_40: -190479678645646023
+      boss_t4_king_ninja_41: -8993043156399926019
+      boss_t4_king_ninja_42: 917389421860947022
+      boss_t4_king_ninja_43: 2462136398536189572
+      boss_t4_king_ninja_44: 8854428703807120876
+      boss_t4_king_ninja_45: 5135385453613992141
+      boss_t4_king_ninja_46: -821191759296964656
+      boss_t4_king_ninja_47: 8414898680679829422
+      boss_t4_king_ninja_48: -7224290095350897453
+      boss_t4_king_ninja_49: -9088749861781762306
+      boss_t4_king_ninja_5: -6447225439200364784
+      boss_t4_king_ninja_50: 7764684712492532215
+      boss_t4_king_ninja_51: 2564305940285239794
+      boss_t4_king_ninja_52: -8650239173025062949
+      boss_t4_king_ninja_53: 1007884729628358587
+      boss_t4_king_ninja_54: -471471684657961795
+      boss_t4_king_ninja_55: -5003863390256707291
+      boss_t4_king_ninja_56: -6093831990756376210
+      boss_t4_king_ninja_57: 6024918858314528230
+      boss_t4_king_ninja_58: -7436824338608663173
+      boss_t4_king_ninja_59: -1467068182625856706
+      boss_t4_king_ninja_6: 4460751529967587318
+      boss_t4_king_ninja_60: -8399651722304601287
+      boss_t4_king_ninja_61: -7374198710163614270
+      boss_t4_king_ninja_62: -4865401682229356089
+      boss_t4_king_ninja_63: 3732987493881473062
+      boss_t4_king_ninja_64: 4922597089945297704
+      boss_t4_king_ninja_65: -1800206337522994548
+      boss_t4_king_ninja_66: 8947601991575265329
+      boss_t4_king_ninja_67: 9216136586916754664
+      boss_t4_king_ninja_68: -6850122462001804889
+      boss_t4_king_ninja_69: 1437505787231857483
+      boss_t4_king_ninja_7: 1154629924602313497
+      boss_t4_king_ninja_70: -8152296933151642627
+      boss_t4_king_ninja_71: 1742419491220151212
+      boss_t4_king_ninja_72: -8320150768887837378
+      boss_t4_king_ninja_73: -2624308678424987828
+      boss_t4_king_ninja_74: -872439024427323538
+      boss_t4_king_ninja_75: 945189503074546367
+      boss_t4_king_ninja_76: 828383736778962130
+      boss_t4_king_ninja_77: 8541535129522848497
+      boss_t4_king_ninja_78: -5057012748260238053
+      boss_t4_king_ninja_79: -1207853639154103752
+      boss_t4_king_ninja_8: 8427968561342486405
+      boss_t4_king_ninja_80: -8752639415145620032
+      boss_t4_king_ninja_81: 9039647872772066301
+      boss_t4_king_ninja_82: -6830663262586522077
+      boss_t4_king_ninja_83: -5705377360956900258
+      boss_t4_king_ninja_84: 5542761840469702035
+      boss_t4_king_ninja_85: -6474271814413298000
+      boss_t4_king_ninja_86: -4691634885303928548
+      boss_t4_king_ninja_87: 6374043524142143181
+      boss_t4_king_ninja_88: -8085423423990095826
+      boss_t4_king_ninja_89: 1355885735014860391
+      boss_t4_king_ninja_9: -2950872863679492927
+      boss_t4_king_ninja_90: 1262155028274307531
+      boss_t4_king_ninja_91: -2667109941116449221
+      boss_t4_king_ninja_92: 9079823555703219628
+      boss_t4_king_ninja_93: 5725387747003890306
+      boss_t4_king_ninja_94: 2864427555451280378
+      boss_t4_king_ninja_95: -8585163572503967300
+      boss_t4_king_ninja_96: -4937765861039909492
+      boss_t4_king_ninja_97: 6403660558651001435
+      boss_t4_king_ninja_98: -1925762896739421229
+      boss_t4_king_ninja_99: -7803769125058752801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

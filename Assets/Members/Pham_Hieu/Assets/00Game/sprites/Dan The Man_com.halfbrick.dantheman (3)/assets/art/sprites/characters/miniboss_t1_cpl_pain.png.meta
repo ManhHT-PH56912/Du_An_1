@@ -1,0 +1,4147 @@
+fileFormatVersion: 2
+guid: dbeb642482124fb4d9b3c98f75d2ff65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3041848030740683951
+    second: miniboss_t1_cpl_pain_0
+  - first:
+      213: -4164052475259745227
+    second: miniboss_t1_cpl_pain_1
+  - first:
+      213: 5177831763180599852
+    second: miniboss_t1_cpl_pain_2
+  - first:
+      213: 134171337642619978
+    second: miniboss_t1_cpl_pain_3
+  - first:
+      213: -2253555121967398133
+    second: miniboss_t1_cpl_pain_4
+  - first:
+      213: 2333617670051433973
+    second: miniboss_t1_cpl_pain_5
+  - first:
+      213: 3119728873948414484
+    second: miniboss_t1_cpl_pain_6
+  - first:
+      213: 4116704368530580425
+    second: miniboss_t1_cpl_pain_7
+  - first:
+      213: -4997390724575721693
+    second: miniboss_t1_cpl_pain_8
+  - first:
+      213: 5155171841277998071
+    second: miniboss_t1_cpl_pain_9
+  - first:
+      213: 368465145272168269
+    second: miniboss_t1_cpl_pain_10
+  - first:
+      213: -6532325147986029648
+    second: miniboss_t1_cpl_pain_11
+  - first:
+      213: -5414350278874619657
+    second: miniboss_t1_cpl_pain_12
+  - first:
+      213: -6024942020792685128
+    second: miniboss_t1_cpl_pain_13
+  - first:
+      213: 2906675079163208100
+    second: miniboss_t1_cpl_pain_14
+  - first:
+      213: -4645534579843178536
+    second: miniboss_t1_cpl_pain_15
+  - first:
+      213: 8669105089422956836
+    second: miniboss_t1_cpl_pain_16
+  - first:
+      213: -6598300467187935669
+    second: miniboss_t1_cpl_pain_17
+  - first:
+      213: -1767787019538192879
+    second: miniboss_t1_cpl_pain_18
+  - first:
+      213: 7944250551968625903
+    second: miniboss_t1_cpl_pain_19
+  - first:
+      213: 8919774745554541726
+    second: miniboss_t1_cpl_pain_20
+  - first:
+      213: -2351340038668422006
+    second: miniboss_t1_cpl_pain_21
+  - first:
+      213: -6410332170512797016
+    second: miniboss_t1_cpl_pain_22
+  - first:
+      213: -3814329373158859535
+    second: miniboss_t1_cpl_pain_23
+  - first:
+      213: -1294930794209686116
+    second: miniboss_t1_cpl_pain_24
+  - first:
+      213: 5947106619352594176
+    second: miniboss_t1_cpl_pain_25
+  - first:
+      213: 4387882637069447524
+    second: miniboss_t1_cpl_pain_26
+  - first:
+      213: -5443725062750632981
+    second: miniboss_t1_cpl_pain_27
+  - first:
+      213: 6797680805122993848
+    second: miniboss_t1_cpl_pain_28
+  - first:
+      213: -3334604038655195427
+    second: miniboss_t1_cpl_pain_29
+  - first:
+      213: 3179874370065215082
+    second: miniboss_t1_cpl_pain_30
+  - first:
+      213: -1549005271070123630
+    second: miniboss_t1_cpl_pain_31
+  - first:
+      213: 7273914802154472809
+    second: miniboss_t1_cpl_pain_32
+  - first:
+      213: 4533051337125881335
+    second: miniboss_t1_cpl_pain_33
+  - first:
+      213: -619844425644533344
+    second: miniboss_t1_cpl_pain_34
+  - first:
+      213: -1365954950608017799
+    second: miniboss_t1_cpl_pain_35
+  - first:
+      213: -5762781489062861041
+    second: miniboss_t1_cpl_pain_36
+  - first:
+      213: -7184352070486557030
+    second: miniboss_t1_cpl_pain_37
+  - first:
+      213: 4547835912160713598
+    second: miniboss_t1_cpl_pain_38
+  - first:
+      213: -1130901712653577692
+    second: miniboss_t1_cpl_pain_39
+  - first:
+      213: 1485725106840507095
+    second: miniboss_t1_cpl_pain_40
+  - first:
+      213: 1889177333840916882
+    second: miniboss_t1_cpl_pain_41
+  - first:
+      213: 6614783769768161371
+    second: miniboss_t1_cpl_pain_42
+  - first:
+      213: -3395037685783405104
+    second: miniboss_t1_cpl_pain_43
+  - first:
+      213: -7975879867671202156
+    second: miniboss_t1_cpl_pain_44
+  - first:
+      213: -8601402663218528389
+    second: miniboss_t1_cpl_pain_45
+  - first:
+      213: -3485607787426435893
+    second: miniboss_t1_cpl_pain_46
+  - first:
+      213: 1309407490086158485
+    second: miniboss_t1_cpl_pain_47
+  - first:
+      213: 7085509203769733885
+    second: miniboss_t1_cpl_pain_48
+  - first:
+      213: -3674339758216817161
+    second: miniboss_t1_cpl_pain_49
+  - first:
+      213: -7468886543007122151
+    second: miniboss_t1_cpl_pain_50
+  - first:
+      213: 5429004466900785700
+    second: miniboss_t1_cpl_pain_51
+  - first:
+      213: -3153577885510191272
+    second: miniboss_t1_cpl_pain_52
+  - first:
+      213: 51001602793750576
+    second: miniboss_t1_cpl_pain_53
+  - first:
+      213: -4492306829954870504
+    second: miniboss_t1_cpl_pain_54
+  - first:
+      213: -5144475155693713747
+    second: miniboss_t1_cpl_pain_55
+  - first:
+      213: -3463899414034546069
+    second: miniboss_t1_cpl_pain_56
+  - first:
+      213: 2213554478693593543
+    second: miniboss_t1_cpl_pain_57
+  - first:
+      213: -4090752994891255575
+    second: miniboss_t1_cpl_pain_58
+  - first:
+      213: -1036568566893428735
+    second: miniboss_t1_cpl_pain_59
+  - first:
+      213: 837704032483716360
+    second: miniboss_t1_cpl_pain_60
+  - first:
+      213: 6541951955463655847
+    second: miniboss_t1_cpl_pain_61
+  - first:
+      213: 4418355148915371547
+    second: miniboss_t1_cpl_pain_62
+  - first:
+      213: 2097159708623513019
+    second: miniboss_t1_cpl_pain_63
+  - first:
+      213: 362353791009075301
+    second: miniboss_t1_cpl_pain_64
+  - first:
+      213: -874666750682466615
+    second: miniboss_t1_cpl_pain_65
+  - first:
+      213: -4105968829765110339
+    second: miniboss_t1_cpl_pain_66
+  - first:
+      213: 2505741563055689273
+    second: miniboss_t1_cpl_pain_67
+  - first:
+      213: 3207321433613111468
+    second: miniboss_t1_cpl_pain_68
+  - first:
+      213: -1428626291983830659
+    second: miniboss_t1_cpl_pain_69
+  - first:
+      213: 3315927644529420496
+    second: miniboss_t1_cpl_pain_70
+  - first:
+      213: -893502174356930054
+    second: miniboss_t1_cpl_pain_71
+  - first:
+      213: -4204430822972656506
+    second: miniboss_t1_cpl_pain_72
+  - first:
+      213: -2022126163658215889
+    second: miniboss_t1_cpl_pain_73
+  - first:
+      213: -7054332742379879451
+    second: miniboss_t1_cpl_pain_74
+  - first:
+      213: -5954048370309613563
+    second: miniboss_t1_cpl_pain_75
+  - first:
+      213: 3427912515455861847
+    second: miniboss_t1_cpl_pain_76
+  - first:
+      213: -4262174800641742340
+    second: miniboss_t1_cpl_pain_77
+  - first:
+      213: -7224312958107939283
+    second: miniboss_t1_cpl_pain_78
+  - first:
+      213: -924234853863406265
+    second: miniboss_t1_cpl_pain_79
+  - first:
+      213: -2785782805981229471
+    second: miniboss_t1_cpl_pain_80
+  - first:
+      213: 6870266972346378070
+    second: miniboss_t1_cpl_pain_81
+  - first:
+      213: -6951569816293835318
+    second: miniboss_t1_cpl_pain_82
+  - first:
+      213: -5642245393317590144
+    second: miniboss_t1_cpl_pain_83
+  - first:
+      213: -6356882202776043143
+    second: miniboss_t1_cpl_pain_84
+  - first:
+      213: -5178255649894197940
+    second: miniboss_t1_cpl_pain_85
+  - first:
+      213: -9168903907224102086
+    second: miniboss_t1_cpl_pain_86
+  - first:
+      213: -8483399795454171302
+    second: miniboss_t1_cpl_pain_87
+  - first:
+      213: 3537651262631861594
+    second: miniboss_t1_cpl_pain_88
+  - first:
+      213: -3115636416277070867
+    second: miniboss_t1_cpl_pain_89
+  - first:
+      213: -2795505993834044930
+    second: miniboss_t1_cpl_pain_90
+  - first:
+      213: -7062934608269704352
+    second: miniboss_t1_cpl_pain_91
+  - first:
+      213: 2929291966970957988
+    second: miniboss_t1_cpl_pain_92
+  - first:
+      213: 4307224430732604809
+    second: miniboss_t1_cpl_pain_93
+  - first:
+      213: 3674995929712306538
+    second: miniboss_t1_cpl_pain_94
+  - first:
+      213: 2918018680356256534
+    second: miniboss_t1_cpl_pain_95
+  - first:
+      213: -6783886328689218473
+    second: miniboss_t1_cpl_pain_96
+  - first:
+      213: -2692934235384410385
+    second: miniboss_t1_cpl_pain_97
+  - first:
+      213: 2534575763550151534
+    second: miniboss_t1_cpl_pain_98
+  - first:
+      213: -7757521973597065776
+    second: miniboss_t1_cpl_pain_99
+  - first:
+      213: 6334988575982583216
+    second: miniboss_t1_cpl_pain_100
+  - first:
+      213: -1273380029276952185
+    second: miniboss_t1_cpl_pain_101
+  - first:
+      213: 6820803957743824951
+    second: miniboss_t1_cpl_pain_102
+  - first:
+      213: -8864103652279896276
+    second: miniboss_t1_cpl_pain_103
+  - first:
+      213: 4363959868173760780
+    second: miniboss_t1_cpl_pain_104
+  - first:
+      213: -1706701966459159512
+    second: miniboss_t1_cpl_pain_105
+  - first:
+      213: -5155256523385400859
+    second: miniboss_t1_cpl_pain_106
+  - first:
+      213: 7703332880337679040
+    second: miniboss_t1_cpl_pain_107
+  - first:
+      213: 8470633377218695583
+    second: miniboss_t1_cpl_pain_108
+  - first:
+      213: 6427058807945598371
+    second: miniboss_t1_cpl_pain_109
+  - first:
+      213: 4090937806828038664
+    second: miniboss_t1_cpl_pain_110
+  - first:
+      213: -8511697645031477090
+    second: miniboss_t1_cpl_pain_111
+  - first:
+      213: 9022500524791202569
+    second: miniboss_t1_cpl_pain_112
+  - first:
+      213: 2891590527873402991
+    second: miniboss_t1_cpl_pain_113
+  - first:
+      213: 586041450779808082
+    second: miniboss_t1_cpl_pain_114
+  - first:
+      213: -1176366839714861134
+    second: miniboss_t1_cpl_pain_115
+  - first:
+      213: 1497244830566025714
+    second: miniboss_t1_cpl_pain_116
+  - first:
+      213: -2648330048134847493
+    second: miniboss_t1_cpl_pain_117
+  - first:
+      213: 606897642661993514
+    second: miniboss_t1_cpl_pain_118
+  - first:
+      213: -5830002636835015489
+    second: miniboss_t1_cpl_pain_119
+  - first:
+      213: -1317732540299416064
+    second: miniboss_t1_cpl_pain_120
+  - first:
+      213: -758125444215376546
+    second: miniboss_t1_cpl_pain_121
+  - first:
+      213: 1244488504937808916
+    second: miniboss_t1_cpl_pain_122
+  - first:
+      213: 6659178187562521531
+    second: miniboss_t1_cpl_pain_123
+  - first:
+      213: 5091485451273111268
+    second: miniboss_t1_cpl_pain_124
+  - first:
+      213: -5319100513515645062
+    second: miniboss_t1_cpl_pain_125
+  - first:
+      213: -828681670868866015
+    second: miniboss_t1_cpl_pain_126
+  - first:
+      213: 7223001240765436084
+    second: miniboss_t1_cpl_pain_127
+  - first:
+      213: -2368475079900918993
+    second: miniboss_t1_cpl_pain_128
+  - first:
+      213: 6098603448660050531
+    second: miniboss_t1_cpl_pain_129
+  - first:
+      213: -2265497191247373131
+    second: miniboss_t1_cpl_pain_130
+  - first:
+      213: -2554004937773132143
+    second: miniboss_t1_cpl_pain_131
+  - first:
+      213: -8089203646934634523
+    second: miniboss_t1_cpl_pain_132
+  - first:
+      213: -3763820802004602776
+    second: miniboss_t1_cpl_pain_133
+  - first:
+      213: -6464211291039923626
+    second: miniboss_t1_cpl_pain_134
+  - first:
+      213: -5870167138788569738
+    second: miniboss_t1_cpl_pain_135
+  - first:
+      213: 8996708128325378145
+    second: miniboss_t1_cpl_pain_136
+  - first:
+      213: 6272859785062369972
+    second: miniboss_t1_cpl_pain_137
+  - first:
+      213: -4410480700216821966
+    second: miniboss_t1_cpl_pain_138
+  - first:
+      213: -6847098221473734920
+    second: miniboss_t1_cpl_pain_139
+  - first:
+      213: -8460272567854399701
+    second: miniboss_t1_cpl_pain_140
+  - first:
+      213: 3243619759995994774
+    second: miniboss_t1_cpl_pain_141
+  - first:
+      213: -1286140207304206286
+    second: miniboss_t1_cpl_pain_142
+  - first:
+      213: 1301043620372604111
+    second: miniboss_t1_cpl_pain_143
+  - first:
+      213: 407966264357681383
+    second: miniboss_t1_cpl_pain_144
+  - first:
+      213: 2034242813225935945
+    second: miniboss_t1_cpl_pain_145
+  - first:
+      213: 4907539103102740226
+    second: miniboss_t1_cpl_pain_146
+  - first:
+      213: 6426613246634819286
+    second: miniboss_t1_cpl_pain_147
+  - first:
+      213: 4561208552339947102
+    second: miniboss_t1_cpl_pain_148
+  - first:
+      213: 637625341556082207
+    second: miniboss_t1_cpl_pain_149
+  - first:
+      213: -3835276809920560692
+    second: miniboss_t1_cpl_pain_150
+  - first:
+      213: -6482099747191066625
+    second: miniboss_t1_cpl_pain_151
+  - first:
+      213: 8784827925487669717
+    second: miniboss_t1_cpl_pain_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac1505eaa0d63a20800000000000000
+      internalID: 3041848030740683951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 882
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c8e0af5505636c0800000000000000
+      internalID: -4164052475259745227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 953
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a3d172e8a5bd740800000000000000
+      internalID: 5177831763180599852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 953
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a443a37ee1cacd100800000000000000
+      internalID: 134171337642619978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 953
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b030f517e83c9b0e0800000000000000
+      internalID: -2253555121967398133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 882
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd8df828eca26020800000000000000
+      internalID: 2333617670051433973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 953
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412893fb1e08b4b20800000000000000
+      internalID: 3119728873948414484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 953
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3609bdfc8712930800000000000000
+      internalID: 4116704368530580425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 949
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32705d10d93b5aab0800000000000000
+      internalID: -4997390724575721693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 949
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3b873f979da8740800000000000000
+      internalID: 5155171841277998071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 949
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6f00f81d0d1500800000000000000
+      internalID: 368465145272168269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 949
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b311fc33e48855a0800000000000000
+      internalID: -6532325147986029648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 949
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0242a9b1d5cd4b0800000000000000
+      internalID: -5414350278874619657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 949
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bde352572b136ca0800000000000000
+      internalID: -6024942020792685128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 949
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1e0039595965820800000000000000
+      internalID: 2906675079163208100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df57a8a9eeb78fb0800000000000000
+      internalID: -4645534579843178536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 813
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429169fd529de4870800000000000000
+      internalID: 8669105089422956836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 880
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4618f33fa02e64a0800000000000000
+      internalID: -6598300467187935669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 803
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11621e5621f8777e0800000000000000
+      internalID: -1767787019538192879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 880
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47acc59c5af3e60800000000000000
+      internalID: 7944250551968625903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 880
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c57414fd769cb70800000000000000
+      internalID: 8919774745554541726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 880
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84f30951bc5e5fd0800000000000000
+      internalID: -2351340038668422006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 877
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a27354badce907a0800000000000000
+      internalID: -6410332170512797016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 877
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc1780f4a7c01bc0800000000000000
+      internalID: -3814329373158859535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_24
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 877
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dca62bd4b770ee0800000000000000
+      internalID: -1294930794209686116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_25
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 877
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007b2ef06fd588250800000000000000
+      internalID: 5947106619352594176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_26
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 877
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461f0aaa204e4ec30800000000000000
+      internalID: 4387882637069447524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_27
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 877
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be38bd3c5e00474b0800000000000000
+      internalID: -5443725062750632981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 857
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bee8d53da6365e50800000000000000
+      internalID: 6797680805122993848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 857
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6cf595b4b19b1d0800000000000000
+      internalID: -3334604038655195427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 857
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e2b1254ee212c20800000000000000
+      internalID: 3179874370065215082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 857
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29958a6b9e3d08ae0800000000000000
+      internalID: -1549005271070123630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 857
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9658fd449f222f460800000000000000
+      internalID: 7273914802154472809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 806
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f56ff98c22a8ee30800000000000000
+      internalID: 4533051337125881335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 804
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9937967ced567f0800000000000000
+      internalID: -619844425644533344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_35
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 804
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a2d5a5372b0de0800000000000000
+      internalID: -1365954950608017799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_36
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 804
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07263aa4cc7600b0800000000000000
+      internalID: -5762781489062861041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_37
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 804
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7e413bdd0c4c90800000000000000
+      internalID: -7184352070486557030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_38
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 804
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b9a19aaa82d1f30800000000000000
+      internalID: 4547835912160713598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_39
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 804
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422176552ea3e40f0800000000000000
+      internalID: -1130901712653577692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 814
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d29b1bec1b5e9410800000000000000
+      internalID: 1485725106840507095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 816
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291be4d96c4b73a10800000000000000
+      internalID: 1889177333840916882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 731
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50fc0fbace6ccb50800000000000000
+      internalID: 6614783769768161371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 658
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddd0d3663762e0d0800000000000000
+      internalID: -3395037685783405104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 731
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496b444b48bff4190800000000000000
+      internalID: -7975879867671202156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 731
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb2c899dda1a880800000000000000
+      internalID: -8601402663218528389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 731
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccac145f22a0afc0800000000000000
+      internalID: -3485607787426435893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 731
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59042d8bc23fb2210800000000000000
+      internalID: 1309407490086158485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_48
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 731
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b4778419c45260800000000000000
+      internalID: 7085509203769733885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_49
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 731
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f55467157f120dc0800000000000000
+      internalID: -3674339758216817161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_50
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 646
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d7d50d24f295890800000000000000
+      internalID: -7468886543007122151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_51
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 731
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a51ad6cc2b75b40800000000000000
+      internalID: 5429004466900785700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_52
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 731
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85733aa1f9d3c34d0800000000000000
+      internalID: -3153577885510191272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_53
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 731
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0304f7100b135b000800000000000000
+      internalID: 51001602793750576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_54
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 731
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8139a7a4dbe18a1c0800000000000000
+      internalID: -4492306829954870504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cd0d3a172b98b0800000000000000
+      internalID: -5144475155693713747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 658
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6289c0e5d1cdefc0800000000000000
+      internalID: -3463899414034546069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 658
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b189021028be10800000000000000
+      internalID: 2213554478693593543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 658
+        width: 108
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e034ab23d9ba37c0800000000000000
+      internalID: -4090752994891255575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_59
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 658
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1004bf0616e5d91f0800000000000000
+      internalID: -1036568566893428735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_60
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 658
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80daa13116f10ab00800000000000000
+      internalID: 837704032483716360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_61
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 646
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1551b84aea9ca50800000000000000
+      internalID: 6541951955463655847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_62
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 646
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e6e963996215d30800000000000000
+      internalID: 4418355148915371547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_63
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 710
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb524cdc4ab9a1d10800000000000000
+      internalID: 2097159708623513019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_64
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 710
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560bc146ad6570500800000000000000
+      internalID: 362353791009075301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_65
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 710
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6f9b4793f8cd3f0800000000000000
+      internalID: -874666750682466615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_66
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 699
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5360b8a1ba407c0800000000000000
+      internalID: -4105968829765110339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_67
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 699
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ecdd4fcae26c220800000000000000
+      internalID: 2505741563055689273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_68
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 699
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0910bc9d1b28c20800000000000000
+      internalID: 3207321433613111468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_69
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 670
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d713585e4ff7c2ce0800000000000000
+      internalID: -1428626291983830659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_70
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 676
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e219cf9a840e20800000000000000
+      internalID: 3315927644529420496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af18a63a184a993f0800000000000000
+      internalID: -893502174356930054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 586
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684f20a417cd6a5c0800000000000000
+      internalID: -4204430822972656506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 586
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee024c7f6ffe3e0800000000000000
+      internalID: -2022126163658215889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 586
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e34a0b0fb9f91e90800000000000000
+      internalID: -7054332742379879451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_75
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 516
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b3389d88fe5da0800000000000000
+      internalID: -5954048370309613563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_76
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 586
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754ccdc5544629f20800000000000000
+      internalID: 3427912515455861847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_77
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 516
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a02dc996b9d4c0800000000000000
+      internalID: -4262174800641742340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_78
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 573
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e89b104a51ebb90800000000000000
+      internalID: -7224312958107939283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_79
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 573
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745cf661c457c23f0800000000000000
+      internalID: -924234853863406265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_80
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 573
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e09143c49e659d0800000000000000
+      internalID: -2785782805981229471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_81
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 572
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657edce3967185f50800000000000000
+      internalID: 6870266972346378070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_82
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 572
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd7a744510178f90800000000000000
+      internalID: -6951569816293835318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b88bb65b7b2b1b0800000000000000
+      internalID: -5642245393317590144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_84
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 516
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97108881151d7c7a0800000000000000
+      internalID: -6356882202776043143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_85
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 516
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4595e70ce32328b0800000000000000
+      internalID: -5178255649894197940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_86
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 516
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b573ea97281c080800000000000000
+      internalID: -9168903907224102086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_87
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 517
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57255045d8e44a80800000000000000
+      internalID: -8483399795454171302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_88
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 453
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d52608413481130800000000000000
+      internalID: 3537651262631861594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_89
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 453
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb88ecf2903c4d0800000000000000
+      internalID: -3115636416277070867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_90
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 500
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1eb0e1c1e5439d0800000000000000
+      internalID: -2795505993834044930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_91
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 500
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0638542156a6bfd90800000000000000
+      internalID: -7062934608269704352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 455
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a095be168fe6a820800000000000000
+      internalID: 2929291966970957988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 453
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98573b19cc556cb30800000000000000
+      internalID: 4307224430732604809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 453
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69228db355300330800000000000000
+      internalID: 3674995929712306538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 455
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb69a8782ee7820800000000000000
+      internalID: 2918018680356256534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_96
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 453
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca9dd935bcad1a0800000000000000
+      internalID: -6783886328689218473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_97
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 453
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee8c68a496c0aad0800000000000000
+      internalID: -2692934235384410385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_98
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 428
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a8ba6a3f9c2320800000000000000
+      internalID: 2534575763550151534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_99
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 428
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda57abddeb75490800000000000000
+      internalID: -7757521973597065776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 373
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd799fab866ae750800000000000000
+      internalID: 6334988575982583216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_101
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 373
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789eeda2c9b045ee0800000000000000
+      internalID: -1273380029276952185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 373
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73036e7bf0d58ae50800000000000000
+      internalID: 6820803957743824951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_103
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 373
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c273d9931b06cf480800000000000000
+      internalID: -8864103652279896276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_104
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 373
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09be8cf066ef8c30800000000000000
+      internalID: 4363959868173760780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_105
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 373
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cbdbf9a939058e0800000000000000
+      internalID: -1706701966459159512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_106
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 428
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e119957189d478b0800000000000000
+      internalID: -5155256523385400859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_107
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 432
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23d1fc07cb7ea60800000000000000
+      internalID: 7703332880337679040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_108
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 373
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9110bf5d2cbd8570800000000000000
+      internalID: 8470633377218695583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5942e0fef713950800000000000000
+      internalID: 6427058807945598371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_110
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 299
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a6336b24ee5c830800000000000000
+      internalID: 4090937806828038664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 299
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90be58b61060e980800000000000000
+      internalID: -8511697645031477090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_112
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 302
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90384fd8c6c563d70800000000000000
+      internalID: 9022500524791202569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_113
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 373
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6847c9c34ef02820800000000000000
+      internalID: 2891590527873402991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_114
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 357
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25192613899022800800000000000000
+      internalID: 586041450779808082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_115
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 357
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf2f398794bcafe0800000000000000
+      internalID: -1176366839714861134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_116
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 357
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f98dab9d3847c410800000000000000
+      internalID: 1497244830566025714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_117
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 302
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3ede84add3f3bd0800000000000000
+      internalID: -2648330048134847493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_118
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 302
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cd3e5c0322c6800800000000000000
+      internalID: 606897642661993514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_119
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 302
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4bbdf8d7ba71fa0800000000000000
+      internalID: -5830002636835015489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_120
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 302
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eea7a7c3976bde0800000000000000
+      internalID: -1317732540299416064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_121
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 284
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e557b5adce89a75f0800000000000000
+      internalID: -758125444215376546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41400ef93bf454110800000000000000
+      internalID: 1244488504937808916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb391bd97472a6c50800000000000000
+      internalID: 6659178187562521531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_124
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 228
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e60436ca0798a640800000000000000
+      internalID: 5091485451273111268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_125
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a775d47c342ce26b0800000000000000
+      internalID: -5319100513515645062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 229
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cebff296eef74f0800000000000000
+      internalID: -828681670868866015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_127
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 229
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b097000c514d3460800000000000000
+      internalID: 7223001240765436084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_128
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 240
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b042ba67c712fd0800000000000000
+      internalID: -2368475079900918993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ca57568792a450800000000000000
+      internalID: 6098603448660050531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 152
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc1e04ce465f80e0800000000000000
+      internalID: -2265497191247373131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_131
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 152
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19650717a0a5e8cd0800000000000000
+      internalID: -2554004937773132143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_132
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 152
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efaaac34206dbf80800000000000000
+      internalID: -8089203646934634523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_133
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 152
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8603a421ce834cbc0800000000000000
+      internalID: -3763820802004602776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_134
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 152
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6520f7464128a46a0800000000000000
+      internalID: -6464211291039923626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_135
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 152
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d0658b61af88ea0800000000000000
+      internalID: -5870167138788569738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_136
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 152
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16024b8406abadc70800000000000000
+      internalID: 8996708128325378145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_137
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 152
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac97e4dbcad0750800000000000000
+      internalID: 6272859785062369972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_138
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 80
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2373cdebb23dac2c0800000000000000
+      internalID: -4410480700216821966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_139
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe59dee1783af0a0800000000000000
+      internalID: -6847098221473734920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_140
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 80
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7e0a8ce2179a80800000000000000
+      internalID: -8460272567854399701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_141
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 80
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692cffc7cf6a30d20800000000000000
+      internalID: 3243619759995994774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_142
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 80
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381944bb46b62ee0800000000000000
+      internalID: -1286140207304206286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_143
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 80
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e89d874c3e0210800000000000000
+      internalID: 1301043620372604111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_144
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 80
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8f16be72369a500800000000000000
+      internalID: 407966264357681383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944293d8f051b3c10800000000000000
+      internalID: 2034242813225935945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_146
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 10
+        width: 94
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20727c120d41b1440800000000000000
+      internalID: 4907539103102740226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_147
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6defc7ab2baef2950800000000000000
+      internalID: 6426613246634819286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_148
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 10
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e32b4130bac4f30800000000000000
+      internalID: 4561208552339947102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_149
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 10
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16cc3faedc49d800800000000000000
+      internalID: 637625341556082207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_150
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 5
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc14461cf0c56cac0800000000000000
+      internalID: -3835276809920560692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_151
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffe602af94fa06a0800000000000000
+      internalID: -6482099747191066625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniboss_t1_cpl_pain_152
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1df97447af9e970800000000000000
+      internalID: 8784827925487669717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miniboss_t1_cpl_pain_0: 3041848030740683951
+      miniboss_t1_cpl_pain_1: -4164052475259745227
+      miniboss_t1_cpl_pain_10: 368465145272168269
+      miniboss_t1_cpl_pain_100: 6334988575982583216
+      miniboss_t1_cpl_pain_101: -1273380029276952185
+      miniboss_t1_cpl_pain_102: 6820803957743824951
+      miniboss_t1_cpl_pain_103: -8864103652279896276
+      miniboss_t1_cpl_pain_104: 4363959868173760780
+      miniboss_t1_cpl_pain_105: -1706701966459159512
+      miniboss_t1_cpl_pain_106: -5155256523385400859
+      miniboss_t1_cpl_pain_107: 7703332880337679040
+      miniboss_t1_cpl_pain_108: 8470633377218695583
+      miniboss_t1_cpl_pain_109: 6427058807945598371
+      miniboss_t1_cpl_pain_11: -6532325147986029648
+      miniboss_t1_cpl_pain_110: 4090937806828038664
+      miniboss_t1_cpl_pain_111: -8511697645031477090
+      miniboss_t1_cpl_pain_112: 9022500524791202569
+      miniboss_t1_cpl_pain_113: 2891590527873402991
+      miniboss_t1_cpl_pain_114: 586041450779808082
+      miniboss_t1_cpl_pain_115: -1176366839714861134
+      miniboss_t1_cpl_pain_116: 1497244830566025714
+      miniboss_t1_cpl_pain_117: -2648330048134847493
+      miniboss_t1_cpl_pain_118: 606897642661993514
+      miniboss_t1_cpl_pain_119: -5830002636835015489
+      miniboss_t1_cpl_pain_12: -5414350278874619657
+      miniboss_t1_cpl_pain_120: -1317732540299416064
+      miniboss_t1_cpl_pain_121: -758125444215376546
+      miniboss_t1_cpl_pain_122: 1244488504937808916
+      miniboss_t1_cpl_pain_123: 6659178187562521531
+      miniboss_t1_cpl_pain_124: 5091485451273111268
+      miniboss_t1_cpl_pain_125: -5319100513515645062
+      miniboss_t1_cpl_pain_126: -828681670868866015
+      miniboss_t1_cpl_pain_127: 7223001240765436084
+      miniboss_t1_cpl_pain_128: -2368475079900918993
+      miniboss_t1_cpl_pain_129: 6098603448660050531
+      miniboss_t1_cpl_pain_13: -6024942020792685128
+      miniboss_t1_cpl_pain_130: -2265497191247373131
+      miniboss_t1_cpl_pain_131: -2554004937773132143
+      miniboss_t1_cpl_pain_132: -8089203646934634523
+      miniboss_t1_cpl_pain_133: -3763820802004602776
+      miniboss_t1_cpl_pain_134: -6464211291039923626
+      miniboss_t1_cpl_pain_135: -5870167138788569738
+      miniboss_t1_cpl_pain_136: 8996708128325378145
+      miniboss_t1_cpl_pain_137: 6272859785062369972
+      miniboss_t1_cpl_pain_138: -4410480700216821966
+      miniboss_t1_cpl_pain_139: -6847098221473734920
+      miniboss_t1_cpl_pain_14: 2906675079163208100
+      miniboss_t1_cpl_pain_140: -8460272567854399701
+      miniboss_t1_cpl_pain_141: 3243619759995994774
+      miniboss_t1_cpl_pain_142: -1286140207304206286
+      miniboss_t1_cpl_pain_143: 1301043620372604111
+      miniboss_t1_cpl_pain_144: 407966264357681383
+      miniboss_t1_cpl_pain_145: 2034242813225935945
+      miniboss_t1_cpl_pain_146: 4907539103102740226
+      miniboss_t1_cpl_pain_147: 6426613246634819286
+      miniboss_t1_cpl_pain_148: 4561208552339947102
+      miniboss_t1_cpl_pain_149: 637625341556082207
+      miniboss_t1_cpl_pain_15: -4645534579843178536
+      miniboss_t1_cpl_pain_150: -3835276809920560692
+      miniboss_t1_cpl_pain_151: -6482099747191066625
+      miniboss_t1_cpl_pain_152: 8784827925487669717
+      miniboss_t1_cpl_pain_16: 8669105089422956836
+      miniboss_t1_cpl_pain_17: -6598300467187935669
+      miniboss_t1_cpl_pain_18: -1767787019538192879
+      miniboss_t1_cpl_pain_19: 7944250551968625903
+      miniboss_t1_cpl_pain_2: 5177831763180599852
+      miniboss_t1_cpl_pain_20: 8919774745554541726
+      miniboss_t1_cpl_pain_21: -2351340038668422006
+      miniboss_t1_cpl_pain_22: -6410332170512797016
+      miniboss_t1_cpl_pain_23: -3814329373158859535
+      miniboss_t1_cpl_pain_24: -1294930794209686116
+      miniboss_t1_cpl_pain_25: 5947106619352594176
+      miniboss_t1_cpl_pain_26: 4387882637069447524
+      miniboss_t1_cpl_pain_27: -5443725062750632981
+      miniboss_t1_cpl_pain_28: 6797680805122993848
+      miniboss_t1_cpl_pain_29: -3334604038655195427
+      miniboss_t1_cpl_pain_3: 134171337642619978
+      miniboss_t1_cpl_pain_30: 3179874370065215082
+      miniboss_t1_cpl_pain_31: -1549005271070123630
+      miniboss_t1_cpl_pain_32: 7273914802154472809
+      miniboss_t1_cpl_pain_33: 4533051337125881335
+      miniboss_t1_cpl_pain_34: -619844425644533344
+      miniboss_t1_cpl_pain_35: -1365954950608017799
+      miniboss_t1_cpl_pain_36: -5762781489062861041
+      miniboss_t1_cpl_pain_37: -7184352070486557030
+      miniboss_t1_cpl_pain_38: 4547835912160713598
+      miniboss_t1_cpl_pain_39: -1130901712653577692
+      miniboss_t1_cpl_pain_4: -2253555121967398133
+      miniboss_t1_cpl_pain_40: 1485725106840507095
+      miniboss_t1_cpl_pain_41: 1889177333840916882
+      miniboss_t1_cpl_pain_42: 6614783769768161371
+      miniboss_t1_cpl_pain_43: -3395037685783405104
+      miniboss_t1_cpl_pain_44: -7975879867671202156
+      miniboss_t1_cpl_pain_45: -8601402663218528389
+      miniboss_t1_cpl_pain_46: -3485607787426435893
+      miniboss_t1_cpl_pain_47: 1309407490086158485
+      miniboss_t1_cpl_pain_48: 7085509203769733885
+      miniboss_t1_cpl_pain_49: -3674339758216817161
+      miniboss_t1_cpl_pain_5: 2333617670051433973
+      miniboss_t1_cpl_pain_50: -7468886543007122151
+      miniboss_t1_cpl_pain_51: 5429004466900785700
+      miniboss_t1_cpl_pain_52: -3153577885510191272
+      miniboss_t1_cpl_pain_53: 51001602793750576
+      miniboss_t1_cpl_pain_54: -4492306829954870504
+      miniboss_t1_cpl_pain_55: -5144475155693713747
+      miniboss_t1_cpl_pain_56: -3463899414034546069
+      miniboss_t1_cpl_pain_57: 2213554478693593543
+      miniboss_t1_cpl_pain_58: -4090752994891255575
+      miniboss_t1_cpl_pain_59: -1036568566893428735
+      miniboss_t1_cpl_pain_6: 3119728873948414484
+      miniboss_t1_cpl_pain_60: 837704032483716360
+      miniboss_t1_cpl_pain_61: 6541951955463655847
+      miniboss_t1_cpl_pain_62: 4418355148915371547
+      miniboss_t1_cpl_pain_63: 2097159708623513019
+      miniboss_t1_cpl_pain_64: 362353791009075301
+      miniboss_t1_cpl_pain_65: -874666750682466615
+      miniboss_t1_cpl_pain_66: -4105968829765110339
+      miniboss_t1_cpl_pain_67: 2505741563055689273
+      miniboss_t1_cpl_pain_68: 3207321433613111468
+      miniboss_t1_cpl_pain_69: -1428626291983830659
+      miniboss_t1_cpl_pain_7: 4116704368530580425
+      miniboss_t1_cpl_pain_70: 3315927644529420496
+      miniboss_t1_cpl_pain_71: -893502174356930054
+      miniboss_t1_cpl_pain_72: -4204430822972656506
+      miniboss_t1_cpl_pain_73: -2022126163658215889
+      miniboss_t1_cpl_pain_74: -7054332742379879451
+      miniboss_t1_cpl_pain_75: -5954048370309613563
+      miniboss_t1_cpl_pain_76: 3427912515455861847
+      miniboss_t1_cpl_pain_77: -4262174800641742340
+      miniboss_t1_cpl_pain_78: -7224312958107939283
+      miniboss_t1_cpl_pain_79: -924234853863406265
+      miniboss_t1_cpl_pain_8: -4997390724575721693
+      miniboss_t1_cpl_pain_80: -2785782805981229471
+      miniboss_t1_cpl_pain_81: 6870266972346378070
+      miniboss_t1_cpl_pain_82: -6951569816293835318
+      miniboss_t1_cpl_pain_83: -5642245393317590144
+      miniboss_t1_cpl_pain_84: -6356882202776043143
+      miniboss_t1_cpl_pain_85: -5178255649894197940
+      miniboss_t1_cpl_pain_86: -9168903907224102086
+      miniboss_t1_cpl_pain_87: -8483399795454171302
+      miniboss_t1_cpl_pain_88: 3537651262631861594
+      miniboss_t1_cpl_pain_89: -3115636416277070867
+      miniboss_t1_cpl_pain_9: 5155171841277998071
+      miniboss_t1_cpl_pain_90: -2795505993834044930
+      miniboss_t1_cpl_pain_91: -7062934608269704352
+      miniboss_t1_cpl_pain_92: 2929291966970957988
+      miniboss_t1_cpl_pain_93: 4307224430732604809
+      miniboss_t1_cpl_pain_94: 3674995929712306538
+      miniboss_t1_cpl_pain_95: 2918018680356256534
+      miniboss_t1_cpl_pain_96: -6783886328689218473
+      miniboss_t1_cpl_pain_97: -2692934235384410385
+      miniboss_t1_cpl_pain_98: 2534575763550151534
+      miniboss_t1_cpl_pain_99: -7757521973597065776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

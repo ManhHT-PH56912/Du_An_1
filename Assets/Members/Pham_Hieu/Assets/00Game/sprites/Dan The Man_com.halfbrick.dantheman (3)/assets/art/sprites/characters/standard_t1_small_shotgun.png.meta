@@ -1,0 +1,4927 @@
+fileFormatVersion: 2
+guid: c11c867956a6a4746871dd1d21ebfc33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4776778129093055299
+    second: standard_t1_small_shotgun_0
+  - first:
+      213: -2809024920508376523
+    second: standard_t1_small_shotgun_1
+  - first:
+      213: -1481706912013655184
+    second: standard_t1_small_shotgun_2
+  - first:
+      213: 722554488304919812
+    second: standard_t1_small_shotgun_3
+  - first:
+      213: -1326821025249719586
+    second: standard_t1_small_shotgun_4
+  - first:
+      213: -9173858752937801336
+    second: standard_t1_small_shotgun_5
+  - first:
+      213: 1971117770584707231
+    second: standard_t1_small_shotgun_6
+  - first:
+      213: -252794860960625636
+    second: standard_t1_small_shotgun_7
+  - first:
+      213: -3589829790290660292
+    second: standard_t1_small_shotgun_8
+  - first:
+      213: -4100346193566183357
+    second: standard_t1_small_shotgun_9
+  - first:
+      213: 4589090841783295801
+    second: standard_t1_small_shotgun_10
+  - first:
+      213: -4649493496525017671
+    second: standard_t1_small_shotgun_11
+  - first:
+      213: 1499291548504512725
+    second: standard_t1_small_shotgun_12
+  - first:
+      213: -6158821736701386031
+    second: standard_t1_small_shotgun_13
+  - first:
+      213: 8863788453488902316
+    second: standard_t1_small_shotgun_14
+  - first:
+      213: -2689465840091179570
+    second: standard_t1_small_shotgun_15
+  - first:
+      213: 8091071568185761756
+    second: standard_t1_small_shotgun_16
+  - first:
+      213: -3031322770891632780
+    second: standard_t1_small_shotgun_17
+  - first:
+      213: 7818561019549625055
+    second: standard_t1_small_shotgun_18
+  - first:
+      213: -6562622529018476045
+    second: standard_t1_small_shotgun_19
+  - first:
+      213: -890566776343021475
+    second: standard_t1_small_shotgun_20
+  - first:
+      213: 3620430177591009382
+    second: standard_t1_small_shotgun_21
+  - first:
+      213: 7995694561006846037
+    second: standard_t1_small_shotgun_22
+  - first:
+      213: 166744609000367262
+    second: standard_t1_small_shotgun_23
+  - first:
+      213: -3695451745239563134
+    second: standard_t1_small_shotgun_24
+  - first:
+      213: -9129005822050835463
+    second: standard_t1_small_shotgun_25
+  - first:
+      213: 4663844389478792237
+    second: standard_t1_small_shotgun_26
+  - first:
+      213: -7971339356345023990
+    second: standard_t1_small_shotgun_27
+  - first:
+      213: 1542456528579841208
+    second: standard_t1_small_shotgun_28
+  - first:
+      213: 6216551038855910351
+    second: standard_t1_small_shotgun_29
+  - first:
+      213: -8603480369133981653
+    second: standard_t1_small_shotgun_30
+  - first:
+      213: -5148790478873681634
+    second: standard_t1_small_shotgun_31
+  - first:
+      213: -4497837081680166942
+    second: standard_t1_small_shotgun_32
+  - first:
+      213: -1336523247704383001
+    second: standard_t1_small_shotgun_33
+  - first:
+      213: 794860983682175180
+    second: standard_t1_small_shotgun_34
+  - first:
+      213: -4397401951871328561
+    second: standard_t1_small_shotgun_35
+  - first:
+      213: -7861776244488278197
+    second: standard_t1_small_shotgun_36
+  - first:
+      213: 2501059737923840951
+    second: standard_t1_small_shotgun_37
+  - first:
+      213: -555023662755271874
+    second: standard_t1_small_shotgun_38
+  - first:
+      213: -1458157246495111643
+    second: standard_t1_small_shotgun_39
+  - first:
+      213: 6728417140136140564
+    second: standard_t1_small_shotgun_40
+  - first:
+      213: 2449601320562519851
+    second: standard_t1_small_shotgun_41
+  - first:
+      213: 1571688787664136894
+    second: standard_t1_small_shotgun_42
+  - first:
+      213: -3563365942597888919
+    second: standard_t1_small_shotgun_43
+  - first:
+      213: -7334171922537242799
+    second: standard_t1_small_shotgun_44
+  - first:
+      213: 4565589536978131420
+    second: standard_t1_small_shotgun_45
+  - first:
+      213: 631066893262321030
+    second: standard_t1_small_shotgun_46
+  - first:
+      213: -4622987834334695327
+    second: standard_t1_small_shotgun_47
+  - first:
+      213: -5802494474553750892
+    second: standard_t1_small_shotgun_48
+  - first:
+      213: 1292170036464211750
+    second: standard_t1_small_shotgun_49
+  - first:
+      213: 3063281097974803403
+    second: standard_t1_small_shotgun_50
+  - first:
+      213: 4147263379382727865
+    second: standard_t1_small_shotgun_51
+  - first:
+      213: -3604390061257933449
+    second: standard_t1_small_shotgun_52
+  - first:
+      213: -1907310944841533635
+    second: standard_t1_small_shotgun_53
+  - first:
+      213: -31937149514424903
+    second: standard_t1_small_shotgun_54
+  - first:
+      213: 269487315260523689
+    second: standard_t1_small_shotgun_55
+  - first:
+      213: -1553443352384607960
+    second: standard_t1_small_shotgun_56
+  - first:
+      213: 7227220953993877180
+    second: standard_t1_small_shotgun_57
+  - first:
+      213: 3466529492972512886
+    second: standard_t1_small_shotgun_58
+  - first:
+      213: -1988058656575172760
+    second: standard_t1_small_shotgun_59
+  - first:
+      213: -3965458021867821686
+    second: standard_t1_small_shotgun_60
+  - first:
+      213: -7957039718702077775
+    second: standard_t1_small_shotgun_61
+  - first:
+      213: 7770146678743012854
+    second: standard_t1_small_shotgun_62
+  - first:
+      213: -4765333900681480514
+    second: standard_t1_small_shotgun_63
+  - first:
+      213: 3574685007298896352
+    second: standard_t1_small_shotgun_64
+  - first:
+      213: -2646607557187059706
+    second: standard_t1_small_shotgun_65
+  - first:
+      213: 2372967521828987575
+    second: standard_t1_small_shotgun_66
+  - first:
+      213: 6799397503975519744
+    second: standard_t1_small_shotgun_67
+  - first:
+      213: -7458823635066175162
+    second: standard_t1_small_shotgun_68
+  - first:
+      213: -1986439179815006807
+    second: standard_t1_small_shotgun_69
+  - first:
+      213: 3115142550535921011
+    second: standard_t1_small_shotgun_70
+  - first:
+      213: 8612950408785907411
+    second: standard_t1_small_shotgun_71
+  - first:
+      213: -8362165968156210358
+    second: standard_t1_small_shotgun_72
+  - first:
+      213: 8149807172059482803
+    second: standard_t1_small_shotgun_73
+  - first:
+      213: 5984569487682383120
+    second: standard_t1_small_shotgun_74
+  - first:
+      213: -1306730662167843593
+    second: standard_t1_small_shotgun_75
+  - first:
+      213: 5601156802362031737
+    second: standard_t1_small_shotgun_76
+  - first:
+      213: 6339990433718525138
+    second: standard_t1_small_shotgun_77
+  - first:
+      213: -8748665142152941599
+    second: standard_t1_small_shotgun_78
+  - first:
+      213: 3991727462465122089
+    second: standard_t1_small_shotgun_79
+  - first:
+      213: -8983254352882668324
+    second: standard_t1_small_shotgun_80
+  - first:
+      213: -7985836786199079281
+    second: standard_t1_small_shotgun_81
+  - first:
+      213: 7455510438003778615
+    second: standard_t1_small_shotgun_82
+  - first:
+      213: 2497758309343069186
+    second: standard_t1_small_shotgun_83
+  - first:
+      213: -8850666536913640919
+    second: standard_t1_small_shotgun_84
+  - first:
+      213: 2153372951889971785
+    second: standard_t1_small_shotgun_85
+  - first:
+      213: -255487289581266671
+    second: standard_t1_small_shotgun_86
+  - first:
+      213: 6412263583778675451
+    second: standard_t1_small_shotgun_87
+  - first:
+      213: -3933400416604867541
+    second: standard_t1_small_shotgun_88
+  - first:
+      213: -5204422196525991319
+    second: standard_t1_small_shotgun_89
+  - first:
+      213: -995476218627145174
+    second: standard_t1_small_shotgun_90
+  - first:
+      213: 4438634260946375971
+    second: standard_t1_small_shotgun_91
+  - first:
+      213: -1092601155864073272
+    second: standard_t1_small_shotgun_92
+  - first:
+      213: -4731702241988846728
+    second: standard_t1_small_shotgun_93
+  - first:
+      213: 5663655257796749459
+    second: standard_t1_small_shotgun_94
+  - first:
+      213: -8463378857129330791
+    second: standard_t1_small_shotgun_95
+  - first:
+      213: -7159056633048378849
+    second: standard_t1_small_shotgun_96
+  - first:
+      213: -666268604996535010
+    second: standard_t1_small_shotgun_97
+  - first:
+      213: 6191576924146397772
+    second: standard_t1_small_shotgun_98
+  - first:
+      213: -1572993794844142691
+    second: standard_t1_small_shotgun_99
+  - first:
+      213: 258189883620307516
+    second: standard_t1_small_shotgun_100
+  - first:
+      213: 3232054972271670736
+    second: standard_t1_small_shotgun_101
+  - first:
+      213: -5601765088983777867
+    second: standard_t1_small_shotgun_102
+  - first:
+      213: -8250970869141076939
+    second: standard_t1_small_shotgun_103
+  - first:
+      213: 3091550978865067311
+    second: standard_t1_small_shotgun_104
+  - first:
+      213: 4165321180954249063
+    second: standard_t1_small_shotgun_105
+  - first:
+      213: 8414161013965072472
+    second: standard_t1_small_shotgun_106
+  - first:
+      213: 1150195024027346248
+    second: standard_t1_small_shotgun_107
+  - first:
+      213: 6354577872961643081
+    second: standard_t1_small_shotgun_108
+  - first:
+      213: -7650650977158122370
+    second: standard_t1_small_shotgun_109
+  - first:
+      213: -8852478946292002873
+    second: standard_t1_small_shotgun_110
+  - first:
+      213: 4826676219099573067
+    second: standard_t1_small_shotgun_111
+  - first:
+      213: 3438330194542139508
+    second: standard_t1_small_shotgun_112
+  - first:
+      213: 8245532508716421183
+    second: standard_t1_small_shotgun_113
+  - first:
+      213: -3423411089709283259
+    second: standard_t1_small_shotgun_114
+  - first:
+      213: -9006727369840688319
+    second: standard_t1_small_shotgun_115
+  - first:
+      213: -6904304597657991061
+    second: standard_t1_small_shotgun_116
+  - first:
+      213: -6958757005959551392
+    second: standard_t1_small_shotgun_117
+  - first:
+      213: -1565597186494718415
+    second: standard_t1_small_shotgun_118
+  - first:
+      213: 5808088924530872927
+    second: standard_t1_small_shotgun_119
+  - first:
+      213: -1779617232378683659
+    second: standard_t1_small_shotgun_120
+  - first:
+      213: 781287453760729008
+    second: standard_t1_small_shotgun_121
+  - first:
+      213: 2037186889890613520
+    second: standard_t1_small_shotgun_122
+  - first:
+      213: -8286921712385388668
+    second: standard_t1_small_shotgun_123
+  - first:
+      213: 467396997482794954
+    second: standard_t1_small_shotgun_124
+  - first:
+      213: 3846188588024108078
+    second: standard_t1_small_shotgun_125
+  - first:
+      213: -8786862629858035074
+    second: standard_t1_small_shotgun_126
+  - first:
+      213: -546484324515364329
+    second: standard_t1_small_shotgun_127
+  - first:
+      213: 7633856597521003938
+    second: standard_t1_small_shotgun_128
+  - first:
+      213: -4580443111751414321
+    second: standard_t1_small_shotgun_129
+  - first:
+      213: -8022774147286831685
+    second: standard_t1_small_shotgun_130
+  - first:
+      213: -8076042705087278705
+    second: standard_t1_small_shotgun_131
+  - first:
+      213: -888098150741807655
+    second: standard_t1_small_shotgun_132
+  - first:
+      213: -981238433583961104
+    second: standard_t1_small_shotgun_133
+  - first:
+      213: -925769486035355790
+    second: standard_t1_small_shotgun_134
+  - first:
+      213: 4818533346558113813
+    second: standard_t1_small_shotgun_135
+  - first:
+      213: -6712604296938593982
+    second: standard_t1_small_shotgun_136
+  - first:
+      213: 4881920703398412931
+    second: standard_t1_small_shotgun_137
+  - first:
+      213: 4102713735109978489
+    second: standard_t1_small_shotgun_138
+  - first:
+      213: -2634728596478798889
+    second: standard_t1_small_shotgun_139
+  - first:
+      213: 4756001956887273028
+    second: standard_t1_small_shotgun_140
+  - first:
+      213: -5388516365350285168
+    second: standard_t1_small_shotgun_141
+  - first:
+      213: -6346292402675149824
+    second: standard_t1_small_shotgun_142
+  - first:
+      213: -7302292194955713714
+    second: standard_t1_small_shotgun_143
+  - first:
+      213: 1266869034750459882
+    second: standard_t1_small_shotgun_144
+  - first:
+      213: 848827195973641223
+    second: standard_t1_small_shotgun_145
+  - first:
+      213: -1525457824046346056
+    second: standard_t1_small_shotgun_146
+  - first:
+      213: 6107804258329389079
+    second: standard_t1_small_shotgun_147
+  - first:
+      213: 3865880239752531834
+    second: standard_t1_small_shotgun_148
+  - first:
+      213: -2821689501536301462
+    second: standard_t1_small_shotgun_149
+  - first:
+      213: 2971664245431373200
+    second: standard_t1_small_shotgun_150
+  - first:
+      213: -8024596668782944004
+    second: standard_t1_small_shotgun_151
+  - first:
+      213: -6018807310313999795
+    second: standard_t1_small_shotgun_152
+  - first:
+      213: 6818348472762064731
+    second: standard_t1_small_shotgun_153
+  - first:
+      213: -3970022543902575873
+    second: standard_t1_small_shotgun_154
+  - first:
+      213: 1044010710633429760
+    second: standard_t1_small_shotgun_155
+  - first:
+      213: -6236076328275216900
+    second: standard_t1_small_shotgun_156
+  - first:
+      213: -1871597816868887908
+    second: standard_t1_small_shotgun_157
+  - first:
+      213: -4912405987098866390
+    second: standard_t1_small_shotgun_158
+  - first:
+      213: 3508368006241121406
+    second: standard_t1_small_shotgun_159
+  - first:
+      213: 5366184251186291985
+    second: standard_t1_small_shotgun_160
+  - first:
+      213: 8907946681416048586
+    second: standard_t1_small_shotgun_161
+  - first:
+      213: 7684840526322970262
+    second: standard_t1_small_shotgun_162
+  - first:
+      213: 1168848034390435051
+    second: standard_t1_small_shotgun_163
+  - first:
+      213: 5566174813788214615
+    second: standard_t1_small_shotgun_164
+  - first:
+      213: -3050642125242261051
+    second: standard_t1_small_shotgun_165
+  - first:
+      213: -4719244565663501795
+    second: standard_t1_small_shotgun_166
+  - first:
+      213: -5664940356574406825
+    second: standard_t1_small_shotgun_167
+  - first:
+      213: 5211056483198437333
+    second: standard_t1_small_shotgun_168
+  - first:
+      213: 4056316554692102500
+    second: standard_t1_small_shotgun_169
+  - first:
+      213: -5991289860504674492
+    second: standard_t1_small_shotgun_170
+  - first:
+      213: 2760238807673820618
+    second: standard_t1_small_shotgun_171
+  - first:
+      213: -5590757801859392508
+    second: standard_t1_small_shotgun_172
+  - first:
+      213: 7381514097847502201
+    second: standard_t1_small_shotgun_173
+  - first:
+      213: 3837825034927989446
+    second: standard_t1_small_shotgun_174
+  - first:
+      213: 2337557448256613023
+    second: standard_t1_small_shotgun_175
+  - first:
+      213: 3216057972062252119
+    second: standard_t1_small_shotgun_176
+  - first:
+      213: -1783629269998420030
+    second: standard_t1_small_shotgun_177
+  - first:
+      213: -4720618162204389217
+    second: standard_t1_small_shotgun_178
+  - first:
+      213: -5919331445529795953
+    second: standard_t1_small_shotgun_179
+  - first:
+      213: 688568580556586953
+    second: standard_t1_small_shotgun_180
+  - first:
+      213: -6696371178983120442
+    second: standard_t1_small_shotgun_181
+  - first:
+      213: 5496910636483003032
+    second: standard_t1_small_shotgun_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 458
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcad8c999975bdb0800000000000000
+      internalID: -4776778129093055299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 458
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ad0e7b7b65409d0800000000000000
+      internalID: -2809024920508376523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 458
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0736f28f96bef6be0800000000000000
+      internalID: -1481706912013655184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 458
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40567469a77070a00800000000000000
+      internalID: 722554488304919812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 458
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda887dae4f269de0800000000000000
+      internalID: -1326821025249719586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 455
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c883c118efa080800000000000000
+      internalID: -9173858752937801336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 457
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90592e3b21da5b10800000000000000
+      internalID: 1971117770584707231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 457
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cc56fc964ed7cf0800000000000000
+      internalID: -252794860960625636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 457
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c343c9153dc5e2ec0800000000000000
+      internalID: -3589829790290660292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 457
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340dc5c8cd4a817c0800000000000000
+      internalID: -4100346193566183357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 456
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fdd7a7ec9bfaf30800000000000000
+      internalID: 4589090841783295801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 456
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd232a8c4ea97fb0800000000000000
+      internalID: -4649493496525017671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 456
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85b5348bd8ec410800000000000000
+      internalID: 1499291548504512725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 456
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2a5f4e248778aa0800000000000000
+      internalID: -6158821736701386031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_14
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 456
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca04a66d2a0820b70800000000000000
+      internalID: 8863788453488902316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 456
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec551dd51191daad0800000000000000
+      internalID: -2689465840091179570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_16
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 454
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf99f119b2494070800000000000000
+      internalID: 8091071568185761756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_17
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 454
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f837120049ee5d0800000000000000
+      internalID: -3031322770891632780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_18
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 454
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa8f0a2db118c60800000000000000
+      internalID: 7818561019549625055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 407
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c0e28491ece4a0800000000000000
+      internalID: -6562622529018476045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 407
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d583f4f3c3214a3f0800000000000000
+      internalID: -890566776343021475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 407
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660aa6d801a5e3230800000000000000
+      internalID: 3620430177591009382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 407
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550065917d966fe60800000000000000
+      internalID: 7995694561006846037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 407
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ada3a655605200800000000000000
+      internalID: 166744609000367262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 407
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840660973e17bcc0800000000000000
+      internalID: -3695451745239563134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 403
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ef2882914f4180800000000000000
+      internalID: -9129005822050835463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 402
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf49a13cd49b040800000000000000
+      internalID: 4663844389478792237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 401
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02c6f0e61d106190800000000000000
+      internalID: -7971339356345023990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 404
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bccb7b5a08e76510800000000000000
+      internalID: 1542456528579841208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_29
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 404
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3971fab30a54650800000000000000
+      internalID: 6216551038855910351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 405
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20f8bdff2c4a9880800000000000000
+      internalID: -8603480369133981653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_31
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 404
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1122d3c652db88b0800000000000000
+      internalID: -5148790478873681634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_32
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efbfd831097491c0800000000000000
+      internalID: -4497837081680166942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_33
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 405
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1678aff27b37de0800000000000000
+      internalID: -1336523247704383001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_34
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 403
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc091327ad9e70b00800000000000000
+      internalID: 794860983682175180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_35
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 402
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce9914293a49f2c0800000000000000
+      internalID: -4397401951871328561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_36
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 403
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4febabb82c55e290800000000000000
+      internalID: -7861776244488278197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_37
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 403
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb6bf8949c85b220800000000000000
+      internalID: 2501059737923840951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_38
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 404
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b298b5be82c48f0800000000000000
+      internalID: -555023662755271874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 355
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5264fffb5b593cbe0800000000000000
+      internalID: -1458157246495111643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 356
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fd6728db3206d50800000000000000
+      internalID: 6728417140136140564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 356
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fe4792c6bbef120800000000000000
+      internalID: 2449601320562519851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 363
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba6f2e00a2cfc510800000000000000
+      internalID: 1571688787664136894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 359
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9645ab20e816c8ec0800000000000000
+      internalID: -3563365942597888919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 355
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f168b9e79c73a90800000000000000
+      internalID: -7334171922537242799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 341
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd952dd8e7b3c5f30800000000000000
+      internalID: 4565589536978131420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 342
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685f862fefff1c800800000000000000
+      internalID: 631066893262321030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 343
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160378dee09d7dfb0800000000000000
+      internalID: -4622987834334695327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_48
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 343
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8e01b406697fa0800000000000000
+      internalID: -5802494474553750892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 342
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6275adc4dc5bee110800000000000000
+      internalID: 1292170036464211750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_50
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 343
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe4fbbde5f28a20800000000000000
+      internalID: 3063281097974803403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 344
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f716021a0e8930800000000000000
+      internalID: 4147263379382727865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_52
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 342
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db5ce0652aafdc0800000000000000
+      internalID: -3604390061257933449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_53
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 346
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3771801dced785e0800000000000000
+      internalID: -1907310944841533635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_54
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 345
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddd0ce4598e8ff0800000000000000
+      internalID: -31937149514424903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 344
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c39119496db300800000000000000
+      internalID: 269487315260523689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_56
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 345
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8296c62608f017ae0800000000000000
+      internalID: -1553443352384607960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_57
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 345
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6901c8a2f3c4460800000000000000
+      internalID: 7227220953993877180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_58
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 346
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676aa0815369b1030800000000000000
+      internalID: 3466529492972512886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_59
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 318
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f423e5f2ff864e0800000000000000
+      internalID: -1988058656575172760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 318
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8568d260fcd7f8c0800000000000000
+      internalID: -3965458021867821686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 318
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a617b88ae29190800000000000000
+      internalID: -7957039718702077775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 318
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5982f7c3b15db60800000000000000
+      internalID: 7770146678743012854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 305
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6f0cda0122eddb0800000000000000
+      internalID: -4765333900681480514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 305
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e127fb1315db9130800000000000000
+      internalID: 3574685007298896352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_65
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 305
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004006f27c554bd0800000000000000
+      internalID: -2646607557187059706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_66
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 285
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e72a73697ee020800000000000000
+      internalID: 2372967521828987575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_67
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 293
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006732f41005c5e50800000000000000
+      internalID: 6799397503975519744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 294
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c7952c6fec7890800000000000000
+      internalID: -7458823635066175162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 295
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad453f2710ce64e0800000000000000
+      internalID: -1986439179815006807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_70
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 295
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dd56d15a53b3b20800000000000000
+      internalID: 3115142550535921011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 298
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de4dbf63c8578770800000000000000
+      internalID: 8612950408785907411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_72
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 296
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b403b4b5e93fb80800000000000000
+      internalID: -8362165968156210358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_73
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 293
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba4986817ee91170800000000000000
+      internalID: 8149807172059482803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_74
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 293
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d23fecd367d0350800000000000000
+      internalID: 5984569487682383120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_75
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 293
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcef58d26f8ddde0800000000000000
+      internalID: -1306730662167843593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_76
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 292
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e3d008f6e4bbd40800000000000000
+      internalID: 5601156802362031737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_77
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 293
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcda2175bb2cf750800000000000000
+      internalID: 6339990433718525138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 253
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efa127d76f769680800000000000000
+      internalID: -8748665142152941599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_79
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 253
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fa7606af6756730800000000000000
+      internalID: 3991727462465122089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 253
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc6279e2c1155380800000000000000
+      internalID: -8983254352882668324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 253
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f865b54f0cb9c2190800000000000000
+      internalID: -7985836786199079281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 253
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ae6c0e3b477760800000000000000
+      internalID: 7455510438003778615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_83
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 253
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048c2bd2f1d9a220800000000000000
+      internalID: 2497758309343069186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_84
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 253
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92263d17dad1c2580800000000000000
+      internalID: -8850666536913640919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_85
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a065a6a4152ed10800000000000000
+      internalID: 2153372951889971785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11991ebe9a3547cf0800000000000000
+      internalID: -255487289581266671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_87
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa1d4d71cfecf850800000000000000
+      internalID: 6412263583778675451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_88
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24b4e04921c969c0800000000000000
+      internalID: -3933400416604867541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_89
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af8e2269d26c7b0800000000000000
+      internalID: -5204422196525991319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_90
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 234
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22416647ab5f22f0800000000000000
+      internalID: -995476218627145174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_91
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 234
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325569be752399d30800000000000000
+      internalID: 4438634260946375971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_92
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 234
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb6a8f990d46d0f0800000000000000
+      internalID: -1092601155864073272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_93
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 234
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bd55b61ed955eb0800000000000000
+      internalID: -4731702241988846728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_94
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 234
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398af3b1378599e40800000000000000
+      internalID: 5663655257796749459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_95
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997314535c90c8a80800000000000000
+      internalID: -8463378857129330791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_96
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125f3c2cebe5ac90800000000000000
+      internalID: -7159056633048378849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_97
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 234
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dbf2adb30f0c6f0800000000000000
+      internalID: -666268604996535010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42704b7866ece550800000000000000
+      internalID: 6191576924146397772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_99
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 200
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93db684a7a9b2ae0800000000000000
+      internalID: -1572993794844142691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b9c9c456459300800000000000000
+      internalID: 258189883620307516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_101
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5b9c48fd09adc20800000000000000
+      internalID: 3232054972271670736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_102
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 200
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdffebb4588242b0800000000000000
+      internalID: -5601765088983777867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_103
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 200
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53400c4c5b9ae7d80800000000000000
+      internalID: -8250970869141076939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_104
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 200
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25734c4c3567ea20800000000000000
+      internalID: 3091550978865067311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_105
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 202
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76740369b813ec930800000000000000
+      internalID: 4165321180954249063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_106
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 182
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8582450bcda15c470800000000000000
+      internalID: 8414161013965072472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 182
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456295c74056ff00800000000000000
+      internalID: 1150195024027346248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_108
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 182
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942af6f48eeff2850800000000000000
+      internalID: 6354577872961643081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 182
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74befd987d63d590800000000000000
+      internalID: -7650650977158122370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_110
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 182
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf04a00d4da52580800000000000000
+      internalID: -8852478946292002873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_111
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 182
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b614dc27ccbf240800000000000000
+      internalID: 4826676219099573067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_112
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 182
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4781f2a481767bf20800000000000000
+      internalID: 3438330194542139508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_113
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 182
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f305af541240e6270800000000000000
+      internalID: 8245532508716421183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_114
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 182
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548cebd70c99d70d0800000000000000
+      internalID: -3423411089709283259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_115
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 182
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1438bd34d2da10380800000000000000
+      internalID: -9006727369840688319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_116
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 182
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68cf7b8c8bfe20a0800000000000000
+      internalID: -6904304597657991061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_117
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 182
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06625854f578d6f90800000000000000
+      internalID: -6958757005959551392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_118
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 182
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e91ad57a1e54ae0800000000000000
+      internalID: -1565597186494718415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_119
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 182
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f521b82ba1a7a9050800000000000000
+      internalID: 5808088924530872927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe97e35e878d47e0800000000000000
+      internalID: -1779617232378683659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_121
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 147
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa0ecbcc0b7da00800000000000000
+      internalID: 781287453760729008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_122
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194301deaa854c10800000000000000
+      internalID: 2037186889890613520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_123
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 147
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f0ccbcb90fefc80800000000000000
+      internalID: -8286921712385388668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_124
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 147
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfcb04c7178c7600800000000000000
+      internalID: 467396997482794954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_125
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 180
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2496509428606530800000000000000
+      internalID: 3846188588024108078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_126
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 129
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a38213eface0680800000000000000
+      internalID: -8786862629858035074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_127
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 129
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71241f9f66f7a68f0800000000000000
+      internalID: -546484324515364329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_128
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 129
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5f2892128e0f960800000000000000
+      internalID: 7633856597521003938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 150
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd0c22124ffe60c0800000000000000
+      internalID: -4580443111751414321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_130
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 151
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde7c56b6169a090800000000000000
+      internalID: -8022774147286831685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_131
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 151
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81536cc2f12cef80800000000000000
+      internalID: -8076042705087278705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_132
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd6a5fef67dca3f0800000000000000
+      internalID: -888098150741807655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_133
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb644ee7d0f162f0800000000000000
+      internalID: -981238433583961104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_134
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27777f0be810723f0800000000000000
+      internalID: -925769486035355790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_135
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51878fb8c8eded240800000000000000
+      internalID: 4818533346558113813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_136
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e633f4f908d2a0800000000000000
+      internalID: -6712604296938593982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_137
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38200b3a30110c340800000000000000
+      internalID: 4881920703398412931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_138
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979a85ca764cfe830800000000000000
+      internalID: 4102713735109978489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_139
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d351570d409f6bd0800000000000000
+      internalID: -2634728596478798889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_140
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 129
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e1457d496b00240800000000000000
+      internalID: 4756001956887273028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_141
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 129
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090dae05ae42835b0800000000000000
+      internalID: -5388516365350285168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_142
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00499c11fa07de7a0800000000000000
+      internalID: -6346292402675149824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_143
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43ae8910fb09aa90800000000000000
+      internalID: -7302292194955713714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_144
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef3e39cca2d49110800000000000000
+      internalID: 1266869034750459882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_145
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70423b366d3a7cb00800000000000000
+      internalID: 848827195973641223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_146
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b090e5f03c74dae0800000000000000
+      internalID: -1525457824046346056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_147
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186757cc9743c450800000000000000
+      internalID: 6107804258329389079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_148
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc6a2889d56a530800000000000000
+      internalID: 3865880239752531834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_149
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eca7a295857d8d0800000000000000
+      internalID: -2821689501536301462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_150
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d8aacf2e87d3920800000000000000
+      internalID: 2971664245431373200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_151
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0e86b88d7e2a090800000000000000
+      internalID: -8024596668782944004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_152
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42b539e3a6e87ca0800000000000000
+      internalID: -6018807310313999795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_153
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f5fc19fc3af9e50800000000000000
+      internalID: 6818348472762064731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_154
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 93
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2f468c785a7e8c0800000000000000
+      internalID: -3970022543902575873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_155
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 93
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b320db5321d7e00800000000000000
+      internalID: 1044010710633429760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_156
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5feec9e910579a0800000000000000
+      internalID: -6236076328275216900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_157
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 93
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c922223a3bfb606e0800000000000000
+      internalID: -1871597816868887908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_158
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 93
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d487228c0a3dbb0800000000000000
+      internalID: -4912405987098866390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 93
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f8511d1a30b030800000000000000
+      internalID: 3508368006241121406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_160
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 129
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115214b2524887a40800000000000000
+      internalID: 5366184251186291985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_161
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf5ce77f426f9b70800000000000000
+      internalID: 8907946681416048586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_162
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 129
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ea10f1eb906aa60800000000000000
+      internalID: 7684840526322970262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_163
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4614e2815983010800000000000000
+      internalID: 1168848034390435051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_164
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 129
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755929590860f3d40800000000000000
+      internalID: 5566174813788214615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_165
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1a71c6621f9a5d0800000000000000
+      internalID: -3050642125242261051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_166
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 129
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d123f673210e18eb0800000000000000
+      internalID: -4719244565663501795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_167
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7579b9482c61261b0800000000000000
+      internalID: -5664940356574406825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_168
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d70a891344615840800000000000000
+      internalID: 5211056483198437333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_169
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46985fa4a6eea4830800000000000000
+      internalID: 4056316554692102500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_170
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f18367d99aadca0800000000000000
+      internalID: -5991289860504674492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_171
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac555aa32965e4620800000000000000
+      internalID: 2760238807673820618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_172
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c5dea7663a962b0800000000000000
+      internalID: -5590757801859392508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_173
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750dba86f7607660800000000000000
+      internalID: 7381514097847502201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_174
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2ebfc1981b24530800000000000000
+      internalID: 3837825034927989446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_175
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a67614d1ca07020800000000000000
+      internalID: 2337557448256613023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c65d9afabb1ac20800000000000000
+      internalID: 3216057972062252119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_177
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf31c601a64f37e0800000000000000
+      internalID: -1783629269998420030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_178
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 41
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90dc89dacefc7eb0800000000000000
+      internalID: -4720618162204389217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_179
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 41
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a569896f4adda0800000000000000
+      internalID: -5919331445529795953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cff19fc9794e8900800000000000000
+      internalID: 688568580556586953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_181
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 38
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12c8044e5b113a0800000000000000
+      internalID: -6696371178983120442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_t1_small_shotgun_182
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c2a99913f84c40800000000000000
+      internalID: 5496910636483003032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      standard_t1_small_shotgun_0: -4776778129093055299
+      standard_t1_small_shotgun_1: -2809024920508376523
+      standard_t1_small_shotgun_10: 4589090841783295801
+      standard_t1_small_shotgun_100: 258189883620307516
+      standard_t1_small_shotgun_101: 3232054972271670736
+      standard_t1_small_shotgun_102: -5601765088983777867
+      standard_t1_small_shotgun_103: -8250970869141076939
+      standard_t1_small_shotgun_104: 3091550978865067311
+      standard_t1_small_shotgun_105: 4165321180954249063
+      standard_t1_small_shotgun_106: 8414161013965072472
+      standard_t1_small_shotgun_107: 1150195024027346248
+      standard_t1_small_shotgun_108: 6354577872961643081
+      standard_t1_small_shotgun_109: -7650650977158122370
+      standard_t1_small_shotgun_11: -4649493496525017671
+      standard_t1_small_shotgun_110: -8852478946292002873
+      standard_t1_small_shotgun_111: 4826676219099573067
+      standard_t1_small_shotgun_112: 3438330194542139508
+      standard_t1_small_shotgun_113: 8245532508716421183
+      standard_t1_small_shotgun_114: -3423411089709283259
+      standard_t1_small_shotgun_115: -9006727369840688319
+      standard_t1_small_shotgun_116: -6904304597657991061
+      standard_t1_small_shotgun_117: -6958757005959551392
+      standard_t1_small_shotgun_118: -1565597186494718415
+      standard_t1_small_shotgun_119: 5808088924530872927
+      standard_t1_small_shotgun_12: 1499291548504512725
+      standard_t1_small_shotgun_120: -1779617232378683659
+      standard_t1_small_shotgun_121: 781287453760729008
+      standard_t1_small_shotgun_122: 2037186889890613520
+      standard_t1_small_shotgun_123: -8286921712385388668
+      standard_t1_small_shotgun_124: 467396997482794954
+      standard_t1_small_shotgun_125: 3846188588024108078
+      standard_t1_small_shotgun_126: -8786862629858035074
+      standard_t1_small_shotgun_127: -546484324515364329
+      standard_t1_small_shotgun_128: 7633856597521003938
+      standard_t1_small_shotgun_129: -4580443111751414321
+      standard_t1_small_shotgun_13: -6158821736701386031
+      standard_t1_small_shotgun_130: -8022774147286831685
+      standard_t1_small_shotgun_131: -8076042705087278705
+      standard_t1_small_shotgun_132: -888098150741807655
+      standard_t1_small_shotgun_133: -981238433583961104
+      standard_t1_small_shotgun_134: -925769486035355790
+      standard_t1_small_shotgun_135: 4818533346558113813
+      standard_t1_small_shotgun_136: -6712604296938593982
+      standard_t1_small_shotgun_137: 4881920703398412931
+      standard_t1_small_shotgun_138: 4102713735109978489
+      standard_t1_small_shotgun_139: -2634728596478798889
+      standard_t1_small_shotgun_14: 8863788453488902316
+      standard_t1_small_shotgun_140: 4756001956887273028
+      standard_t1_small_shotgun_141: -5388516365350285168
+      standard_t1_small_shotgun_142: -6346292402675149824
+      standard_t1_small_shotgun_143: -7302292194955713714
+      standard_t1_small_shotgun_144: 1266869034750459882
+      standard_t1_small_shotgun_145: 848827195973641223
+      standard_t1_small_shotgun_146: -1525457824046346056
+      standard_t1_small_shotgun_147: 6107804258329389079
+      standard_t1_small_shotgun_148: 3865880239752531834
+      standard_t1_small_shotgun_149: -2821689501536301462
+      standard_t1_small_shotgun_15: -2689465840091179570
+      standard_t1_small_shotgun_150: 2971664245431373200
+      standard_t1_small_shotgun_151: -8024596668782944004
+      standard_t1_small_shotgun_152: -6018807310313999795
+      standard_t1_small_shotgun_153: 6818348472762064731
+      standard_t1_small_shotgun_154: -3970022543902575873
+      standard_t1_small_shotgun_155: 1044010710633429760
+      standard_t1_small_shotgun_156: -6236076328275216900
+      standard_t1_small_shotgun_157: -1871597816868887908
+      standard_t1_small_shotgun_158: -4912405987098866390
+      standard_t1_small_shotgun_159: 3508368006241121406
+      standard_t1_small_shotgun_16: 8091071568185761756
+      standard_t1_small_shotgun_160: 5366184251186291985
+      standard_t1_small_shotgun_161: 8907946681416048586
+      standard_t1_small_shotgun_162: 7684840526322970262
+      standard_t1_small_shotgun_163: 1168848034390435051
+      standard_t1_small_shotgun_164: 5566174813788214615
+      standard_t1_small_shotgun_165: -3050642125242261051
+      standard_t1_small_shotgun_166: -4719244565663501795
+      standard_t1_small_shotgun_167: -5664940356574406825
+      standard_t1_small_shotgun_168: 5211056483198437333
+      standard_t1_small_shotgun_169: 4056316554692102500
+      standard_t1_small_shotgun_17: -3031322770891632780
+      standard_t1_small_shotgun_170: -5991289860504674492
+      standard_t1_small_shotgun_171: 2760238807673820618
+      standard_t1_small_shotgun_172: -5590757801859392508
+      standard_t1_small_shotgun_173: 7381514097847502201
+      standard_t1_small_shotgun_174: 3837825034927989446
+      standard_t1_small_shotgun_175: 2337557448256613023
+      standard_t1_small_shotgun_176: 3216057972062252119
+      standard_t1_small_shotgun_177: -1783629269998420030
+      standard_t1_small_shotgun_178: -4720618162204389217
+      standard_t1_small_shotgun_179: -5919331445529795953
+      standard_t1_small_shotgun_18: 7818561019549625055
+      standard_t1_small_shotgun_180: 688568580556586953
+      standard_t1_small_shotgun_181: -6696371178983120442
+      standard_t1_small_shotgun_182: 5496910636483003032
+      standard_t1_small_shotgun_19: -6562622529018476045
+      standard_t1_small_shotgun_2: -1481706912013655184
+      standard_t1_small_shotgun_20: -890566776343021475
+      standard_t1_small_shotgun_21: 3620430177591009382
+      standard_t1_small_shotgun_22: 7995694561006846037
+      standard_t1_small_shotgun_23: 166744609000367262
+      standard_t1_small_shotgun_24: -3695451745239563134
+      standard_t1_small_shotgun_25: -9129005822050835463
+      standard_t1_small_shotgun_26: 4663844389478792237
+      standard_t1_small_shotgun_27: -7971339356345023990
+      standard_t1_small_shotgun_28: 1542456528579841208
+      standard_t1_small_shotgun_29: 6216551038855910351
+      standard_t1_small_shotgun_3: 722554488304919812
+      standard_t1_small_shotgun_30: -8603480369133981653
+      standard_t1_small_shotgun_31: -5148790478873681634
+      standard_t1_small_shotgun_32: -4497837081680166942
+      standard_t1_small_shotgun_33: -1336523247704383001
+      standard_t1_small_shotgun_34: 794860983682175180
+      standard_t1_small_shotgun_35: -4397401951871328561
+      standard_t1_small_shotgun_36: -7861776244488278197
+      standard_t1_small_shotgun_37: 2501059737923840951
+      standard_t1_small_shotgun_38: -555023662755271874
+      standard_t1_small_shotgun_39: -1458157246495111643
+      standard_t1_small_shotgun_4: -1326821025249719586
+      standard_t1_small_shotgun_40: 6728417140136140564
+      standard_t1_small_shotgun_41: 2449601320562519851
+      standard_t1_small_shotgun_42: 1571688787664136894
+      standard_t1_small_shotgun_43: -3563365942597888919
+      standard_t1_small_shotgun_44: -7334171922537242799
+      standard_t1_small_shotgun_45: 4565589536978131420
+      standard_t1_small_shotgun_46: 631066893262321030
+      standard_t1_small_shotgun_47: -4622987834334695327
+      standard_t1_small_shotgun_48: -5802494474553750892
+      standard_t1_small_shotgun_49: 1292170036464211750
+      standard_t1_small_shotgun_5: -9173858752937801336
+      standard_t1_small_shotgun_50: 3063281097974803403
+      standard_t1_small_shotgun_51: 4147263379382727865
+      standard_t1_small_shotgun_52: -3604390061257933449
+      standard_t1_small_shotgun_53: -1907310944841533635
+      standard_t1_small_shotgun_54: -31937149514424903
+      standard_t1_small_shotgun_55: 269487315260523689
+      standard_t1_small_shotgun_56: -1553443352384607960
+      standard_t1_small_shotgun_57: 7227220953993877180
+      standard_t1_small_shotgun_58: 3466529492972512886
+      standard_t1_small_shotgun_59: -1988058656575172760
+      standard_t1_small_shotgun_6: 1971117770584707231
+      standard_t1_small_shotgun_60: -3965458021867821686
+      standard_t1_small_shotgun_61: -7957039718702077775
+      standard_t1_small_shotgun_62: 7770146678743012854
+      standard_t1_small_shotgun_63: -4765333900681480514
+      standard_t1_small_shotgun_64: 3574685007298896352
+      standard_t1_small_shotgun_65: -2646607557187059706
+      standard_t1_small_shotgun_66: 2372967521828987575
+      standard_t1_small_shotgun_67: 6799397503975519744
+      standard_t1_small_shotgun_68: -7458823635066175162
+      standard_t1_small_shotgun_69: -1986439179815006807
+      standard_t1_small_shotgun_7: -252794860960625636
+      standard_t1_small_shotgun_70: 3115142550535921011
+      standard_t1_small_shotgun_71: 8612950408785907411
+      standard_t1_small_shotgun_72: -8362165968156210358
+      standard_t1_small_shotgun_73: 8149807172059482803
+      standard_t1_small_shotgun_74: 5984569487682383120
+      standard_t1_small_shotgun_75: -1306730662167843593
+      standard_t1_small_shotgun_76: 5601156802362031737
+      standard_t1_small_shotgun_77: 6339990433718525138
+      standard_t1_small_shotgun_78: -8748665142152941599
+      standard_t1_small_shotgun_79: 3991727462465122089
+      standard_t1_small_shotgun_8: -3589829790290660292
+      standard_t1_small_shotgun_80: -8983254352882668324
+      standard_t1_small_shotgun_81: -7985836786199079281
+      standard_t1_small_shotgun_82: 7455510438003778615
+      standard_t1_small_shotgun_83: 2497758309343069186
+      standard_t1_small_shotgun_84: -8850666536913640919
+      standard_t1_small_shotgun_85: 2153372951889971785
+      standard_t1_small_shotgun_86: -255487289581266671
+      standard_t1_small_shotgun_87: 6412263583778675451
+      standard_t1_small_shotgun_88: -3933400416604867541
+      standard_t1_small_shotgun_89: -5204422196525991319
+      standard_t1_small_shotgun_9: -4100346193566183357
+      standard_t1_small_shotgun_90: -995476218627145174
+      standard_t1_small_shotgun_91: 4438634260946375971
+      standard_t1_small_shotgun_92: -1092601155864073272
+      standard_t1_small_shotgun_93: -4731702241988846728
+      standard_t1_small_shotgun_94: 5663655257796749459
+      standard_t1_small_shotgun_95: -8463378857129330791
+      standard_t1_small_shotgun_96: -7159056633048378849
+      standard_t1_small_shotgun_97: -666268604996535010
+      standard_t1_small_shotgun_98: 6191576924146397772
+      standard_t1_small_shotgun_99: -1572993794844142691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

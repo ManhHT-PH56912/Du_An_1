@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: d1709a1c006e1fc43beeea2074d448c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3353114430771172003
+    second: RobotDog_0
+  - first:
+      213: -4752969465771007125
+    second: RobotDog_1
+  - first:
+      213: 2112048794668672459
+    second: RobotDog_2
+  - first:
+      213: 2696633850747450833
+    second: RobotDog_3
+  - first:
+      213: -61600727941702057
+    second: RobotDog_4
+  - first:
+      213: 1704846721478267202
+    second: RobotDog_5
+  - first:
+      213: -8966432631442283223
+    second: RobotDog_6
+  - first:
+      213: 933033823424542853
+    second: RobotDog_7
+  - first:
+      213: 5173016360778085816
+    second: RobotDog_8
+  - first:
+      213: -47007606191415282
+    second: RobotDog_9
+  - first:
+      213: -196396263325602810
+    second: RobotDog_10
+  - first:
+      213: 4459146007497782818
+    second: RobotDog_11
+  - first:
+      213: -5232094185761265141
+    second: RobotDog_12
+  - first:
+      213: -243433804376848103
+    second: RobotDog_13
+  - first:
+      213: 4723856916103891982
+    second: RobotDog_14
+  - first:
+      213: 7225127384474604775
+    second: RobotDog_15
+  - first:
+      213: 7903383921622356051
+    second: RobotDog_16
+  - first:
+      213: -7806607657064631462
+    second: RobotDog_17
+  - first:
+      213: 3856588365226633184
+    second: RobotDog_18
+  - first:
+      213: 4943176017684531292
+    second: RobotDog_19
+  - first:
+      213: 3532736034403299759
+    second: RobotDog_20
+  - first:
+      213: -1597440676379582545
+    second: RobotDog_21
+  - first:
+      213: -6439325684924241851
+    second: RobotDog_22
+  - first:
+      213: -7672770565790258167
+    second: RobotDog_23
+  - first:
+      213: -5412626495022271173
+    second: RobotDog_24
+  - first:
+      213: 5982239702987659497
+    second: RobotDog_25
+  - first:
+      213: 6841975323911871388
+    second: RobotDog_26
+  - first:
+      213: -1817914330636563702
+    second: RobotDog_27
+  - first:
+      213: 1514934028682621779
+    second: RobotDog_28
+  - first:
+      213: -7183160001399330802
+    second: RobotDog_29
+  - first:
+      213: -5454271481543745821
+    second: RobotDog_30
+  - first:
+      213: -734370769211890322
+    second: RobotDog_31
+  - first:
+      213: -4434789706466917695
+    second: RobotDog_32
+  - first:
+      213: 1937247692908567722
+    second: RobotDog_33
+  - first:
+      213: 7118737052466654338
+    second: RobotDog_34
+  - first:
+      213: -494579352236782922
+    second: RobotDog_35
+  - first:
+      213: -6895294574401855683
+    second: RobotDog_36
+  - first:
+      213: 5090928377529376163
+    second: RobotDog_37
+  - first:
+      213: 7864697160915404625
+    second: RobotDog_38
+  - first:
+      213: -7099192103888274339
+    second: RobotDog_39
+  - first:
+      213: 2786244282902412607
+    second: RobotDog_40
+  - first:
+      213: 9122426145955043504
+    second: RobotDog_41
+  - first:
+      213: -7919946558335759761
+    second: RobotDog_42
+  - first:
+      213: 8015842920781600873
+    second: RobotDog_43
+  - first:
+      213: -75843450050110495
+    second: RobotDog_44
+  - first:
+      213: 7468736570982640812
+    second: RobotDog_45
+  - first:
+      213: -502315497196323250
+    second: RobotDog_46
+  - first:
+      213: 7055140169007759750
+    second: RobotDog_47
+  - first:
+      213: -9137699743617467877
+    second: RobotDog_48
+  - first:
+      213: -1254792098734585770
+    second: RobotDog_49
+  - first:
+      213: 328155894808557137
+    second: RobotDog_50
+  - first:
+      213: 2376117392387973717
+    second: RobotDog_51
+  - first:
+      213: 4347673970799756442
+    second: RobotDog_52
+  - first:
+      213: -6773206764956944951
+    second: RobotDog_53
+  - first:
+      213: -3961620305642195551
+    second: RobotDog_54
+  - first:
+      213: -4964490070090695827
+    second: RobotDog_55
+  - first:
+      213: 3905082706858347443
+    second: RobotDog_56
+  - first:
+      213: 1357324344944350209
+    second: RobotDog_57
+  - first:
+      213: 5519205067791949045
+    second: RobotDog_58
+  - first:
+      213: 4614935610202750610
+    second: RobotDog_59
+  - first:
+      213: 5478228758632593425
+    second: RobotDog_60
+  - first:
+      213: -823768116811536110
+    second: RobotDog_61
+  - first:
+      213: 1841408105608535086
+    second: RobotDog_62
+  - first:
+      213: 7019117689666324388
+    second: RobotDog_63
+  - first:
+      213: -6686106515598016194
+    second: RobotDog_64
+  - first:
+      213: 756493497996838089
+    second: RobotDog_65
+  - first:
+      213: -7505199262832700822
+    second: RobotDog_66
+  - first:
+      213: 6651673698567154533
+    second: RobotDog_67
+  - first:
+      213: 7284413141054874136
+    second: RobotDog_68
+  - first:
+      213: 3168715250480011064
+    second: RobotDog_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotDog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5de5a6d0385771d0800000000000000
+      internalID: -3353114430771172003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 466
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63e074047f0a0eb0800000000000000
+      internalID: -4752969465771007125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 467
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5a48a40318f4d10800000000000000
+      internalID: 2112048794668672459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 467
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5781b233e5c6520800000000000000
+      internalID: 2696633850747450833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 467
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e112dd676252ff0800000000000000
+      internalID: -61600727941702057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 471
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241933e7f05d8a710800000000000000
+      internalID: 1704846721478267202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 471
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92569642705d09380800000000000000
+      internalID: -8966432631442283223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 472
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588f4a8a15dc2fc00800000000000000
+      internalID: 933033823424542853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 473
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b53679e8fe3ac740800000000000000
+      internalID: 5173016360778085816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 474
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00283bc4def85ff0800000000000000
+      internalID: -47007606191415282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c634993a2464df0800000000000000
+      internalID: -196396263325602810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 430
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226b1821ba112ed30800000000000000
+      internalID: 4459146007497782818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 391
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a20521f0ed367b0800000000000000
+      internalID: -5232094185761265141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 428
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919cbc3ae362f9cf0800000000000000
+      internalID: -243433804376848103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 428
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c052e46d28e8140800000000000000
+      internalID: 4723856916103891982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 428
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e45e88631fc44460800000000000000
+      internalID: 7225127384474604775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 428
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35095d38dc57ead60800000000000000
+      internalID: 7903383921622356051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 428
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5371d372bb59a390800000000000000
+      internalID: -7806607657064631462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 428
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7ec326faa558530800000000000000
+      internalID: 3856588365226633184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c580154e560b99440800000000000000
+      internalID: 4943176017684531292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 390
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1b4dfb4bcc60130800000000000000
+      internalID: 3532736034403299759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 355
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf92ae1b20c4d9e0800000000000000
+      internalID: -1597440676379582545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 391
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548aa05186be2a6a0800000000000000
+      internalID: -6439325684924241851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 356
+        width: 75
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90caffe82d7d48590800000000000000
+      internalID: -7672770565790258167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 391
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35745e41ec72e4b0800000000000000
+      internalID: -5412626495022271173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 357
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e851d9805f250350800000000000000
+      internalID: 5982239702987659497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 391
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b51c78e4493fe50800000000000000
+      internalID: 6841975323911871388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 357
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc05a4c8875c6e0800000000000000
+      internalID: -1817914330636563702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_28
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 392
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35377cdf870260510800000000000000
+      internalID: 1514934028682621779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_29
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 357
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e086cc7690a405c90800000000000000
+      internalID: -7183160001399330802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 392
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee9a0a4cf88e44b0800000000000000
+      internalID: -5454271481543745821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_31
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 357
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65e1bf1dadfec5f0800000000000000
+      internalID: -734370769211890322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 361
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c20b7c22467472c0800000000000000
+      internalID: -4434789706466917695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac92c1438c72ea10800000000000000
+      internalID: 1937247692908567722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 319
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cafade1a5dac260800000000000000
+      internalID: 7118737052466654338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 322
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0fa413b6e229f0800000000000000
+      internalID: -494579352236782922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 289
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f591f0e1efe40a0800000000000000
+      internalID: -6895294574401855683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 323
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad189fe26c96a640800000000000000
+      internalID: 5090928377529376163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 290
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157c26e1664052d60800000000000000
+      internalID: 7864697160915404625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 323
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c3b77056a9a7d90800000000000000
+      internalID: -7099192103888274339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 291
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d7cd3c96abaa620800000000000000
+      internalID: 2786244282902412607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 323
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d26f3f3e599e70800000000000000
+      internalID: 9122426145955043504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 293
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ac15e1192b61290800000000000000
+      internalID: -7919946558335759761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 323
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968548caaaefd3f60800000000000000
+      internalID: 8015842920781600873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 301
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb1935b8cc82fef0800000000000000
+      internalID: -75843450050110495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 323
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caca36a175846a760800000000000000
+      internalID: 7468736570982640812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e707877ba6709f0800000000000000
+      internalID: -502315497196323250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 283
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6810c4e9a94e8e160800000000000000
+      internalID: 7055140169007759750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 247
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ab08d2f7e503180800000000000000
+      internalID: -9137699743617467877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 256
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65845fffb35169ee0800000000000000
+      internalID: -1254792098734585770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 271
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b3053c08dd8400800000000000000
+      internalID: 328155894808557137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a9eddd2aa9f020800000000000000
+      internalID: 2376117392387973717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 212
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944bb4017a065c30800000000000000
+      internalID: 4347673970799756442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 224
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5f770555cb002a0800000000000000
+      internalID: -6773206764956944951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 193
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5f833525f7509c0800000000000000
+      internalID: -3961620305642195551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3a4195969a1bb0800000000000000
+      internalID: -4964490070090695827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 177
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb00d82804a13630800000000000000
+      internalID: 3905082706858347443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 142
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d561ec4f26d210800000000000000
+      internalID: 1357324344944350209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_58
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 165
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc564464c7289c40800000000000000
+      internalID: 5519205067791949045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7f6b8c7b8b0040800000000000000
+      internalID: 4614935610202750610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ff94f704960c40800000000000000
+      internalID: 5478228758632593425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e72423436194f0800000000000000
+      internalID: -823768116811536110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 139
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c52557aeefd8910800000000000000
+      internalID: 1841408105608535086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_63
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 115
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7c831995ae86160800000000000000
+      internalID: 7019117689666324388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e310b5f6c8d2633a0800000000000000
+      internalID: -6686106515598016194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 72
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c48efe04da9f7a00800000000000000
+      internalID: 756493497996838089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_66
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 95
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a625552e80d28d790800000000000000
+      internalID: -7505199262832700822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b67ec9cfd7f4c50800000000000000
+      internalID: 6651673698567154533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_68
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 37
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81263c5482f671560800000000000000
+      internalID: 7284413141054874136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotDog_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83759335bb989fb20800000000000000
+      internalID: 3168715250480011064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RobotDog_0: -3353114430771172003
+      RobotDog_1: -4752969465771007125
+      RobotDog_10: -196396263325602810
+      RobotDog_11: 4459146007497782818
+      RobotDog_12: -5232094185761265141
+      RobotDog_13: -243433804376848103
+      RobotDog_14: 4723856916103891982
+      RobotDog_15: 7225127384474604775
+      RobotDog_16: 7903383921622356051
+      RobotDog_17: -7806607657064631462
+      RobotDog_18: 3856588365226633184
+      RobotDog_19: 4943176017684531292
+      RobotDog_2: 2112048794668672459
+      RobotDog_20: 3532736034403299759
+      RobotDog_21: -1597440676379582545
+      RobotDog_22: -6439325684924241851
+      RobotDog_23: -7672770565790258167
+      RobotDog_24: -5412626495022271173
+      RobotDog_25: 5982239702987659497
+      RobotDog_26: 6841975323911871388
+      RobotDog_27: -1817914330636563702
+      RobotDog_28: 1514934028682621779
+      RobotDog_29: -7183160001399330802
+      RobotDog_3: 2696633850747450833
+      RobotDog_30: -5454271481543745821
+      RobotDog_31: -734370769211890322
+      RobotDog_32: -4434789706466917695
+      RobotDog_33: 1937247692908567722
+      RobotDog_34: 7118737052466654338
+      RobotDog_35: -494579352236782922
+      RobotDog_36: -6895294574401855683
+      RobotDog_37: 5090928377529376163
+      RobotDog_38: 7864697160915404625
+      RobotDog_39: -7099192103888274339
+      RobotDog_4: -61600727941702057
+      RobotDog_40: 2786244282902412607
+      RobotDog_41: 9122426145955043504
+      RobotDog_42: -7919946558335759761
+      RobotDog_43: 8015842920781600873
+      RobotDog_44: -75843450050110495
+      RobotDog_45: 7468736570982640812
+      RobotDog_46: -502315497196323250
+      RobotDog_47: 7055140169007759750
+      RobotDog_48: -9137699743617467877
+      RobotDog_49: -1254792098734585770
+      RobotDog_5: 1704846721478267202
+      RobotDog_50: 328155894808557137
+      RobotDog_51: 2376117392387973717
+      RobotDog_52: 4347673970799756442
+      RobotDog_53: -6773206764956944951
+      RobotDog_54: -3961620305642195551
+      RobotDog_55: -4964490070090695827
+      RobotDog_56: 3905082706858347443
+      RobotDog_57: 1357324344944350209
+      RobotDog_58: 5519205067791949045
+      RobotDog_59: 4614935610202750610
+      RobotDog_6: -8966432631442283223
+      RobotDog_60: 5478228758632593425
+      RobotDog_61: -823768116811536110
+      RobotDog_62: 1841408105608535086
+      RobotDog_63: 7019117689666324388
+      RobotDog_64: -6686106515598016194
+      RobotDog_65: 756493497996838089
+      RobotDog_66: -7505199262832700822
+      RobotDog_67: 6651673698567154533
+      RobotDog_68: 7284413141054874136
+      RobotDog_69: 3168715250480011064
+      RobotDog_7: 933033823424542853
+      RobotDog_8: 5173016360778085816
+      RobotDog_9: -47007606191415282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

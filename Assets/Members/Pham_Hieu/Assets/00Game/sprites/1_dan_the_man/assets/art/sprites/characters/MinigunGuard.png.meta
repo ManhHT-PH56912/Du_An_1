@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 69f069fde9019954e87f718d3ccfac6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6702299869555415802
+    second: MinigunGuard_0
+  - first:
+      213: -5055311862466864571
+    second: MinigunGuard_1
+  - first:
+      213: 9071167445793472741
+    second: MinigunGuard_2
+  - first:
+      213: 8496747581319873254
+    second: MinigunGuard_3
+  - first:
+      213: -838871841982905357
+    second: MinigunGuard_4
+  - first:
+      213: 7382777316678497207
+    second: MinigunGuard_5
+  - first:
+      213: 7959581868478823579
+    second: MinigunGuard_6
+  - first:
+      213: -7817656407778222351
+    second: MinigunGuard_7
+  - first:
+      213: 4541585893393582539
+    second: MinigunGuard_8
+  - first:
+      213: 771185051136855209
+    second: MinigunGuard_9
+  - first:
+      213: 3689584985489265069
+    second: MinigunGuard_10
+  - first:
+      213: 5999200856275112044
+    second: MinigunGuard_11
+  - first:
+      213: -4695965803912406836
+    second: MinigunGuard_12
+  - first:
+      213: -7918206064269195982
+    second: MinigunGuard_13
+  - first:
+      213: -7241668593857526006
+    second: MinigunGuard_14
+  - first:
+      213: 3486948806071304222
+    second: MinigunGuard_15
+  - first:
+      213: 2150187592188568874
+    second: MinigunGuard_16
+  - first:
+      213: -4572714315478555931
+    second: MinigunGuard_17
+  - first:
+      213: -6650353427782793894
+    second: MinigunGuard_18
+  - first:
+      213: -3796705764088475918
+    second: MinigunGuard_19
+  - first:
+      213: -586608385054252070
+    second: MinigunGuard_20
+  - first:
+      213: -9187748020709935522
+    second: MinigunGuard_21
+  - first:
+      213: 3120493269514037134
+    second: MinigunGuard_22
+  - first:
+      213: 9132874789274496141
+    second: MinigunGuard_23
+  - first:
+      213: -3866406961119243768
+    second: MinigunGuard_24
+  - first:
+      213: -218141207310267780
+    second: MinigunGuard_25
+  - first:
+      213: -3903671398314505910
+    second: MinigunGuard_26
+  - first:
+      213: -1503303966412773984
+    second: MinigunGuard_27
+  - first:
+      213: -7250373407016479684
+    second: MinigunGuard_28
+  - first:
+      213: -314876506925594949
+    second: MinigunGuard_29
+  - first:
+      213: -6842847809938829547
+    second: MinigunGuard_30
+  - first:
+      213: 8302891870293240818
+    second: MinigunGuard_31
+  - first:
+      213: 7753281248560114030
+    second: MinigunGuard_32
+  - first:
+      213: -7041687378508670916
+    second: MinigunGuard_33
+  - first:
+      213: -819735551399486335
+    second: MinigunGuard_34
+  - first:
+      213: -6815930209424473317
+    second: MinigunGuard_35
+  - first:
+      213: 3851614912935033887
+    second: MinigunGuard_36
+  - first:
+      213: 7455336234344179080
+    second: MinigunGuard_37
+  - first:
+      213: 9064370186552640095
+    second: MinigunGuard_38
+  - first:
+      213: 1074889325062432421
+    second: MinigunGuard_39
+  - first:
+      213: 2304670925922091243
+    second: MinigunGuard_40
+  - first:
+      213: 1242262292644478740
+    second: MinigunGuard_41
+  - first:
+      213: -146812963036428937
+    second: MinigunGuard_42
+  - first:
+      213: 4345977478856321799
+    second: MinigunGuard_43
+  - first:
+      213: -5669572950816639329
+    second: MinigunGuard_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinigunGuard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a00967c5acf2a0800000000000000
+      internalID: -6702299869555415802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 432
+        width: 101
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a18d035ace7d9b0800000000000000
+      internalID: -5055311862466864571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 452
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e08b981bb243ed70800000000000000
+      internalID: 9071167445793472741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 439
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e20bb258e28ae570800000000000000
+      internalID: 8496747581319873254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 441
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f30886118abb54f0800000000000000
+      internalID: -838871841982905357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 442
+        width: 115
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3fe689ad4e47660800000000000000
+      internalID: 7382777316678497207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 442
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cf157a98d167e60800000000000000
+      internalID: 7959581868478823579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 443
+        width: 115
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe9256baea128390800000000000000
+      internalID: -7817656407778222351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_8
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 443
+        width: 113
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc946a4ce44f60f30800000000000000
+      internalID: 4541585893393582539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_9
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 444
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac8a15d7bcc3ba00800000000000000
+      internalID: 771185051136855209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 444
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d3bcfef9043330800000000000000
+      internalID: 3689584985489265069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c605f76c461714350800000000000000
+      internalID: 5999200856275112044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 352
+        width: 101
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc85b6c4bf394deb0800000000000000
+      internalID: -4695965803912406836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 367
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23504e87981ec1290800000000000000
+      internalID: -7918206064269195982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 373
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07050a28cc608b90800000000000000
+      internalID: -7241668593857526006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 372
+        width: 117
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104ad7e671246030800000000000000
+      internalID: 3486948806071304222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 372
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a252ad0193007dd10800000000000000
+      internalID: 2150187592188568874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 375
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2ae8eae847a80c0800000000000000
+      internalID: -4572714315478555931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_18
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 375
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558432eac235b3a0800000000000000
+      internalID: -6650353427782793894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 376
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe04de29346f4bc0800000000000000
+      internalID: -3796705764088475918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_20
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 377
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3639228c2fbd7f0800000000000000
+      internalID: -586608385054252070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 114
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5639cb9adf8e7080800000000000000
+      internalID: -9187748020709935522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 295
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a16578183e4b20800000000000000
+      internalID: 3120493269514037134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 305
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ca3d89b3d7ebe70800000000000000
+      internalID: 9132874789274496141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 237
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802d36d9a53c75ac0800000000000000
+      internalID: -3866406961119243768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 302
+        width: 117
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a856b4ab109fcf0800000000000000
+      internalID: -218141207310267780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 302
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498c97bb8f53d9c0800000000000000
+      internalID: -3903671398314505910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5e784e101332be0800000000000000
+      internalID: -1503303966412773984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 224
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3418d9eccf716b90800000000000000
+      internalID: -7250373407016479684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 173
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb685983c7551abf0800000000000000
+      internalID: -314876506925594949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_30
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 232
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f498cfb225901a0800000000000000
+      internalID: -6842847809938829547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 162
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbae495a2cc93370800000000000000
+      internalID: 8302891870293240818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 233
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e696f188730399b60800000000000000
+      internalID: 7753281248560114030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 164
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3893a043a6e64e90800000000000000
+      internalID: -7041687378508670916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c1311fbd6bf94f0800000000000000
+      internalID: -819735551399486335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 153
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13866d3693f861a0800000000000000
+      internalID: -6815930209424473317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 82
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cf6194b5fa37530800000000000000
+      internalID: 3851614912935033887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 113
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ee291ecca67760800000000000000
+      internalID: 7455336234344179080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 92
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f528c1ad8ac1bcd70800000000000000
+      internalID: 9064370186552640095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 96
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a4396526caee00800000000000000
+      internalID: 1074889325062432421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c1c71ff5dbff10800000000000000
+      internalID: 2304670925922091243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fbfee29f66d3110800000000000000
+      internalID: 1242262292644478740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758ac1536a66fdf0800000000000000
+      internalID: -146812963036428937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 22
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b2415bd73005c30800000000000000
+      internalID: 4345977478856321799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunGuard_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 29
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96396e9071a151b0800000000000000
+      internalID: -5669572950816639329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MinigunGuard_0: -6702299869555415802
+      MinigunGuard_1: -5055311862466864571
+      MinigunGuard_10: 3689584985489265069
+      MinigunGuard_11: 5999200856275112044
+      MinigunGuard_12: -4695965803912406836
+      MinigunGuard_13: -7918206064269195982
+      MinigunGuard_14: -7241668593857526006
+      MinigunGuard_15: 3486948806071304222
+      MinigunGuard_16: 2150187592188568874
+      MinigunGuard_17: -4572714315478555931
+      MinigunGuard_18: -6650353427782793894
+      MinigunGuard_19: -3796705764088475918
+      MinigunGuard_2: 9071167445793472741
+      MinigunGuard_20: -586608385054252070
+      MinigunGuard_21: -9187748020709935522
+      MinigunGuard_22: 3120493269514037134
+      MinigunGuard_23: 9132874789274496141
+      MinigunGuard_24: -3866406961119243768
+      MinigunGuard_25: -218141207310267780
+      MinigunGuard_26: -3903671398314505910
+      MinigunGuard_27: -1503303966412773984
+      MinigunGuard_28: -7250373407016479684
+      MinigunGuard_29: -314876506925594949
+      MinigunGuard_3: 8496747581319873254
+      MinigunGuard_30: -6842847809938829547
+      MinigunGuard_31: 8302891870293240818
+      MinigunGuard_32: 7753281248560114030
+      MinigunGuard_33: -7041687378508670916
+      MinigunGuard_34: -819735551399486335
+      MinigunGuard_35: -6815930209424473317
+      MinigunGuard_36: 3851614912935033887
+      MinigunGuard_37: 7455336234344179080
+      MinigunGuard_38: 9064370186552640095
+      MinigunGuard_39: 1074889325062432421
+      MinigunGuard_4: -838871841982905357
+      MinigunGuard_40: 2304670925922091243
+      MinigunGuard_41: 1242262292644478740
+      MinigunGuard_42: -146812963036428937
+      MinigunGuard_43: 4345977478856321799
+      MinigunGuard_44: -5669572950816639329
+      MinigunGuard_5: 7382777316678497207
+      MinigunGuard_6: 7959581868478823579
+      MinigunGuard_7: -7817656407778222351
+      MinigunGuard_8: 4541585893393582539
+      MinigunGuard_9: 771185051136855209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

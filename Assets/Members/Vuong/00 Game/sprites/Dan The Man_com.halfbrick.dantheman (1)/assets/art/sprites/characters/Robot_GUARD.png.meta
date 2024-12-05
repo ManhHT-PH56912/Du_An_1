@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: 98ecd4ad6bcf06a47be1e1c14b4d093d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3253142038822096810
+    second: Robot_GUARD_0
+  - first:
+      213: 93031852120591904
+    second: Robot_GUARD_1
+  - first:
+      213: 1910898640037392590
+    second: Robot_GUARD_2
+  - first:
+      213: -826283528960707417
+    second: Robot_GUARD_3
+  - first:
+      213: 4989306627958114613
+    second: Robot_GUARD_4
+  - first:
+      213: -8824713235533589890
+    second: Robot_GUARD_5
+  - first:
+      213: 5687976721176605708
+    second: Robot_GUARD_6
+  - first:
+      213: 7134169402569863693
+    second: Robot_GUARD_7
+  - first:
+      213: -6349582068433788898
+    second: Robot_GUARD_8
+  - first:
+      213: -1634549263939018748
+    second: Robot_GUARD_9
+  - first:
+      213: -4522498998172673571
+    second: Robot_GUARD_10
+  - first:
+      213: 7128490279529216360
+    second: Robot_GUARD_11
+  - first:
+      213: -3027318835500000778
+    second: Robot_GUARD_12
+  - first:
+      213: 8557786806820222701
+    second: Robot_GUARD_13
+  - first:
+      213: -5422398289637232877
+    second: Robot_GUARD_14
+  - first:
+      213: 5411855745750872056
+    second: Robot_GUARD_15
+  - first:
+      213: -4127638883365958023
+    second: Robot_GUARD_16
+  - first:
+      213: 6239094512440307440
+    second: Robot_GUARD_17
+  - first:
+      213: 7906874303034653619
+    second: Robot_GUARD_18
+  - first:
+      213: -2866501277092974598
+    second: Robot_GUARD_19
+  - first:
+      213: 4322500442773337998
+    second: Robot_GUARD_20
+  - first:
+      213: -6519402386829194160
+    second: Robot_GUARD_21
+  - first:
+      213: -9053805811001864117
+    second: Robot_GUARD_22
+  - first:
+      213: 8390894774453246614
+    second: Robot_GUARD_23
+  - first:
+      213: 8058575069602478431
+    second: Robot_GUARD_24
+  - first:
+      213: 366528903398259848
+    second: Robot_GUARD_25
+  - first:
+      213: 5194343019901242153
+    second: Robot_GUARD_26
+  - first:
+      213: -6810391528516963558
+    second: Robot_GUARD_27
+  - first:
+      213: 8844629434478444084
+    second: Robot_GUARD_28
+  - first:
+      213: -6878271195669871448
+    second: Robot_GUARD_29
+  - first:
+      213: -7325583074526488640
+    second: Robot_GUARD_30
+  - first:
+      213: 8531053718928234089
+    second: Robot_GUARD_31
+  - first:
+      213: 8168147115373284000
+    second: Robot_GUARD_32
+  - first:
+      213: 1554684760094217985
+    second: Robot_GUARD_33
+  - first:
+      213: 6746595683696087971
+    second: Robot_GUARD_34
+  - first:
+      213: 3984393333914998455
+    second: Robot_GUARD_35
+  - first:
+      213: 6961147551444473963
+    second: Robot_GUARD_36
+  - first:
+      213: 6979069315812202277
+    second: Robot_GUARD_37
+  - first:
+      213: -5235678725139930709
+    second: Robot_GUARD_38
+  - first:
+      213: 9006080523706967286
+    second: Robot_GUARD_39
+  - first:
+      213: 2591108867227983156
+    second: Robot_GUARD_40
+  - first:
+      213: -7408348501307110383
+    second: Robot_GUARD_41
+  - first:
+      213: -3999883632950858684
+    second: Robot_GUARD_42
+  - first:
+      213: 4567019761553519557
+    second: Robot_GUARD_43
+  - first:
+      213: -859053962022413237
+    second: Robot_GUARD_44
+  - first:
+      213: -2295800517791058429
+    second: Robot_GUARD_45
+  - first:
+      213: -4350121631274729172
+    second: Robot_GUARD_46
+  - first:
+      213: 4892734346068049244
+    second: Robot_GUARD_47
+  - first:
+      213: 4448643194067508374
+    second: Robot_GUARD_48
+  - first:
+      213: -3955079871817894024
+    second: Robot_GUARD_49
+  - first:
+      213: -4830748613278652574
+    second: Robot_GUARD_50
+  - first:
+      213: -8366483888981271939
+    second: Robot_GUARD_51
+  - first:
+      213: -4077945043383141876
+    second: Robot_GUARD_52
+  - first:
+      213: 5216122605964388220
+    second: Robot_GUARD_53
+  - first:
+      213: -3138490357772104069
+    second: Robot_GUARD_54
+  - first:
+      213: -7608418077002462027
+    second: Robot_GUARD_55
+  - first:
+      213: 8241579031746097310
+    second: Robot_GUARD_56
+  - first:
+      213: 2922832944832545832
+    second: Robot_GUARD_57
+  - first:
+      213: 2750933573058432803
+    second: Robot_GUARD_58
+  - first:
+      213: -5275854437011418684
+    second: Robot_GUARD_59
+  - first:
+      213: -8216885270785371152
+    second: Robot_GUARD_60
+  - first:
+      213: 5059038759851493504
+    second: Robot_GUARD_61
+  - first:
+      213: 1224249445904230395
+    second: Robot_GUARD_62
+  - first:
+      213: 6826946823556115379
+    second: Robot_GUARD_63
+  - first:
+      213: -2963344681320062286
+    second: Robot_GUARD_64
+  - first:
+      213: -5802777021493189019
+    second: Robot_GUARD_65
+  - first:
+      213: 4871290567471035141
+    second: Robot_GUARD_66
+  - first:
+      213: 1152285132326947594
+    second: Robot_GUARD_67
+  - first:
+      213: 4839175305247368139
+    second: Robot_GUARD_68
+  - first:
+      213: 1934256882058483868
+    second: Robot_GUARD_69
+  - first:
+      213: 3024654135887100701
+    second: Robot_GUARD_70
+  - first:
+      213: -4006787133116322781
+    second: Robot_GUARD_71
+  - first:
+      213: 1563780984044725321
+    second: Robot_GUARD_72
+  - first:
+      213: 5050771460589473013
+    second: Robot_GUARD_73
+  - first:
+      213: 7049165883489843476
+    second: Robot_GUARD_74
+  - first:
+      213: 5759433718164957362
+    second: Robot_GUARD_75
+  - first:
+      213: 8472205420983707048
+    second: Robot_GUARD_76
+  - first:
+      213: 3881409342832940799
+    second: Robot_GUARD_77
+  - first:
+      213: 4767596298483029279
+    second: Robot_GUARD_78
+  - first:
+      213: -6795142825481617112
+    second: Robot_GUARD_79
+  - first:
+      213: 7401714480728480050
+    second: Robot_GUARD_80
+  - first:
+      213: -7475938029901893826
+    second: Robot_GUARD_81
+  - first:
+      213: -4583479231947228991
+    second: Robot_GUARD_82
+  - first:
+      213: -1185498704237241947
+    second: Robot_GUARD_83
+  - first:
+      213: -6632634126449985579
+    second: Robot_GUARD_84
+  - first:
+      213: 9017158280320002600
+    second: Robot_GUARD_85
+  - first:
+      213: -5546810792886934389
+    second: Robot_GUARD_86
+  - first:
+      213: -7137099843646805185
+    second: Robot_GUARD_87
+  - first:
+      213: -7798968430642071910
+    second: Robot_GUARD_88
+  - first:
+      213: 2845750735684737318
+    second: Robot_GUARD_89
+  - first:
+      213: -7834524929002162254
+    second: Robot_GUARD_90
+  - first:
+      213: 7446984281063059568
+    second: Robot_GUARD_91
+  - first:
+      213: 4263014153882155377
+    second: Robot_GUARD_92
+  - first:
+      213: 4269858893004303998
+    second: Robot_GUARD_93
+  - first:
+      213: 8955103580029612731
+    second: Robot_GUARD_94
+  - first:
+      213: -3163694069940163688
+    second: Robot_GUARD_95
+  - first:
+      213: 3983944242216107760
+    second: Robot_GUARD_96
+  - first:
+      213: 2551346797967872996
+    second: Robot_GUARD_97
+  - first:
+      213: -3048547620010393137
+    second: Robot_GUARD_98
+  - first:
+      213: 1763063262321268606
+    second: Robot_GUARD_99
+  - first:
+      213: 123182926129845594
+    second: Robot_GUARD_100
+  - first:
+      213: 9138518256526759307
+    second: Robot_GUARD_101
+  - first:
+      213: -399411118792265593
+    second: Robot_GUARD_102
+  - first:
+      213: 1667029252294805977
+    second: Robot_GUARD_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot_GUARD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf81ebc27b752d20800000000000000
+      internalID: 3253142038822096810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 457
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ec1720af38a4100800000000000000
+      internalID: 93031852120591904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 459
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b4315030e48a10800000000000000
+      internalID: 1910898640037392590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 461
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47a8c12837884f0800000000000000
+      internalID: -826283528960707417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53902f291f39d3540800000000000000
+      internalID: 4989306627958114613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 430
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72155f4112588580800000000000000
+      internalID: -8824713235533589890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 433
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c043c6411b0cfee40800000000000000
+      internalID: 5687976721176605708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 434
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0233afe549a10360800000000000000
+      internalID: 7134169402569863693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 438
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1060d210c0c1e7a0800000000000000
+      internalID: -6349582068433788898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 450
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e90bca1ae059e0800000000000000
+      internalID: -1634549263939018748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 505
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd99bd45f1bdc31c0800000000000000
+      internalID: -4522498998172673571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 499
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869f920142c7de260800000000000000
+      internalID: 7128490279529216360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 501
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f95c2cfe8dccf5d0800000000000000
+      internalID: -3027318835500000778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de63b0c72cd53c670800000000000000
+      internalID: 8557786806820222701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 406
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fac731c75cfb4b0800000000000000
+      internalID: -5422398289637232877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 409
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff2325a026ca1b40800000000000000
+      internalID: 5411855745750872056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 409
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec1e30e4ea7b6c0800000000000000
+      internalID: -4127638883365958023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 418
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee7162767b59650800000000000000
+      internalID: 6239094512440307440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 425
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb7b04494cdabd60800000000000000
+      internalID: 7906874303034653619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 335
+        width: 117
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff6bae96442838d0800000000000000
+      internalID: -2866501277092974598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_20
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 454
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8739f8404b9cfb30800000000000000
+      internalID: 4322500442773337998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c4639021e6685a0800000000000000
+      internalID: -6519402386829194160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40ddd1859b6a5280800000000000000
+      internalID: -9053805811001864117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 384
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a97fa2752727470800000000000000
+      internalID: 8390894774453246614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 393
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f597973645fc5df60800000000000000
+      internalID: 8058575069602478431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 395
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c77fe781c261500800000000000000
+      internalID: 366528903398259848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 382
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b4ebea473061840800000000000000
+      internalID: 5194343019901242153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 386
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13ba61ecf0ac71a0800000000000000
+      internalID: -6810391528516963558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 357
+        width: 132
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3d0c1c9f6eba70800000000000000
+      internalID: 8844629434478444084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4cb494ac87b80a0800000000000000
+      internalID: -6878271195669871448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 316
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71c3e910d465a90800000000000000
+      internalID: -7325583074526488640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 354
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9661e7c6824646670800000000000000
+      internalID: 8531053718928234089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac4f456861b5170800000000000000
+      internalID: 8168147115373284000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 356
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107112f5d89539510800000000000000
+      internalID: 1554684760094217985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 358
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a393e18709b0ad50800000000000000
+      internalID: 6746595683696087971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 285
+        width: 148
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6107180a86b4730800000000000000
+      internalID: 3984393333914998455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b689de8f0d6fa9060800000000000000
+      internalID: 6961147551444473963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 280
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52790d7e092aad060800000000000000
+      internalID: 6979069315812202277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 309
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e6f570f12757b0800000000000000
+      internalID: -5235678725139930709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_39
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 302
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f42e1225860cfc70800000000000000
+      internalID: 9006080523706967286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 305
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d1d7559c775f320800000000000000
+      internalID: 2591108867227983156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 306
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cca470a42403990800000000000000
+      internalID: -7408348501307110383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 307
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca013370f8d78c0800000000000000
+      internalID: -3999883632950858684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_43
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 308
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33699a640516f30800000000000000
+      internalID: 4567019761553519557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_44
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 312
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c13c619f60414f0800000000000000
+      internalID: -859053962022413237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_45
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 273
+        width: 214
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f7edb79da320e0800000000000000
+      internalID: -2295800517791058429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 254
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21802e9c6341a3c0800000000000000
+      internalID: -4350121631274729172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 255
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d3db507fb76e340800000000000000
+      internalID: 4892734346068049244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c5ad24a61ccbd30800000000000000
+      internalID: 4448643194067508374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 258
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773ffdbfcbbc19c0800000000000000
+      internalID: -3955079871817894024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_50
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 232
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267a05a0bbbb5fcb0800000000000000
+      internalID: -4830748613278652574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 236
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a1e320b3744eb80800000000000000
+      internalID: -8366483888981271939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_52
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 285
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a3593c69a3867c0800000000000000
+      internalID: -4077945043383141876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c776469bfd3636840800000000000000
+      internalID: 5216122605964388220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 254
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e4106e5a7d174d0800000000000000
+      internalID: -3138490357772104069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 243
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc8b91f118796690800000000000000
+      internalID: -7608418077002462027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_56
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 241
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b88fa678ff5270800000000000000
+      internalID: 8241579031746097310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_57
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 192
+        width: 214
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8248d86d31dff8820800000000000000
+      internalID: 2922832944832545832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f08d672874d2620800000000000000
+      internalID: 2750933573058432803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 208
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1144b975668c6b0800000000000000
+      internalID: -5275854437011418684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_60
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 214
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3d2b29162c7fd80800000000000000
+      internalID: -8216885270785371152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 216
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08881e9b2f0553640800000000000000
+      internalID: 5059038759851493504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 219
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7279b72686df010800000000000000
+      internalID: 1224249445904230395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 192
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb2b8e17ff2ebe50800000000000000
+      internalID: 6826946823556115379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_64
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 195
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2efda76b510e6d0800000000000000
+      internalID: -2963344681320062286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 179
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566691b1b05687fa0800000000000000
+      internalID: -5802777021493189019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50372df36fc4a9340800000000000000
+      internalID: 4871290567471035141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 123
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bcf48093dbdff00800000000000000
+      internalID: 1152285132326947594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 186
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ac131d44382340800000000000000
+      internalID: 4839175305247368139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_69
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 181
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c985377d26cd7da10800000000000000
+      internalID: 1934256882058483868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_70
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 183
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b77f949eab9f920800000000000000
+      internalID: 3024654135887100701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 153
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ceeffc4580568c0800000000000000
+      internalID: -4006787133116322781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_72
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 154
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442f7c058aa3b510800000000000000
+      internalID: 1563780984044725321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 123
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fccd1e12e1f71640800000000000000
+      internalID: 5050771460589473013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_74
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 116
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419f630e50ba3d160800000000000000
+      internalID: 7049165883489843476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_75
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 114
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b821aea37e9def40800000000000000
+      internalID: 5759433718164957362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_76
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 115
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a56fd551f1539570800000000000000
+      internalID: 8472205420983707048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 91
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff690739b398dd530800000000000000
+      internalID: 3881409342832940799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_78
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 84
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f155c8bd297e92240800000000000000
+      internalID: 4767596298483029279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 115
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821cf193a9dc2b1a0800000000000000
+      internalID: -6795142825481617112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_80
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 115
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2399fa0ba1c28b660800000000000000
+      internalID: 7401714480728480050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_81
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 109
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2dd498f1204890800000000000000
+      internalID: -7475938029901893826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_82
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 114
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b7604ce53460c0800000000000000
+      internalID: -4583479231947228991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d044a5334c8fe0800000000000000
+      internalID: -1185498704237241947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b0d7376624f3a0800000000000000
+      internalID: -6632634126449985579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_85
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 90
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a22f55ea1632d70800000000000000
+      internalID: 9017158280320002600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 59
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84ebadd8f4c503b0800000000000000
+      internalID: -5546810792886934389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_87
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 61
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bafe4918de3fc90800000000000000
+      internalID: -7137099843646805185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96f715788f74c390800000000000000
+      internalID: -7798968430642071910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6299bc777332e7720800000000000000
+      internalID: 2845750735684737318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_90
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 73
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b732ee061d264390800000000000000
+      internalID: -7834524929002162254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_91
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 39
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0707ea07fb0095760800000000000000
+      internalID: 7446984281063059568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_92
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 50
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179bb9a59c4492b30800000000000000
+      internalID: 4263014153882155377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_93
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 51
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e609e5a06914b30800000000000000
+      internalID: 4269858893004303998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_94
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 67
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb27e76824be64c70800000000000000
+      internalID: 8955103580029612731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be43f510d4814d0800000000000000
+      internalID: -3163694069940163688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_96
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef0423e20d94730800000000000000
+      internalID: 3983944242216107760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_97
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 26
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e394b72564386320800000000000000
+      internalID: 2551346797967872996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 36
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc10b6c671261b5d0800000000000000
+      internalID: -3048547620010393137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_99
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 23
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77533b22b8a77810800000000000000
+      internalID: 1763063262321268606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_100
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 47
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55dc5af732a5b100800000000000000
+      internalID: 123182926129845594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_101
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 40
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8513b5bfe982de70800000000000000
+      internalID: 9138518256526759307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_102
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 41
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780bb0124b1057af0800000000000000
+      internalID: -399411118792265593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_GUARD_103
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 17
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9873dc54a722710800000000000000
+      internalID: 1667029252294805977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Robot_GUARD_0: 3253142038822096810
+      Robot_GUARD_1: 93031852120591904
+      Robot_GUARD_10: -4522498998172673571
+      Robot_GUARD_100: 123182926129845594
+      Robot_GUARD_101: 9138518256526759307
+      Robot_GUARD_102: -399411118792265593
+      Robot_GUARD_103: 1667029252294805977
+      Robot_GUARD_11: 7128490279529216360
+      Robot_GUARD_12: -3027318835500000778
+      Robot_GUARD_13: 8557786806820222701
+      Robot_GUARD_14: -5422398289637232877
+      Robot_GUARD_15: 5411855745750872056
+      Robot_GUARD_16: -4127638883365958023
+      Robot_GUARD_17: 6239094512440307440
+      Robot_GUARD_18: 7906874303034653619
+      Robot_GUARD_19: -2866501277092974598
+      Robot_GUARD_2: 1910898640037392590
+      Robot_GUARD_20: 4322500442773337998
+      Robot_GUARD_21: -6519402386829194160
+      Robot_GUARD_22: -9053805811001864117
+      Robot_GUARD_23: 8390894774453246614
+      Robot_GUARD_24: 8058575069602478431
+      Robot_GUARD_25: 366528903398259848
+      Robot_GUARD_26: 5194343019901242153
+      Robot_GUARD_27: -6810391528516963558
+      Robot_GUARD_28: 8844629434478444084
+      Robot_GUARD_29: -6878271195669871448
+      Robot_GUARD_3: -826283528960707417
+      Robot_GUARD_30: -7325583074526488640
+      Robot_GUARD_31: 8531053718928234089
+      Robot_GUARD_32: 8168147115373284000
+      Robot_GUARD_33: 1554684760094217985
+      Robot_GUARD_34: 6746595683696087971
+      Robot_GUARD_35: 3984393333914998455
+      Robot_GUARD_36: 6961147551444473963
+      Robot_GUARD_37: 6979069315812202277
+      Robot_GUARD_38: -5235678725139930709
+      Robot_GUARD_39: 9006080523706967286
+      Robot_GUARD_4: 4989306627958114613
+      Robot_GUARD_40: 2591108867227983156
+      Robot_GUARD_41: -7408348501307110383
+      Robot_GUARD_42: -3999883632950858684
+      Robot_GUARD_43: 4567019761553519557
+      Robot_GUARD_44: -859053962022413237
+      Robot_GUARD_45: -2295800517791058429
+      Robot_GUARD_46: -4350121631274729172
+      Robot_GUARD_47: 4892734346068049244
+      Robot_GUARD_48: 4448643194067508374
+      Robot_GUARD_49: -3955079871817894024
+      Robot_GUARD_5: -8824713235533589890
+      Robot_GUARD_50: -4830748613278652574
+      Robot_GUARD_51: -8366483888981271939
+      Robot_GUARD_52: -4077945043383141876
+      Robot_GUARD_53: 5216122605964388220
+      Robot_GUARD_54: -3138490357772104069
+      Robot_GUARD_55: -7608418077002462027
+      Robot_GUARD_56: 8241579031746097310
+      Robot_GUARD_57: 2922832944832545832
+      Robot_GUARD_58: 2750933573058432803
+      Robot_GUARD_59: -5275854437011418684
+      Robot_GUARD_6: 5687976721176605708
+      Robot_GUARD_60: -8216885270785371152
+      Robot_GUARD_61: 5059038759851493504
+      Robot_GUARD_62: 1224249445904230395
+      Robot_GUARD_63: 6826946823556115379
+      Robot_GUARD_64: -2963344681320062286
+      Robot_GUARD_65: -5802777021493189019
+      Robot_GUARD_66: 4871290567471035141
+      Robot_GUARD_67: 1152285132326947594
+      Robot_GUARD_68: 4839175305247368139
+      Robot_GUARD_69: 1934256882058483868
+      Robot_GUARD_7: 7134169402569863693
+      Robot_GUARD_70: 3024654135887100701
+      Robot_GUARD_71: -4006787133116322781
+      Robot_GUARD_72: 1563780984044725321
+      Robot_GUARD_73: 5050771460589473013
+      Robot_GUARD_74: 7049165883489843476
+      Robot_GUARD_75: 5759433718164957362
+      Robot_GUARD_76: 8472205420983707048
+      Robot_GUARD_77: 3881409342832940799
+      Robot_GUARD_78: 4767596298483029279
+      Robot_GUARD_79: -6795142825481617112
+      Robot_GUARD_8: -6349582068433788898
+      Robot_GUARD_80: 7401714480728480050
+      Robot_GUARD_81: -7475938029901893826
+      Robot_GUARD_82: -4583479231947228991
+      Robot_GUARD_83: -1185498704237241947
+      Robot_GUARD_84: -6632634126449985579
+      Robot_GUARD_85: 9017158280320002600
+      Robot_GUARD_86: -5546810792886934389
+      Robot_GUARD_87: -7137099843646805185
+      Robot_GUARD_88: -7798968430642071910
+      Robot_GUARD_89: 2845750735684737318
+      Robot_GUARD_9: -1634549263939018748
+      Robot_GUARD_90: -7834524929002162254
+      Robot_GUARD_91: 7446984281063059568
+      Robot_GUARD_92: 4263014153882155377
+      Robot_GUARD_93: 4269858893004303998
+      Robot_GUARD_94: 8955103580029612731
+      Robot_GUARD_95: -3163694069940163688
+      Robot_GUARD_96: 3983944242216107760
+      Robot_GUARD_97: 2551346797967872996
+      Robot_GUARD_98: -3048547620010393137
+      Robot_GUARD_99: 1763063262321268606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

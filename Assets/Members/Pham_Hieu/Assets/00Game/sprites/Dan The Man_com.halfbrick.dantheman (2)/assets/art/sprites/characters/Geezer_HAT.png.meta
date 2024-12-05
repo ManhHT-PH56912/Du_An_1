@@ -1,0 +1,6383 @@
+fileFormatVersion: 2
+guid: a70849a0cc409c449971d382a820d2f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3014663227284744053
+    second: Geezer_HAT_0
+  - first:
+      213: -3539033225015392013
+    second: Geezer_HAT_1
+  - first:
+      213: -5523807636199483699
+    second: Geezer_HAT_2
+  - first:
+      213: -4071546509012667482
+    second: Geezer_HAT_3
+  - first:
+      213: 5224177252980532051
+    second: Geezer_HAT_4
+  - first:
+      213: -2800582975852721740
+    second: Geezer_HAT_5
+  - first:
+      213: -5245390988366132481
+    second: Geezer_HAT_6
+  - first:
+      213: -2266533189692000697
+    second: Geezer_HAT_7
+  - first:
+      213: -281849555746949084
+    second: Geezer_HAT_8
+  - first:
+      213: 1610252006599898824
+    second: Geezer_HAT_9
+  - first:
+      213: -7417579003209884534
+    second: Geezer_HAT_10
+  - first:
+      213: -8284874895242651347
+    second: Geezer_HAT_11
+  - first:
+      213: -5628275081477931323
+    second: Geezer_HAT_12
+  - first:
+      213: -2334244992065049155
+    second: Geezer_HAT_13
+  - first:
+      213: -1674718805087557147
+    second: Geezer_HAT_14
+  - first:
+      213: -1950426467029328901
+    second: Geezer_HAT_15
+  - first:
+      213: -4330110830969923971
+    second: Geezer_HAT_16
+  - first:
+      213: 2976295144955249385
+    second: Geezer_HAT_17
+  - first:
+      213: 651832223868837312
+    second: Geezer_HAT_18
+  - first:
+      213: -5078460480347483672
+    second: Geezer_HAT_19
+  - first:
+      213: -1139492186574850180
+    second: Geezer_HAT_20
+  - first:
+      213: -7730768260552012040
+    second: Geezer_HAT_21
+  - first:
+      213: 2978620656777398467
+    second: Geezer_HAT_22
+  - first:
+      213: 1259090305372842833
+    second: Geezer_HAT_23
+  - first:
+      213: -8785498902294271324
+    second: Geezer_HAT_24
+  - first:
+      213: 8491489707170752353
+    second: Geezer_HAT_25
+  - first:
+      213: 5431516649238990782
+    second: Geezer_HAT_26
+  - first:
+      213: 4606236979052812834
+    second: Geezer_HAT_27
+  - first:
+      213: 1134542076772837912
+    second: Geezer_HAT_28
+  - first:
+      213: 2027020002369119512
+    second: Geezer_HAT_29
+  - first:
+      213: -4022859494305020309
+    second: Geezer_HAT_30
+  - first:
+      213: 2810833665095271419
+    second: Geezer_HAT_31
+  - first:
+      213: 3176006785379032080
+    second: Geezer_HAT_32
+  - first:
+      213: 3042077301697218765
+    second: Geezer_HAT_33
+  - first:
+      213: -563506621258511741
+    second: Geezer_HAT_34
+  - first:
+      213: 8446366912921823154
+    second: Geezer_HAT_35
+  - first:
+      213: 4497131270210534995
+    second: Geezer_HAT_36
+  - first:
+      213: 9077341665566774143
+    second: Geezer_HAT_37
+  - first:
+      213: -2153536323220097233
+    second: Geezer_HAT_38
+  - first:
+      213: 5692246885422278363
+    second: Geezer_HAT_39
+  - first:
+      213: 6588993949827127214
+    second: Geezer_HAT_40
+  - first:
+      213: 1269147278020021378
+    second: Geezer_HAT_41
+  - first:
+      213: 1306369022036971052
+    second: Geezer_HAT_42
+  - first:
+      213: -667060794312193312
+    second: Geezer_HAT_43
+  - first:
+      213: -9100364733946988608
+    second: Geezer_HAT_44
+  - first:
+      213: 4899329007952891203
+    second: Geezer_HAT_45
+  - first:
+      213: 4810865326656796243
+    second: Geezer_HAT_46
+  - first:
+      213: 6331295975771607127
+    second: Geezer_HAT_47
+  - first:
+      213: -6516199296831705374
+    second: Geezer_HAT_48
+  - first:
+      213: -9019044657867927542
+    second: Geezer_HAT_49
+  - first:
+      213: -6387893885292502908
+    second: Geezer_HAT_50
+  - first:
+      213: 2575084172809583803
+    second: Geezer_HAT_51
+  - first:
+      213: -7487052600385789426
+    second: Geezer_HAT_52
+  - first:
+      213: 6257009244206498693
+    second: Geezer_HAT_53
+  - first:
+      213: -8328897080838798077
+    second: Geezer_HAT_54
+  - first:
+      213: 3724180033424156087
+    second: Geezer_HAT_55
+  - first:
+      213: 6880292258560363743
+    second: Geezer_HAT_56
+  - first:
+      213: 8909900807330328180
+    second: Geezer_HAT_57
+  - first:
+      213: -1065572204568544989
+    second: Geezer_HAT_58
+  - first:
+      213: -1486230135252090084
+    second: Geezer_HAT_59
+  - first:
+      213: -584507281081085855
+    second: Geezer_HAT_60
+  - first:
+      213: -3085320467151654551
+    second: Geezer_HAT_61
+  - first:
+      213: -591723140766954558
+    second: Geezer_HAT_62
+  - first:
+      213: 6412419765332837663
+    second: Geezer_HAT_63
+  - first:
+      213: -7118516694979242614
+    second: Geezer_HAT_64
+  - first:
+      213: -8076761759811726807
+    second: Geezer_HAT_65
+  - first:
+      213: -333642384778599989
+    second: Geezer_HAT_66
+  - first:
+      213: 5763929981139771963
+    second: Geezer_HAT_67
+  - first:
+      213: -6218646784670046704
+    second: Geezer_HAT_68
+  - first:
+      213: 8594515671683172803
+    second: Geezer_HAT_69
+  - first:
+      213: 267034729672512427
+    second: Geezer_HAT_70
+  - first:
+      213: -5081458287062260292
+    second: Geezer_HAT_71
+  - first:
+      213: 1785362581781238363
+    second: Geezer_HAT_72
+  - first:
+      213: 3974106139553337196
+    second: Geezer_HAT_73
+  - first:
+      213: 5701454183928740496
+    second: Geezer_HAT_74
+  - first:
+      213: -8237394318048051270
+    second: Geezer_HAT_75
+  - first:
+      213: 8350981373268461549
+    second: Geezer_HAT_76
+  - first:
+      213: 4070407965349682063
+    second: Geezer_HAT_77
+  - first:
+      213: 431655692678090
+    second: Geezer_HAT_78
+  - first:
+      213: -6068788691297609970
+    second: Geezer_HAT_79
+  - first:
+      213: -8746136929960623286
+    second: Geezer_HAT_80
+  - first:
+      213: 3197946712942072861
+    second: Geezer_HAT_81
+  - first:
+      213: 638335631071764845
+    second: Geezer_HAT_82
+  - first:
+      213: -4920591804300535781
+    second: Geezer_HAT_83
+  - first:
+      213: -4339659951306558500
+    second: Geezer_HAT_84
+  - first:
+      213: -1430274064888859472
+    second: Geezer_HAT_85
+  - first:
+      213: 111140001020576267
+    second: Geezer_HAT_86
+  - first:
+      213: -264808329825699132
+    second: Geezer_HAT_87
+  - first:
+      213: 2698699620556987396
+    second: Geezer_HAT_88
+  - first:
+      213: 6577799862056249798
+    second: Geezer_HAT_89
+  - first:
+      213: -5323375125895549912
+    second: Geezer_HAT_90
+  - first:
+      213: 6660916399141207676
+    second: Geezer_HAT_91
+  - first:
+      213: -4642770819970430694
+    second: Geezer_HAT_92
+  - first:
+      213: 2861739211501081457
+    second: Geezer_HAT_93
+  - first:
+      213: -5680663064885840544
+    second: Geezer_HAT_94
+  - first:
+      213: 3298313617763777303
+    second: Geezer_HAT_95
+  - first:
+      213: -5789543132446487514
+    second: Geezer_HAT_96
+  - first:
+      213: -1567763384183096652
+    second: Geezer_HAT_97
+  - first:
+      213: -6298544387443411685
+    second: Geezer_HAT_98
+  - first:
+      213: 7804206211439143224
+    second: Geezer_HAT_99
+  - first:
+      213: 614489387767477161
+    second: Geezer_HAT_100
+  - first:
+      213: 1292155827350763385
+    second: Geezer_HAT_101
+  - first:
+      213: -2722689467904451605
+    second: Geezer_HAT_102
+  - first:
+      213: -1283047579559915781
+    second: Geezer_HAT_103
+  - first:
+      213: 6757609768989724009
+    second: Geezer_HAT_104
+  - first:
+      213: -5886960999494549224
+    second: Geezer_HAT_105
+  - first:
+      213: 2422897409177717310
+    second: Geezer_HAT_106
+  - first:
+      213: 5005895848252950288
+    second: Geezer_HAT_107
+  - first:
+      213: 4141573928269692650
+    second: Geezer_HAT_108
+  - first:
+      213: -2623280337061911004
+    second: Geezer_HAT_109
+  - first:
+      213: 4298513349380721449
+    second: Geezer_HAT_110
+  - first:
+      213: 549057471418329315
+    second: Geezer_HAT_111
+  - first:
+      213: -9196953511527677082
+    second: Geezer_HAT_112
+  - first:
+      213: -7349472551634084183
+    second: Geezer_HAT_113
+  - first:
+      213: 333456514864694621
+    second: Geezer_HAT_114
+  - first:
+      213: 8439377020793947910
+    second: Geezer_HAT_115
+  - first:
+      213: -5509876330989369592
+    second: Geezer_HAT_116
+  - first:
+      213: 1619991556267725176
+    second: Geezer_HAT_117
+  - first:
+      213: -8901069420146935842
+    second: Geezer_HAT_118
+  - first:
+      213: 4403390543895135253
+    second: Geezer_HAT_119
+  - first:
+      213: -1413914539366852642
+    second: Geezer_HAT_120
+  - first:
+      213: -9039340820996413079
+    second: Geezer_HAT_121
+  - first:
+      213: -8068982285118116682
+    second: Geezer_HAT_122
+  - first:
+      213: 1156885117068130011
+    second: Geezer_HAT_123
+  - first:
+      213: 7911596522544234421
+    second: Geezer_HAT_124
+  - first:
+      213: -5805558404546400793
+    second: Geezer_HAT_125
+  - first:
+      213: 5902974416467293563
+    second: Geezer_HAT_126
+  - first:
+      213: 5565855927390577409
+    second: Geezer_HAT_127
+  - first:
+      213: 1627977290684821869
+    second: Geezer_HAT_128
+  - first:
+      213: -1993407997963691174
+    second: Geezer_HAT_129
+  - first:
+      213: 3552327188446938761
+    second: Geezer_HAT_130
+  - first:
+      213: 6255683391012215072
+    second: Geezer_HAT_131
+  - first:
+      213: 5085480523439738182
+    second: Geezer_HAT_132
+  - first:
+      213: -3953039225300284183
+    second: Geezer_HAT_133
+  - first:
+      213: 2835041470508610370
+    second: Geezer_HAT_134
+  - first:
+      213: -1076192473740939513
+    second: Geezer_HAT_135
+  - first:
+      213: 1148943846706081981
+    second: Geezer_HAT_136
+  - first:
+      213: -2401648924734536784
+    second: Geezer_HAT_137
+  - first:
+      213: -6870050181259482697
+    second: Geezer_HAT_138
+  - first:
+      213: 1842590348701300714
+    second: Geezer_HAT_139
+  - first:
+      213: -1979559109949698357
+    second: Geezer_HAT_140
+  - first:
+      213: -9011866044628864414
+    second: Geezer_HAT_141
+  - first:
+      213: 8028188956167265308
+    second: Geezer_HAT_142
+  - first:
+      213: -3338116417970601715
+    second: Geezer_HAT_143
+  - first:
+      213: -3577171759913391077
+    second: Geezer_HAT_144
+  - first:
+      213: -2378910321681304562
+    second: Geezer_HAT_145
+  - first:
+      213: 137572398644035315
+    second: Geezer_HAT_146
+  - first:
+      213: 5649874248429819313
+    second: Geezer_HAT_147
+  - first:
+      213: 52701064407734506
+    second: Geezer_HAT_148
+  - first:
+      213: 9123605648138892165
+    second: Geezer_HAT_149
+  - first:
+      213: -7254725692908246587
+    second: Geezer_HAT_150
+  - first:
+      213: 699651125485853191
+    second: Geezer_HAT_151
+  - first:
+      213: 3883576184414459960
+    second: Geezer_HAT_152
+  - first:
+      213: -3345066276690887043
+    second: Geezer_HAT_153
+  - first:
+      213: 7322218236300016588
+    second: Geezer_HAT_154
+  - first:
+      213: -4705488822268508473
+    second: Geezer_HAT_155
+  - first:
+      213: 6104765282351499306
+    second: Geezer_HAT_156
+  - first:
+      213: 3603963766119455427
+    second: Geezer_HAT_157
+  - first:
+      213: 1325623081880695367
+    second: Geezer_HAT_158
+  - first:
+      213: -4741776172231512518
+    second: Geezer_HAT_159
+  - first:
+      213: -713005500168240697
+    second: Geezer_HAT_160
+  - first:
+      213: 5832316512793880790
+    second: Geezer_HAT_161
+  - first:
+      213: -5910709452697736469
+    second: Geezer_HAT_162
+  - first:
+      213: -727254171204245544
+    second: Geezer_HAT_163
+  - first:
+      213: 3807787350085217214
+    second: Geezer_HAT_164
+  - first:
+      213: 8267779588842200471
+    second: Geezer_HAT_165
+  - first:
+      213: -7724783093947249094
+    second: Geezer_HAT_166
+  - first:
+      213: 4488073258513482524
+    second: Geezer_HAT_167
+  - first:
+      213: 4733672561304121524
+    second: Geezer_HAT_168
+  - first:
+      213: -5800126603967126029
+    second: Geezer_HAT_169
+  - first:
+      213: 5365248709877051883
+    second: Geezer_HAT_170
+  - first:
+      213: -73653722431540191
+    second: Geezer_HAT_171
+  - first:
+      213: -3923996545332383420
+    second: Geezer_HAT_172
+  - first:
+      213: 6664541992504336365
+    second: Geezer_HAT_173
+  - first:
+      213: -8603952161227141812
+    second: Geezer_HAT_174
+  - first:
+      213: -7174720941698630750
+    second: Geezer_HAT_175
+  - first:
+      213: -4162824431211780050
+    second: Geezer_HAT_176
+  - first:
+      213: 5025065725491874644
+    second: Geezer_HAT_177
+  - first:
+      213: 3109623578326448787
+    second: Geezer_HAT_178
+  - first:
+      213: -4997282546070088990
+    second: Geezer_HAT_179
+  - first:
+      213: 8497450481278210878
+    second: Geezer_HAT_180
+  - first:
+      213: -6684476203399021432
+    second: Geezer_HAT_181
+  - first:
+      213: -1747839128224745754
+    second: Geezer_HAT_182
+  - first:
+      213: -3354999471163086247
+    second: Geezer_HAT_183
+  - first:
+      213: 3507578072885117628
+    second: Geezer_HAT_184
+  - first:
+      213: -5526882604577461402
+    second: Geezer_HAT_185
+  - first:
+      213: 2886382873670676491
+    second: Geezer_HAT_186
+  - first:
+      213: -8749672499640803320
+    second: Geezer_HAT_187
+  - first:
+      213: 8857173839358090635
+    second: Geezer_HAT_188
+  - first:
+      213: 526686317323499875
+    second: Geezer_HAT_189
+  - first:
+      213: -8813987958808074584
+    second: Geezer_HAT_190
+  - first:
+      213: 844662318429691778
+    second: Geezer_HAT_191
+  - first:
+      213: -1230876563151798510
+    second: Geezer_HAT_192
+  - first:
+      213: -7780196941714095266
+    second: Geezer_HAT_193
+  - first:
+      213: 6389057588492554127
+    second: Geezer_HAT_194
+  - first:
+      213: -7051385319009222310
+    second: Geezer_HAT_195
+  - first:
+      213: 1271170272450358532
+    second: Geezer_HAT_196
+  - first:
+      213: 684923896749481763
+    second: Geezer_HAT_197
+  - first:
+      213: -8961839011046777410
+    second: Geezer_HAT_198
+  - first:
+      213: -6560082294089024323
+    second: Geezer_HAT_199
+  - first:
+      213: 3401078238516954166
+    second: Geezer_HAT_200
+  - first:
+      213: 3505121042561812956
+    second: Geezer_HAT_201
+  - first:
+      213: 8695853119426666834
+    second: Geezer_HAT_202
+  - first:
+      213: -3733036036331972701
+    second: Geezer_HAT_203
+  - first:
+      213: -8973969402045322740
+    second: Geezer_HAT_204
+  - first:
+      213: -9173122501587112108
+    second: Geezer_HAT_205
+  - first:
+      213: 7189745455937757256
+    second: Geezer_HAT_206
+  - first:
+      213: -7095263433141218929
+    second: Geezer_HAT_207
+  - first:
+      213: 6430713135893080476
+    second: Geezer_HAT_208
+  - first:
+      213: 3270715310821148343
+    second: Geezer_HAT_209
+  - first:
+      213: 7039655693996326814
+    second: Geezer_HAT_210
+  - first:
+      213: -7657853558695149186
+    second: Geezer_HAT_211
+  - first:
+      213: -1034385275471952618
+    second: Geezer_HAT_212
+  - first:
+      213: -2166331843442467915
+    second: Geezer_HAT_213
+  - first:
+      213: 7126867214719239095
+    second: Geezer_HAT_214
+  - first:
+      213: 2509938061875390091
+    second: Geezer_HAT_215
+  - first:
+      213: 6147143161598493021
+    second: Geezer_HAT_216
+  - first:
+      213: 2168363134748979824
+    second: Geezer_HAT_217
+  - first:
+      213: -6615271832969499309
+    second: Geezer_HAT_218
+  - first:
+      213: -1620293510632422956
+    second: Geezer_HAT_219
+  - first:
+      213: -8094457116306273923
+    second: Geezer_HAT_220
+  - first:
+      213: -683689769540941192
+    second: Geezer_HAT_221
+  - first:
+      213: 2700483344911896064
+    second: Geezer_HAT_222
+  - first:
+      213: -5830831613343428072
+    second: Geezer_HAT_223
+  - first:
+      213: 6609662540951031434
+    second: Geezer_HAT_224
+  - first:
+      213: 7100560962538093672
+    second: Geezer_HAT_225
+  - first:
+      213: 5702595545063114478
+    second: Geezer_HAT_226
+  - first:
+      213: -174950490358891132
+    second: Geezer_HAT_227
+  - first:
+      213: 1689004013409021160
+    second: Geezer_HAT_228
+  - first:
+      213: -9037788538258018940
+    second: Geezer_HAT_229
+  - first:
+      213: 7834324756916052333
+    second: Geezer_HAT_230
+  - first:
+      213: -1541616594242074270
+    second: Geezer_HAT_231
+  - first:
+      213: 716341863804659653
+    second: Geezer_HAT_232
+  - first:
+      213: -7718505775319786320
+    second: Geezer_HAT_233
+  - first:
+      213: -765196862601621030
+    second: Geezer_HAT_234
+  - first:
+      213: -1787270820132421329
+    second: Geezer_HAT_235
+  - first:
+      213: 292990539325248063
+    second: Geezer_HAT_236
+  - first:
+      213: -1590897209117736595
+    second: Geezer_HAT_237
+  - first:
+      213: 6855900912902739459
+    second: Geezer_HAT_238
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geezer_HAT_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88924464c3c926d0800000000000000
+      internalID: -3014663227284744053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 444
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f807ae4804d2eec0800000000000000
+      internalID: -3539033225015392013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 505
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc65db4a83e7753b0800000000000000
+      internalID: -5523807636199483699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a371d3a506fe77c0800000000000000
+      internalID: -4071546509012667482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 453
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a49f5881008840800000000000000
+      internalID: 5224177252980532051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 458
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ca402f945229d0800000000000000
+      internalID: -2800582975852721740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 460
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac666ffa0a437b0800000000000000
+      internalID: -5245390988366132481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 464
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74676c49218ab80e0800000000000000
+      internalID: -2266533189692000697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 464
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428f995825ba61cf0800000000000000
+      internalID: -281849555746949084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 464
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c63f342ba3c85610800000000000000
+      internalID: 1610252006599898824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 464
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c574452377f0990800000000000000
+      internalID: -7417579003209884534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 465
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29928c8d26360d80800000000000000
+      internalID: -8284874895242651347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 466
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce335e12a954e1b0800000000000000
+      internalID: -5628275081477931323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_13
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 466
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6a3d0c881b9fd0800000000000000
+      internalID: -2334244992065049155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 466
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9e61cae1432c8e0800000000000000
+      internalID: -1674718805087557147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 466
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb52384671bee4e0800000000000000
+      internalID: -1950426467029328901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_16
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 466
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7657f1242b58e3c0800000000000000
+      internalID: -4330110830969923971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 466
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e207cd4aaced4920800000000000000
+      internalID: 2976295144955249385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_18
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 466
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddadc34f5cb0900800000000000000
+      internalID: 651832223868837312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_19
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 466
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15707991fa589b0800000000000000
+      internalID: -5078460480347483672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_20
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 466
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c777fd2c4e5bf20f0800000000000000
+      internalID: -1139492186574850180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_21
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 466
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fecee4f93bc6b490800000000000000
+      internalID: -7730768260552012040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_22
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 466
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c88bd7b4bf265920800000000000000
+      internalID: 2978620656777398467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 12
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be2e736ff297110800000000000000
+      internalID: 1259090305372842833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 491
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa6a22cb43a31680800000000000000
+      internalID: -8785498902294271324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 384
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1676cc916e4d7d570800000000000000
+      internalID: 8491489707170752353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 448
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf82857d9f906b40800000000000000
+      internalID: 5431516649238990782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 399
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a16b7a024acef30800000000000000
+      internalID: 4606236979052812834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 407
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a67ccf104bebf00800000000000000
+      internalID: 1134542076772837912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 412
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a2d9d3fb612c10800000000000000
+      internalID: 2027020002369119512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 416
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6644ac9a9eeb28c0800000000000000
+      internalID: -4022859494305020309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 416
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf386b27356120720800000000000000
+      internalID: 2810833665095271419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 416
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c5fb61851731c20800000000000000
+      internalID: 3176006785379032080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 416
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc801f23031a73a20800000000000000
+      internalID: 3042077301697218765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 418
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a4e4ba6b50e28f0800000000000000
+      internalID: -563506621258511741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_35
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 420
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7615fd4f5873570800000000000000
+      internalID: 8446366912921823154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_36
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 422
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e333d3015096e30800000000000000
+      internalID: 4497131270210534995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_37
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 421
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73d5f8a62239fd70800000000000000
+      internalID: 9077341665566774143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_38
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 421
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27b09bbf1a1d12e0800000000000000
+      internalID: -2153536323220097233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_39
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 421
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd62b6b226ceefe40800000000000000
+      internalID: 5692246885422278363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_40
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d4ae561fc07b50800000000000000
+      internalID: 6588993949827127214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_41
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c8902a9baec9110800000000000000
+      internalID: 1269147278020021378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_42
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e861044b7212210800000000000000
+      internalID: 1306369022036971052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_43
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 421
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea8e67edbf1eb6f0800000000000000
+      internalID: -667060794312193312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_44
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 421
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7f8928d7205b180800000000000000
+      internalID: -9100364733946988608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_45
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 421
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8cc466c9edf340800000000000000
+      internalID: 4899329007952891203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3563f998680a3c240800000000000000
+      internalID: 4810865326656796243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 417
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7501ab335284dd750800000000000000
+      internalID: 6331295975771607127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_48
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 376
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee22ba834fc195a0800000000000000
+      internalID: -6516199296831705374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 368
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d56a2baae5d280800000000000000
+      internalID: -9019044657867927542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 368
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48020481b54a957a0800000000000000
+      internalID: -6387893885292502908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_51
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 369
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbb0b69698cb320800000000000000
+      internalID: 2575084172809583803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 371
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02275bf355a81890800000000000000
+      internalID: -7487052600385789426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_53
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 374
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583834da1cc55d650800000000000000
+      internalID: 6257009244206498693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_54
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 376
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c0ddbb30d96c80800000000000000
+      internalID: -8328897080838798077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_55
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 376
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b569d34202fea330800000000000000
+      internalID: 3724180033424156087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_56
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 376
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc4c561b55bb7f50800000000000000
+      internalID: 6880292258560363743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_57
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 376
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee3ecd39356ab70800000000000000
+      internalID: 8909900807330328180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297920c9b35631f0800000000000000
+      internalID: -1065572204568544989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1381ddf099df5be0800000000000000
+      internalID: -1486230135252090084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_60
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160588689b963e7f0800000000000000
+      internalID: -584507281081085855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_61
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961fe21c16dbe25d0800000000000000
+      internalID: -3085320467151654551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_62
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 376
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb053540f6c9c7f0800000000000000
+      internalID: -591723140766954558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_63
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 376
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f158b575dcd7df850800000000000000
+      internalID: 6412419765332837663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_64
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85131c08c2f53d90800000000000000
+      internalID: -7118516694979242614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_65
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92296f2d8f399ef80800000000000000
+      internalID: -8076761759811726807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_66
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1e14dc40aae5bf0800000000000000
+      internalID: -333642384778599989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_67
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b326f0c77c79dff40800000000000000
+      internalID: 5763929981139771963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_68
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 376
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016ed1872bde2b9a0800000000000000
+      internalID: -6218646784670046704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9043bb77ad54770800000000000000
+      internalID: 8594515671683172803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 349
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba392dcfba2b4b300800000000000000
+      internalID: 267034729672512427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 308
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb560b25c980b79b0800000000000000
+      internalID: -5081458287062260292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 333
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5258521fc1e6c810800000000000000
+      internalID: 1785362581781238363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_73
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 348
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f86cb6a7cd62730800000000000000
+      internalID: 3974106139553337196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 359
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09abc386f52af1f40800000000000000
+      internalID: 5701454183928740496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_75
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 364
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfbce5e285eead80800000000000000
+      internalID: -8237394318048051270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 320
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de702974055a4e370800000000000000
+      internalID: 8350981373268461549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_77
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 320
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b96918a7efc7830800000000000000
+      internalID: 4070407965349682063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 368
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac33a3ca698810000800000000000000
+      internalID: 431655692678090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_79
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 320
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e075c4ec6d457cba0800000000000000
+      internalID: -6068788691297609970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_80
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 322
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4385cc1dca7f9680800000000000000
+      internalID: -8746136929960623286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_81
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 324
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d145a8b8793616c20800000000000000
+      internalID: 3197946712942072861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_82
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 328
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e189dfd2dbd800800000000000000
+      internalID: 638335631071764845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_83
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 331
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d7fb03db86bbb0800000000000000
+      internalID: -4920591804300535781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_84
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 331
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3326c444e66c3c0800000000000000
+      internalID: -4339659951306558500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_85
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 331
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b478ded055a62ce0800000000000000
+      internalID: -1430274064888859472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_86
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 332
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b020b29fd39da8100800000000000000
+      internalID: 111140001020576267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_87
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 332
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabc2f1a36335cf0800000000000000
+      internalID: -264808329825699132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_88
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 332
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cd7cea105b37520800000000000000
+      internalID: 2698699620556987396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_89
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 332
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9e975bf1a094b50800000000000000
+      internalID: 6577799862056249798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_90
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 332
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c68d607829f16b0800000000000000
+      internalID: -5323375125895549912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_91
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 332
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb2698c24507c50800000000000000
+      internalID: 6660916399141207676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_92
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a190d16a980919fb0800000000000000
+      internalID: -4642770819970430694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_93
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173145596a0f6b720800000000000000
+      internalID: 2861739211501081457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_94
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 272
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653cc83a0b3a21b0800000000000000
+      internalID: -5680663064885840544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 297
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bb4a892c6f5cd20800000000000000
+      internalID: 3298313617763777303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 311
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c89b2023967afa0800000000000000
+      internalID: -5789543132446487514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_97
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 316
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baf6e9228f2e3ae0800000000000000
+      internalID: -1567763384183096652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 272
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15b76030431798a0800000000000000
+      internalID: -6298544387443411685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_99
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 272
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8392aba633c1e4c60800000000000000
+      internalID: 7804206211439143224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_100
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 272
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3b02ca7da178800800000000000000
+      internalID: 614489387767477161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_101
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 275
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97771bbf0e8aee110800000000000000
+      internalID: 1292155827350763385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_102
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 277
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb9bd7ba50173ad0800000000000000
+      internalID: -2722689467904451605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_103
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 283
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe08663603b13ee0800000000000000
+      internalID: -1283047579559915781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_104
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 286
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d8753184ad7cd50800000000000000
+      internalID: 6757609768989724009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_105
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 286
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8118c8259205d4ea0800000000000000
+      internalID: -5886960999494549224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_106
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 286
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a80494b5cdf9120800000000000000
+      internalID: 2422897409177717310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 288
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01748b960c3887540800000000000000
+      internalID: 5005895848252950288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_108
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb8857b83d97930800000000000000
+      internalID: 4141573928269692650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_109
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4266823ae6c389bd0800000000000000
+      internalID: -2623280337061911004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_110
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bcc14ed1367ab30800000000000000
+      internalID: 4298513349380721449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_111
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e9297cd4ae9700800000000000000
+      internalID: 549057471418329315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 288
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6638c91428bdd5080800000000000000
+      internalID: -9196953511527677082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_113
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 289
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aedd5947ad610a90800000000000000
+      internalID: -7349472551634084183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_114
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 289
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55cc8cfeeca0a400800000000000000
+      internalID: 333456514864694621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_115
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 289
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607840acfa0be1570800000000000000
+      internalID: 8439377020793947910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_116
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 289
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807cb076bacf883b0800000000000000
+      internalID: -5509876330989369592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8715872ccbd5b7610800000000000000
+      internalID: 1619991556267725176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_118
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 296
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7bc03b58c097480800000000000000
+      internalID: -8901069420146935842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_119
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 240
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5140f289e5cfb1d30800000000000000
+      internalID: 4403390543895135253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_120
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 263
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7574ab734c06ce0800000000000000
+      internalID: -1413914539366852642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_121
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 249
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96922d07a6fcd8280800000000000000
+      internalID: -9039340820996413079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_122
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 263
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc6d9cec57350090800000000000000
+      internalID: -8068982285118116682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_123
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 268
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd638c072e41e0010800000000000000
+      internalID: 1156885117068130011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_124
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 282
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff67cae13abcd60800000000000000
+      internalID: 7911596522544234421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_125
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 238
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed6a36e3638e6fa0800000000000000
+      internalID: -5805558404546400793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_126
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 241
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7570cbd4f39be150800000000000000
+      internalID: 5902974416467293563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_127
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 241
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1032e1f0a74ed3d40800000000000000
+      internalID: 5565855927390577409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_128
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 241
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61fba178bcb79610800000000000000
+      internalID: 1627977290684821869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_129
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 244
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b93f4ccfdf554e0800000000000000
+      internalID: -1993407997963691174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_130
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 244
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868751c1c66c4130800000000000000
+      internalID: 3552327188446938761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 245
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029189c66e6a0d650800000000000000
+      internalID: 6255683391012215072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_132
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 246
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d0bcf8791439640800000000000000
+      internalID: 5085480523439738182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_133
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 252
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec8ac8c4cbf329c0800000000000000
+      internalID: -3953039225300284183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_134
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 262
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ba2d5237185720800000000000000
+      internalID: 2835041470508610370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_135
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 263
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe8b4a5a89011f0800000000000000
+      internalID: -1076192473740939513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_136
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 256
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db079c9575ed1ff00800000000000000
+      internalID: 1148943846706081981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 192
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3cff50701abaed0800000000000000
+      internalID: -2401648924734536784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_138
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 215
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9abec52cda8a0a0800000000000000
+      internalID: -6870050181259482697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_139
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 220
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae777e0e822329910800000000000000
+      internalID: 1842590348701300714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 245
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce4f874a713784e0800000000000000
+      internalID: -1979559109949698357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_141
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 224
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262fd7e449b6fe280800000000000000
+      internalID: -9011866044628864414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_142
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 224
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c501a025bd96f60800000000000000
+      internalID: 8028188956167265308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_143
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 224
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0186ffcdc0aca1d0800000000000000
+      internalID: -3338116417970601715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_144
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 228
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cadcdac355b5ec0800000000000000
+      internalID: -3577171759913391077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_145
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 230
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04fcab9aa96cfed0800000000000000
+      internalID: -2378910321681304562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe73102e51c8e100800000000000000
+      internalID: 137572398644035315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 174
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55943d1b2686e40800000000000000
+      internalID: 5649874248429819313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_148
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 195
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8de4fb65b3bb000800000000000000
+      internalID: 52701064407734506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 201
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f0108ffe8d9e70800000000000000
+      internalID: 9123605648138892165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_150
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 172
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ed436b69025b90800000000000000
+      internalID: -7254725692908246587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_151
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 176
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a5941edf8a5b900800000000000000
+      internalID: 699651125485853191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_152
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 176
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d032b6fb35e530800000000000000
+      internalID: 3883576184414459960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_153
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 176
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e73bbb1ffe391d0800000000000000
+      internalID: -3345066276690887043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_154
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 181
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbbc8ee0bebd9560800000000000000
+      internalID: 7322218236300016588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_155
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 183
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c64d1ec8deb2beb0800000000000000
+      internalID: -4705488822268508473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_156
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 193
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28c2bb0eab78b450800000000000000
+      internalID: 6104765282351499306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_157
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 196
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caddee53f9d30230800000000000000
+      internalID: 3603963766119455427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_158
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 196
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742be856b2f856210800000000000000
+      internalID: 1325623081880695367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_159
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 196
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eaab1c1b3d13eb0800000000000000
+      internalID: -4741776172231512518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_160
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 200
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c182977645ea16f0800000000000000
+      internalID: -713005500168240697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_161
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 200
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d869baa7fc80f050800000000000000
+      internalID: 5832316512793880790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_162
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 204
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea686da111f8fda0800000000000000
+      internalID: -5910709452697736469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_163
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 200
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d723f73f2648e5f0800000000000000
+      internalID: -727254171204245544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_164
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 205
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb2e0e9b6af7d430800000000000000
+      internalID: 3807787350085217214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_165
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 205
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d1a224bbd0db270800000000000000
+      internalID: 8267779588842200471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_166
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 220
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ec45624be0cc490800000000000000
+      internalID: -7724783093947249094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1340ab89d6d84e30800000000000000
+      internalID: 4488073258513482524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_168
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 145
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0bb8b4d1261b140800000000000000
+      internalID: 4733672561304121524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_169
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f52f36859fc18fa0800000000000000
+      internalID: -5800126603967126029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_170
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 126
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be138db7641357a40800000000000000
+      internalID: 5365248709877051883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_171
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124351664545afef0800000000000000
+      internalID: -73653722431540191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_172
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 153
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4417a97aee92b89c0800000000000000
+      internalID: -3923996545332383420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_173
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 167
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def15e5c1a53d7c50800000000000000
+      internalID: 6664541992504336365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_174
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 119
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d0a95581f989880800000000000000
+      internalID: -8603952161227141812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_175
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 124
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3f7b11554e6c90800000000000000
+      internalID: -7174720941698630750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_176
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28ed434c3daa36c0800000000000000
+      internalID: -4162824431211780050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_177
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b0fe447ae9cb540800000000000000
+      internalID: 5025065725491874644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_178
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ab3534b2a972b20800000000000000
+      internalID: 3109623578326448787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_179
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 135
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e29b37400616aab0800000000000000
+      internalID: -4997282546070088990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_180
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 136
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e335f09f0320de570800000000000000
+      internalID: 8497450481278210878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_181
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 148
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c79d21f48fb33a0800000000000000
+      internalID: -6684476203399021432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_182
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 151
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6b2a5c29d6eb7e0800000000000000
+      internalID: -1747839128224745754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_183
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 151
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a63bba1c5a071d0800000000000000
+      internalID: -3354999471163086247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_184
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 151
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb244406cab6da030800000000000000
+      internalID: 3507578072885117628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_185
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 156
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66befd6cd819c43b0800000000000000
+      internalID: -5526882604577461402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_186
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 156
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0079ee4eed7e0820800000000000000
+      internalID: 2886382873670676491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_187
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 153
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800e7e5283be29680800000000000000
+      internalID: -8749672499640803320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_188
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 152
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d52d8fda00bea70800000000000000
+      internalID: 8857173839358090635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_189
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 128
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36930244a6a2f4700800000000000000
+      internalID: 526686317323499875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6aca466ac6ea580800000000000000
+      internalID: -8813987958808074584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_191
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 105
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd82547e7d8bb00800000000000000
+      internalID: 844662318429691778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_192
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 80
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fbbfa894c0beee0800000000000000
+      internalID: -1230876563151798510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_193
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 80
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e530d8e4a10370490800000000000000
+      internalID: -7780196941714095266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_194
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 80
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fcc9ba60e7aa850800000000000000
+      internalID: 6389057588492554127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_195
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 90
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a510d068962742e90800000000000000
+      internalID: -7051385319009222310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_196
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 90
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da07ab0aa14a110800000000000000
+      internalID: 1271170272450358532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_197
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 103
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fddebb7a6518900800000000000000
+      internalID: 684923896749481763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_198
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 106
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd915cb6e621a380800000000000000
+      internalID: -8961839011046777410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_199
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 106
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc7e7b09e7e5f4a0800000000000000
+      internalID: -6560082294089024323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_200
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 106
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6344d1463ae033f20800000000000000
+      internalID: 3401078238516954166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_201
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 112
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c4ac6401b4a030800000000000000
+      internalID: 3505121042561812956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_202
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 112
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251266ae650eda870800000000000000
+      internalID: 8695853119426666834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_203
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 104
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a753b0e087913cc0800000000000000
+      internalID: -3733036036331972701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_204
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 110
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a2dddff5e067380800000000000000
+      internalID: -8973969402045322740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_205
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe1c3afa582b080800000000000000
+      internalID: -9173122501587112108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_206
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84026a6366b17c360800000000000000
+      internalID: 7189745455937757256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_207
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 71
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f819cc7ff7f888d90800000000000000
+      internalID: -7095263433141218929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_208
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 76
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c996855968b7e3950800000000000000
+      internalID: 6430713135893080476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_209
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 68
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b60de60f3ae36d20800000000000000
+      internalID: 3270715310821148343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_210
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 68
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff4b55e81e1b160800000000000000
+      internalID: 7039655693996326814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c30ce2c6d9b590800000000000000
+      internalID: -7657853558695149186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_212
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158996821025a1f0800000000000000
+      internalID: -1034385275471952618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_213
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 57
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb9ef58aa4afe1e0800000000000000
+      internalID: -2166331843442467915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_214
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 23
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3c7b6d8f7b7e260800000000000000
+      internalID: 7126867214719239095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_215
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 28
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a05a7e5715d220800000000000000
+      internalID: 2509938061875390091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_216
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51cc82f22a0f4550800000000000000
+      internalID: 6147143161598493021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_217
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 32
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072f3c658c2971e10800000000000000
+      internalID: 2168363134748979824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_218
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 32
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35da43f2155d134a0800000000000000
+      internalID: -6615271832969499309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_219
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 45
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d142e203af8389e0800000000000000
+      internalID: -1620293510632422956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_220
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 44
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d798ee49326baaf80800000000000000
+      internalID: -8094457116306273923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_221
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 58
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a81f5e6cb0386f0800000000000000
+      internalID: -683689769540941192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_222
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 61
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e055f5b4b0a7520800000000000000
+      internalID: 2700483344911896064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_223
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 16
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8121c8d6a89b41fa0800000000000000
+      internalID: -5830831613343428072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_224
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 61
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e879ebf0d3abb50800000000000000
+      internalID: 6609662540951031434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_225
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 16
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb61633924a8260800000000000000
+      internalID: 7100560962538093672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_226
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 61
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee646314f60b32f40800000000000000
+      internalID: 5702595545063114478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_227
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 17
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db0e8b473729df0800000000000000
+      internalID: -174950490358891132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_228
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 24
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2473933c807710800000000000000
+      internalID: 1689004013409021160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_229
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 24
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48da80e6533539280800000000000000
+      internalID: -9037788538258018940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_230
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 55
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61a70fbbdc19bc60800000000000000
+      internalID: 7834324756916052333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2698a5810e31b9ae0800000000000000
+      internalID: -1541616594242074270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_232
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c761d93125f0f900800000000000000
+      internalID: 716341863804659653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_233
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc534944eb52e490800000000000000
+      internalID: -7718505775319786320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_234
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 9
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad11365f1897165f0800000000000000
+      internalID: -765196862601621030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_235
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21069098a65237e0800000000000000
+      internalID: -1787270820132421329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_236
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32180bd759e01400800000000000000
+      internalID: 292990539325248063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_237
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 13
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d618060da6ffbe9e0800000000000000
+      internalID: -1590897209117736595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geezer_HAT_238
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 7
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30618d06e8d052f50800000000000000
+      internalID: 6855900912902739459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Geezer_HAT_0: -3014663227284744053
+      Geezer_HAT_1: -3539033225015392013
+      Geezer_HAT_10: -7417579003209884534
+      Geezer_HAT_100: 614489387767477161
+      Geezer_HAT_101: 1292155827350763385
+      Geezer_HAT_102: -2722689467904451605
+      Geezer_HAT_103: -1283047579559915781
+      Geezer_HAT_104: 6757609768989724009
+      Geezer_HAT_105: -5886960999494549224
+      Geezer_HAT_106: 2422897409177717310
+      Geezer_HAT_107: 5005895848252950288
+      Geezer_HAT_108: 4141573928269692650
+      Geezer_HAT_109: -2623280337061911004
+      Geezer_HAT_11: -8284874895242651347
+      Geezer_HAT_110: 4298513349380721449
+      Geezer_HAT_111: 549057471418329315
+      Geezer_HAT_112: -9196953511527677082
+      Geezer_HAT_113: -7349472551634084183
+      Geezer_HAT_114: 333456514864694621
+      Geezer_HAT_115: 8439377020793947910
+      Geezer_HAT_116: -5509876330989369592
+      Geezer_HAT_117: 1619991556267725176
+      Geezer_HAT_118: -8901069420146935842
+      Geezer_HAT_119: 4403390543895135253
+      Geezer_HAT_12: -5628275081477931323
+      Geezer_HAT_120: -1413914539366852642
+      Geezer_HAT_121: -9039340820996413079
+      Geezer_HAT_122: -8068982285118116682
+      Geezer_HAT_123: 1156885117068130011
+      Geezer_HAT_124: 7911596522544234421
+      Geezer_HAT_125: -5805558404546400793
+      Geezer_HAT_126: 5902974416467293563
+      Geezer_HAT_127: 5565855927390577409
+      Geezer_HAT_128: 1627977290684821869
+      Geezer_HAT_129: -1993407997963691174
+      Geezer_HAT_13: -2334244992065049155
+      Geezer_HAT_130: 3552327188446938761
+      Geezer_HAT_131: 6255683391012215072
+      Geezer_HAT_132: 5085480523439738182
+      Geezer_HAT_133: -3953039225300284183
+      Geezer_HAT_134: 2835041470508610370
+      Geezer_HAT_135: -1076192473740939513
+      Geezer_HAT_136: 1148943846706081981
+      Geezer_HAT_137: -2401648924734536784
+      Geezer_HAT_138: -6870050181259482697
+      Geezer_HAT_139: 1842590348701300714
+      Geezer_HAT_14: -1674718805087557147
+      Geezer_HAT_140: -1979559109949698357
+      Geezer_HAT_141: -9011866044628864414
+      Geezer_HAT_142: 8028188956167265308
+      Geezer_HAT_143: -3338116417970601715
+      Geezer_HAT_144: -3577171759913391077
+      Geezer_HAT_145: -2378910321681304562
+      Geezer_HAT_146: 137572398644035315
+      Geezer_HAT_147: 5649874248429819313
+      Geezer_HAT_148: 52701064407734506
+      Geezer_HAT_149: 9123605648138892165
+      Geezer_HAT_15: -1950426467029328901
+      Geezer_HAT_150: -7254725692908246587
+      Geezer_HAT_151: 699651125485853191
+      Geezer_HAT_152: 3883576184414459960
+      Geezer_HAT_153: -3345066276690887043
+      Geezer_HAT_154: 7322218236300016588
+      Geezer_HAT_155: -4705488822268508473
+      Geezer_HAT_156: 6104765282351499306
+      Geezer_HAT_157: 3603963766119455427
+      Geezer_HAT_158: 1325623081880695367
+      Geezer_HAT_159: -4741776172231512518
+      Geezer_HAT_16: -4330110830969923971
+      Geezer_HAT_160: -713005500168240697
+      Geezer_HAT_161: 5832316512793880790
+      Geezer_HAT_162: -5910709452697736469
+      Geezer_HAT_163: -727254171204245544
+      Geezer_HAT_164: 3807787350085217214
+      Geezer_HAT_165: 8267779588842200471
+      Geezer_HAT_166: -7724783093947249094
+      Geezer_HAT_167: 4488073258513482524
+      Geezer_HAT_168: 4733672561304121524
+      Geezer_HAT_169: -5800126603967126029
+      Geezer_HAT_17: 2976295144955249385
+      Geezer_HAT_170: 5365248709877051883
+      Geezer_HAT_171: -73653722431540191
+      Geezer_HAT_172: -3923996545332383420
+      Geezer_HAT_173: 6664541992504336365
+      Geezer_HAT_174: -8603952161227141812
+      Geezer_HAT_175: -7174720941698630750
+      Geezer_HAT_176: -4162824431211780050
+      Geezer_HAT_177: 5025065725491874644
+      Geezer_HAT_178: 3109623578326448787
+      Geezer_HAT_179: -4997282546070088990
+      Geezer_HAT_18: 651832223868837312
+      Geezer_HAT_180: 8497450481278210878
+      Geezer_HAT_181: -6684476203399021432
+      Geezer_HAT_182: -1747839128224745754
+      Geezer_HAT_183: -3354999471163086247
+      Geezer_HAT_184: 3507578072885117628
+      Geezer_HAT_185: -5526882604577461402
+      Geezer_HAT_186: 2886382873670676491
+      Geezer_HAT_187: -8749672499640803320
+      Geezer_HAT_188: 8857173839358090635
+      Geezer_HAT_189: 526686317323499875
+      Geezer_HAT_19: -5078460480347483672
+      Geezer_HAT_190: -8813987958808074584
+      Geezer_HAT_191: 844662318429691778
+      Geezer_HAT_192: -1230876563151798510
+      Geezer_HAT_193: -7780196941714095266
+      Geezer_HAT_194: 6389057588492554127
+      Geezer_HAT_195: -7051385319009222310
+      Geezer_HAT_196: 1271170272450358532
+      Geezer_HAT_197: 684923896749481763
+      Geezer_HAT_198: -8961839011046777410
+      Geezer_HAT_199: -6560082294089024323
+      Geezer_HAT_2: -5523807636199483699
+      Geezer_HAT_20: -1139492186574850180
+      Geezer_HAT_200: 3401078238516954166
+      Geezer_HAT_201: 3505121042561812956
+      Geezer_HAT_202: 8695853119426666834
+      Geezer_HAT_203: -3733036036331972701
+      Geezer_HAT_204: -8973969402045322740
+      Geezer_HAT_205: -9173122501587112108
+      Geezer_HAT_206: 7189745455937757256
+      Geezer_HAT_207: -7095263433141218929
+      Geezer_HAT_208: 6430713135893080476
+      Geezer_HAT_209: 3270715310821148343
+      Geezer_HAT_21: -7730768260552012040
+      Geezer_HAT_210: 7039655693996326814
+      Geezer_HAT_211: -7657853558695149186
+      Geezer_HAT_212: -1034385275471952618
+      Geezer_HAT_213: -2166331843442467915
+      Geezer_HAT_214: 7126867214719239095
+      Geezer_HAT_215: 2509938061875390091
+      Geezer_HAT_216: 6147143161598493021
+      Geezer_HAT_217: 2168363134748979824
+      Geezer_HAT_218: -6615271832969499309
+      Geezer_HAT_219: -1620293510632422956
+      Geezer_HAT_22: 2978620656777398467
+      Geezer_HAT_220: -8094457116306273923
+      Geezer_HAT_221: -683689769540941192
+      Geezer_HAT_222: 2700483344911896064
+      Geezer_HAT_223: -5830831613343428072
+      Geezer_HAT_224: 6609662540951031434
+      Geezer_HAT_225: 7100560962538093672
+      Geezer_HAT_226: 5702595545063114478
+      Geezer_HAT_227: -174950490358891132
+      Geezer_HAT_228: 1689004013409021160
+      Geezer_HAT_229: -9037788538258018940
+      Geezer_HAT_23: 1259090305372842833
+      Geezer_HAT_230: 7834324756916052333
+      Geezer_HAT_231: -1541616594242074270
+      Geezer_HAT_232: 716341863804659653
+      Geezer_HAT_233: -7718505775319786320
+      Geezer_HAT_234: -765196862601621030
+      Geezer_HAT_235: -1787270820132421329
+      Geezer_HAT_236: 292990539325248063
+      Geezer_HAT_237: -1590897209117736595
+      Geezer_HAT_238: 6855900912902739459
+      Geezer_HAT_24: -8785498902294271324
+      Geezer_HAT_25: 8491489707170752353
+      Geezer_HAT_26: 5431516649238990782
+      Geezer_HAT_27: 4606236979052812834
+      Geezer_HAT_28: 1134542076772837912
+      Geezer_HAT_29: 2027020002369119512
+      Geezer_HAT_3: -4071546509012667482
+      Geezer_HAT_30: -4022859494305020309
+      Geezer_HAT_31: 2810833665095271419
+      Geezer_HAT_32: 3176006785379032080
+      Geezer_HAT_33: 3042077301697218765
+      Geezer_HAT_34: -563506621258511741
+      Geezer_HAT_35: 8446366912921823154
+      Geezer_HAT_36: 4497131270210534995
+      Geezer_HAT_37: 9077341665566774143
+      Geezer_HAT_38: -2153536323220097233
+      Geezer_HAT_39: 5692246885422278363
+      Geezer_HAT_4: 5224177252980532051
+      Geezer_HAT_40: 6588993949827127214
+      Geezer_HAT_41: 1269147278020021378
+      Geezer_HAT_42: 1306369022036971052
+      Geezer_HAT_43: -667060794312193312
+      Geezer_HAT_44: -9100364733946988608
+      Geezer_HAT_45: 4899329007952891203
+      Geezer_HAT_46: 4810865326656796243
+      Geezer_HAT_47: 6331295975771607127
+      Geezer_HAT_48: -6516199296831705374
+      Geezer_HAT_49: -9019044657867927542
+      Geezer_HAT_5: -2800582975852721740
+      Geezer_HAT_50: -6387893885292502908
+      Geezer_HAT_51: 2575084172809583803
+      Geezer_HAT_52: -7487052600385789426
+      Geezer_HAT_53: 6257009244206498693
+      Geezer_HAT_54: -8328897080838798077
+      Geezer_HAT_55: 3724180033424156087
+      Geezer_HAT_56: 6880292258560363743
+      Geezer_HAT_57: 8909900807330328180
+      Geezer_HAT_58: -1065572204568544989
+      Geezer_HAT_59: -1486230135252090084
+      Geezer_HAT_6: -5245390988366132481
+      Geezer_HAT_60: -584507281081085855
+      Geezer_HAT_61: -3085320467151654551
+      Geezer_HAT_62: -591723140766954558
+      Geezer_HAT_63: 6412419765332837663
+      Geezer_HAT_64: -7118516694979242614
+      Geezer_HAT_65: -8076761759811726807
+      Geezer_HAT_66: -333642384778599989
+      Geezer_HAT_67: 5763929981139771963
+      Geezer_HAT_68: -6218646784670046704
+      Geezer_HAT_69: 8594515671683172803
+      Geezer_HAT_7: -2266533189692000697
+      Geezer_HAT_70: 267034729672512427
+      Geezer_HAT_71: -5081458287062260292
+      Geezer_HAT_72: 1785362581781238363
+      Geezer_HAT_73: 3974106139553337196
+      Geezer_HAT_74: 5701454183928740496
+      Geezer_HAT_75: -8237394318048051270
+      Geezer_HAT_76: 8350981373268461549
+      Geezer_HAT_77: 4070407965349682063
+      Geezer_HAT_78: 431655692678090
+      Geezer_HAT_79: -6068788691297609970
+      Geezer_HAT_8: -281849555746949084
+      Geezer_HAT_80: -8746136929960623286
+      Geezer_HAT_81: 3197946712942072861
+      Geezer_HAT_82: 638335631071764845
+      Geezer_HAT_83: -4920591804300535781
+      Geezer_HAT_84: -4339659951306558500
+      Geezer_HAT_85: -1430274064888859472
+      Geezer_HAT_86: 111140001020576267
+      Geezer_HAT_87: -264808329825699132
+      Geezer_HAT_88: 2698699620556987396
+      Geezer_HAT_89: 6577799862056249798
+      Geezer_HAT_9: 1610252006599898824
+      Geezer_HAT_90: -5323375125895549912
+      Geezer_HAT_91: 6660916399141207676
+      Geezer_HAT_92: -4642770819970430694
+      Geezer_HAT_93: 2861739211501081457
+      Geezer_HAT_94: -5680663064885840544
+      Geezer_HAT_95: 3298313617763777303
+      Geezer_HAT_96: -5789543132446487514
+      Geezer_HAT_97: -1567763384183096652
+      Geezer_HAT_98: -6298544387443411685
+      Geezer_HAT_99: 7804206211439143224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: c1bd933399f10424eaa2088a58206724
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4849635717273579471
+    second: screen_rewards2_0
+  - first:
+      213: -1210701098980999500
+    second: screen_rewards2_1
+  - first:
+      213: -7436963989081584916
+    second: screen_rewards2_2
+  - first:
+      213: 5997266709346841191
+    second: screen_rewards2_3
+  - first:
+      213: -7248859545057301993
+    second: screen_rewards2_4
+  - first:
+      213: 5067740725978100322
+    second: screen_rewards2_5
+  - first:
+      213: -4444643799521239396
+    second: screen_rewards2_6
+  - first:
+      213: -6142342000051533002
+    second: screen_rewards2_7
+  - first:
+      213: -662396259097204329
+    second: screen_rewards2_8
+  - first:
+      213: 7013206474525934152
+    second: screen_rewards2_9
+  - first:
+      213: -8839615435159910871
+    second: screen_rewards2_10
+  - first:
+      213: -7377365559744368172
+    second: screen_rewards2_11
+  - first:
+      213: 1254457203693268274
+    second: screen_rewards2_12
+  - first:
+      213: 8230743131856761983
+    second: screen_rewards2_13
+  - first:
+      213: 3791703827969832459
+    second: screen_rewards2_14
+  - first:
+      213: 7863410881249408332
+    second: screen_rewards2_15
+  - first:
+      213: 7242465034959309730
+    second: screen_rewards2_16
+  - first:
+      213: -6089576933014296126
+    second: screen_rewards2_17
+  - first:
+      213: -1952565414216630955
+    second: screen_rewards2_18
+  - first:
+      213: 7732458893446674809
+    second: screen_rewards2_19
+  - first:
+      213: -949429971237313778
+    second: screen_rewards2_20
+  - first:
+      213: 5355511018152305540
+    second: screen_rewards2_21
+  - first:
+      213: -5715350722673655840
+    second: screen_rewards2_22
+  - first:
+      213: -4687298451448047269
+    second: screen_rewards2_23
+  - first:
+      213: -1785308689118984233
+    second: screen_rewards2_24
+  - first:
+      213: -2271136430455131126
+    second: screen_rewards2_25
+  - first:
+      213: -5578867562725601944
+    second: screen_rewards2_26
+  - first:
+      213: -1048652719695814067
+    second: screen_rewards2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: screen_rewards2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 824
+        width: 196
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf632a8dfd5d4340800000000000000
+      internalID: 4849635717273579471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 837
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beff0ad3c9b23fe0800000000000000
+      internalID: -1210701098980999500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 992
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea8b6797a89ac890800000000000000
+      internalID: -7436963989081584916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 996
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f4e91c429a3350800000000000000
+      internalID: 5997266709346841191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 996
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae82e56a0e66b90800000000000000
+      internalID: -7248859545057301993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_5
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1004
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26274b9175b345640800000000000000
+      internalID: 5067740725978100322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 850
+        width: 366
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed46853047152c0800000000000000
+      internalID: -4444643799521239396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 988
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b47f59e7402caa0800000000000000
+      internalID: -6142342000051533002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_8
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 976
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799a6f3ac12bec6f0800000000000000
+      internalID: -662396259097204329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 978
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842869a812ae35160800000000000000
+      internalID: 7013206474525934152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_10
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 978
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926cb349890635580800000000000000
+      internalID: -8839615435159910871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_11
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 976
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d17c314c155e9990800000000000000
+      internalID: -7377365559744368172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 888
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d211c2e2ab86110800000000000000
+      internalID: 1254457203693268274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_13
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 974
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74fec32549793270800000000000000
+      internalID: 8230743131856761983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0671afca86de9430800000000000000
+      internalID: 3791703827969832459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_15
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 926
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45ffcbc882702d60800000000000000
+      internalID: 7863410881249408332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_16
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 914
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abcfeab397628460800000000000000
+      internalID: 7242465034959309730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_17
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 860
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9254b1b0a7d7ba0800000000000000
+      internalID: -6089576933014296126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_18
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 882
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d77e4d91817e4e0800000000000000
+      internalID: -1952565414216630955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 850
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f23035663f4b60800000000000000
+      internalID: 7732458893446674809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 856
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e036a41b872f2d2f0800000000000000
+      internalID: -949429971237313778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 850
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483a8a375e8925a40800000000000000
+      internalID: 5355511018152305540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 654
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb3488ccefea0b0800000000000000
+      internalID: -5715350722673655840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 738
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59533d84ee53feb0800000000000000
+      internalID: -4687298451448047269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 488
+        width: 127
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d705aac43f4937e0800000000000000
+      internalID: -1785308689118984233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 570
+        width: 106
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04f542137d4b70e0800000000000000
+      internalID: -2271136430455131126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 100
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d8ac28281e392b0800000000000000
+      internalID: -5578867562725601944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: screen_rewards2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 105
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42a8cd48ef6271f0800000000000000
+      internalID: -1048652719695814067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      screen_rewards2_0: 4849635717273579471
+      screen_rewards2_1: -1210701098980999500
+      screen_rewards2_10: -8839615435159910871
+      screen_rewards2_11: -7377365559744368172
+      screen_rewards2_12: 1254457203693268274
+      screen_rewards2_13: 8230743131856761983
+      screen_rewards2_14: 3791703827969832459
+      screen_rewards2_15: 7863410881249408332
+      screen_rewards2_16: 7242465034959309730
+      screen_rewards2_17: -6089576933014296126
+      screen_rewards2_18: -1952565414216630955
+      screen_rewards2_19: 7732458893446674809
+      screen_rewards2_2: -7436963989081584916
+      screen_rewards2_20: -949429971237313778
+      screen_rewards2_21: 5355511018152305540
+      screen_rewards2_22: -5715350722673655840
+      screen_rewards2_23: -4687298451448047269
+      screen_rewards2_24: -1785308689118984233
+      screen_rewards2_25: -2271136430455131126
+      screen_rewards2_26: -5578867562725601944
+      screen_rewards2_27: -1048652719695814067
+      screen_rewards2_3: 5997266709346841191
+      screen_rewards2_4: -7248859545057301993
+      screen_rewards2_5: 5067740725978100322
+      screen_rewards2_6: -4444643799521239396
+      screen_rewards2_7: -6142342000051533002
+      screen_rewards2_8: -662396259097204329
+      screen_rewards2_9: 7013206474525934152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

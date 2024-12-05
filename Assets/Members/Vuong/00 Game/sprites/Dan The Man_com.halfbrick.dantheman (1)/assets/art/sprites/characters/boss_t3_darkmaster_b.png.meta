@@ -1,0 +1,4355 @@
+fileFormatVersion: 2
+guid: 9c07a8c942f9f2e439d68566ebeb30f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2704950910449202119
+    second: boss_t3_darkmaster_b_0
+  - first:
+      213: -5585343552278198690
+    second: boss_t3_darkmaster_b_1
+  - first:
+      213: -3931644467178982501
+    second: boss_t3_darkmaster_b_2
+  - first:
+      213: 256465449549449447
+    second: boss_t3_darkmaster_b_3
+  - first:
+      213: 4495874355160870529
+    second: boss_t3_darkmaster_b_4
+  - first:
+      213: 3148325545655316993
+    second: boss_t3_darkmaster_b_5
+  - first:
+      213: 9068726242228527596
+    second: boss_t3_darkmaster_b_6
+  - first:
+      213: -4190929873451291066
+    second: boss_t3_darkmaster_b_7
+  - first:
+      213: 7090211816162659287
+    second: boss_t3_darkmaster_b_8
+  - first:
+      213: 7598209229762747400
+    second: boss_t3_darkmaster_b_9
+  - first:
+      213: -7271182237495635543
+    second: boss_t3_darkmaster_b_10
+  - first:
+      213: 7562078591908886511
+    second: boss_t3_darkmaster_b_11
+  - first:
+      213: -740107891462505644
+    second: boss_t3_darkmaster_b_12
+  - first:
+      213: -2981224117093277080
+    second: boss_t3_darkmaster_b_13
+  - first:
+      213: 1923507133435170629
+    second: boss_t3_darkmaster_b_14
+  - first:
+      213: 7173373624006249704
+    second: boss_t3_darkmaster_b_15
+  - first:
+      213: -9110818329263462831
+    second: boss_t3_darkmaster_b_16
+  - first:
+      213: -4429412921637410919
+    second: boss_t3_darkmaster_b_17
+  - first:
+      213: -6362214156620330255
+    second: boss_t3_darkmaster_b_18
+  - first:
+      213: 4131175077337938795
+    second: boss_t3_darkmaster_b_19
+  - first:
+      213: 7325498557035583568
+    second: boss_t3_darkmaster_b_20
+  - first:
+      213: -9185105172149809441
+    second: boss_t3_darkmaster_b_21
+  - first:
+      213: 8873314400856873389
+    second: boss_t3_darkmaster_b_22
+  - first:
+      213: 197370137222669520
+    second: boss_t3_darkmaster_b_23
+  - first:
+      213: -3984945335973584970
+    second: boss_t3_darkmaster_b_24
+  - first:
+      213: -219994227348957879
+    second: boss_t3_darkmaster_b_25
+  - first:
+      213: 8227407964511497921
+    second: boss_t3_darkmaster_b_26
+  - first:
+      213: -854274105529994244
+    second: boss_t3_darkmaster_b_27
+  - first:
+      213: 1847950620764188033
+    second: boss_t3_darkmaster_b_28
+  - first:
+      213: -4493775296832782854
+    second: boss_t3_darkmaster_b_29
+  - first:
+      213: -4330521301292551983
+    second: boss_t3_darkmaster_b_30
+  - first:
+      213: 1207820685865959087
+    second: boss_t3_darkmaster_b_31
+  - first:
+      213: -8320089381943099868
+    second: boss_t3_darkmaster_b_32
+  - first:
+      213: -8690466229409141266
+    second: boss_t3_darkmaster_b_33
+  - first:
+      213: 567624804629080600
+    second: boss_t3_darkmaster_b_34
+  - first:
+      213: 7658905967126497313
+    second: boss_t3_darkmaster_b_35
+  - first:
+      213: 1711236649194473537
+    second: boss_t3_darkmaster_b_36
+  - first:
+      213: 5297114316657770122
+    second: boss_t3_darkmaster_b_37
+  - first:
+      213: 5258426364528748234
+    second: boss_t3_darkmaster_b_38
+  - first:
+      213: -6597800024955838915
+    second: boss_t3_darkmaster_b_39
+  - first:
+      213: 3075415069393794802
+    second: boss_t3_darkmaster_b_40
+  - first:
+      213: 583237657364580427
+    second: boss_t3_darkmaster_b_41
+  - first:
+      213: -2040766242165118086
+    second: boss_t3_darkmaster_b_42
+  - first:
+      213: 7506241058299579979
+    second: boss_t3_darkmaster_b_43
+  - first:
+      213: 1647424191863889171
+    second: boss_t3_darkmaster_b_44
+  - first:
+      213: -4583574382080901375
+    second: boss_t3_darkmaster_b_45
+  - first:
+      213: 3376868799569718773
+    second: boss_t3_darkmaster_b_46
+  - first:
+      213: -6424986991583788740
+    second: boss_t3_darkmaster_b_47
+  - first:
+      213: -7910243849396312109
+    second: boss_t3_darkmaster_b_48
+  - first:
+      213: 4303787865025407569
+    second: boss_t3_darkmaster_b_49
+  - first:
+      213: -2789599430935992565
+    second: boss_t3_darkmaster_b_50
+  - first:
+      213: -4079897709544449120
+    second: boss_t3_darkmaster_b_51
+  - first:
+      213: 6469880457617743678
+    second: boss_t3_darkmaster_b_52
+  - first:
+      213: 8942230805996599815
+    second: boss_t3_darkmaster_b_53
+  - first:
+      213: -4233368725662497218
+    second: boss_t3_darkmaster_b_54
+  - first:
+      213: -8523066471761744966
+    second: boss_t3_darkmaster_b_55
+  - first:
+      213: 150784408732184559
+    second: boss_t3_darkmaster_b_56
+  - first:
+      213: -7181445073695893384
+    second: boss_t3_darkmaster_b_57
+  - first:
+      213: 2626056760348593337
+    second: boss_t3_darkmaster_b_58
+  - first:
+      213: -4352805586417181779
+    second: boss_t3_darkmaster_b_59
+  - first:
+      213: 9111489394018687240
+    second: boss_t3_darkmaster_b_60
+  - first:
+      213: 6991594848560019137
+    second: boss_t3_darkmaster_b_61
+  - first:
+      213: -2808139699372087968
+    second: boss_t3_darkmaster_b_62
+  - first:
+      213: -274420748060404043
+    second: boss_t3_darkmaster_b_63
+  - first:
+      213: 7288126779030487995
+    second: boss_t3_darkmaster_b_64
+  - first:
+      213: -5354755259567234799
+    second: boss_t3_darkmaster_b_65
+  - first:
+      213: -5511934341279121982
+    second: boss_t3_darkmaster_b_66
+  - first:
+      213: -7098662044629410002
+    second: boss_t3_darkmaster_b_67
+  - first:
+      213: 3913858588541427807
+    second: boss_t3_darkmaster_b_68
+  - first:
+      213: 6126845739757440224
+    second: boss_t3_darkmaster_b_69
+  - first:
+      213: -5549896252764301968
+    second: boss_t3_darkmaster_b_70
+  - first:
+      213: -771939582155553018
+    second: boss_t3_darkmaster_b_71
+  - first:
+      213: 3843183570500858338
+    second: boss_t3_darkmaster_b_72
+  - first:
+      213: -4838372111362068605
+    second: boss_t3_darkmaster_b_73
+  - first:
+      213: 2325690299144043228
+    second: boss_t3_darkmaster_b_74
+  - first:
+      213: 6763532803711319809
+    second: boss_t3_darkmaster_b_75
+  - first:
+      213: -7356922850539495047
+    second: boss_t3_darkmaster_b_76
+  - first:
+      213: -1874490877789792767
+    second: boss_t3_darkmaster_b_77
+  - first:
+      213: -7519196356142605875
+    second: boss_t3_darkmaster_b_78
+  - first:
+      213: -6058106638015570440
+    second: boss_t3_darkmaster_b_79
+  - first:
+      213: 6467823728028165232
+    second: boss_t3_darkmaster_b_80
+  - first:
+      213: -1750159463753192166
+    second: boss_t3_darkmaster_b_81
+  - first:
+      213: -8236885448041530301
+    second: boss_t3_darkmaster_b_82
+  - first:
+      213: 5278478099726175210
+    second: boss_t3_darkmaster_b_83
+  - first:
+      213: -2894836886046994945
+    second: boss_t3_darkmaster_b_84
+  - first:
+      213: 1551501182843992955
+    second: boss_t3_darkmaster_b_85
+  - first:
+      213: 8478551570374175409
+    second: boss_t3_darkmaster_b_86
+  - first:
+      213: -2170337611168120992
+    second: boss_t3_darkmaster_b_87
+  - first:
+      213: -5156313565505352405
+    second: boss_t3_darkmaster_b_88
+  - first:
+      213: 668934511187756021
+    second: boss_t3_darkmaster_b_89
+  - first:
+      213: 7003479899115928707
+    second: boss_t3_darkmaster_b_90
+  - first:
+      213: -1899507352624195838
+    second: boss_t3_darkmaster_b_91
+  - first:
+      213: -8452308517837915366
+    second: boss_t3_darkmaster_b_92
+  - first:
+      213: 6971850056527164809
+    second: boss_t3_darkmaster_b_93
+  - first:
+      213: 1417891138330949970
+    second: boss_t3_darkmaster_b_94
+  - first:
+      213: -2169237783866977418
+    second: boss_t3_darkmaster_b_95
+  - first:
+      213: 6847431234600397569
+    second: boss_t3_darkmaster_b_96
+  - first:
+      213: -8874215515949033522
+    second: boss_t3_darkmaster_b_97
+  - first:
+      213: -7522482916384704424
+    second: boss_t3_darkmaster_b_98
+  - first:
+      213: 571303565055317322
+    second: boss_t3_darkmaster_b_99
+  - first:
+      213: -3063507990915967522
+    second: boss_t3_darkmaster_b_100
+  - first:
+      213: -1425758384151512547
+    second: boss_t3_darkmaster_b_101
+  - first:
+      213: 8362140089338258290
+    second: boss_t3_darkmaster_b_102
+  - first:
+      213: -9121516583089813372
+    second: boss_t3_darkmaster_b_103
+  - first:
+      213: 7217739687973353983
+    second: boss_t3_darkmaster_b_104
+  - first:
+      213: -4682550943255594223
+    second: boss_t3_darkmaster_b_105
+  - first:
+      213: 1971446132505717018
+    second: boss_t3_darkmaster_b_106
+  - first:
+      213: -8928394573185615765
+    second: boss_t3_darkmaster_b_107
+  - first:
+      213: 4090010203242364508
+    second: boss_t3_darkmaster_b_108
+  - first:
+      213: 846257993178517522
+    second: boss_t3_darkmaster_b_109
+  - first:
+      213: -5740103463547226808
+    second: boss_t3_darkmaster_b_110
+  - first:
+      213: -8532396840041200139
+    second: boss_t3_darkmaster_b_111
+  - first:
+      213: 8751594895508119642
+    second: boss_t3_darkmaster_b_112
+  - first:
+      213: 7885269752345066308
+    second: boss_t3_darkmaster_b_113
+  - first:
+      213: -5045281880083722593
+    second: boss_t3_darkmaster_b_114
+  - first:
+      213: 2714314158677138713
+    second: boss_t3_darkmaster_b_115
+  - first:
+      213: 4124530998992504311
+    second: boss_t3_darkmaster_b_116
+  - first:
+      213: -4752236633404894084
+    second: boss_t3_darkmaster_b_117
+  - first:
+      213: 4856858946323557896
+    second: boss_t3_darkmaster_b_118
+  - first:
+      213: 1302457096412916861
+    second: boss_t3_darkmaster_b_119
+  - first:
+      213: 8219284776600308679
+    second: boss_t3_darkmaster_b_120
+  - first:
+      213: -9140864819244082351
+    second: boss_t3_darkmaster_b_121
+  - first:
+      213: 8883994092821656447
+    second: boss_t3_darkmaster_b_122
+  - first:
+      213: 8161491195404005750
+    second: boss_t3_darkmaster_b_123
+  - first:
+      213: 2719406953008058715
+    second: boss_t3_darkmaster_b_124
+  - first:
+      213: 3299091871059503061
+    second: boss_t3_darkmaster_b_125
+  - first:
+      213: -156666585130693997
+    second: boss_t3_darkmaster_b_126
+  - first:
+      213: -2635359527316307788
+    second: boss_t3_darkmaster_b_127
+  - first:
+      213: -6875440203192044570
+    second: boss_t3_darkmaster_b_128
+  - first:
+      213: -6973141438089868290
+    second: boss_t3_darkmaster_b_129
+  - first:
+      213: 7440110103686833307
+    second: boss_t3_darkmaster_b_130
+  - first:
+      213: -9170556801145211802
+    second: boss_t3_darkmaster_b_131
+  - first:
+      213: 8422455924689837897
+    second: boss_t3_darkmaster_b_132
+  - first:
+      213: -7208906916138296775
+    second: boss_t3_darkmaster_b_133
+  - first:
+      213: -2998991472713407372
+    second: boss_t3_darkmaster_b_134
+  - first:
+      213: -5889428440633024016
+    second: boss_t3_darkmaster_b_135
+  - first:
+      213: -2617569486772053814
+    second: boss_t3_darkmaster_b_136
+  - first:
+      213: 4479126437684712359
+    second: boss_t3_darkmaster_b_137
+  - first:
+      213: -6570388794853048256
+    second: boss_t3_darkmaster_b_138
+  - first:
+      213: 7036797684261885877
+    second: boss_t3_darkmaster_b_139
+  - first:
+      213: 8783862298310486691
+    second: boss_t3_darkmaster_b_140
+  - first:
+      213: 1414689915991305920
+    second: boss_t3_darkmaster_b_141
+  - first:
+      213: 6531791548814036673
+    second: boss_t3_darkmaster_b_142
+  - first:
+      213: 7629212125242418217
+    second: boss_t3_darkmaster_b_143
+  - first:
+      213: 8875912854771271770
+    second: boss_t3_darkmaster_b_144
+  - first:
+      213: -803186506977478871
+    second: boss_t3_darkmaster_b_145
+  - first:
+      213: 6228444270318448609
+    second: boss_t3_darkmaster_b_146
+  - first:
+      213: 1537319479544848853
+    second: boss_t3_darkmaster_b_147
+  - first:
+      213: 6572572328135158004
+    second: boss_t3_darkmaster_b_148
+  - first:
+      213: -3358017083707315409
+    second: boss_t3_darkmaster_b_149
+  - first:
+      213: -1623678781098461640
+    second: boss_t3_darkmaster_b_150
+  - first:
+      213: -5350167160375545617
+    second: boss_t3_darkmaster_b_151
+  - first:
+      213: -1500971203211735913
+    second: boss_t3_darkmaster_b_152
+  - first:
+      213: 5494219735010888621
+    second: boss_t3_darkmaster_b_153
+  - first:
+      213: 7665784834543358305
+    second: boss_t3_darkmaster_b_154
+  - first:
+      213: -8794045183131706801
+    second: boss_t3_darkmaster_b_155
+  - first:
+      213: -1674797901881733133
+    second: boss_t3_darkmaster_b_156
+  - first:
+      213: 8454824160943658396
+    second: boss_t3_darkmaster_b_157
+  - first:
+      213: 5884325242105422675
+    second: boss_t3_darkmaster_b_158
+  - first:
+      213: 3189955216187516398
+    second: boss_t3_darkmaster_b_159
+  - first:
+      213: 9006875265585907601
+    second: boss_t3_darkmaster_b_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 951
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3b138858ae98520800000000000000
+      internalID: 2704950910449202119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 952
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5680f1b1afdc72b0800000000000000
+      internalID: -5585343552278198690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 952
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93baa6103eff69c0800000000000000
+      internalID: -3931644467178982501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 952
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e84e81b7f52f8300800000000000000
+      internalID: 256465449549449447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 952
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ee626e7ed846e30800000000000000
+      internalID: 4495874355160870529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 981
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b21a376911bb20800000000000000
+      internalID: 3148325545655316993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 941
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce16b4918769add70800000000000000
+      internalID: 9068726242228527596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 941
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eec5e0c73d6d5c0800000000000000
+      internalID: -4190929873451291066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 941
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db07acc41e756260800000000000000
+      internalID: 7090211816162659287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 941
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c5a159903427960800000000000000
+      internalID: 7598209229762747400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 941
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a151f48742971b90800000000000000
+      internalID: -7271182237495635543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 941
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7b05ae966e1f860800000000000000
+      internalID: 7562078591908886511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 941
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bf9e14bcb9ab5f0800000000000000
+      internalID: -740107891462505644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 941
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862e3d0f57090a6d0800000000000000
+      internalID: -2981224117093277080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_14
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 942
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4553fb8ba1ba10800000000000000
+      internalID: 1923507133435170629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_15
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 942
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8c0c0e41fc8360800000000000000
+      internalID: 7173373624006249704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_16
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 942
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156222f200fdf8180800000000000000
+      internalID: -9110818329263462831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_17
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 944
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997e6427a609782c0800000000000000
+      internalID: -4429412921637410919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 954
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa0fa9deefd4b7a0800000000000000
+      internalID: -6362214156620330255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 954
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bbcad48d1e45930800000000000000
+      internalID: 4131175077337938795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 941
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0581ebe102669a560800000000000000
+      internalID: 7325498557035583568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 941
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde486db283f78080800000000000000
+      internalID: -9185105172149809441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 884
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da99e6b4f68542b70800000000000000
+      internalID: 8873314400856873389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 880
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d46d6618133db200800000000000000
+      internalID: 197370137222669520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 880
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd1ff7451a2b8c0800000000000000
+      internalID: -3984945335973584970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 879
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9459a327a6c62fcf0800000000000000
+      internalID: -219994227348957879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 876
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce6deaf3ff9d2270800000000000000
+      internalID: 8227407964511497921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 849
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f1172a320524f0800000000000000
+      internalID: -854274105529994244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 849
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dac197c4d35a910800000000000000
+      internalID: 1847950620764188033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 849
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd3bd33d27e2a1c0800000000000000
+      internalID: -4493775296832782854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 854
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f13012d5e6e3c0800000000000000
+      internalID: -4330521301292551983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_31
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 869
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeb865b38a03c010800000000000000
+      internalID: 1207820685865959087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_32
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 859
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e38c1f9ca198c80800000000000000
+      internalID: -8320089381943099868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 849
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2a872203456780800000000000000
+      internalID: -8690466229409141266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_34
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 844
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aed9d90cb90e700800000000000000
+      internalID: 567624804629080600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_35
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 844
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128c1b20666e94a60800000000000000
+      internalID: 7658905967126497313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_36
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 844
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148cdd97aa88fb710800000000000000
+      internalID: 1711236649194473537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 844
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eb50bd761238940800000000000000
+      internalID: 5297114316657770122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 789
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6e84f0beea9f840800000000000000
+      internalID: 5258426364528748234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 789
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e917d75d7ef64a0800000000000000
+      internalID: -6597800024955838915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 709
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6b91c16b11eaa20800000000000000
+      internalID: 3075415069393794802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 789
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48c8da2f83181800800000000000000
+      internalID: 583237657364580427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 789
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ba32a4aedbda3e0800000000000000
+      internalID: -2040766242165118086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 789
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e066609768b2860800000000000000
+      internalID: 7506241058299579979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 789
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9e66f293dcd610800000000000000
+      internalID: 1647424191863889171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 772
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fbc72626fd360c0800000000000000
+      internalID: -4583574382080901375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_46
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 772
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fde373284c0dde20800000000000000
+      internalID: 3376868799569718773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 772
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3184284f5cd5d6a0800000000000000
+      internalID: -6424986991583788740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_48
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 772
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7a306112b293290800000000000000
+      internalID: -7910243849396312109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_49
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 772
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ae973c2402abb30800000000000000
+      internalID: 4303787865025407569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 772
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ad65f81a5949d0800000000000000
+      internalID: -2789599430935992565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_51
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 769
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab5cae36aa4167c0800000000000000
+      internalID: -4079897709544449120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_52
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 767
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f1c8f4ff1a9c950800000000000000
+      internalID: 6469880457617743678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 704
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a7bf24a8f291c70800000000000000
+      internalID: 8942230805996599815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 704
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3683a7c29d0045c0800000000000000
+      internalID: -4233368725662497218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 709
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb6999733cf7b980800000000000000
+      internalID: -8523066471761744966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_56
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 688
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef2620fe91b71200800000000000000
+      internalID: 150784408732184559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 683
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878906021c1665c90800000000000000
+      internalID: -7181445073695893384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_58
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 682
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc4798c5b0a17420800000000000000
+      internalID: 2626056760348593337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_59
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 754
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab944d916ab793c0800000000000000
+      internalID: -4352805586417181779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_60
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 651
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80919314453827e70800000000000000
+      internalID: 9111489394018687240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_61
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 343
+        width: 339
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6fed1c872270160800000000000000
+      internalID: 6991594848560019137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_62
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 736
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065214352db7709d0800000000000000
+      internalID: -2808139699372087968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_63
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 732
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6dcd898cf013cf0800000000000000
+      internalID: -274420748060404043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_64
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 725
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3cf1ef0b0a42560800000000000000
+      internalID: 7288126779030487995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_65
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 687
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111275e467610b5b0800000000000000
+      internalID: -5354755259567234799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_66
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 694
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdf7ca8beca183b0800000000000000
+      internalID: -5511934341279121982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 475
+        width: 252
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fd0511b7c7c7d90800000000000000
+      internalID: -7098662044629410002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 440
+        width: 281
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50af1756a1d05630800000000000000
+      internalID: 3913858588541427807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_69
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 595
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec8bd72dbde60550800000000000000
+      internalID: 6126845739757440224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_70
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 595
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07556b143cecaf2b0800000000000000
+      internalID: -5549896252764301968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 399
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6070e893a058945f0800000000000000
+      internalID: -771939582155553018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 322
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e13256681bb55530800000000000000
+      internalID: 3843183570500858338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 366
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f6b131336aadcb0800000000000000
+      internalID: -4838372111362068605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_74
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 410
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda7d0a4103864020800000000000000
+      internalID: 2325690299144043228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_75
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 316
+        width: 98
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f3aef0045ecdd50800000000000000
+      internalID: 6763532803711319809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 169
+        width: 95
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971a3a565a5f6e990800000000000000
+      internalID: -7356922850539495047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 264
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10611a66a787cf5e0800000000000000
+      internalID: -1874490877789792767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 286
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc955b3a0c276a790800000000000000
+      internalID: -7519196356142605875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 264
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd55a52c184deba0800000000000000
+      internalID: -6058106638015570440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_80
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 302
+        width: 112
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07426f2a96352c950800000000000000
+      internalID: 6467823728028165232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_81
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 241
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1de3be8d3f26b7e0800000000000000
+      internalID: -1750159463753192166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_82
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c76ed6354b0bd80800000000000000
+      internalID: -8236885448041530301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_83
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 290
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb8bd87ddbe04940800000000000000
+      internalID: 5278478099726175210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_84
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 286
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd887c803973d7d0800000000000000
+      internalID: -2894836886046994945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_85
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 283
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bb3080b1a088510800000000000000
+      internalID: 1551501182843992955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_86
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 283
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baabf16bbdd9a570800000000000000
+      internalID: 8478551570374175409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_87
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 286
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f77ab017961e1e0800000000000000
+      internalID: -2170337611168120992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_88
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 287
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d8689a1281178b0800000000000000
+      internalID: -5156313565505352405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_89
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 287
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3885dc468884900800000000000000
+      internalID: 668934511187756021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_90
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 287
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cb46abcdb513160800000000000000
+      internalID: 7003479899115928707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_91
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 287
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2079796702893a5e0800000000000000
+      internalID: -1899507352624195838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_92
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 254
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b334e6f2e53ba80800000000000000
+      internalID: -8452308517837915366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 262
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985b69e10bcf0c060800000000000000
+      internalID: 6971850056527164809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_94
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259f36e5a7c5da310800000000000000
+      internalID: 1417891138330949970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_95
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 261
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d04b8ab155e1e0800000000000000
+      internalID: -2169237783866977418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_96
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 257
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b654abd66f60f50800000000000000
+      internalID: 6847431234600397569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_97
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 254
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7199f710478d480800000000000000
+      internalID: -8874215515949033522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_98
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 261
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858f1f3b4a5ca9790800000000000000
+      internalID: -7522482916384704424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_99
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 267
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a455906c09dade700800000000000000
+      internalID: 571303565055317322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_100
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 229
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed512e2a6bb3c75d0800000000000000
+      internalID: -3063507990915967522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_101
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 220
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3d19bd40b63ce0800000000000000
+      internalID: -1425758384151512547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_102
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 190
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2736f035b1a4c0470800000000000000
+      internalID: 8362140089338258290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_103
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 217
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c81cdefcd96180800000000000000
+      internalID: -9121516583089813372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_104
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9f3e641009a2460800000000000000
+      internalID: 7217739687973353983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 197
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b7490f9bc340fb0800000000000000
+      internalID: -4682550943255594223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_106
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 212
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1922d5ffcbfb5b10800000000000000
+      internalID: 1971446132505717018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_107
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 210
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68febab078f71480800000000000000
+      internalID: -8928394573185615765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_108
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 202
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5efbfb2c92a2c830800000000000000
+      internalID: 4090010203242364508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_109
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109dbf39238ebb00800000000000000
+      internalID: 846257993178517522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_110
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8453741ff4e0750b0800000000000000
+      internalID: -5740103463547226808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_111
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 182
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5cda2d746d69980800000000000000
+      internalID: -8532396840041200139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_112
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 181
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5022e48039e37970800000000000000
+      internalID: 8751594895508119642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_113
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 158
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bf8a2df0b1e6d60800000000000000
+      internalID: 7885269752345066308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_114
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e05e17cde8bf9b0800000000000000
+      internalID: -5045281880083722593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_115
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 195
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d93c4a85e2ba520800000000000000
+      internalID: 2714314158677138713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_116
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 196
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5090447174d3930800000000000000
+      internalID: 4124530998992504311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_117
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 200
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c749d49d5f9ac0eb0800000000000000
+      internalID: -4752236633404894084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_118
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 189
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e2bcb9a77076340800000000000000
+      internalID: 4856858946323557896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_119
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 167
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ce0e614d1431210800000000000000
+      internalID: 1302457096412916861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_120
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 183
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb8909e4f3c01270800000000000000
+      internalID: 8219284776600308679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_121
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 182
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b571590ef152180800000000000000
+      internalID: -9140864819244082351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_122
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 187
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73bd49de894a4b70800000000000000
+      internalID: 8883994092821656447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_123
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 158
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671b8833001734170800000000000000
+      internalID: 8161491195404005750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_124
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 98
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51d5c937364db520800000000000000
+      internalID: 2719406953008058715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 81
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d761efc39ab8cd20800000000000000
+      internalID: 3299091871059503061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_126
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 84
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a8c15229863ddf0800000000000000
+      internalID: -156666585130693997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_127
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 84
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0cedef8725d6bd0800000000000000
+      internalID: -2635359527316307788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_128
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 84
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e37c4610978590a0800000000000000
+      internalID: -6875440203192044570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_129
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 84
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc81eaecc6a3f90800000000000000
+      internalID: -6973141438089868290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_130
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 86
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b946c0c48b4904760800000000000000
+      internalID: 7440110103686833307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_131
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 86
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66472335d23abb080800000000000000
+      internalID: -9170556801145211802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_132
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 98
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f95871a0392e470800000000000000
+      internalID: 8422455924689837897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_133
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 98
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a58bcaa51d4fb90800000000000000
+      internalID: -7208906916138296775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_134
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 86
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474ed7815217166d0800000000000000
+      internalID: -2998991472713407372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_135
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 84
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16cf9690c844ea0800000000000000
+      internalID: -5889428440633024016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_136
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 77
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8dc069b668cabd0800000000000000
+      internalID: -2617569486772053814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_137
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 75
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3124e73cd092e30800000000000000
+      internalID: 4479126437684712359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_138
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 73
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c396d33a41d4a0800000000000000
+      internalID: -6570388794853048256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_139
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b798b6163ab7a160800000000000000
+      internalID: 7036797684261885877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_140
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa2ebea83c86e970800000000000000
+      internalID: 8783862298310486691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_141
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce2df5bbfcf1a310800000000000000
+      internalID: 1414689915991305920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_142
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce85f58ec595aa50800000000000000
+      internalID: 6531791548814036673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_143
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9246d21b10860e960800000000000000
+      internalID: 7629212125242418217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_144
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 39
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5807fdf6b39d2b70800000000000000
+      internalID: 8875912854771271770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_145
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 40
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927783b90228ad4f0800000000000000
+      internalID: -803186506977478871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_146
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 41
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efe5ab6011ef6650800000000000000
+      internalID: 6228444270318448609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_147
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 41
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d12f8cebe7a55510800000000000000
+      internalID: 1537319479544848853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_148
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 42
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ee0f95b7763b50800000000000000
+      internalID: 6572572328135158004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_149
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 37
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2baeeff04de561d0800000000000000
+      internalID: -3358017083707315409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_150
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 5
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836794f40c88779e0800000000000000
+      internalID: -1623678781098461640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_151
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0fad4605360c5b0800000000000000
+      internalID: -5350167160375545617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_152
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 14
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c4976a4aa7b2be0800000000000000
+      internalID: -1500971203211735913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_153
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 13
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabc3474db36f3c40800000000000000
+      internalID: 5494219735010888621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_154
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 52
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161988321b6526a60800000000000000
+      internalID: 7665784834543358305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_155
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 14
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a13b0bf7645f580800000000000000
+      internalID: -8794045183131706801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_156
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 16
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff05c38e2ce1c8e0800000000000000
+      internalID: -1674797901881733133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_157
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 5
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95df6f57c1955570800000000000000
+      internalID: 8454824160943658396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_158
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 6
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353ee8691a259a150800000000000000
+      internalID: 5884325242105422675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_159
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 6
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5e2463e5ff44c20800000000000000
+      internalID: 3189955216187516398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t3_darkmaster_b_160
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19700856559defc70800000000000000
+      internalID: 9006875265585907601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_t3_darkmaster_b_0: 2704950910449202119
+      boss_t3_darkmaster_b_1: -5585343552278198690
+      boss_t3_darkmaster_b_10: -7271182237495635543
+      boss_t3_darkmaster_b_100: -3063507990915967522
+      boss_t3_darkmaster_b_101: -1425758384151512547
+      boss_t3_darkmaster_b_102: 8362140089338258290
+      boss_t3_darkmaster_b_103: -9121516583089813372
+      boss_t3_darkmaster_b_104: 7217739687973353983
+      boss_t3_darkmaster_b_105: -4682550943255594223
+      boss_t3_darkmaster_b_106: 1971446132505717018
+      boss_t3_darkmaster_b_107: -8928394573185615765
+      boss_t3_darkmaster_b_108: 4090010203242364508
+      boss_t3_darkmaster_b_109: 846257993178517522
+      boss_t3_darkmaster_b_11: 7562078591908886511
+      boss_t3_darkmaster_b_110: -5740103463547226808
+      boss_t3_darkmaster_b_111: -8532396840041200139
+      boss_t3_darkmaster_b_112: 8751594895508119642
+      boss_t3_darkmaster_b_113: 7885269752345066308
+      boss_t3_darkmaster_b_114: -5045281880083722593
+      boss_t3_darkmaster_b_115: 2714314158677138713
+      boss_t3_darkmaster_b_116: 4124530998992504311
+      boss_t3_darkmaster_b_117: -4752236633404894084
+      boss_t3_darkmaster_b_118: 4856858946323557896
+      boss_t3_darkmaster_b_119: 1302457096412916861
+      boss_t3_darkmaster_b_12: -740107891462505644
+      boss_t3_darkmaster_b_120: 8219284776600308679
+      boss_t3_darkmaster_b_121: -9140864819244082351
+      boss_t3_darkmaster_b_122: 8883994092821656447
+      boss_t3_darkmaster_b_123: 8161491195404005750
+      boss_t3_darkmaster_b_124: 2719406953008058715
+      boss_t3_darkmaster_b_125: 3299091871059503061
+      boss_t3_darkmaster_b_126: -156666585130693997
+      boss_t3_darkmaster_b_127: -2635359527316307788
+      boss_t3_darkmaster_b_128: -6875440203192044570
+      boss_t3_darkmaster_b_129: -6973141438089868290
+      boss_t3_darkmaster_b_13: -2981224117093277080
+      boss_t3_darkmaster_b_130: 7440110103686833307
+      boss_t3_darkmaster_b_131: -9170556801145211802
+      boss_t3_darkmaster_b_132: 8422455924689837897
+      boss_t3_darkmaster_b_133: -7208906916138296775
+      boss_t3_darkmaster_b_134: -2998991472713407372
+      boss_t3_darkmaster_b_135: -5889428440633024016
+      boss_t3_darkmaster_b_136: -2617569486772053814
+      boss_t3_darkmaster_b_137: 4479126437684712359
+      boss_t3_darkmaster_b_138: -6570388794853048256
+      boss_t3_darkmaster_b_139: 7036797684261885877
+      boss_t3_darkmaster_b_14: 1923507133435170629
+      boss_t3_darkmaster_b_140: 8783862298310486691
+      boss_t3_darkmaster_b_141: 1414689915991305920
+      boss_t3_darkmaster_b_142: 6531791548814036673
+      boss_t3_darkmaster_b_143: 7629212125242418217
+      boss_t3_darkmaster_b_144: 8875912854771271770
+      boss_t3_darkmaster_b_145: -803186506977478871
+      boss_t3_darkmaster_b_146: 6228444270318448609
+      boss_t3_darkmaster_b_147: 1537319479544848853
+      boss_t3_darkmaster_b_148: 6572572328135158004
+      boss_t3_darkmaster_b_149: -3358017083707315409
+      boss_t3_darkmaster_b_15: 7173373624006249704
+      boss_t3_darkmaster_b_150: -1623678781098461640
+      boss_t3_darkmaster_b_151: -5350167160375545617
+      boss_t3_darkmaster_b_152: -1500971203211735913
+      boss_t3_darkmaster_b_153: 5494219735010888621
+      boss_t3_darkmaster_b_154: 7665784834543358305
+      boss_t3_darkmaster_b_155: -8794045183131706801
+      boss_t3_darkmaster_b_156: -1674797901881733133
+      boss_t3_darkmaster_b_157: 8454824160943658396
+      boss_t3_darkmaster_b_158: 5884325242105422675
+      boss_t3_darkmaster_b_159: 3189955216187516398
+      boss_t3_darkmaster_b_16: -9110818329263462831
+      boss_t3_darkmaster_b_160: 9006875265585907601
+      boss_t3_darkmaster_b_17: -4429412921637410919
+      boss_t3_darkmaster_b_18: -6362214156620330255
+      boss_t3_darkmaster_b_19: 4131175077337938795
+      boss_t3_darkmaster_b_2: -3931644467178982501
+      boss_t3_darkmaster_b_20: 7325498557035583568
+      boss_t3_darkmaster_b_21: -9185105172149809441
+      boss_t3_darkmaster_b_22: 8873314400856873389
+      boss_t3_darkmaster_b_23: 197370137222669520
+      boss_t3_darkmaster_b_24: -3984945335973584970
+      boss_t3_darkmaster_b_25: -219994227348957879
+      boss_t3_darkmaster_b_26: 8227407964511497921
+      boss_t3_darkmaster_b_27: -854274105529994244
+      boss_t3_darkmaster_b_28: 1847950620764188033
+      boss_t3_darkmaster_b_29: -4493775296832782854
+      boss_t3_darkmaster_b_3: 256465449549449447
+      boss_t3_darkmaster_b_30: -4330521301292551983
+      boss_t3_darkmaster_b_31: 1207820685865959087
+      boss_t3_darkmaster_b_32: -8320089381943099868
+      boss_t3_darkmaster_b_33: -8690466229409141266
+      boss_t3_darkmaster_b_34: 567624804629080600
+      boss_t3_darkmaster_b_35: 7658905967126497313
+      boss_t3_darkmaster_b_36: 1711236649194473537
+      boss_t3_darkmaster_b_37: 5297114316657770122
+      boss_t3_darkmaster_b_38: 5258426364528748234
+      boss_t3_darkmaster_b_39: -6597800024955838915
+      boss_t3_darkmaster_b_4: 4495874355160870529
+      boss_t3_darkmaster_b_40: 3075415069393794802
+      boss_t3_darkmaster_b_41: 583237657364580427
+      boss_t3_darkmaster_b_42: -2040766242165118086
+      boss_t3_darkmaster_b_43: 7506241058299579979
+      boss_t3_darkmaster_b_44: 1647424191863889171
+      boss_t3_darkmaster_b_45: -4583574382080901375
+      boss_t3_darkmaster_b_46: 3376868799569718773
+      boss_t3_darkmaster_b_47: -6424986991583788740
+      boss_t3_darkmaster_b_48: -7910243849396312109
+      boss_t3_darkmaster_b_49: 4303787865025407569
+      boss_t3_darkmaster_b_5: 3148325545655316993
+      boss_t3_darkmaster_b_50: -2789599430935992565
+      boss_t3_darkmaster_b_51: -4079897709544449120
+      boss_t3_darkmaster_b_52: 6469880457617743678
+      boss_t3_darkmaster_b_53: 8942230805996599815
+      boss_t3_darkmaster_b_54: -4233368725662497218
+      boss_t3_darkmaster_b_55: -8523066471761744966
+      boss_t3_darkmaster_b_56: 150784408732184559
+      boss_t3_darkmaster_b_57: -7181445073695893384
+      boss_t3_darkmaster_b_58: 2626056760348593337
+      boss_t3_darkmaster_b_59: -4352805586417181779
+      boss_t3_darkmaster_b_6: 9068726242228527596
+      boss_t3_darkmaster_b_60: 9111489394018687240
+      boss_t3_darkmaster_b_61: 6991594848560019137
+      boss_t3_darkmaster_b_62: -2808139699372087968
+      boss_t3_darkmaster_b_63: -274420748060404043
+      boss_t3_darkmaster_b_64: 7288126779030487995
+      boss_t3_darkmaster_b_65: -5354755259567234799
+      boss_t3_darkmaster_b_66: -5511934341279121982
+      boss_t3_darkmaster_b_67: -7098662044629410002
+      boss_t3_darkmaster_b_68: 3913858588541427807
+      boss_t3_darkmaster_b_69: 6126845739757440224
+      boss_t3_darkmaster_b_7: -4190929873451291066
+      boss_t3_darkmaster_b_70: -5549896252764301968
+      boss_t3_darkmaster_b_71: -771939582155553018
+      boss_t3_darkmaster_b_72: 3843183570500858338
+      boss_t3_darkmaster_b_73: -4838372111362068605
+      boss_t3_darkmaster_b_74: 2325690299144043228
+      boss_t3_darkmaster_b_75: 6763532803711319809
+      boss_t3_darkmaster_b_76: -7356922850539495047
+      boss_t3_darkmaster_b_77: -1874490877789792767
+      boss_t3_darkmaster_b_78: -7519196356142605875
+      boss_t3_darkmaster_b_79: -6058106638015570440
+      boss_t3_darkmaster_b_8: 7090211816162659287
+      boss_t3_darkmaster_b_80: 6467823728028165232
+      boss_t3_darkmaster_b_81: -1750159463753192166
+      boss_t3_darkmaster_b_82: -8236885448041530301
+      boss_t3_darkmaster_b_83: 5278478099726175210
+      boss_t3_darkmaster_b_84: -2894836886046994945
+      boss_t3_darkmaster_b_85: 1551501182843992955
+      boss_t3_darkmaster_b_86: 8478551570374175409
+      boss_t3_darkmaster_b_87: -2170337611168120992
+      boss_t3_darkmaster_b_88: -5156313565505352405
+      boss_t3_darkmaster_b_89: 668934511187756021
+      boss_t3_darkmaster_b_9: 7598209229762747400
+      boss_t3_darkmaster_b_90: 7003479899115928707
+      boss_t3_darkmaster_b_91: -1899507352624195838
+      boss_t3_darkmaster_b_92: -8452308517837915366
+      boss_t3_darkmaster_b_93: 6971850056527164809
+      boss_t3_darkmaster_b_94: 1417891138330949970
+      boss_t3_darkmaster_b_95: -2169237783866977418
+      boss_t3_darkmaster_b_96: 6847431234600397569
+      boss_t3_darkmaster_b_97: -8874215515949033522
+      boss_t3_darkmaster_b_98: -7522482916384704424
+      boss_t3_darkmaster_b_99: 571303565055317322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

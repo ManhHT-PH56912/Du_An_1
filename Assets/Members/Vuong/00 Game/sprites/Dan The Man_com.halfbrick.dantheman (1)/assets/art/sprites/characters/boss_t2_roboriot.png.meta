@@ -1,0 +1,3991 @@
+fileFormatVersion: 2
+guid: 976c9a63ff535ac4dbccb7d9bb8ad2e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7368626370592088239
+    second: boss_t2_roboriot_0
+  - first:
+      213: 6482564297536650718
+    second: boss_t2_roboriot_1
+  - first:
+      213: 3165464016476548289
+    second: boss_t2_roboriot_2
+  - first:
+      213: -5785079912443969273
+    second: boss_t2_roboriot_3
+  - first:
+      213: 6706183722483409578
+    second: boss_t2_roboriot_4
+  - first:
+      213: 3995385285198774349
+    second: boss_t2_roboriot_5
+  - first:
+      213: 2115610095770338104
+    second: boss_t2_roboriot_6
+  - first:
+      213: -5606382391013376089
+    second: boss_t2_roboriot_7
+  - first:
+      213: 2982568962898950621
+    second: boss_t2_roboriot_8
+  - first:
+      213: -7695555472040611869
+    second: boss_t2_roboriot_9
+  - first:
+      213: -448196297887899020
+    second: boss_t2_roboriot_10
+  - first:
+      213: -6130234992217498804
+    second: boss_t2_roboriot_11
+  - first:
+      213: -6980679781048776129
+    second: boss_t2_roboriot_12
+  - first:
+      213: -1807098281023673838
+    second: boss_t2_roboriot_13
+  - first:
+      213: 5328142702688312317
+    second: boss_t2_roboriot_14
+  - first:
+      213: -8417756559939740002
+    second: boss_t2_roboriot_15
+  - first:
+      213: 7057670662716122632
+    second: boss_t2_roboriot_16
+  - first:
+      213: -2162165898181253573
+    second: boss_t2_roboriot_17
+  - first:
+      213: 4838665764091312137
+    second: boss_t2_roboriot_18
+  - first:
+      213: 8607791411068393840
+    second: boss_t2_roboriot_19
+  - first:
+      213: -9027461018207758583
+    second: boss_t2_roboriot_20
+  - first:
+      213: 6922695441076040500
+    second: boss_t2_roboriot_21
+  - first:
+      213: -1240547605787471100
+    second: boss_t2_roboriot_22
+  - first:
+      213: 233223456810979273
+    second: boss_t2_roboriot_23
+  - first:
+      213: -2599219811329166172
+    second: boss_t2_roboriot_24
+  - first:
+      213: 4303261937869022797
+    second: boss_t2_roboriot_25
+  - first:
+      213: 8040834207893446309
+    second: boss_t2_roboriot_26
+  - first:
+      213: -4724207069899000454
+    second: boss_t2_roboriot_27
+  - first:
+      213: 1848461241811016575
+    second: boss_t2_roboriot_28
+  - first:
+      213: 1590334783959489300
+    second: boss_t2_roboriot_29
+  - first:
+      213: -5106492586081742237
+    second: boss_t2_roboriot_30
+  - first:
+      213: -7199823290087652025
+    second: boss_t2_roboriot_31
+  - first:
+      213: -1143436633932711602
+    second: boss_t2_roboriot_32
+  - first:
+      213: 5671299373710925692
+    second: boss_t2_roboriot_33
+  - first:
+      213: 1202410638159170647
+    second: boss_t2_roboriot_34
+  - first:
+      213: 1401070765600824576
+    second: boss_t2_roboriot_35
+  - first:
+      213: -6293750543500225579
+    second: boss_t2_roboriot_36
+  - first:
+      213: -1300630438847407245
+    second: boss_t2_roboriot_37
+  - first:
+      213: 738576735319106481
+    second: boss_t2_roboriot_38
+  - first:
+      213: -8790180395823250126
+    second: boss_t2_roboriot_39
+  - first:
+      213: -7523795870526895962
+    second: boss_t2_roboriot_40
+  - first:
+      213: 4025724715743354385
+    second: boss_t2_roboriot_41
+  - first:
+      213: 3179230625255501696
+    second: boss_t2_roboriot_42
+  - first:
+      213: 4769518165510746226
+    second: boss_t2_roboriot_43
+  - first:
+      213: -6949380000493000944
+    second: boss_t2_roboriot_44
+  - first:
+      213: 2098718636154807558
+    second: boss_t2_roboriot_45
+  - first:
+      213: -1165863538941145982
+    second: boss_t2_roboriot_46
+  - first:
+      213: 9170565503758561476
+    second: boss_t2_roboriot_47
+  - first:
+      213: 565732136166306128
+    second: boss_t2_roboriot_48
+  - first:
+      213: -5791466492779133956
+    second: boss_t2_roboriot_49
+  - first:
+      213: 2703671477701938813
+    second: boss_t2_roboriot_50
+  - first:
+      213: 6610300365758888590
+    second: boss_t2_roboriot_51
+  - first:
+      213: 273541807774951088
+    second: boss_t2_roboriot_52
+  - first:
+      213: 6243668485853242256
+    second: boss_t2_roboriot_53
+  - first:
+      213: -6623772173999497743
+    second: boss_t2_roboriot_54
+  - first:
+      213: 6258119128169199279
+    second: boss_t2_roboriot_55
+  - first:
+      213: -7607347502287051477
+    second: boss_t2_roboriot_56
+  - first:
+      213: 709327147542778282
+    second: boss_t2_roboriot_57
+  - first:
+      213: 1409407266540883664
+    second: boss_t2_roboriot_58
+  - first:
+      213: 9184133168016658627
+    second: boss_t2_roboriot_59
+  - first:
+      213: -47342648031636202
+    second: boss_t2_roboriot_60
+  - first:
+      213: 1965011202861623845
+    second: boss_t2_roboriot_61
+  - first:
+      213: 3042370265421817573
+    second: boss_t2_roboriot_62
+  - first:
+      213: 2530375700891395147
+    second: boss_t2_roboriot_63
+  - first:
+      213: -1423397140560629836
+    second: boss_t2_roboriot_64
+  - first:
+      213: 5120222232327365838
+    second: boss_t2_roboriot_65
+  - first:
+      213: -306705237258127158
+    second: boss_t2_roboriot_66
+  - first:
+      213: -4562731978791069934
+    second: boss_t2_roboriot_67
+  - first:
+      213: 2600215463496952362
+    second: boss_t2_roboriot_68
+  - first:
+      213: -635043966073883603
+    second: boss_t2_roboriot_69
+  - first:
+      213: 5653088358560499792
+    second: boss_t2_roboriot_70
+  - first:
+      213: -3294435334076229219
+    second: boss_t2_roboriot_71
+  - first:
+      213: -2454610918371854860
+    second: boss_t2_roboriot_72
+  - first:
+      213: 2759164609494229089
+    second: boss_t2_roboriot_73
+  - first:
+      213: -4348183167098549725
+    second: boss_t2_roboriot_74
+  - first:
+      213: 1740253182003300305
+    second: boss_t2_roboriot_75
+  - first:
+      213: 6369393523967085127
+    second: boss_t2_roboriot_76
+  - first:
+      213: 5386793638007904301
+    second: boss_t2_roboriot_77
+  - first:
+      213: -7024516598280808780
+    second: boss_t2_roboriot_78
+  - first:
+      213: -7337030246206553342
+    second: boss_t2_roboriot_79
+  - first:
+      213: -5921774528462678942
+    second: boss_t2_roboriot_80
+  - first:
+      213: 6748548298125048336
+    second: boss_t2_roboriot_81
+  - first:
+      213: -6771341908868540030
+    second: boss_t2_roboriot_82
+  - first:
+      213: -652409081426013467
+    second: boss_t2_roboriot_83
+  - first:
+      213: -7295377339604136658
+    second: boss_t2_roboriot_84
+  - first:
+      213: -7326311499470661387
+    second: boss_t2_roboriot_85
+  - first:
+      213: 7102587838732961500
+    second: boss_t2_roboriot_86
+  - first:
+      213: 3245149802524270441
+    second: boss_t2_roboriot_87
+  - first:
+      213: -8255884583827199191
+    second: boss_t2_roboriot_88
+  - first:
+      213: 3728221741379928922
+    second: boss_t2_roboriot_89
+  - first:
+      213: 2362419556696075759
+    second: boss_t2_roboriot_90
+  - first:
+      213: 203989693284558055
+    second: boss_t2_roboriot_91
+  - first:
+      213: -6703648861932915106
+    second: boss_t2_roboriot_92
+  - first:
+      213: -7746696388168230159
+    second: boss_t2_roboriot_93
+  - first:
+      213: 7370367139400950218
+    second: boss_t2_roboriot_94
+  - first:
+      213: -1069631851987558989
+    second: boss_t2_roboriot_95
+  - first:
+      213: 5197036574823665869
+    second: boss_t2_roboriot_96
+  - first:
+      213: -716448474610999154
+    second: boss_t2_roboriot_97
+  - first:
+      213: -1011702361655289715
+    second: boss_t2_roboriot_98
+  - first:
+      213: 7252364677480656567
+    second: boss_t2_roboriot_99
+  - first:
+      213: 3396672699954835067
+    second: boss_t2_roboriot_100
+  - first:
+      213: -6629017165242846842
+    second: boss_t2_roboriot_101
+  - first:
+      213: 816684218357293756
+    second: boss_t2_roboriot_102
+  - first:
+      213: 805079585465377969
+    second: boss_t2_roboriot_103
+  - first:
+      213: -6498700359767689423
+    second: boss_t2_roboriot_104
+  - first:
+      213: 2528096041345412573
+    second: boss_t2_roboriot_105
+  - first:
+      213: 5932740353998528278
+    second: boss_t2_roboriot_106
+  - first:
+      213: -1401536792819655431
+    second: boss_t2_roboriot_107
+  - first:
+      213: 5168818716072895722
+    second: boss_t2_roboriot_108
+  - first:
+      213: -5450288734006673200
+    second: boss_t2_roboriot_109
+  - first:
+      213: -799818264738815687
+    second: boss_t2_roboriot_110
+  - first:
+      213: -3790310935368740836
+    second: boss_t2_roboriot_111
+  - first:
+      213: -8293254787922913234
+    second: boss_t2_roboriot_112
+  - first:
+      213: -6558937776830407524
+    second: boss_t2_roboriot_113
+  - first:
+      213: 1711065381886519805
+    second: boss_t2_roboriot_114
+  - first:
+      213: 1520961154356223766
+    second: boss_t2_roboriot_115
+  - first:
+      213: 7768081822569913416
+    second: boss_t2_roboriot_116
+  - first:
+      213: 7038819464421741881
+    second: boss_t2_roboriot_117
+  - first:
+      213: 13852230098412334
+    second: boss_t2_roboriot_118
+  - first:
+      213: 4655938926656091496
+    second: boss_t2_roboriot_119
+  - first:
+      213: 9102574748732363935
+    second: boss_t2_roboriot_120
+  - first:
+      213: -5004303781458473195
+    second: boss_t2_roboriot_121
+  - first:
+      213: -8446498556488960739
+    second: boss_t2_roboriot_122
+  - first:
+      213: -4787484668899409782
+    second: boss_t2_roboriot_123
+  - first:
+      213: 800258041990217640
+    second: boss_t2_roboriot_124
+  - first:
+      213: 5230423441267223218
+    second: boss_t2_roboriot_125
+  - first:
+      213: 4240656830421507375
+    second: boss_t2_roboriot_126
+  - first:
+      213: 6715142761663317580
+    second: boss_t2_roboriot_127
+  - first:
+      213: 7260439857259546245
+    second: boss_t2_roboriot_128
+  - first:
+      213: -3724638891679380902
+    second: boss_t2_roboriot_129
+  - first:
+      213: 8091753670013781738
+    second: boss_t2_roboriot_130
+  - first:
+      213: 4265343847848901442
+    second: boss_t2_roboriot_131
+  - first:
+      213: -4287121228567550411
+    second: boss_t2_roboriot_132
+  - first:
+      213: 8234670138927744163
+    second: boss_t2_roboriot_133
+  - first:
+      213: 3613389316439973755
+    second: boss_t2_roboriot_134
+  - first:
+      213: -477520256568729276
+    second: boss_t2_roboriot_135
+  - first:
+      213: 3486049126667928969
+    second: boss_t2_roboriot_136
+  - first:
+      213: 344568047458116077
+    second: boss_t2_roboriot_137
+  - first:
+      213: -6620101322850737831
+    second: boss_t2_roboriot_138
+  - first:
+      213: 1679927048617270500
+    second: boss_t2_roboriot_139
+  - first:
+      213: 2104282462037925617
+    second: boss_t2_roboriot_140
+  - first:
+      213: -7567156148844582718
+    second: boss_t2_roboriot_141
+  - first:
+      213: 3610437321861366310
+    second: boss_t2_roboriot_142
+  - first:
+      213: -182940367912139756
+    second: boss_t2_roboriot_143
+  - first:
+      213: -8562736459577049251
+    second: boss_t2_roboriot_144
+  - first:
+      213: 3932371434617205319
+    second: boss_t2_roboriot_145
+  - first:
+      213: 8347669671406720820
+    second: boss_t2_roboriot_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_t2_roboriot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a7b5b4ae924660800000000000000
+      internalID: 7368626370592088239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 482
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd3d4ce1e1b6f950800000000000000
+      internalID: 6482564297536650718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 482
+        width: 93
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccad5b60ccfdeb20800000000000000
+      internalID: 3165464016476548289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 480
+        width: 154
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7018785687447bfa0800000000000000
+      internalID: -5785079912443969273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 492
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa261219096211d50800000000000000
+      internalID: 6706183722483409578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 482
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4088199fb5727730800000000000000
+      internalID: 3995385285198774349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 482
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8330f915c282c5d10800000000000000
+      internalID: 2115610095770338104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 480
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af74a45be02232b0800000000000000
+      internalID: -5606382391013376089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 440
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd972bf5ba6346920800000000000000
+      internalID: 2982568962898950621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 440
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efa4bb2215e33590800000000000000
+      internalID: -7695555472040611869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 425
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4722fba77dfa7c9f0800000000000000
+      internalID: -448196297887899020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 464
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bd43301c70deaa0800000000000000
+      internalID: -6130234992217498804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 446
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a06df69b4af1f90800000000000000
+      internalID: -6980679781048776129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 444
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a6d5510b5ebe6e0800000000000000
+      internalID: -1807098281023673838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 462
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb9352fe8d51f940800000000000000
+      internalID: 5328142702688312317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 461
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ed317020f1e2b80800000000000000
+      internalID: -8417756559939740002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 461
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806e3e81312e1f160800000000000000
+      internalID: 7057670662716122632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 448
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36617d32917ef1e0800000000000000
+      internalID: -2162165898181253573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 444
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908b18740e4662340800000000000000
+      internalID: 4838665764091312137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 444
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d36daea4057770800000000000000
+      internalID: 8607791411068393840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 444
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9075a02980408b280800000000000000
+      internalID: -9027461018207758583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433bd8d53da521060800000000000000
+      internalID: 6922695441076040500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40393167680b8cee0800000000000000
+      internalID: -1240547605787471100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfc1809f739c3300800000000000000
+      internalID: 233223456810979273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a431945a57bdebd0800000000000000
+      internalID: -2599219811329166172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46642ecee148bb30800000000000000
+      internalID: 4303261937869022797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae5c432c18c69f60800000000000000
+      internalID: 8040834207893446309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75f74923be307eb0800000000000000
+      internalID: -4724207069899000454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 427
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b1933b4bd07a910800000000000000
+      internalID: 1848461241811016575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 426
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5adf5f01021610800000000000000
+      internalID: 1590334783959489300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 434
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629e6e5c081229b0800000000000000
+      internalID: -5106492586081742237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 434
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745cdbc2dd6151c90800000000000000
+      internalID: -7199823290087652025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 432
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b54b8072b120f0800000000000000
+      internalID: -1143436633932711602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 431
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f5fe88bb084be40800000000000000
+      internalID: 5671299373710925692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 425
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cc0a1da12dfa010800000000000000
+      internalID: 1202410638159170647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 426
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d52d8207a917310800000000000000
+      internalID: 1401070765600824576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 426
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d35fb5f93b18a8a0800000000000000
+      internalID: -6293750543500225579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 424
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b9074c18b33fde0800000000000000
+      internalID: -1300630438847407245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_38
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3201ca0a3ff3a00800000000000000
+      internalID: 738576735319106481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2354a5b9081030680800000000000000
+      internalID: -8790180395823250126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a881beb48b169790800000000000000
+      internalID: -7523795870526895962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e946dbc4f3ed730800000000000000
+      internalID: 4025724715743354385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fa56dc865ee1c20800000000000000
+      internalID: 3179230625255501696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2707a05608bb03240800000000000000
+      internalID: 4769518165510746226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017296d75b7de8f90800000000000000
+      internalID: -6949380000493000944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_45
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605ef77ea75202d10800000000000000
+      internalID: 2098718636154807558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_46
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c45d0d94502dfe0800000000000000
+      internalID: -1165863538941145982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0faf8ecb4644f70800000000000000
+      internalID: 9170565503758561476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_48
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 397
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05137366162e9d700800000000000000
+      internalID: 565732136166306128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 406
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38259c8e390afa0800000000000000
+      internalID: -5791466492779133956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 364
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e87c162ee558520800000000000000
+      internalID: 2703671477701938813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 358
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a71b7e8218cbb50800000000000000
+      internalID: 6610300365758888590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 349
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6e4ab23d0dbc300800000000000000
+      internalID: 273541807774951088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 354
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09365925867f5a650800000000000000
+      internalID: 6243668485853242256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 352
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd94af4d42a314a0800000000000000
+      internalID: -6623772173999497743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 350
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa63a9ca03e49d650800000000000000
+      internalID: 6258119128169199279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 373
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25a93b80c54d6690800000000000000
+      internalID: -7607347502287051477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_57
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 343
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa114d2584908d900800000000000000
+      internalID: 709327147542778282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_58
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 380
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de060a01783f8310800000000000000
+      internalID: 1409407266540883664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_59
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 360
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c01489e478947f70800000000000000
+      internalID: 9184133168016658627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_60
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 375
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151959cc1ec75ff0800000000000000
+      internalID: -47342648031636202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 344
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aea36274f154b10800000000000000
+      internalID: 1965011202861623845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_62
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 346
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6ada123aba83a20800000000000000
+      internalID: 3042370265421817573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_63
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 341
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4469ef1b43bd1320800000000000000
+      internalID: 2530375700891395147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 359
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfa39697d31f3ce0800000000000000
+      internalID: -1423397140560629836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42ee00efeae0740800000000000000
+      internalID: 5120222232327365838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 305
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac83a72363d5ebbf0800000000000000
+      internalID: -306705237258127158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 308
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217d7de807beda0c0800000000000000
+      internalID: -4562731978791069934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 300
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aa6310032d51420800000000000000
+      internalID: 2600215463496952362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 300
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d243961a0eedf27f0800000000000000
+      internalID: -635043966073883603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 299
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05805e729edc37e40800000000000000
+      internalID: 5653088358560499792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_71
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 299
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9914e0b480d742d0800000000000000
+      internalID: -3294435334076229219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_72
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 304
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f576a4ff587fedd0800000000000000
+      internalID: -2454610918371854860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160abb9f7958a4620800000000000000
+      internalID: 2759164609494229089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a02ca727628a3c0800000000000000
+      internalID: -4348183167098549725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 269
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7cc8c7c0f962810800000000000000
+      internalID: 1740253182003300305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 232
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a4bbed9a1a46850800000000000000
+      internalID: 6369393523967085127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 270
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289bc7f54cb1ca40800000000000000
+      internalID: 5386793638007904301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 233
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b613a01f57e38e90800000000000000
+      internalID: -7024516598280808780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 258
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203cf844dd1ad2a90800000000000000
+      internalID: -7337030246206553342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 258
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2649607f071a1dda0800000000000000
+      internalID: -5921774528462678942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_81
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 257
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a7f4bfbe8a7ad50800000000000000
+      internalID: 6748548298125048336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_82
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 257
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289dc25f86c5702a0800000000000000
+      internalID: -6771341908868540030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_83
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 260
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21d55a56d22f6f0800000000000000
+      internalID: -652409081426013467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_84
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 234
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d067256fc91ca90800000000000000
+      internalID: -7295377339604136658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 234
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f81138f186b35a90800000000000000
+      internalID: -7326311499470661387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_86
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 234
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd600b91206719260800000000000000
+      internalID: 7102587838732961500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 233
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f53664d86190d20800000000000000
+      internalID: 3245149802524270441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 233
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2b5a66b43d6d80800000000000000
+      internalID: -8255884583827199191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 242
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53c6dabbed4db330800000000000000
+      internalID: 3728221741379928922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed2e47f11009c020800000000000000
+      internalID: 2362419556696075759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_91
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e421169b87b4d200800000000000000
+      internalID: 203989693284558055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_92
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567985a0ead7f2a0800000000000000
+      internalID: -6703648861932915106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_93
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 246
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa5e60cda43e7490800000000000000
+      internalID: -7746696388168230159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_94
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 234
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1a4380dddc84660800000000000000
+      internalID: 7370367139400950218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_95
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 246
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd96dd6f77e721f0800000000000000
+      internalID: -1069631851987558989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_96
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 234
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0d31fca359f1840800000000000000
+      internalID: 5197036574823665869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_97
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 246
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e0f288e9ae06f0800000000000000
+      internalID: -716448474610999154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_98
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 234
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88dc13ff06b5f1f0800000000000000
+      internalID: -1011702361655289715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_99
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 246
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be23dedf3395a460800000000000000
+      internalID: 7252364677480656567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_100
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 234
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e231303d7632f20800000000000000
+      internalID: 3396672699954835067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681bbbf92000104a0800000000000000
+      internalID: -6629017165242846842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 195
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2aad838f1755b00800000000000000
+      internalID: 816684218357293756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b425931e973c2b00800000000000000
+      internalID: 805079585465377969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_104
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 210
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137f752547affc5a0800000000000000
+      internalID: -6498700359767689423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 210
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde67684f9951320800000000000000
+      internalID: 2528096041345412573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_106
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 210
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f15b04be3555250800000000000000
+      internalID: 5932740353998528278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_107
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 209
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc185c66bdbc8ce0800000000000000
+      internalID: -1401536792819655431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_108
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae46ae79c355bb740800000000000000
+      internalID: 5168818716072895722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_109
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00836f54fac54b0800000000000000
+      internalID: -5450288734006673200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_110
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931af5d968976e4f0800000000000000
+      internalID: -799818264738815687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_111
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105115494c166bc0800000000000000
+      internalID: -3790310935368740836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_112
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e281c0eb5b078ec80800000000000000
+      internalID: -8293254787922913234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_113
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 219
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c122cb7d8f9f4a0800000000000000
+      internalID: -6558937776830407524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_114
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df960d236eceeb710800000000000000
+      internalID: 1711065381886519805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_115
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 219
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f129a8c1a8b1510800000000000000
+      internalID: 1520961154356223766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_116
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cd274b245cdcb60800000000000000
+      internalID: 7768081822569913416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_117
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 219
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93596f67209eea160800000000000000
+      internalID: 7038819464421741881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_118
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23ec56a786313000800000000000000
+      internalID: 13852230098412334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_119
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 219
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865ff3b19c73d9040800000000000000
+      internalID: 4655938926656091496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_120
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 139
+        width: 111
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9412a7a187d25e70800000000000000
+      internalID: 9102574748732363935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_121
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 190
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f060689342d8ab0800000000000000
+      internalID: -5004303781458473195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_122
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 192
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1530a8705208ca80800000000000000
+      internalID: -8446498556488960739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_123
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 192
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a804f9e0f007f8db0800000000000000
+      internalID: -4787484668899409782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 121
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff97103761b1b00800000000000000
+      internalID: 800258041990217640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_125
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 139
+        width: 120
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baeb996862369840800000000000000
+      internalID: 5230423441267223218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_126
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 139
+        width: 116
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9b975be6d9da30800000000000000
+      internalID: 4240656830421507375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_127
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 164
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c464afc63caf03d50800000000000000
+      internalID: 6715142761663317580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_128
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 145
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860b0d259342c460800000000000000
+      internalID: 7260439857259546245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_129
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 146
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a88d879ac6f4cc0800000000000000
+      internalID: -3724638891679380902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68227471fab4070800000000000000
+      internalID: 8091753670013781738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_131
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7eef71ab813b30800000000000000
+      internalID: 4265343847848901442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_132
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 83
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536e13ee4f51184c0800000000000000
+      internalID: -4287121228567550411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_133
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 135
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a40e49bcdc674270800000000000000
+      internalID: 8234670138927744163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_134
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f98915076552230800000000000000
+      internalID: 3613389316439973755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_135
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 29
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441ea2e4bd18f59f0800000000000000
+      internalID: -477520256568729276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_136
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 30
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9854a98f53fe06030800000000000000
+      internalID: 3486049126667928969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_137
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 81
+        width: 110
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e0b540d628c400800000000000000
+      internalID: 344568047458116077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_138
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9516362fbeca024a0800000000000000
+      internalID: -6620101322850737831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_139
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 80
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec176500cc405710800000000000000
+      internalID: 1679927048617270500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_140
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 38
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fedad010c9e33d10800000000000000
+      internalID: 2104282462037925617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_141
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 80
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8a43c339f0cf690800000000000000
+      internalID: -7567156148844582718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_142
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 29
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6220c558d99da1230800000000000000
+      internalID: 3610437321861366310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_143
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 11
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414848364b0167df0800000000000000
+      internalID: -182940367912139756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_144
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 47
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fbf9dae8c0b2980800000000000000
+      internalID: -8562736459577049251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_145
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74270453cf6929630800000000000000
+      internalID: 3932371434617205319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_t2_roboriot_146
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437df7a9651e8d370800000000000000
+      internalID: 8347669671406720820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_t2_roboriot_0: 7368626370592088239
+      boss_t2_roboriot_1: 6482564297536650718
+      boss_t2_roboriot_10: -448196297887899020
+      boss_t2_roboriot_100: 3396672699954835067
+      boss_t2_roboriot_101: -6629017165242846842
+      boss_t2_roboriot_102: 816684218357293756
+      boss_t2_roboriot_103: 805079585465377969
+      boss_t2_roboriot_104: -6498700359767689423
+      boss_t2_roboriot_105: 2528096041345412573
+      boss_t2_roboriot_106: 5932740353998528278
+      boss_t2_roboriot_107: -1401536792819655431
+      boss_t2_roboriot_108: 5168818716072895722
+      boss_t2_roboriot_109: -5450288734006673200
+      boss_t2_roboriot_11: -6130234992217498804
+      boss_t2_roboriot_110: -799818264738815687
+      boss_t2_roboriot_111: -3790310935368740836
+      boss_t2_roboriot_112: -8293254787922913234
+      boss_t2_roboriot_113: -6558937776830407524
+      boss_t2_roboriot_114: 1711065381886519805
+      boss_t2_roboriot_115: 1520961154356223766
+      boss_t2_roboriot_116: 7768081822569913416
+      boss_t2_roboriot_117: 7038819464421741881
+      boss_t2_roboriot_118: 13852230098412334
+      boss_t2_roboriot_119: 4655938926656091496
+      boss_t2_roboriot_12: -6980679781048776129
+      boss_t2_roboriot_120: 9102574748732363935
+      boss_t2_roboriot_121: -5004303781458473195
+      boss_t2_roboriot_122: -8446498556488960739
+      boss_t2_roboriot_123: -4787484668899409782
+      boss_t2_roboriot_124: 800258041990217640
+      boss_t2_roboriot_125: 5230423441267223218
+      boss_t2_roboriot_126: 4240656830421507375
+      boss_t2_roboriot_127: 6715142761663317580
+      boss_t2_roboriot_128: 7260439857259546245
+      boss_t2_roboriot_129: -3724638891679380902
+      boss_t2_roboriot_13: -1807098281023673838
+      boss_t2_roboriot_130: 8091753670013781738
+      boss_t2_roboriot_131: 4265343847848901442
+      boss_t2_roboriot_132: -4287121228567550411
+      boss_t2_roboriot_133: 8234670138927744163
+      boss_t2_roboriot_134: 3613389316439973755
+      boss_t2_roboriot_135: -477520256568729276
+      boss_t2_roboriot_136: 3486049126667928969
+      boss_t2_roboriot_137: 344568047458116077
+      boss_t2_roboriot_138: -6620101322850737831
+      boss_t2_roboriot_139: 1679927048617270500
+      boss_t2_roboriot_14: 5328142702688312317
+      boss_t2_roboriot_140: 2104282462037925617
+      boss_t2_roboriot_141: -7567156148844582718
+      boss_t2_roboriot_142: 3610437321861366310
+      boss_t2_roboriot_143: -182940367912139756
+      boss_t2_roboriot_144: -8562736459577049251
+      boss_t2_roboriot_145: 3932371434617205319
+      boss_t2_roboriot_146: 8347669671406720820
+      boss_t2_roboriot_15: -8417756559939740002
+      boss_t2_roboriot_16: 7057670662716122632
+      boss_t2_roboriot_17: -2162165898181253573
+      boss_t2_roboriot_18: 4838665764091312137
+      boss_t2_roboriot_19: 8607791411068393840
+      boss_t2_roboriot_2: 3165464016476548289
+      boss_t2_roboriot_20: -9027461018207758583
+      boss_t2_roboriot_21: 6922695441076040500
+      boss_t2_roboriot_22: -1240547605787471100
+      boss_t2_roboriot_23: 233223456810979273
+      boss_t2_roboriot_24: -2599219811329166172
+      boss_t2_roboriot_25: 4303261937869022797
+      boss_t2_roboriot_26: 8040834207893446309
+      boss_t2_roboriot_27: -4724207069899000454
+      boss_t2_roboriot_28: 1848461241811016575
+      boss_t2_roboriot_29: 1590334783959489300
+      boss_t2_roboriot_3: -5785079912443969273
+      boss_t2_roboriot_30: -5106492586081742237
+      boss_t2_roboriot_31: -7199823290087652025
+      boss_t2_roboriot_32: -1143436633932711602
+      boss_t2_roboriot_33: 5671299373710925692
+      boss_t2_roboriot_34: 1202410638159170647
+      boss_t2_roboriot_35: 1401070765600824576
+      boss_t2_roboriot_36: -6293750543500225579
+      boss_t2_roboriot_37: -1300630438847407245
+      boss_t2_roboriot_38: 738576735319106481
+      boss_t2_roboriot_39: -8790180395823250126
+      boss_t2_roboriot_4: 6706183722483409578
+      boss_t2_roboriot_40: -7523795870526895962
+      boss_t2_roboriot_41: 4025724715743354385
+      boss_t2_roboriot_42: 3179230625255501696
+      boss_t2_roboriot_43: 4769518165510746226
+      boss_t2_roboriot_44: -6949380000493000944
+      boss_t2_roboriot_45: 2098718636154807558
+      boss_t2_roboriot_46: -1165863538941145982
+      boss_t2_roboriot_47: 9170565503758561476
+      boss_t2_roboriot_48: 565732136166306128
+      boss_t2_roboriot_49: -5791466492779133956
+      boss_t2_roboriot_5: 3995385285198774349
+      boss_t2_roboriot_50: 2703671477701938813
+      boss_t2_roboriot_51: 6610300365758888590
+      boss_t2_roboriot_52: 273541807774951088
+      boss_t2_roboriot_53: 6243668485853242256
+      boss_t2_roboriot_54: -6623772173999497743
+      boss_t2_roboriot_55: 6258119128169199279
+      boss_t2_roboriot_56: -7607347502287051477
+      boss_t2_roboriot_57: 709327147542778282
+      boss_t2_roboriot_58: 1409407266540883664
+      boss_t2_roboriot_59: 9184133168016658627
+      boss_t2_roboriot_6: 2115610095770338104
+      boss_t2_roboriot_60: -47342648031636202
+      boss_t2_roboriot_61: 1965011202861623845
+      boss_t2_roboriot_62: 3042370265421817573
+      boss_t2_roboriot_63: 2530375700891395147
+      boss_t2_roboriot_64: -1423397140560629836
+      boss_t2_roboriot_65: 5120222232327365838
+      boss_t2_roboriot_66: -306705237258127158
+      boss_t2_roboriot_67: -4562731978791069934
+      boss_t2_roboriot_68: 2600215463496952362
+      boss_t2_roboriot_69: -635043966073883603
+      boss_t2_roboriot_7: -5606382391013376089
+      boss_t2_roboriot_70: 5653088358560499792
+      boss_t2_roboriot_71: -3294435334076229219
+      boss_t2_roboriot_72: -2454610918371854860
+      boss_t2_roboriot_73: 2759164609494229089
+      boss_t2_roboriot_74: -4348183167098549725
+      boss_t2_roboriot_75: 1740253182003300305
+      boss_t2_roboriot_76: 6369393523967085127
+      boss_t2_roboriot_77: 5386793638007904301
+      boss_t2_roboriot_78: -7024516598280808780
+      boss_t2_roboriot_79: -7337030246206553342
+      boss_t2_roboriot_8: 2982568962898950621
+      boss_t2_roboriot_80: -5921774528462678942
+      boss_t2_roboriot_81: 6748548298125048336
+      boss_t2_roboriot_82: -6771341908868540030
+      boss_t2_roboriot_83: -652409081426013467
+      boss_t2_roboriot_84: -7295377339604136658
+      boss_t2_roboriot_85: -7326311499470661387
+      boss_t2_roboriot_86: 7102587838732961500
+      boss_t2_roboriot_87: 3245149802524270441
+      boss_t2_roboriot_88: -8255884583827199191
+      boss_t2_roboriot_89: 3728221741379928922
+      boss_t2_roboriot_9: -7695555472040611869
+      boss_t2_roboriot_90: 2362419556696075759
+      boss_t2_roboriot_91: 203989693284558055
+      boss_t2_roboriot_92: -6703648861932915106
+      boss_t2_roboriot_93: -7746696388168230159
+      boss_t2_roboriot_94: 7370367139400950218
+      boss_t2_roboriot_95: -1069631851987558989
+      boss_t2_roboriot_96: 5197036574823665869
+      boss_t2_roboriot_97: -716448474610999154
+      boss_t2_roboriot_98: -1011702361655289715
+      boss_t2_roboriot_99: 7252364677480656567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

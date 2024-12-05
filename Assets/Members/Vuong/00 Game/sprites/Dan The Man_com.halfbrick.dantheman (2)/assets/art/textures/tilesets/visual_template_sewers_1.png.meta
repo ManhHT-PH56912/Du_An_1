@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: fd73ca565f5cf2d43834e2059381b1e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7190744258820089296
+    second: visual_template_sewers_1_0
+  - first:
+      213: -3882949370996224666
+    second: visual_template_sewers_1_1
+  - first:
+      213: 6976835268752204760
+    second: visual_template_sewers_1_2
+  - first:
+      213: -3557372086684663372
+    second: visual_template_sewers_1_3
+  - first:
+      213: 8644832925904180566
+    second: visual_template_sewers_1_4
+  - first:
+      213: -7979836022340731000
+    second: visual_template_sewers_1_5
+  - first:
+      213: -56325506024150976
+    second: visual_template_sewers_1_6
+  - first:
+      213: 8598726319792182456
+    second: visual_template_sewers_1_7
+  - first:
+      213: -3630986171117138282
+    second: visual_template_sewers_1_8
+  - first:
+      213: -1352097243663704282
+    second: visual_template_sewers_1_9
+  - first:
+      213: 4197497501395907933
+    second: visual_template_sewers_1_10
+  - first:
+      213: -2633336204748831892
+    second: visual_template_sewers_1_11
+  - first:
+      213: -5886729773331630534
+    second: visual_template_sewers_1_12
+  - first:
+      213: -6125107144469010807
+    second: visual_template_sewers_1_13
+  - first:
+      213: -6320021658301317424
+    second: visual_template_sewers_1_14
+  - first:
+      213: 3934068338334423510
+    second: visual_template_sewers_1_15
+  - first:
+      213: 826986390848733117
+    second: visual_template_sewers_1_16
+  - first:
+      213: -4945647197653274861
+    second: visual_template_sewers_1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: visual_template_sewers_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 145
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a6a12ec7aac360800000000000000
+      internalID: 7190744258820089296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 879
+        width: 218
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d81fcae1efc1ac0800000000000000
+      internalID: -3882949370996224666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 855
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3646a46b2b2d060800000000000000
+      internalID: 6976835268752204760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 951
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b145475feca1aec0800000000000000
+      internalID: -3557372086684663372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 759
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6559e1b6ebd98f770800000000000000
+      internalID: 8644832925904180566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 787
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb38aaa6de14190800000000000000
+      internalID: -7979836022340731000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 639
+        width: 119
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048e2ad2044e73ff0800000000000000
+      internalID: -56325506024150976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 766
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d304a700d45770800000000000000
+      internalID: 8598726319792182456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 687
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e053ea0552c9dc0800000000000000
+      internalID: -3630986171117138282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 737
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd3a978b26c3de0800000000000000
+      internalID: -1352097243663704282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 711
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55fa4cfcb1804a30800000000000000
+      internalID: 4197497501395907933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 711
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6345cd7ca2847bd0800000000000000
+      internalID: -2633336204748831892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 711
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363adbd5722e4ea0800000000000000
+      internalID: -5886729773331630534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 687
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986a7ba118f3ffaa0800000000000000
+      internalID: -6125107144469010807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 691
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0debc2469c5ca48a0800000000000000
+      internalID: -6320021658301317424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 687
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d8846f4e989630800000000000000
+      internalID: 3934068338334423510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 687
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbffe9cadbb0a7b00800000000000000
+      internalID: 826986390848733117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_sewers_1_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 639
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f687fa3188d5bb0800000000000000
+      internalID: -4945647197653274861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      visual_template_sewers_1_0: 7190744258820089296
+      visual_template_sewers_1_1: -3882949370996224666
+      visual_template_sewers_1_10: 4197497501395907933
+      visual_template_sewers_1_11: -2633336204748831892
+      visual_template_sewers_1_12: -5886729773331630534
+      visual_template_sewers_1_13: -6125107144469010807
+      visual_template_sewers_1_14: -6320021658301317424
+      visual_template_sewers_1_15: 3934068338334423510
+      visual_template_sewers_1_16: 826986390848733117
+      visual_template_sewers_1_17: -4945647197653274861
+      visual_template_sewers_1_2: 6976835268752204760
+      visual_template_sewers_1_3: -3557372086684663372
+      visual_template_sewers_1_4: 8644832925904180566
+      visual_template_sewers_1_5: -7979836022340731000
+      visual_template_sewers_1_6: -56325506024150976
+      visual_template_sewers_1_7: 8598726319792182456
+      visual_template_sewers_1_8: -3630986171117138282
+      visual_template_sewers_1_9: -1352097243663704282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

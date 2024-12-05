@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: b8ca246a78415594f9261939d2c6fc5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6001079060217207249
+    second: visual_template_survival_2_0
+  - first:
+      213: 5146816787563091071
+    second: visual_template_survival_2_1
+  - first:
+      213: 8182250272034675822
+    second: visual_template_survival_2_2
+  - first:
+      213: 8344649588163653705
+    second: visual_template_survival_2_3
+  - first:
+      213: -2753470605530840963
+    second: visual_template_survival_2_4
+  - first:
+      213: -895939442696601663
+    second: visual_template_survival_2_5
+  - first:
+      213: -8536692991376834412
+    second: visual_template_survival_2_6
+  - first:
+      213: -2322608655198695711
+    second: visual_template_survival_2_7
+  - first:
+      213: -4566785304485276491
+    second: visual_template_survival_2_8
+  - first:
+      213: -1389678548655700080
+    second: visual_template_survival_2_9
+  - first:
+      213: -2330256287386491081
+    second: visual_template_survival_2_10
+  - first:
+      213: -5683863332129634051
+    second: visual_template_survival_2_11
+  - first:
+      213: -8989178549805687141
+    second: visual_template_survival_2_12
+  - first:
+      213: -1637436360163225160
+    second: visual_template_survival_2_13
+  - first:
+      213: -6801236908528698918
+    second: visual_template_survival_2_14
+  - first:
+      213: 8622766157954423852
+    second: visual_template_survival_2_15
+  - first:
+      213: 7134334119354525437
+    second: visual_template_survival_2_16
+  - first:
+      213: 5928551328461939574
+    second: visual_template_survival_2_17
+  - first:
+      213: 6887689759807479514
+    second: visual_template_survival_2_18
+  - first:
+      213: -9220538735701339362
+    second: visual_template_survival_2_19
+  - first:
+      213: 4481110935473663406
+    second: visual_template_survival_2_20
+  - first:
+      213: -7906883053350153039
+    second: visual_template_survival_2_21
+  - first:
+      213: -558332792206299974
+    second: visual_template_survival_2_22
+  - first:
+      213: -266077146377823395
+    second: visual_template_survival_2_23
+  - first:
+      213: 4935721548777235708
+    second: visual_template_survival_2_24
+  - first:
+      213: 1837511620901913999
+    second: visual_template_survival_2_25
+  - first:
+      213: -8318150544833757396
+    second: visual_template_survival_2_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: visual_template_survival_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d918453c9d184350800000000000000
+      internalID: 6001079060217207249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 879
+        width: 74
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7417ba699a2d6740800000000000000
+      internalID: 5146816787563091071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 879
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c58ff55413d8170800000000000000
+      internalID: 8182250272034675822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 879
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ba9da6962ec370800000000000000
+      internalID: 8344649588163653705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 879
+        width: 69
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70cad1a215b9c9d0800000000000000
+      internalID: -2753470605530840963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 879
+        width: 57
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfbec1e2dbf093f0800000000000000
+      internalID: -895939442696601663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 879
+        width: 31
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490ca6424f2978980800000000000000
+      internalID: -8536692991376834412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 879
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee42aadbbf64cfd0800000000000000
+      internalID: -2322608655198695711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 879
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b45ea026f48f90c0800000000000000
+      internalID: -4566785304485276491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_9
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 975
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097856b09bed6bce0800000000000000
+      internalID: -1389678548655700080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_10
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 879
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73725bab04449afd0800000000000000
+      internalID: -2330256287386491081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 879
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df88b80f96cde11b0800000000000000
+      internalID: -5683863332129634051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 879
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e55445cb5004380800000000000000
+      internalID: -8989178549805687141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 879
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b199225e48a649e0800000000000000
+      internalID: -1637436360163225160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 879
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9fed1f0172d91a0800000000000000
+      internalID: -6801236908528698918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 879
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c1222a2283aa770800000000000000
+      internalID: 8622766157954423852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 879
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6631d051f320360800000000000000
+      internalID: 7134334119354525437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 193
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e4adb502764250800000000000000
+      internalID: 5928551328461939574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 889
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade9b60185df59f50800000000000000
+      internalID: 6887689759807479514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 817
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13dac45fd01a0080800000000000000
+      internalID: -9220538735701339362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 217
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eada60467aa103e30800000000000000
+      internalID: 4481110935473663406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4128461cb154290800000000000000
+      internalID: -7906883053350153039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 375
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc671e98476048f0800000000000000
+      internalID: -558332792206299974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 351
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bdc4fbe34be4cf0800000000000000
+      internalID: -266077146377823395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 351
+        width: 135
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4ab1919943f7440800000000000000
+      internalID: 4935721548777235708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 814
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85c28a6517208910800000000000000
+      internalID: 1837511620901913999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visual_template_survival_2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 1009
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f36f2a62eff8c80800000000000000
+      internalID: -8318150544833757396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      visual_template_survival_2_0: 6001079060217207249
+      visual_template_survival_2_1: 5146816787563091071
+      visual_template_survival_2_10: -2330256287386491081
+      visual_template_survival_2_11: -5683863332129634051
+      visual_template_survival_2_12: -8989178549805687141
+      visual_template_survival_2_13: -1637436360163225160
+      visual_template_survival_2_14: -6801236908528698918
+      visual_template_survival_2_15: 8622766157954423852
+      visual_template_survival_2_16: 7134334119354525437
+      visual_template_survival_2_17: 5928551328461939574
+      visual_template_survival_2_18: 6887689759807479514
+      visual_template_survival_2_19: -9220538735701339362
+      visual_template_survival_2_2: 8182250272034675822
+      visual_template_survival_2_20: 4481110935473663406
+      visual_template_survival_2_21: -7906883053350153039
+      visual_template_survival_2_22: -558332792206299974
+      visual_template_survival_2_23: -266077146377823395
+      visual_template_survival_2_24: 4935721548777235708
+      visual_template_survival_2_25: 1837511620901913999
+      visual_template_survival_2_26: -8318150544833757396
+      visual_template_survival_2_3: 8344649588163653705
+      visual_template_survival_2_4: -2753470605530840963
+      visual_template_survival_2_5: -895939442696601663
+      visual_template_survival_2_6: -8536692991376834412
+      visual_template_survival_2_7: -2322608655198695711
+      visual_template_survival_2_8: -4566785304485276491
+      visual_template_survival_2_9: -1389678548655700080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

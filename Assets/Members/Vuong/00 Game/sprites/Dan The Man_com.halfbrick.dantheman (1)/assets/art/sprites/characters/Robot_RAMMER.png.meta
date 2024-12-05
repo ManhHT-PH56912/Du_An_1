@@ -1,0 +1,2535 @@
+fileFormatVersion: 2
+guid: 1477254fa87ac4e449d9c2a0669c0aa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5133913251158099608
+    second: Robot_RAMMER_0
+  - first:
+      213: 7022788691703674561
+    second: Robot_RAMMER_1
+  - first:
+      213: 2498352881907429260
+    second: Robot_RAMMER_2
+  - first:
+      213: 6475769866437883743
+    second: Robot_RAMMER_3
+  - first:
+      213: -2492219667274246645
+    second: Robot_RAMMER_4
+  - first:
+      213: -7310551652908965474
+    second: Robot_RAMMER_5
+  - first:
+      213: -6664683399794122151
+    second: Robot_RAMMER_6
+  - first:
+      213: 1638077495519402370
+    second: Robot_RAMMER_7
+  - first:
+      213: -5763049625288251094
+    second: Robot_RAMMER_8
+  - first:
+      213: -5611741466720273280
+    second: Robot_RAMMER_9
+  - first:
+      213: -5809031205752801931
+    second: Robot_RAMMER_10
+  - first:
+      213: -3263360532807509022
+    second: Robot_RAMMER_11
+  - first:
+      213: -4924688925285396679
+    second: Robot_RAMMER_12
+  - first:
+      213: 2509773750082810608
+    second: Robot_RAMMER_13
+  - first:
+      213: -7260458760132352620
+    second: Robot_RAMMER_14
+  - first:
+      213: 6790606064672081825
+    second: Robot_RAMMER_15
+  - first:
+      213: -8573457903661590430
+    second: Robot_RAMMER_16
+  - first:
+      213: 7351263188875726938
+    second: Robot_RAMMER_17
+  - first:
+      213: -6790409327992992606
+    second: Robot_RAMMER_18
+  - first:
+      213: 166668006224374091
+    second: Robot_RAMMER_19
+  - first:
+      213: -5206217457709875291
+    second: Robot_RAMMER_20
+  - first:
+      213: 7944713475703244044
+    second: Robot_RAMMER_21
+  - first:
+      213: -2370742618312083300
+    second: Robot_RAMMER_22
+  - first:
+      213: -9077877933674152794
+    second: Robot_RAMMER_23
+  - first:
+      213: -4528952221810348339
+    second: Robot_RAMMER_24
+  - first:
+      213: -6519779177863030384
+    second: Robot_RAMMER_25
+  - first:
+      213: -65778723676241568
+    second: Robot_RAMMER_26
+  - first:
+      213: -1295508556665683562
+    second: Robot_RAMMER_27
+  - first:
+      213: -4872258511652012085
+    second: Robot_RAMMER_28
+  - first:
+      213: -7684067476992220938
+    second: Robot_RAMMER_29
+  - first:
+      213: 4718454260801794355
+    second: Robot_RAMMER_30
+  - first:
+      213: 8520580808792613273
+    second: Robot_RAMMER_31
+  - first:
+      213: 1340724177236681011
+    second: Robot_RAMMER_32
+  - first:
+      213: -4888553902396424130
+    second: Robot_RAMMER_33
+  - first:
+      213: 6090556875673144692
+    second: Robot_RAMMER_34
+  - first:
+      213: -2296076960002710590
+    second: Robot_RAMMER_35
+  - first:
+      213: -4946606246784687392
+    second: Robot_RAMMER_36
+  - first:
+      213: 8797739480347934088
+    second: Robot_RAMMER_37
+  - first:
+      213: -2498011551732820832
+    second: Robot_RAMMER_38
+  - first:
+      213: -2593530655318166751
+    second: Robot_RAMMER_39
+  - first:
+      213: 733731837800675499
+    second: Robot_RAMMER_40
+  - first:
+      213: 4200035752876757612
+    second: Robot_RAMMER_41
+  - first:
+      213: 5242862419305832809
+    second: Robot_RAMMER_42
+  - first:
+      213: -5055079325106100559
+    second: Robot_RAMMER_43
+  - first:
+      213: -4048254443368907401
+    second: Robot_RAMMER_44
+  - first:
+      213: -7843293750733030300
+    second: Robot_RAMMER_45
+  - first:
+      213: 1154018135330076644
+    second: Robot_RAMMER_46
+  - first:
+      213: -8183678396155655521
+    second: Robot_RAMMER_47
+  - first:
+      213: 1564624783692692464
+    second: Robot_RAMMER_48
+  - first:
+      213: -5399504640701267217
+    second: Robot_RAMMER_49
+  - first:
+      213: -1372648152222690734
+    second: Robot_RAMMER_50
+  - first:
+      213: -7897696754757815725
+    second: Robot_RAMMER_51
+  - first:
+      213: 1517172403344500428
+    second: Robot_RAMMER_52
+  - first:
+      213: -4519612549024706390
+    second: Robot_RAMMER_53
+  - first:
+      213: -6048017225645205300
+    second: Robot_RAMMER_54
+  - first:
+      213: 8638151891084380483
+    second: Robot_RAMMER_55
+  - first:
+      213: -8183166437829622287
+    second: Robot_RAMMER_56
+  - first:
+      213: 6499068565899256161
+    second: Robot_RAMMER_57
+  - first:
+      213: 1103407016854398079
+    second: Robot_RAMMER_58
+  - first:
+      213: -3842884375165214688
+    second: Robot_RAMMER_59
+  - first:
+      213: -1576970637427128438
+    second: Robot_RAMMER_60
+  - first:
+      213: -3272678779450011188
+    second: Robot_RAMMER_61
+  - first:
+      213: 8692563171686283616
+    second: Robot_RAMMER_62
+  - first:
+      213: -7765162779716616585
+    second: Robot_RAMMER_63
+  - first:
+      213: 2164389603218290374
+    second: Robot_RAMMER_64
+  - first:
+      213: 4476679591780822449
+    second: Robot_RAMMER_65
+  - first:
+      213: -5509935374827440171
+    second: Robot_RAMMER_66
+  - first:
+      213: 5162082626828313078
+    second: Robot_RAMMER_67
+  - first:
+      213: -4600644055210729001
+    second: Robot_RAMMER_68
+  - first:
+      213: 1797340611495297620
+    second: Robot_RAMMER_69
+  - first:
+      213: 6582619708934380470
+    second: Robot_RAMMER_70
+  - first:
+      213: -8463366769888486139
+    second: Robot_RAMMER_71
+  - first:
+      213: 8215968193471599111
+    second: Robot_RAMMER_72
+  - first:
+      213: -3043389900971524373
+    second: Robot_RAMMER_73
+  - first:
+      213: 4147638621422274645
+    second: Robot_RAMMER_74
+  - first:
+      213: -8656869284135328090
+    second: Robot_RAMMER_75
+  - first:
+      213: -627177990411608029
+    second: Robot_RAMMER_76
+  - first:
+      213: -2956130107108566325
+    second: Robot_RAMMER_77
+  - first:
+      213: -3517831085023528694
+    second: Robot_RAMMER_78
+  - first:
+      213: -8804412431567685471
+    second: Robot_RAMMER_79
+  - first:
+      213: -1708421956259532374
+    second: Robot_RAMMER_80
+  - first:
+      213: -7284680872548080297
+    second: Robot_RAMMER_81
+  - first:
+      213: -3375625480788154496
+    second: Robot_RAMMER_82
+  - first:
+      213: -7682447948465545780
+    second: Robot_RAMMER_83
+  - first:
+      213: -7501826259016232157
+    second: Robot_RAMMER_84
+  - first:
+      213: -1175912809964839117
+    second: Robot_RAMMER_85
+  - first:
+      213: 7858717701060969968
+    second: Robot_RAMMER_86
+  - first:
+      213: 8663883097097830173
+    second: Robot_RAMMER_87
+  - first:
+      213: -2328461890021095222
+    second: Robot_RAMMER_88
+  - first:
+      213: -4798904162507671092
+    second: Robot_RAMMER_89
+  - first:
+      213: -2092972310815353918
+    second: Robot_RAMMER_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot_RAMMER_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 457
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89603fab6e25f3740800000000000000
+      internalID: 5133913251158099608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 459
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6b0a55b15f57160800000000000000
+      internalID: 7022788691703674561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 461
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f6aa195beeba220800000000000000
+      internalID: 2498352881907429260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 462
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577538226e8ed950800000000000000
+      internalID: 6475769866437883743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 471
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0650edba6bd96dd0800000000000000
+      internalID: -2492219667274246645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 473
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9167303104bb8a90800000000000000
+      internalID: -7310551652908965474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 483
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95224d642c94283a0800000000000000
+      internalID: -6664683399794122151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 483
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289def2adce9bb610800000000000000
+      internalID: 1638077495519402370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 483
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29eeb556e88500b0800000000000000
+      internalID: -5763049625288251094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 483
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cfec84ed61f12b0800000000000000
+      internalID: -5611741466720273280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 483
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f1fb55ec226fa0800000000000000
+      internalID: -5809031205752801931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 484
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb9afba2e636b2d0800000000000000
+      internalID: -3263360532807509022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 449
+        width: 230
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f401bb38df7abb0800000000000000
+      internalID: -4924688925285396679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 406
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f23948ade184d220800000000000000
+      internalID: 2509773750082810608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 390
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49520f7a93bad3b90800000000000000
+      internalID: -7260458760132352620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 420
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a78466dc341d3e50800000000000000
+      internalID: 6790606064672081825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 434
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2685c73f575f40980800000000000000
+      internalID: -8573457903661590430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 447
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50d75febeee40660800000000000000
+      internalID: 7351263188875726938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 421
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac8a7d71be93c1a0800000000000000
+      internalID: -6790409327992992606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 447
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b492d6a2baf105200800000000000000
+      internalID: 166668006224374091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 421
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aff3c15ecccfb7b0800000000000000
+      internalID: -5206217457709875291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 447
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050d8130da414e60800000000000000
+      internalID: 7944713475703244044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 421
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f0ad362e691fd0800000000000000
+      internalID: -2370742618312083300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 447
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acbef0bd16e40280800000000000000
+      internalID: -9077877933674152794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 421
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce274e13fde521c0800000000000000
+      internalID: -4528952221810348339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 447
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0995c7981671585a0800000000000000
+      internalID: -6519779177863030384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 447
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061cf7d699e461ff0800000000000000
+      internalID: -65778723676241568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 394
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918674e4dd650ee0800000000000000
+      internalID: -1295508556665683562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 403
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfbb1fa2b2426cb0800000000000000
+      internalID: -4872258511652012085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 395
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f02fb37755bc5590800000000000000
+      internalID: -7684067476992220938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 395
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331f40896215b7140800000000000000
+      internalID: 4718454260801794355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 344
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99128140a1f2f3670800000000000000
+      internalID: 8520580808792613273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 361
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33168f529853b9210800000000000000
+      internalID: 1340724177236681011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 369
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30cf4e502e582cb0800000000000000
+      internalID: -4888553902396424130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 373
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d8fc29531068450800000000000000
+      internalID: 6090556875673144692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 344
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c364168b22b220e0800000000000000
+      internalID: -2296076960002710590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 367
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2aba8a3df1a5bb0800000000000000
+      internalID: -4946606246784687392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 369
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d7198e179d71a70800000000000000
+      internalID: 8797739480347934088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 343
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4942e8ab7455dd0800000000000000
+      internalID: -2498011551732820832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 369
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123bcaf2c9de10cd0800000000000000
+      internalID: -2593530655318166751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 343
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f080183dbe2a00800000000000000
+      internalID: 733731837800675499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62d826b346894a30800000000000000
+      internalID: 4200035752876757612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 277
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96128fca79362c840800000000000000
+      internalID: 5242862419305832809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 288
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b621a30320c8d9b0800000000000000
+      internalID: -5055079325106100559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 289
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d79964806b1d7c0800000000000000
+      internalID: -4048254443368907401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 305
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c3486a3e5072390800000000000000
+      internalID: -7843293750733030300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 317
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e735bc3165e30010800000000000000
+      internalID: 1154018135330076644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 317
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8a119bdbbd6e80800000000000000
+      internalID: -8183678396155655521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 269
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb76c673f9a6b510800000000000000
+      internalID: 1564624783692692464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_49
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 323
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe28de7132b1115b0800000000000000
+      internalID: -5399504640701267217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_50
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 261
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2529b2537cf53fce0800000000000000
+      internalID: -1372648152222690734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 279
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352b7e435aeb56290800000000000000
+      internalID: -7897696754757815725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 291
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6ef5433441e0510800000000000000
+      internalID: 1517172403344500428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 265
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa01cf4255c1741c0800000000000000
+      internalID: -4519612549024706390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_54
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 291
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc859f58060211ca0800000000000000
+      internalID: -6048017225645205300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_55
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 265
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34904f7c061e0e770800000000000000
+      internalID: 8638151891084380483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_56
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 263
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f544472b7d8f6e80800000000000000
+      internalID: -8183166437829622287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_57
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 259
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16125595d64513a50800000000000000
+      internalID: 6499068565899256161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_58
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 260
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a742f5d6105f00800000000000000
+      internalID: 1103407016854398079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 216
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e06175055baac0800000000000000
+      internalID: -3842884375165214688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_60
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 238
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a874fe67f897d1ae0800000000000000
+      internalID: -1576970637427128438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc15cee4dfb1592d0800000000000000
+      internalID: -3272678779450011188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 255
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f004462032a870800000000000000
+      internalID: 8692563171686283616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 229
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ef7ebe7999c3490800000000000000
+      internalID: -7765162779716616585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 239
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ff5f60e4790e10800000000000000
+      internalID: 2164389603218290374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_65
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 198
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2659ce5c502e30800000000000000
+      internalID: 4476679591780822449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_66
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 203
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d73d0038f6c883b0800000000000000
+      internalID: -5509935374827440171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 214
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f121599cc663a740800000000000000
+      internalID: 5162082626828313078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 204
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e6276b9a3720c0800000000000000
+      internalID: -4600644055210729001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 124
+        width: 106
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4528f8073cf61f810800000000000000
+      internalID: 1797340611495297620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbd482cfb92a5b50800000000000000
+      internalID: 6582619708934380470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 158
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d93fc73c41c8a80800000000000000
+      internalID: -8463366769888486139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_72
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70258c9ba8bf40270800000000000000
+      internalID: 8215968193471599111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 154
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeb4977205b3c5d0800000000000000
+      internalID: -3043389900971524373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 155
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c09ed95f5f8930800000000000000
+      internalID: 4147638621422274645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_75
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 156
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6af1c804f9cd780800000000000000
+      internalID: -8656869284135328090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_76
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 122
+        width: 245
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320a29ec0f0db47f0800000000000000
+      internalID: -627177990411608029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_77
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 106
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcad4ff6457b9f6d0800000000000000
+      internalID: -2956130107108566325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 116
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09785534472e2fc0800000000000000
+      internalID: -3517831085023528694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 108
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8ff509a8170d580800000000000000
+      internalID: -8804412431567685471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 109
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa13caa48477a48e0800000000000000
+      internalID: -1708421956259532374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_81
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 109
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75560b1a75d97ea90800000000000000
+      internalID: -7284680872548080297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 51
+        width: 230
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0876dd2928e5721d0800000000000000
+      internalID: -3375625480788154496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 62
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd58425b46726590800000000000000
+      internalID: -7682447948465545780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_84
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323d3a883c824e790800000000000000
+      internalID: -7501826259016232157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_85
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 60
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd63397815eafe0800000000000000
+      internalID: -1175912809964839117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 61
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f540d1ac16cf0d60800000000000000
+      internalID: 7858717701060969968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_87
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 14
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ff60a06cb4c3870800000000000000
+      internalID: 8663883097097830173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_88
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 47
+        width: 273
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8024c6f34afafd0800000000000000
+      internalID: -2328461890021095222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 13
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc93692071ed66db0800000000000000
+      internalID: -4798904162507671092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot_RAMMER_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 14
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c35f19b5c444f2e0800000000000000
+      internalID: -2092972310815353918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Robot_RAMMER_0: 5133913251158099608
+      Robot_RAMMER_1: 7022788691703674561
+      Robot_RAMMER_10: -5809031205752801931
+      Robot_RAMMER_11: -3263360532807509022
+      Robot_RAMMER_12: -4924688925285396679
+      Robot_RAMMER_13: 2509773750082810608
+      Robot_RAMMER_14: -7260458760132352620
+      Robot_RAMMER_15: 6790606064672081825
+      Robot_RAMMER_16: -8573457903661590430
+      Robot_RAMMER_17: 7351263188875726938
+      Robot_RAMMER_18: -6790409327992992606
+      Robot_RAMMER_19: 166668006224374091
+      Robot_RAMMER_2: 2498352881907429260
+      Robot_RAMMER_20: -5206217457709875291
+      Robot_RAMMER_21: 7944713475703244044
+      Robot_RAMMER_22: -2370742618312083300
+      Robot_RAMMER_23: -9077877933674152794
+      Robot_RAMMER_24: -4528952221810348339
+      Robot_RAMMER_25: -6519779177863030384
+      Robot_RAMMER_26: -65778723676241568
+      Robot_RAMMER_27: -1295508556665683562
+      Robot_RAMMER_28: -4872258511652012085
+      Robot_RAMMER_29: -7684067476992220938
+      Robot_RAMMER_3: 6475769866437883743
+      Robot_RAMMER_30: 4718454260801794355
+      Robot_RAMMER_31: 8520580808792613273
+      Robot_RAMMER_32: 1340724177236681011
+      Robot_RAMMER_33: -4888553902396424130
+      Robot_RAMMER_34: 6090556875673144692
+      Robot_RAMMER_35: -2296076960002710590
+      Robot_RAMMER_36: -4946606246784687392
+      Robot_RAMMER_37: 8797739480347934088
+      Robot_RAMMER_38: -2498011551732820832
+      Robot_RAMMER_39: -2593530655318166751
+      Robot_RAMMER_4: -2492219667274246645
+      Robot_RAMMER_40: 733731837800675499
+      Robot_RAMMER_41: 4200035752876757612
+      Robot_RAMMER_42: 5242862419305832809
+      Robot_RAMMER_43: -5055079325106100559
+      Robot_RAMMER_44: -4048254443368907401
+      Robot_RAMMER_45: -7843293750733030300
+      Robot_RAMMER_46: 1154018135330076644
+      Robot_RAMMER_47: -8183678396155655521
+      Robot_RAMMER_48: 1564624783692692464
+      Robot_RAMMER_49: -5399504640701267217
+      Robot_RAMMER_5: -7310551652908965474
+      Robot_RAMMER_50: -1372648152222690734
+      Robot_RAMMER_51: -7897696754757815725
+      Robot_RAMMER_52: 1517172403344500428
+      Robot_RAMMER_53: -4519612549024706390
+      Robot_RAMMER_54: -6048017225645205300
+      Robot_RAMMER_55: 8638151891084380483
+      Robot_RAMMER_56: -8183166437829622287
+      Robot_RAMMER_57: 6499068565899256161
+      Robot_RAMMER_58: 1103407016854398079
+      Robot_RAMMER_59: -3842884375165214688
+      Robot_RAMMER_6: -6664683399794122151
+      Robot_RAMMER_60: -1576970637427128438
+      Robot_RAMMER_61: -3272678779450011188
+      Robot_RAMMER_62: 8692563171686283616
+      Robot_RAMMER_63: -7765162779716616585
+      Robot_RAMMER_64: 2164389603218290374
+      Robot_RAMMER_65: 4476679591780822449
+      Robot_RAMMER_66: -5509935374827440171
+      Robot_RAMMER_67: 5162082626828313078
+      Robot_RAMMER_68: -4600644055210729001
+      Robot_RAMMER_69: 1797340611495297620
+      Robot_RAMMER_7: 1638077495519402370
+      Robot_RAMMER_70: 6582619708934380470
+      Robot_RAMMER_71: -8463366769888486139
+      Robot_RAMMER_72: 8215968193471599111
+      Robot_RAMMER_73: -3043389900971524373
+      Robot_RAMMER_74: 4147638621422274645
+      Robot_RAMMER_75: -8656869284135328090
+      Robot_RAMMER_76: -627177990411608029
+      Robot_RAMMER_77: -2956130107108566325
+      Robot_RAMMER_78: -3517831085023528694
+      Robot_RAMMER_79: -8804412431567685471
+      Robot_RAMMER_8: -5763049625288251094
+      Robot_RAMMER_80: -1708421956259532374
+      Robot_RAMMER_81: -7284680872548080297
+      Robot_RAMMER_82: -3375625480788154496
+      Robot_RAMMER_83: -7682447948465545780
+      Robot_RAMMER_84: -7501826259016232157
+      Robot_RAMMER_85: -1175912809964839117
+      Robot_RAMMER_86: 7858717701060969968
+      Robot_RAMMER_87: 8663883097097830173
+      Robot_RAMMER_88: -2328461890021095222
+      Robot_RAMMER_89: -4798904162507671092
+      Robot_RAMMER_9: -5611741466720273280
+      Robot_RAMMER_90: -2092972310815353918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
