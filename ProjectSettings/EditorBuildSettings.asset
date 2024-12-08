@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/00 Game/_Scenes/Authentication.unity
-    guid: 6067a47d8fe41284fab33e5c5d07e2a7
-  - enabled: 1
     path: Assets/00 Game/_Scenes/MainMenu.unity
-    guid: f8cc44feb7d836749b4d97e0474247ee
+    guid: a0a0412d67a29ed4e944f34c6dc94229
   - enabled: 1
     path: Assets/00 Game/_Scenes/Shop.unity
     guid: 43339a5b31a0ece458cb8080af136b3c
@@ -30,5 +27,6 @@ EditorBuildSettings:
     path: Assets/00 Game/_Scenes/Map5.unity
     guid: 4670cb1e6957a8f489bf85471e675cc6
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.input.settings: {fileID: 11400000, guid: f7ad2c87049cf2843852e78f6a72af57, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 4fcb0ca0690ab6e448023b3a83decc4f, type: 3}
   m_UseUCBPForAssetBundles: 0

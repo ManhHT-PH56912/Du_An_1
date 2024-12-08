@@ -6,9 +6,9 @@ using UnityEditor;
 
 public class MainMenu : MonoBehaviour
 {
-    public static void LoginScreen()
+    public static void GotoMainMenu()
     {
-        SceneManager.LoadSceneAsync(Consts.Scene.AUTHENTICATION);
+        SceneManager.LoadSceneAsync(Consts.Scene.MAIN_MENU);
     }
 
     public static void PlayGame()
@@ -19,11 +19,6 @@ public class MainMenu : MonoBehaviour
     public static void OpenShop()
     {
         SceneManager.LoadSceneAsync(Consts.Scene.SHOP_SCREEN);
-    }
-
-    public static void BaclMainMenu()
-    {
-        SceneManager.LoadSceneAsync(Consts.Scene.MAIN_MENU);
     }
 
     public void ExitGame()
@@ -40,3 +35,4 @@ public class MainMenu : MonoBehaviour
 #endif
     }
 }
+

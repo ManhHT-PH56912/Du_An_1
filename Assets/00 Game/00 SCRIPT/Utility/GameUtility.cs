@@ -1,4 +1,3 @@
-using System.IO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -17,17 +16,9 @@ public static class GameUtility
     }
 
     // Phương thức tiện ích để bật/tắt GameObject
-    public static void SetActive(GameObject obj, bool isActive)
+    public static void SetStateGameObject(GameObject obj, bool isActive)
     {
         obj.SetActive(isActive);
-    }
-
-    // Phương thức chụp ảnh màn hình hiện tại và lưu vào file
-    public static void CaptureCurrentScreen(string fileName)
-    {
-        string path = Path.Combine(Application.persistentDataPath, fileName);
-        ScreenCapture.CaptureScreenshot(path);
-        Debug.Log($"Screenshot saved to: {path}");
     }
 
     // Phương thức tải màn hình dựa trên index và tăng index

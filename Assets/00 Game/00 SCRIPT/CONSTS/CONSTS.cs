@@ -31,5 +31,7 @@ namespace Consts
     public static class Layers
     {
         public static LayerMask ground = LayerMask.GetMask("Ground");
+        public static LayerMask wall = LayerMask.GetMask("Wall");
+
     }
 }
