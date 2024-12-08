@@ -1,12 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
+using System;
 using System.IO;
 using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-[System.Serializable]
+[Serializable]
 public class Account
 {
     public string Username;
@@ -27,18 +28,18 @@ public class Account
     public bool ValidatePassword(string password)
     {
         string hashedPassword = EncryptionUtility.GetMD5Hash(password);
-        return Password.Equals(hashedPassword, System.StringComparison.OrdinalIgnoreCase);
+        return Password.Equals(hashedPassword, StringComparison.OrdinalIgnoreCase);
     }
 }
 
-[System.Serializable]
+[Serializable]
 public class LoginState
 {
     public string Username = "";
     public bool IsLoggedIn = false;
 }
 
-[System.Serializable]
+[Serializable]
 public class AccountData
 {
     public List<Account> Accounts = new();
@@ -90,15 +91,29 @@ public class AuthSystem : MonoBehaviour
         }
 
         // Correct Path Handling: Use Application.persistentDataPath consistently.
-        accountsPath = Path.Combine(Application.dataPath, "01_DataGame", "accounts.json"); 
+        accountsPath = Path.Combine(Application.dataPath, "01_DataGame", "accounts.json");
         loginStatePath = Path.Combine(Application.dataPath, "01_DataGame", "login_state.json");
+
         accountData = new AccountData();
         LoadAccounts();
         LoadLoginState();
+    }
 
-        // Tự động đăng nhập nếu trạng thái đúng
-        if (loginState.IsLoggedIn && !string.IsNullOrEmpty(loginState.Username))
+    void Start()
+    {
+        Debug.Log(accountsPath);
+        Debug.Log(loginStatePath);
+
+        loadingBar.SetActive(false);
+        AutoLogin();
+    }
+
+    private void AutoLogin()
+    {
+        if (loginState.IsLoggedIn &&
+            !string.IsNullOrEmpty(loginState.Username))
         {
+            LoadingData();
             currentAccount = accountData.Accounts.FirstOrDefault(a => a.Username == loginState.Username);
             if (currentAccount != null)
             {
@@ -110,12 +125,6 @@ public class AuthSystem : MonoBehaviour
         {
             ShowLogin();
         }
-    }
-
-    void Start()
-    {
-        Debug.Log(accountsPath);
-        Debug.Log(loginStatePath);
     }
 
     private void LoadAccounts()
@@ -178,7 +187,6 @@ public class AuthSystem : MonoBehaviour
                 Debug.LogError($"Error loading login state: {ex.Message}");
                 loginState = new LoginState(); // Initialize if loading fails
             }
-
         }
         else
         {
@@ -237,8 +245,8 @@ public class AuthSystem : MonoBehaviour
             SaveLoginState();
 
 
+            LoadingData();
             ShowMainMenu();
-
             Debug.Log($"Logged in as: {currentAccount.Username}");
         }
         else
@@ -255,7 +263,9 @@ public class AuthSystem : MonoBehaviour
         string password = passwordsRegister.text.Trim();
 
 
-        if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(email) || string.IsNullOrEmpty(password))
+        if (string.IsNullOrEmpty(username) ||
+            string.IsNullOrEmpty(email) ||
+            string.IsNullOrEmpty(password))
         {
             messengerText.text = "<color=red>All fields are required!</color>";
             return;
@@ -281,17 +291,15 @@ public class AuthSystem : MonoBehaviour
     }
 
 
-
     private void ShowLogin()
     {
         LoginScreen.SetActive(true);
         mainMenu.SetActive(false);
         loginPage.SetActive(true);
         registerPage.SetActive(false);
-
         topText.text = "Login";
     }
-
+    
     private void ShowMainMenu()
     {
         LoginScreen.SetActive(false);
@@ -308,6 +316,8 @@ public class AuthSystem : MonoBehaviour
 
         currentAccount = null; // Reset current account
 
+        ShowMainMenu();
+        LoadingData();
         ShowLogin();
 
         Debug.Log("Logged out.");
@@ -316,5 +326,23 @@ public class AuthSystem : MonoBehaviour
     public Account GetCurrentAccount()
     {
         return currentAccount;
+    }
+
+    private void LoadingData()
+    {
+        StartCoroutine(LoadingDataRoutine());
+    }
+
+    private IEnumerator LoadingDataRoutine()
+    {
+        loadingBar.SetActive(true);
+        float progress = 0f;
+        while (progress <= 5f)
+        {
+            progress += Time.deltaTime * 1f;
+            loadingSlider.value = progress; yield return null;
+        }
+        yield return new WaitForSeconds(0.5f);
+        loadingBar.SetActive(false); 
     }
 }

@@ -8,17 +8,12 @@ public class MainMenu : MonoBehaviour
 {
     public static void GotoMainMenu()
     {
-        SceneManager.LoadSceneAsync(Consts.Scene.MAIN_MENU);
+        SceneManager.LoadScene(Consts.Scenes.MAIN_MENU);
     }
 
     public static void PlayGame()
     {
-        SceneManager.LoadSceneAsync(Consts.Scene.MAP1);
-    }
-
-    public static void OpenShop()
-    {
-        SceneManager.LoadSceneAsync(Consts.Scene.SHOP_SCREEN);
+        SceneManager.LoadScene(Consts.Scenes.MAP1);
     }
 
     public void ExitGame()

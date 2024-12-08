@@ -63,7 +63,7 @@ namespace Player
             // Kiểm tra va chạm với đối tượng có Tag "Coins"
             if (collider.CompareTag("Coins"))
             {
-                GameManager.Instance.OnPlayerScored(scoreValue);
+                // GameManager.Instance.OnPlayerScored(scoreValue);
             }
         }
 
