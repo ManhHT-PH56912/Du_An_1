@@ -21,6 +21,8 @@ namespace Consts
         public static string TRAP_TAG = "Trap";
         public static string MEXT_lEVEL_TAG = "NextLevel";
         public static string CHECKPOINT_TAG = "CheckPoint";
+        public static string WATER_TAG = "Water";
+
     }
 
     public static class Layers

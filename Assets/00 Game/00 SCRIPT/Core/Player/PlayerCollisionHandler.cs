@@ -1,23 +1,27 @@
-using Unity.Mathematics;
 using UnityEngine;
+using Consts;
 
 namespace Player
 {
     public partial class PlayerCollisionHandler : MonoBehaviour
     {
-        private PlayerHealth health;
-        public int damage = 10;        // Số máu bị trừ khi chạm nước
-        public float bounceForce = 5f; // Lực bật lên khi chạm nước
-
         private Rigidbody2D rb;
 
-        [SerializeField] private int scoreValue = 2; // Giá trị điểm cộng thêm khi va chạm
+        private PlayerHealth health;
+        private EnemyHealth enemyHealth;
+        [SerializeField] int damagePlayer = 50;
+
+        [SerializeField] int damage = 2;        // Số máu bị trừ khi chạm nước
+
+        [SerializeField] float bounceForce = 5f; // Lực bật lên khi chạm nước
+
 
 
         void Awake()
         {
             rb = GetComponent<Rigidbody2D>();
             health = GetComponent<PlayerHealth>();
+            enemyHealth = GetComponent<EnemyHealth>();
         }
 
         [System.Obsolete]
@@ -25,9 +29,10 @@ namespace Player
         {
             HandleCollision(collision.gameObject);
 
-            if (collision.gameObject.CompareTag("Enemy"))
+            if (collision.gameObject.CompareTag(Tags.ENEMY_TAGS))
             {
-                health.TakeDamage(damage);
+                // health.TakeDamage(damage);
+                enemyHealth.TakeDamageEnemy(damagePlayer);
             }
         }
 
@@ -35,11 +40,10 @@ namespace Player
         private void HandleCollision(GameObject collisionObject)
         {
             // Kiểm tra đối tượng va chạm có tag là "Water"
-            if (collisionObject.CompareTag("Water"))
+            if (collisionObject.CompareTag(Tags.WATER_TAG))
             {
                 // Trừ máu của Player
                 health.TakeDamage(damage);
-                Debug.Log($"Take Damage Player : {health.GetHealthPlayer()}");
 
                 // Dẩy Player lên cao
                 if (rb != null)
@@ -50,22 +54,9 @@ namespace Player
                 // Kiểm tra nếu máu <= 0
                 if (health.GetHealthPlayer() <= 0)
                 {
-                    // Die Player
+                    // Player die
                 }
             }
         }
-
-        [System.Obsolete]
-        private void OnTriggerEnter2D(Collider2D collider)
-        {
-            HandleCollision(collider.gameObject);
-
-            // Kiểm tra va chạm với đối tượng có Tag "Coins"
-            if (collider.CompareTag("Coins"))
-            {
-                // GameManager.Instance.OnPlayerScored(scoreValue);
-            }
-        }
-
     }
 }

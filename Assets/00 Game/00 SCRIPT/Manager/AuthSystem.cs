@@ -13,16 +13,12 @@ public class Account
     public string Username;
     public string Password;
     public string Email;
-    public int CurrentScore;
-    public int HighScore;
 
     public Account(string username, string email, string password)
     {
         Username = username;
         Email = email;
         Password = EncryptionUtility.GetMD5Hash(password);
-        CurrentScore = 0;
-        HighScore = 0;
     }
 
     public bool ValidatePassword(string password)

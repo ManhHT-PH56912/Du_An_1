@@ -17,7 +17,7 @@ namespace Player
         [Header("----- Jumping")]
         [SerializeField] private float jumpPower;
 
-        [Header("----- GroundCheck")]
+        [Header("----- Ground Check")]
         [SerializeField] private Transform groundCheckPos;
         [SerializeField] private Vector2 groundCheckSize = new(0.2f, 0.2f);
         [SerializeField] private LayerMask groundLayer;
@@ -27,6 +27,13 @@ namespace Player
         [SerializeField] private float maxFallSpeed = 10;
         [SerializeField] private float fallSpeedMultiplier = 2;
 
+        private static readonly int IdleHash = Animator.StringToHash("Idle");
+        private static readonly int RunHash = Animator.StringToHash("Run");
+        private static readonly int JumpHash = Animator.StringToHash("Jump");
+        private static readonly int AttackHash = Animator.StringToHash("Attack");
+        private static readonly int KickUpHash = Animator.StringToHash("KickUp");
+        private static readonly int KickDownHash = Animator.StringToHash("KickDown");
+
         private void Awake()
         {
             rb = GetComponent<Rigidbody2D>();
@@ -34,39 +41,43 @@ namespace Player
             groundLayer = Layers.ground;
         }
 
+        [System.Obsolete]
         private void FixedUpdate()
         {
-            rb.linearVelocity = new Vector2(horizontalMovement * moveSpeed * Time.fixedDeltaTime, rb.linearVelocity.y);
+            MovePlayer();
             HandleGravity();
-            Flip();
+            FlipCharacter();
 
-            animator.SetFloat("yVelocity", rb.linearVelocity.y);
-            animator.SetFloat("magnitude", rb.linearVelocity.magnitude);
+            UpdateAnimations();
+        }
+
+        private void MovePlayer()
+        {
+            rb.linearVelocity = new Vector2(horizontalMovement * moveSpeed, rb.linearVelocity.y);
         }
 
         private void HandleGravity()
         {
-            if (rb.linearVelocity.y < 0)
+            if (rb.linearVelocity.y > 0.01f) // Nhảy lên
+            {
+                rb.gravityScale = baseGravity;
+                animator.SetTrigger(KickUpHash); // KickUp khi nhảy lên
+            }
+            else if (rb.linearVelocity.y < -0.01f) // Rơi xuống
             {
                 rb.gravityScale = baseGravity * fallSpeedMultiplier;
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -maxFallSpeed));
+                animator.SetTrigger(KickDownHash); // KickDown khi rơi xuống
             }
-            else
+            else // Đứng trên mặt đất
             {
                 rb.gravityScale = baseGravity;
             }
         }
 
-        public void Move(InputAction.CallbackContext context)
+        private void FlipCharacter()
         {
-            horizontalMovement = context.ReadValue<Vector2>().x;
-            animator.SetFloat("magnitude", rb.linearVelocity.magnitude);
-
-        }
-
-        private void Flip()
-        {
-            if (isFacingRight && horizontalMovement < 0 || !isFacingRight && horizontalMovement > 0)
+            if ((isFacingRight && horizontalMovement < 0) || (!isFacingRight && horizontalMovement > 0))
             {
                 isFacingRight = !isFacingRight;
                 Vector3 scale = transform.localScale;
@@ -75,21 +86,56 @@ namespace Player
             }
         }
 
-        public void Jump(InputAction.CallbackContext context)
+        private void UpdateAnimations()
         {
-            if (IsGrounded())
+            bool isMoving = Mathf.Abs(horizontalMovement) > 0.01f;
+            animator.SetBool(RunHash, isMoving);
+
+            if (rb.linearVelocity.y > 0.01f) // KickUp khi nhảy lên
             {
-                if (context.performed)
-                {
-                    rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
-                    animator.SetTrigger("Jump");
-                }
-                else if (context.canceled)
-                {
-                    rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
-                }
+                animator.SetTrigger(KickUpHash);
+            }
+            else if (rb.linearVelocity.y < -0.01f) // KickDown khi rơi xuống
+            {
+                animator.SetTrigger(KickDownHash);
+            }
+
+            animator.SetFloat("yVelocity", rb.linearVelocity.y);
+        }
+
+        public void Move(InputAction.CallbackContext context)
+        {
+            horizontalMovement = context.ReadValue<Vector2>().x;
+
+            if (context.canceled)
+            {
+                horizontalMovement = 0f;
             }
         }
+
+        public void Jump(InputAction.CallbackContext context)
+        {
+            if (context.performed && IsGrounded())
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+                animator.SetTrigger(JumpHash);
+            }
+
+            if (context.canceled && rb.linearVelocity.y > 0)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            }
+        }
+
+
+        public void Attack(InputAction.CallbackContext context)
+        {
+            if (context.performed)
+            {
+                animator.SetTrigger(AttackHash);
+            }
+        }
+
 
         private bool IsGrounded()
         {
